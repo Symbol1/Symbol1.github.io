@@ -1,16 +1,10 @@
 # Hsin-Po Wang
 
-王新博  
+hpwang2 at illinois dot edu
+
 Ph.D. Student  
 Department of Mathematics  
 University of Illinois at Urbana-Champaign  
-
-## Email
-```TeX
-{\def~#1#2{\catcode`#27 #1~}~^^((((0
-7777!!!!&&&.''''rrrr44440000)))),,,,,,
-(()()).////)(()3333_..__%$$$$5555.\let~~}
-```
 
 ## Grading
 
