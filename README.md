@@ -6,10 +6,7 @@ Ph.D. Student
 Department of Mathematics  
 University of Illinois at Urbana-Champaign  
 
-## Grading
+## Teaching
 
-For grading stuff, go to the [corresponding repository](https://github.com/Symbol1/Grading).
+For teaching stuff, go to the [corresponding repository](https://github.com/Symbol1/Teaching).
 
-## Office hour
-
-Please contact me by email.
