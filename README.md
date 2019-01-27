@@ -8,4 +8,4 @@ University of Illinois at Urbana-Champaign
 
 ## Research
 
-https://arxiv.org/search/?query=Hsin-Po+Wang&searchtype=author
+[Search my name on arXiv](https://arxiv.org/search/?query=Hsin-Po+Wang&searchtype=author)
