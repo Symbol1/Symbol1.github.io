@@ -5,7 +5,7 @@ Chinese: 王新博
 
 ## Contact
 
-Email: hpwang2 at illinois dot edu
+Email = hpwang2 at illinois dot edu
 
 ## Research
 
