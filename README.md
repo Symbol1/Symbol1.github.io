@@ -14,6 +14,7 @@ Email: hpwang2 at illinois dot edu
 ## Curriculum vitae
 
 Ph.D. Student  
+Advisor = [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/)  
 Department of Mathematics  
 University of Illinois at Urbana-Champaign  
 2016-present  
