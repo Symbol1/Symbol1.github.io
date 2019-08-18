@@ -5,7 +5,7 @@
 Chinese = 王新博  
 [IPA](https://en.wikipedia.org/wiki/Help:IPA/Mandarin)
 = wáŋ ɕīn pʷóː  
-[Pronunciation by Google Translate](https://translate.google.com/#view=home&op=translate&sl=zh-CN&tl=zh-TW&text=王新博)
+[Google Translate pronounces](https://translate.google.com/#view=home&op=translate&sl=zh-CN&tl=zh-TW&text=王新博)
 
 ## Contact
 
