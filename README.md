@@ -9,7 +9,11 @@ Chinese = 王新博
 
 ## Contact
 
-Email = hpwang2 at illinois dot edu
+Email = hpwang2 at illinois dot edu  
+Social media =
+[Facebook](https://www.facebook.com/Xymbol.1) &
+[TeX.SX](https://tex.stackexchange.com/users/51022/symbol-1)
+
 
 ## Research
 
