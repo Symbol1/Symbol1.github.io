@@ -25,9 +25,11 @@ Ph.D. Student
 Advisor = [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/)  
 Department of Mathematics  
 University of Illinois at Urbana--Champaign  
-2016--present  
-  
+2016--present
+ 
 Bachelor of Science in Mathematics  
 National Taiwan University (國立臺灣大學)  
 2011--2015
 
+[Teacher ranked as excellent by their students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent)  
+Spring 2019 & Spring 2018
