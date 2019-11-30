@@ -17,7 +17,9 @@ Social media =
 
 ## Research
 
-[My arXiv page](https://arxiv.org/a/wang_h_8.html)
+[My arXiv page](https://arxiv.org/a/wang_h_8.html)  
+I am interested in information theory,  
+polar codes specificially.
 
 ## Curriculum vitae
 
