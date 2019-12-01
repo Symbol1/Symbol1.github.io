@@ -17,7 +17,9 @@ Social media =
 
 ## Research
 
-[My arXiv page](https://arxiv.org/a/wang_h_8.html)  
+[arXiv page](https://arxiv.org/a/wang_h_8.html)  
+[dblp page](https://dblp.org/pers/hd/w/Wang_0001:Hsin=Po)  
+[orcid page](https://orcid.org/0000-0003-2574-1510)  
 I am interested in information theory,  
 polar codes specificially.
 
@@ -34,4 +36,5 @@ National Taiwan University (國立臺灣大學)
 2011--2015
 
 [Teacher ranked as excellent by their students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent)  
-Spring 2019 & Spring 2018
+Spring 2019 & Spring 2018  
+(criteria in the link)
