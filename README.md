@@ -12,7 +12,8 @@ Chinese = 王新博
 Email = hpwang2 at illinois dot edu  
 Social media =
 [Facebook](https://www.facebook.com/Xymbol.1) &
-[TeX.SX](https://tex.stackexchange.com/users/51022/symbol-1)
+[TeX.SX](https://tex.stackexchange.com/users/51022/symbol-1) &
+[GitHub](https://github.com/Symbol1)
 
 
 ## Research
@@ -20,8 +21,9 @@ Social media =
 [arXiv page](https://arxiv.org/a/wang_h_8.html)  
 [dblp page](https://dblp.org/pers/hd/w/Wang_0001:Hsin=Po)  
 [orcid page](https://orcid.org/0000-0003-2574-1510)  
-I am interested in information theory,  
-polar codes specificially.
+I am interested in information theory, specificially   
+polar coding over communication channels and  
+multilinear algebra for distributed storage systems.
 
 ## Curriculum vitae
 
