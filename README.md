@@ -15,7 +15,6 @@ Social media =
 [TeX.SX](https://tex.stackexchange.com/users/51022/symbol-1) &
 [GitHub](https://github.com/Symbol1)
 
-
 ## Research
 
 [arXiv page](https://arxiv.org/a/wang_h_8.html)  
@@ -42,3 +41,4 @@ National Taiwan University (國立臺灣大學)
 [Teacher ranked as excellent by their students](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent)  
 Spring 2019 & Spring 2018  
 (criteria in the link)
+

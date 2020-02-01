@@ -1,7 +1,4 @@
----
-title: Paper details
-layout: mathsupport
----
+
 
 # Paper details
 
@@ -24,3 +21,4 @@ and R is about $\text{capacity} - N^{-r}$ for some positive numbers $p,r$.
 While [ModerDevia18] deals with the classical polar codes
 constructed in Arıkan's original paper,
 [LargeDevia18] extends the theory to a wide class of polar codes.
+
