@@ -1,3 +1,8 @@
+---
+title: Paper details
+layout: mathsupport
+---
+
 # Paper details
 
 From the newest to the oldest.
