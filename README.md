@@ -22,7 +22,7 @@ Social media =
 [arXiv page](https://arxiv.org/a/wang_h_8.html)  
 [dblp page](https://dblp.org/pers/hd/w/Wang_0001:Hsin=Po)  
 [orcid page](https://orcid.org/0000-0003-2574-1510)  
-See also [paper details](/paper) for meta-explanation.  
+See also [paper comments](/paper) for meta-explanation.  
 I am interested in information theory, specifically   
 polar coding over communication channels and  
 multi-linear algebra for distributed storage systems.
