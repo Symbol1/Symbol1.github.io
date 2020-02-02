@@ -47,12 +47,12 @@ The latter result is similar:
 by tolerating error probabilities that converges to $0$ slower,
 we can reduce the complexity to $\log(\log N)$ per information bit.
 In both [LoglogTime18] and [LoglogTime19], codes are construct with
-the standard kernel $[^1_1{}^1_0]$.
+the standard kernel $[^1_1{}^0_1]$.
 
 We later found (not included in either paper) that
 the conclusion generalizes to arbitrary discrete memoryless channels.
 
-[Hypotenuse19] showed that it is possible to construct codes
+[Hypotenuse19] shows that it is possible to construct codes
 whose error probabilities and code rates scale like random codes'
 and encoding and decoding complexities scale like polar codes'.
 
