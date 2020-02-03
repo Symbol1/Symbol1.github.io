@@ -94,7 +94,7 @@ But the easiest way is to insert the `<script>` label into the template.
 [These lines][mathjax script] are the `<script>`.
 
 For more configurations, see this
-[MathJax doc](https://docs.mathjax.org/en/v2.7-latest/start.html)
+[MathJax doc](http://docs.mathjax.org/en/latest/web/start.html)
 
 
 ## Host everything
@@ -110,6 +110,6 @@ They not only are more complicated but also costs some positive money.
 
 
 [add CSS]: https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-css
-[mathjax script]: https://github.com/Symbol1/Symbol1.github.io/blob/master/_layouts/default.html#L13-L20
+[mathjax script]: https://github.com/Symbol1/Symbol1.github.io/blob/master/_layouts/default.html#L13-L22
 [email]: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
 
