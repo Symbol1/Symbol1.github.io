@@ -94,7 +94,7 @@ But the easiest way is to insert the `<script>` label into the template.
 [These lines][mathjax script] are the `<script>`.
 
 For more configurations, see this
-[MathJax doc](http://docs.mathjax.org/en/latest/web/start.html)
+[MathJax doc](http://docs.mathjax.org/en/latest/web/start.html).
 
 
 ## Host everything
@@ -106,7 +106,7 @@ For instance, [email obfuscation][email].
 However, that requires you to have something that can execute `md2html`.
 You either have to build your own server or using one of the IaaS.
 They not only are more complicated but also costs some positive money.
-(Yes, everything I mentioned above are free, as of 2020/02/02.)
+(Yes, everything I mentioned above is free, as of 2020/02/02.)
 
 
 [add CSS]: https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-css
