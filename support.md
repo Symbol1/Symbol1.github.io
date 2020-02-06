@@ -17,7 +17,7 @@ in a repository called `yourID.github.io` into static html files.
 Every time you edit a Markdown file called `yourfile.md`
 (and push it so GitHub is aware of it),
 GitHub uses its server to process the file and
-stores the resulting HTML file at `https://ourID.github.io/yourfile`.
+stores the resulting HTML file at `https://yourID.github.io/yourfile`.
 For instance, this webpage comes from a file named `support.md`
 so it is put at `https://symbol1.github.io/support`.
 To begin using GitHub Pages,
