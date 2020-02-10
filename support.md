@@ -21,7 +21,7 @@ stores the resulting HTML file at `https://yourID.github.io/yourfile`.
 For instance, this webpage comes from a file named `support.md`
 so it is put at `https://symbol1.github.io/support`.
 To begin using GitHub Pages,
-visit the [official doc](https://pages.github.com/).
+visit the [official landing page](https://pages.github.com/).
 
 Roughly speaking, the process that turns md files into html files is a map
 
