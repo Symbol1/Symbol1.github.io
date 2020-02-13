@@ -14,10 +14,10 @@ I hope it helps people like me.
 
 This site is built by GitHub Pages which turns Markdown files
 in a repository called `yourID.github.io` into static html files.
-Every time you edit a Markdown file called `yourfile.md`
+Every time you edit a Markdown file called `yourFile.md`
 (and push it so GitHub is aware of it),
 GitHub uses its server to process the file and
-stores the resulting HTML file at `https://yourID.github.io/yourfile`.
+stores the resulting HTML file at `https://yourID.github.io/yourFile`.
 For instance, this webpage comes from a file named `support.md`
 so it is put at `https://symbol1.github.io/support`.
 To begin using GitHub Pages,
@@ -29,13 +29,14 @@ Roughly speaking, the process that turns md files into html files is a map
 
 Here, `phi.md` contains the actual content (be it a theorem or your CV).
 The `theme` is a collection of files that determines
-how your contents looks (font, size, color, etc);
+how your contents look (font, size, color, etc);
 they are stored in some certain repositories.
 The `md2html` is a collection of scripts
 that are stored and executed on GitHub servers.
 
 Upon creating a website via GitHub Pages,
-you will be asked to choose a `theme` from a predefined list, choose one then.
+you will be asked to choose a `theme` from a predefined list;
+choose one then.
 I choose `minimal` (not `minima`).
 After that, beginners are encouraged to create and edit md files
 without touching the `theme` and the `md2html` part.
@@ -67,14 +68,14 @@ In a `theme`'s repository, for instance in
 you can see the file named `default.html`.
 This is the root template that will be filled in various information later.
 By altering this file you have the root control over how your website looks.
-But you cannot, this file belongs to the office.
+But you cannot alter this file; this file belongs to the GitHub office.
 
 Fortunately, you can copy and paste this file into your repository.
 When the map `md2html` is executed, it will look for `theme` files
 in *your* repository before going to the official one.
 So the chance is that, you copy this file to
 `yourID.github.io/_layouts/default.html`,
-make what ever change to it, push, and wait for a few minutes.
+make whatever change to it, push, and wait for a few minutes.
 You will see the change in your website.
 
 See what I did
@@ -105,7 +106,7 @@ Doing so, you gain controls over everything and do whatever you want.
 For instance, [email obfuscation][email].
 However, that requires you to have something that can execute `md2html`.
 You either have to build your own server or using one of the IaaS.
-They not only are more complicated but also costs some positive money.
+They not only are more complicated but also cost some positive money.
 (Yes, everything I mentioned above is free, as of 2020/02/02.)
 
 
