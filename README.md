@@ -23,9 +23,9 @@ Social media =
 [dblp page](https://dblp.org/pers/hd/w/Wang_0001:Hsin=Po)  
 [orcid page](https://orcid.org/0000-0003-2574-1510)  
 See also [paper comments](/paper) for meta-explanation.  
-I am interested in information theory, specifically 
-polar coding over communication channels and
-multi-linear algebra for distributed storage systems.
+I am interested in information theory, specifically
+polar coding for noisy channels and sources, and
+multilinear algebra for distributed storage systems.
 
 
 ## Curriculum vitae
