@@ -67,18 +67,14 @@ the family of channels Shannon considered in 1948.
 This result extends a series of works done by (alphabetically) Arıkan,
 Błasiok, Fazeli, Guruswami, Hassani, Honda, Korada, Mori, Şaşoğlu, Sutter, etc.
 
-See [Table 2 at page 40](https://arxiv.org/pdf/1912.08995v1.pdf#page=40)
-in Hypotenuse19 or the following replication.
+For a quick comparison, see
+[Figure 1 on page 3](https://arxiv.org/pdf/1912.08995v1.pdf#page=3)
+in Hypotenuse19.
+![hypotenuse](/figure/hypotenuse.png)
 
-|       | BEC          | BDMC     | $p$-ary | $q$-ary | finite    | asym.  |
-| :---: | :----------: | :------: | :-----: | :-----: | :-------: | :----: |
-| LLN   | Arikan09     | Arikan09 | STA09x  | STA09x  | STA09x    | SRDR12 |
-| wLDP  | AT09         | AT09     | STA09x  | MT10c   | Sasoglu11 | HY13   |
-| wCLT  | KMTU10       | HAU14    | BGNRS18 | by us   | by us     | by us  |
-| wMDP  | GX13         | GX13     | BGS18   | by us   | by us     | by us  |
-| LDP   | KSU10        | KSU10    | MT10c   | MT10c   | by us     | by us  |
-| CLT   | FHMV17       | GRY19    | by us   | by us   | by us     | by us  |
-| MDP   | LargeDevia18 | by us    | by us   | by us   | by us     | by us  |
+See also
+[Table 2 on page 40](https://arxiv.org/pdf/1912.08995v1.pdf#page=40).
+![channelgoal](/figure/channelgoal.png)
 
 
 [Hypotenuse19]: https://arxiv.org/abs/1912.08995
