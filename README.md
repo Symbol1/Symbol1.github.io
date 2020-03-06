@@ -41,7 +41,7 @@ National Taiwan University (國立臺灣大學)
 2011--2015
 
 [Teacher ranked as excellent by their students]  
-Spring 2019 & Spring 2018  
+Fall 2019 & Spring 2019 & Spring 2018  
 
 Tbyq zrqny  
 Vagreangvbany Zngurzngvpf Bylzcvnq  
