@@ -3,10 +3,6 @@
 
 # Hsin-Po Wang
 
-CJKV = 王新博  
-[IPA](https://en.wikipedia.org/wiki/Help:IPA/Mandarin) = wáŋ ɕīn pʷóː  
-[Google Translate pronounces]
-
 
 ## Contact
 
