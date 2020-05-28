@@ -1,25 +1,28 @@
 
-
-
 # Resources Regarding the Website Itself
 
 Disclaimer:
 I am a math person.
-I have very little to none background with IT things and
-what I wrote here is how I worked out staffs, from my perspective.
+I have very little to none background with IT things.
+What I wrote here is how I worked out staffs.
 I hope it helps people like me.
-
 
 ## GitHub Pages
 
-This site is built by GitHub Pages which turns Markdown files
+This site is built using GitHub Pages.
+GitHub Pages turns Markdown files
 in a repository called `yourID.github.io` into static html files.
-Every time you edit a Markdown file called `yourFile.md`
-(and push it so GitHub is aware of it),
-GitHub uses its server to process the file and
+Every time you edit a Markdown file named `yourFile.md`,
+GitHub uses its server power to process the file and
 stores the resulting HTML file at `https://yourID.github.io/yourFile`.
-For instance, this webpage comes from a file named `support.md`
-so it is put at `https://symbol1.github.io/support`.
+
+For instance, my ID is `Symbol1`,
+so the repository is called `Symbol1.github.io`
+([link to the repo](https://github.com/Symbol1/Symbol1.github.io)).
+This webpage comes from a file named `support.md` ([link to the md]).
+Github processes this file and put the generated html file at
+`https://symbol1.github.io/support`.
+
 To begin using GitHub Pages,
 visit the [official landing page](https://pages.github.com/).
 
@@ -43,75 +46,83 @@ without touching the `theme` and the `md2html` part.
 
 Beginners at the next level may try to alter the `theme` part.
 This is where things get complicated.
-You see, beginners like me use one of the predefined `theme`s
-and we have no control over those `theme` files,
-while some documentations and forum answers assume that we host everything.
+You see, beginners like me use one of the predefined `theme`s.
+We have no control over those `theme` files
+while some online tutorials and forum answers assume that we do.
 
 So let me make this clear:
 Unless you want to level up further,
-you should stay with simple parameters like font, size, and color.
+you should stay with simple parameters like dimensions, colors, and fonts.
 They are easily customizable via a CSS file.
 Unfortunately, even customizing CSS is `theme`-dependent.
 For `minimal` users,
 [its readme](https://github.com/pages-themes/minimal#stylesheet) helps.
-For the other `themes`,
-you need to google out the corresponding `theme`'s doc.
+For the other `theme`s,
+you need to google out the corresponding `theme`'s documentation.
 [This general doc][add CSS] may also help.
 
+## Have a private copy of `theme`
 
-## Have a theme layout copy
-
-There is one way that technically
-let you customize almost everything in a theme.
+There is one way that technically lets you
+customize almost everything in a theme.
 In a `theme`'s repository, for instance in
 [this folder](https://github.com/pages-themes/minimal/tree/master/_layouts),
 you can see the file named `default.html`.
-This is the root template that will be filled in various information later.
+This is the root template that will be filled in with contents later.
 By altering this file you have the root control over how your website looks.
-But you cannot alter this file; this file belongs to the GitHub office.
+But you cannot alter this file;
+this file belongs to GitHub's official account.
 
 Fortunately, you can copy and paste this file into your repository.
-When the map `md2html` is executed, it will look for `theme` files
+When the map `md2html` is executed, it looks for `theme` files
 in *your* repository before going to the official one.
-So the chance is that, you copy this file to
-`yourID.github.io/_layouts/default.html`,
-make whatever change to it, push, and wait for a few minutes.
-You will see the change in your website.
+In greater detail, you
 
-See what I did
-[in my case](https://github.com/Symbol1/Symbol1.github.io/tree/master/_layouts).
-In my case, I deleted some text and add a script that brings in the MathJax.
-I will explain in the next subsection.
+1. copy and paste the `default.html` file to
+    `yourID.github.io/_layouts/default.html`,
+1. make whatever changes to it,
+1. commit and push, and
+1. wait for a few minutes.
 
+You will then see the change in your website.
+
+You can see what I did in my case---compare
+[my own `theme` file] with the [official `theme` file].
+In my case, I deleted some text and add a script that brings MathJax in.
+I will explain MathJax in the next subsection.
 
 ## MathJax support
 
-So basically I want to write $\LaTeX$ staff in my website
-and one way is to include a MathJax script
-that turns strings like `$a^2+b^2=c^2$` into $a^2+b^2=c^2$.
-To do that, you need to be able to insert a `<script>` label into the HTML file.
-There are probably more than one million ways to do so.
-But the easiest way is to insert the `<script>` label into the template.
-[These lines][mathjax script] are the `<script>`.
+The motivation is that I want to write $\LaTeX$ staff in my website.
+One way to enable beautiful math is to include a MathJax script
+that turns strings like `$ma^2+mb^2=F+V-2$` into $ma^2+mb^2=F+V-2$.
+To do that, you need to be able to insert a `<script>` tag into the HTML file.
+There are many ways to achieve this.
+But the easiest way is to insert the `<script>` tag into the `theme` file.
+(That is why I need to have a private copy of the `theme`).
+[These lines in my copy][mathjax script] are the inserted `<script>`.
 
 For more configurations, see this
 [MathJax doc](http://docs.mathjax.org/en/latest/web/start.html).
+Remark:
+The link above points to the latest documentation (for `3.x.x`).
+On the other hand, some online tutorials and forum answers
+are written based on versions `2.x.x`.
 
-
-## Host everything
+## Host everything yourself
 
 Chances are that you can host the content, the `theme`,
 and even the `md2html` map.
 Doing so, you gain controls over everything and do whatever you want.
-For instance, [email obfuscation][email].
+For instance, [email obfuscation].
 However, that requires you to have something that can execute `md2html`.
-You either have to build your own server or using one of the IaaS.
+You either have to build your own server or use one of the IaaS.
 They not only are more complicated but also cost some positive money.
-(Yes, everything I mentioned above is free, as of 2020/02/02.)
+(Everything I mentioned so far is free, as of 2020 May.)
 
-
+[link to the md]: https://github.com/Symbol1/Symbol1.github.io/blob/master/support.md
 [add CSS]: https://help.github.com/en/github/working-with-github-pages/adding-a-theme-to-your-github-pages-site-using-jekyll#customizing-your-themes-css
+[my own `theme` file]: https://github.com/Symbol1/Symbol1.github.io/tree/master/_layouts
+[official `theme` file]: https://github.com/pages-themes/minimal/blob/master/_layouts/default.html
 [mathjax script]: https://github.com/Symbol1/Symbol1.github.io/blob/master/_layouts/default.html#L33-L42
-[email]: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
-
-
+[email obfuscation]: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
