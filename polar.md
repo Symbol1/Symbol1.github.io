@@ -14,28 +14,30 @@ From the oldest to the newest.
 [ModerDevia18] focuses on the moderate deviations regime (MDR) of polar coding.
 MDR is also called the moderate deviations principle (MDP)
 paradigm in some references.
-It discusses the relation among block length ($N$),
+It addresses the relation among block length ($N$),
 error probability ($P$), and code rate ($R$) in the region
 where $P$ is about $\exp( -N^\pi )$ and $R$ is about
 $\text{Capacity} - N^{-\rho}$ for some positive numbers $\pi, \rho$.
 The precise goal is to characterize the region of $(\pi, \rho)$ pairs
 that are achievable for $N \to \infty$.
 
-While [ModerDevia18] deals with the classical polar codes
-constructed in Arıkan's original paper,
+While [ModerDevia18] deals with classical polar codes
+as constructed in Arıkan's original paper,
 [LargeDevia18] extends the theory to a wide class of polar codes.
-We are able to predict, up to some big-$O$ notations,
-how codes constructed with a certain kernel $G$ will behave
-given the scaling exponent $\mu$ (or its inverse $\rho = 1/\mu$)
-and the partial distances.
-It does not mean that such prediction is easy to make
-because finding the precise $\rho$ (or $\mu$) is difficult.
-That said, bounding $\rho$ is easy, so is bounding the MDP behavior.
+Given a kernel $G$, its scaling exponent $\mu$
+(or its inverse $\rho = 1/\mu$), and its partial distances,
+we are able to predict how codes constructed with $G$ will behave,
+up to some big-$O$ notations.
+Remark:
+The result says it is easy to go from $\rho$ (or $\mu$) to MDP.
+But $\rho$ is usually difficult to find.
+Alternatively, there are easy ways to bound $\rho$.
+In that case, our MDP prediction becomes a one-way bound.
 
 [LoglogTime18] stands on the result of [ModerDevia18] and shows that,
 if we would like to tolerate higher $P$ and lower $R$,
-we can reduce the complexity of the encoding and decoding
-from $\log N$ to $\log(\log N)$, per information bit.
+we can reduce the encoding and decoding complexities
+from $\log N$ per information bit to $\log(\log N)$ per information bit.
 By *higher $P$* we mean $P$ scales as $N^{-1/5}$;
 By *lower $R$* we mean $R$ scales as $\text{Capacity}-N^{-1/5}$.
 Thus the constructed codes still achieve capacity.
@@ -44,14 +46,17 @@ While [LoglogTime18] deals with the binary erasure channels,
 [LoglogTime19] handles arbitrary symmetric $p$-ary channels,
 where $p$ is any prime.
 The latter result is similar:
-by tolerating that $P$ converge to $0$ slower
-and that $R$ that converge to the capacity slower,
+by tolerating that $P$ converges to $0$ slower
+and that $R$ converges to the capacity slower,
 we can reduce the complexity to $\log(\log N)$ per information bit.
 In both [LoglogTime18] and [LoglogTime19],
 codes are construct with the standard kernel $[^1_1{}^0_1]$.
 
-We later found (not included in either paper) that
-the conclusion generalizes to arbitrary discrete memoryless channels.
+We later found (not included in any paper) that the log-log behavior
+generalizes to arbitrary discrete memoryless channels.
+For general channels, however,
+the standard kernel $[^1_1{}^0_1]$ does not polarize anymore.
+One must switch to other kernels, sometimes nonlinear.
 
 [Hypotenuse19] shows that it is possible to construct codes
 whose error probabilities and code rates scale like random codes'
