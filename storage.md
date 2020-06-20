@@ -44,4 +44,13 @@ We construct a series of regenerating codes (which we call **moulin codes**).
 They achieve the best known $\alpha/M$-versus-$\beta/M$ trade-off to date.
 It is conjectured that this trade-off is optimal.
 
+See
+[Figure 1 on page 3](https://arxiv.org/pdf/2006.08911v1.pdf#page=3)
+in MoulinAlge20.
+![abMregenerate](/figure/abMregenerate.png)
+
+See also
+[Table 2 on page 29](https://arxiv.org/pdf/2006.08911v1.pdf#page=29)
+![interiorERRC](/figure/interiorERRC.png)
+
 [MoulinAlge20]: https://arxiv.org/abs/2006.08911
