@@ -1,17 +1,15 @@
 
-
-
 # Paper Comments
 
-From the newest to the oldest.
+From the oldest to the newest.
 
 |  Abbreviation  |  Title  |
 | :------------: | :-----: |
-| [Hypotenuse19] | Polar Codes' Simplicity, Random Codes' Durability |
-| [LoglogTime19] | Log-logarithmic Time Pruned Polar Coding |
+| [ModerDevia18] | Polar Code Moderate Deviation: Recovering the Scaling Exponent |
 | [LargeDevia18] | Polar-like Codes and Asymptotic Tradeoff among Block Length, Code Rate, and Error Probability |
 | [LoglogTime18] | Log-logarithmic Time Pruned Polar Coding on Binary Erasure Channels |
-| [ModerDevia18] | Polar Code Moderate Deviation: Recovering the Scaling Exponent |
+| [LoglogTime19] | Log-logarithmic Time Pruned Polar Coding |
+| [Hypotenuse19] | Polar Codes' Simplicity, Random Codes' Durability |
 
 [ModerDevia18] focuses on the moderate deviations regime (MDR) of polar coding.
 MDR is also called the moderate deviations principle (MDP)
@@ -76,11 +74,8 @@ See also
 [Table 2 on page 40](https://arxiv.org/pdf/1912.08995v1.pdf#page=40).
 ![channelgoal](/figure/channelgoal.png)
 
-
 [Hypotenuse19]: https://arxiv.org/abs/1912.08995
 [LoglogTime19]: https://arxiv.org/abs/1905.13340
 [LargeDevia18]: https://arxiv.org/abs/1812.08112
 [LoglogTime18]: https://arxiv.org/abs/1812.08106
 [ModerDevia18]: https://arxiv.org/abs/1806.02405
-
-
