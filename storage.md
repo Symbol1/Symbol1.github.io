@@ -35,7 +35,7 @@ the node size $\alpha$ is at most $d\beta$.
 One can also show that $k-1$ nodes ($\alpha$)
 plus $d-k+1$ help messages ($\beta$) is at least $M$.
 There is a family of bounds of this type.
-They restrict where can those parameters live.
+They restrict where those parameters can live.
 
 The opposite approach is to construct regenerating codes
 that aim to achieve low $\alpha$ and $\beta$ and high $M$.

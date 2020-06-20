@@ -12,7 +12,7 @@ From the oldest to the newest.
 | [Hypotenuse19] | Polar Codes' Simplicity, Random Codes' Durability |
 
 [ModerDevia18] focuses on the moderate deviations regime (MDR) of polar coding.
-MDR is also called the moderate deviations principle (MDP)
+MDR is also called the **moderate deviations principle** (MDP)
 paradigm in some references.
 It addresses the relation among block length ($N$),
 error probability ($P$), and code rate ($R$) in the region
