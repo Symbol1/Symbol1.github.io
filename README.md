@@ -1,8 +1,5 @@
 
-
-
 # Hsin-Po Wang
-
 
 ## Contact
 
@@ -12,17 +9,17 @@ Social media =
 [TeX.SX](https://tex.stackexchange.com/users/51022/symbol-1) &
 [GitHub](https://github.com/Symbol1)
 
-
 ## Research
 
 [arXiv page](https://arxiv.org/a/wang_h_8.html)  
 [dblp page](https://dblp.org/pers/hd/w/Wang_0001:Hsin=Po)  
 [orcid page](https://orcid.org/0000-0003-2574-1510)  
-See also [paper comments](/paper) for meta-explanation.  
 I am interested in information theory, specifically
 polar coding for noisy channels and sources, and
-multilinear algebra for distributed storage systems.
-
+multilinear algebra for distributed storage systems.  
+See [polar comments](/polar) for meta-explanation of polar coding papers.  
+See also [storage comments](/storage) for
+meta-explanation of distributed storage papers.  
 
 ## Curriculum vitae
 
@@ -31,7 +28,7 @@ Ph.D. Student
 Department of Mathematics  
 University of Illinois at Urbana--Champaign  
 2016--present
- 
+
 Bachelor of Science in Mathematics  
 National Taiwan University (國立臺灣大學)  
 2011--2015
@@ -43,8 +40,5 @@ Tbyq zrqny
 Vagreangvbany Zngurzngvpf Bylzcvnq  
 2011 & 2009
 
-
 [Google Translate pronounces]: https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=王新博
 [Teacher ranked as excellent by their students]: https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent
-
-

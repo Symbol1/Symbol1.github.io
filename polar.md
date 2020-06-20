@@ -1,5 +1,5 @@
 
-# Paper Comments
+# Polar Comments
 
 From the oldest to the newest.
 
@@ -14,19 +14,19 @@ From the oldest to the newest.
 [ModerDevia18] focuses on the moderate deviations regime (MDR) of polar coding.
 MDR is also called the moderate deviations principle (MDP)
 paradigm in some references.
-It discusses about the relation among block length ($N$),
+It discusses the relation among block length ($N$),
 error probability ($P$), and code rate ($R$) in the region
-where $P$ is about $\exp(-N^\pi)$ and $R$ is about
-$\text{Capacity} - N^{-\rho}$ for some positive numbers $\pi,\rho$.
-The precise goal is to characterize the region of $(\pi,\rho)$ pairs
-that are achievable for $N\to\infty$.
+where $P$ is about $\exp( -N^\pi )$ and $R$ is about
+$\text{Capacity} - N^{-\rho}$ for some positive numbers $\pi, \rho$.
+The precise goal is to characterize the region of $(\pi, \rho)$ pairs
+that are achievable for $N \to \infty$.
 
 While [ModerDevia18] deals with the classical polar codes
 constructed in Arıkan's original paper,
 [LargeDevia18] extends the theory to a wide class of polar codes.
 We are able to predict, up to some big-$O$ notations,
 how codes constructed with a certain kernel $G$ will behave
-given the scaling exponent $\mu$ (or its inverse $\rho=1/\mu$)
+given the scaling exponent $\mu$ (or its inverse $\rho = 1/\mu$)
 and the partial distances.
 It does not mean that such prediction is easy to make
 because finding the precise $\rho$ (or $\mu$) is difficult.
