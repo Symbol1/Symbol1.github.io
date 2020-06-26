@@ -13,10 +13,12 @@ Social media =
 
 [arXiv page](https://arxiv.org/a/wang_h_8.html)  
 [dblp page](https://dblp.org/pers/hd/w/Wang_0001:Hsin=Po)  
-[orcid page](https://orcid.org/0000-0003-2574-1510)  
+[orcid page](https://orcid.org/0000-0003-2574-1510)
+
 I am interested in information theory, specifically
 polar coding for noisy channels and sources, and
-multilinear algebra for distributed storage systems.  
+multilinear algebra for distributed storage systems.
+
 See [polar comments](/polar) for meta-explanation of polar coding papers.  
 See also [storage comments](/storage) for
 meta-explanation of distributed storage papers.  
