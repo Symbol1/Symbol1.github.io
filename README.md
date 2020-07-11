@@ -23,6 +23,11 @@ See [polar comments](/polar) for meta-explanation of polar coding papers.
 See also [storage comments](/storage) for
 meta-explanation of distributed storage papers.  
 
+I have once computed, on a supercomputer,
+the Tutte--Whitney polynomial of Reed--Muller codes of length 64.
+See [the repository](https://github.com/Symbol1/BlueWaters-RM64)
+for more details.
+
 ## Curriculum vitae
 
 Ph.D. Student

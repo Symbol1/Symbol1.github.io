@@ -67,7 +67,7 @@ MSR alone attracts significant attentions because people want to minimize
 node size ($\alpha \geq M/k$), and only then they minimize help messages
 ($\beta \geq \alpha/(d - k + 1)$ given that $\alpha \geq M/k$).
 See
-[Tbale 1 on page 5](https://arxiv.org/pdf/2006.16998v1.pdf#page=5)
+[Table 1 on page 5](https://arxiv.org/pdf/2006.16998v1.pdf#page=5)
 in Atrahasis20 for a comparison of some existing constructions.
 ![MSRalphaFq](/figure/MSRalphaFq.png)
 
