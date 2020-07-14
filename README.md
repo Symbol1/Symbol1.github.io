@@ -6,7 +6,7 @@
 Email = hpwang2 at illinois dot edu  
 Social media =
 [Facebook](https://www.facebook.com/Xymbol.1) &
-[TeX.SX](https://tex.stackexchange.com/users/51022/symbol-1) &
+[StackExchange](https://stackexchange.com/users/4418253/symbol-1) &
 [GitHub](https://github.com/Symbol1)
 
 ## Research
