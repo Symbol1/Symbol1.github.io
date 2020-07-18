@@ -15,8 +15,8 @@ From the oldest to the newest.
 MDR is also called the **moderate deviations principle** (MDP)
 paradigm in some references.
 It addresses the relation among block length ($N$),
-error probability ($P$), and code rate ($R$) in the region
-where $P$ is about $\exp( -N^\pi )$ and $R$ is about
+error probability ($P_e$), and code rate ($R$) in the region
+where $P_e$ is about $\exp( -N^\pi )$ and $R$ is about
 $\text{Capacity} - N^{-\rho}$ for some positive numbers $\pi, \rho$.
 The precise goal is to characterize the region of $(\pi, \rho)$ pairs
 that are achievable for $N \to \infty$.
@@ -35,18 +35,17 @@ Alternatively, there are easy ways to bound $\rho$.
 In that case, our MDP prediction becomes a one-way bound.
 
 [LoglogTime18] stands on the result of [ModerDevia18] and shows that,
-if we would like to tolerate higher $P$ and lower $R$,
+if we would like to tolerate higher $P_e$ and lower $R$,
 we can reduce the encoding and decoding complexities
 from $\log N$ per information bit to $\log(\log N)$ per information bit.
-By *higher $P$* we mean $P$ scales as $N^{-1/5}$;
+By *higher $P_e$* we mean $P_e$ scales as $N^{-1/5}$;
 By *lower $R$* we mean $R$ scales as $\text{Capacity}-N^{-1/5}$.
-Thus the constructed codes still achieve capacity.
+Thus the constructed codes barely, but still, achieve capacity.
 
 While [LoglogTime18] deals with the binary erasure channels,
 [LoglogTime19] handles arbitrary symmetric $p$-ary channels,
 where $p$ is any prime.
-The latter result is similar:
-by tolerating that $P$ converges to $0$ slower
+The latter result is similar---by tolerating that $P_e$ converges to $0$ slower
 and that $R$ converges to the capacity slower,
 we can reduce the complexity to $\log(\log N)$ per information bit.
 In both [LoglogTime18] and [LoglogTime19],
@@ -73,11 +72,11 @@ Błasiok, Fazeli, Guruswami, Hassani, Honda, Korada, Mori, Şaşoğlu, Sutter, e
 For a quick comparison, see
 [Figure 1 on page 3](https://arxiv.org/pdf/1912.08995v1.pdf#page=3)
 in Hypotenuse19.
-![hypotenuse](/figure/hypotenuse.png)
+![hypotenuse](figure/hypotenuse.png)
 
 See also
 [Table 2 on page 40](https://arxiv.org/pdf/1912.08995v1.pdf#page=40).
-![channelgoal](/figure/channelgoal.png)
+![channelgoal](figure/channelgoal.png)
 
 [Hypotenuse19]: https://arxiv.org/abs/1912.08995
 [LoglogTime19]: https://arxiv.org/abs/1905.13340
