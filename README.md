@@ -26,8 +26,8 @@ meta-explanation of distributed storage papers.
 
 I have once computed, on a supercomputer,
 the Tutte--Whitney polynomial of Reed--Muller codes of length 64.
-See [the GitHub repository](https://github.com/Symbol1/BlueWaters-RM64)
-for source codes, comments, and results.
+[This GitHub repository](https://github.com/Symbol1/BlueWaters-RM64)
+keeps source codes, comments, and results.
 
 ## Curriculum vitae
 
