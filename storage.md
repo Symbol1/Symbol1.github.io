@@ -69,7 +69,7 @@ node size ($\alpha \geq M/k$), and only then they minimize help messages
 ($\beta \geq \alpha/(d - k + 1)$ given that $\alpha \geq M/k$).
 See
 [Table 1 on page 5](https://arxiv.org/pdf/2006.16998v1.pdf#page=5)
-in Atrahasis20 for a comparison of some existing constructions.
+in Atrahasis20 for a comparison of some existing contraptions.
 ![MSR alpha Fq](figure/MSRalphaFq.png)
 
 [MoulinAlge20]: https://arxiv.org/abs/2006.08911
