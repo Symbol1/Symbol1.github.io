@@ -12,7 +12,7 @@ Social media
 ## Research
 
 * [arXiv page](https://arxiv.org/a/wang_h_8.html)  
-* [dblp page](https://dblp.org/pers/hd/w/Wang_0001:Hsin=Po)  
+* [dblp page](https://dblp.org/pid/75/329-1.html)  
 * [ORCiD page](https://orcid.org/0000-0003-2574-1510)  
 * [Google Scholar](https://scholar.google.com/citations?user=tJ8-ChgAAAAJ)
 
