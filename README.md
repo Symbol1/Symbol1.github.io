@@ -45,7 +45,7 @@ National Taiwan University (國立臺灣大學)
 Fall 2019 & Spring 2019 & Spring 2018  
 
 Tbyq zrqny  
-Vagreangvbany Zngurzngvpf Bylzcvnq  
+Vagreangvbany Zngurzngvpny Bylzcvnq  
 2011 & 2009
 
 [Google Translate pronounces]: https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=王新博
