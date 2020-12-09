@@ -1,5 +1,5 @@
 
-# Storage Comments
+# Distributed Comments
 
 From the oldest to the newest.
 
@@ -7,6 +7,7 @@ From the oldest to the newest.
 | :------------: | :-----: |
 | [MoulinAlge20] | Multilinear Algebra for Distributed Storage |
 |  [Atrahasis20] | Multilinear Algebra for Minimum Storage Regenerating Codes |
+| [PlutoCharon20]| Parity-Checked Strassen Algorithm |
 
 Both [MoulinAlge20] and [Atrahasis20] concern regenerating codes
 that have applications in distributed storage systems.
@@ -30,11 +31,11 @@ The theory of regenerating codes concerns
 the relation among $n, k, d, \alpha, \beta, M$.
 For example, since any $k$ nodes contain $k\alpha$ symbols
 and can recover the file, the file size $M$ is at most $k\alpha$.
-Similarly, since $d\beta$ symbols a failing node,
+Similarly, since $d\beta$ symbols repair a failing node,
 the node size $\alpha$ is at most $d\beta$.
 (Exercise)
 One can also show that $k - 1$ nodes ($\alpha$)
-plus $d-k+1$ help messages ($\beta$) is at least $M$.
+plus $d - k + 1$ help messages ($\beta$) is at least $M$.
 There is a family of bounds of this type.
 They restrict where those parameters can live.
 
@@ -72,5 +73,28 @@ See
 in Atrahasis20 for a comparison of some existing contraptions.
 ![MSR alpha Fq](figure/MSRalphaFq.png)
 
+[PlutoCharon20] concerns distributed computation.
+To be precise, it deals with distributed matrix-matrix multiplication (MMM)
+where the workers might crash or straggle.
+By MMM we mean that we want to compute $C=AB$, where $A, B$ are huge matrices.
+By crashing and straggling we mean that an entry multiplication,
+for instance $A_{12}\times A_{23}$, might be available very late, if at all.
+
+To compensate, one needs to hire more-than-necessary workers
+and asks them to do redundant computations.
+A possibility to generate redundancy is to draw random vectors $g, h$
+and then ask extra workers to compute $(gA)\times(Bh)$ on top of $A\times B$.
+
+The contribution of [PlutoCharon20] is three-fold.
+One: we obverse that the computation of $A\times B$
+can be carried-out by fast matrix multiplication (FMM).
+This construction is named **Pluto codes**.
+Two: Applying Pluto codes recursively,
+we obtain a code that behaves like tensor product codes.
+Three: the computation of $(gA)\times(Bh)$,
+if $g, h$ are matrices, can be carried-out by FMM.
+This is named **Charon construction**.
+
 [MoulinAlge20]: https://arxiv.org/abs/2006.08911
 [Atrahasis20]: https://arxiv.org/abs/2006.16998
+[PlutoCharon20]: https://arxiv.org/abs/2011.15082
