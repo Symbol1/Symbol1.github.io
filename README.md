@@ -17,13 +17,15 @@ Social media
 * [Google Scholar](https://scholar.google.com/citations?user=tJ8-ChgAAAAJ)
 * [Semantic Scholar](https://www.semanticscholar.org/author/3003115)
 
-I am interested in information theory, specifically
-polar coding for noisy channels and sources, and
-multilinear algebra for distributed storage systems.
+Interests =
+Information theory / coding theory / Shannon theory:
+Random coding and polar coding over communication channels;
+Distributed storage and distributed computation,
+application of algebra and combinatorics to.
 
 See [polar comments](/polar) for meta-explanation of polar coding papers.  
-See also [storage comments](/storage) for
-meta-explanation of distributed storage papers.  
+See also [distributed comments](/distributed) for
+meta-explanation of distributed systems papers.  
 
 I have once computed, on a supercomputer,
 the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
