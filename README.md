@@ -15,7 +15,7 @@ Social media
 * [dblp page](https://dblp.org/pid/75/329-1.html)
 * [ORCiD page](https://orcid.org/0000-0003-2574-1510)
 * [Google Scholar](https://scholar.google.com/citations?user=tJ8-ChgAAAAJ)
-* [Semantic Scholar](https://www.semanticscholar.org/author/3003115)
+* [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
 
 Interests =
 Information theory / coding theory / Shannon theory:
@@ -25,12 +25,20 @@ application of algebra and combinatorics to.
 
 See [polar comments](/polar) for meta-explanation of polar coding papers.  
 See also [distributed comments](/distributed) for
-meta-explanation of distributed systems papers.  
+meta-explanation of distributed system papers.  
 
 I have once computed, on a supercomputer,
 the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
 [This GitHub repository](https://github.com/Symbol1/BlueWaters-RM64)
 keeps source codes, comments, and results.
+
+## Publications
+
+[*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523)
+is to appear in IEEE Transactions on Information Theory.
+
+[*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570)
+is to appear in IEEE Transactions on Information Theory.
 
 ## Curriculum vitae
 
@@ -44,12 +52,13 @@ Bachelor of Science in Mathematics
 National Taiwan University (國立臺灣大學)  
 2011--2015
 
-[Teacher ranked as excellent by their students]  
+[Teacher ranked as excellent by their students](go.illinois.edu/lotrae.)  
 Fall 2019 & Spring 2019 & Spring 2018  
+
+Teaching in a middle-school in a remote, minority village
+as an alternative to the mandatory military service.  
+2016
 
 Tbyq zrqny  
 Vagreangvbany Zngurzngvpny Bylzcvnq  
 2011 & 2009
-
-[Google Translate pronounces]: https://translate.google.com/#view=home&op=translate&sl=auto&tl=zh-TW&text=王新博
-[Teacher ranked as excellent by their students]: https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent
