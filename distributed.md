@@ -86,12 +86,12 @@ A possibility to generate redundancy is to draw random vectors $g, h$
 and then ask extra workers to compute $(gA)\times(Bh)$ on top of $A\times B$.
 
 The contribution of [PlutoCharon20] is three-fold.
-One: we obverse that the computation of $A\times B$
+One: We obverse that the computation of $A\times B$
 can be carried-out by fast matrix multiplication (FMM).
 This construction is named **Pluto codes**.
 Two: Applying Pluto codes recursively,
 we obtain a code that behaves like tensor product codes.
-Three: the computation of $(gA)\times(Bh)$,
+Three: The computation of $(gA)\times(Bh)$,
 if $g, h$ are matrices, can be carried-out by FMM.
 This is named **Charon construction**.
 
