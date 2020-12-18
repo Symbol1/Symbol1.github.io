@@ -6,3 +6,6 @@ Artist illustration of *Log-logarithmic Time Pruned Polar Coding*.
 
 ![vaseman hypotenuse](vaseman/Jau-Pao%20Wang%202020-12-03.jpg)
 Artist illustration of *Polar Codes' Simplicity, Random Codes' Durability*.
+
+![vaseman hypotenuse](vaseman/Jau-Pao%20Wang%202020-12-17.jpg)
+Artist illustration of *Multilinear Algebra for Distributed Storage*.
