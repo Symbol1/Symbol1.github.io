@@ -19,13 +19,13 @@ Social media
 
 Interests =
 Information theory / coding theory / Shannon theory:
-Random coding and polar coding over communication channels;
+Random coding and polar coding over communication channels.
 Distributed storage and distributed computation,
 application of algebra and combinatorics to.
 
 See [polar comments](/polar) for meta-explanation of polar coding papers.  
 See also [distributed comments](/distributed) for
-meta-explanation of distributed system papers.  
+meta-explanation of distributed storage and distributed computation papers.  
 
 I have once computed, on a supercomputer,
 the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
@@ -52,7 +52,7 @@ Bachelor of Science in Mathematics
 National Taiwan University (國立臺灣大學)  
 2011--2015
 
-[Teacher ranked as excellent by their students](go.illinois.edu/lotrae.)  
+[Teacher ranked as excellent by their students](https://go.illinois.edu/lotrae)  
 Fall 2019 & Spring 2019 & Spring 2018  
 
 Teaching in a middle-school in a remote, minority village
