@@ -10,4 +10,4 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 
 ## 6-clips construction
 
-![6 binder clips form a cycle](6cycle.jpg)
+![6 binder clips form a cycle](./6cycle.jpg)
