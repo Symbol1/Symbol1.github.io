@@ -12,9 +12,13 @@ Social media
 ## Research
 
 * [arXiv page](https://arxiv.org/a/wang_h_8.html)
+
 * [dblp page](https://dblp.org/pid/75/329-1.html)
+
 * [ORCiD page](https://orcid.org/0000-0003-2574-1510)
+
 * [Google Scholar](https://scholar.google.com/citations?user=tJ8-ChgAAAAJ)
+
 * [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
 
 Interests =
@@ -23,8 +27,8 @@ Random coding and polar coding over communication channels.
 Distributed storage and distributed computation,
 application of algebra and combinatorics to.
 
-See [polar comments](/polar) for meta-explanation of polar coding papers.  
-See also [distributed comments](/distributed) for
+See [polar comments](/paper/polar) for meta-explanation of polar coding papers.  
+See also [distributed comments](/paper/distributed) for
 meta-explanation of distributed storage and distributed computation papers.  
 
 I have once computed, on a supercomputer,
