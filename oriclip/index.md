@@ -26,4 +26,19 @@ Symmetry group: tetrahedron's rotations, $A_4$ of order 12.
 Symmetry group: tetrahedron's rotations, $A_4$ of order 12.
 
 ![6 binder clips with spiky handles](6spike.jpg)  
-Symmetry group: tetrahedron's rotations and reflections, $S_4$ of order 24.
+Symmetry group: pyritohedron rotations, $A_4\times C_2$ of order 24.
+
+## I-series
+
+![12 clips forming 6 I-edges forming tetrahedron](I12tetra.jpg)  
+Symmetry group: tetrahedron's rotations, $A_4$ of order 12.
+
+![24 clips forming 12 I-edges forming cube](I24cube.jpg)  
+Symmetry group: cube's rotations, $S_4$ of order 24.
+
+![24 clips forming 12 I-edges forming octahedron](I24octa.jpg)  
+Symmetry group: cube's rotations, $S_4$ of order 24.
+
+For more on symmetry group, see
+[wiki/Polyhedral group](https://en.wikipedia.org/wiki/Polyhedral_group)
+and the references therein.
