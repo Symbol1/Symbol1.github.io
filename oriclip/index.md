@@ -23,10 +23,10 @@ Symmetry group: tetrahedron's rotations, $A_4$ of order 12.
 Symmetry group: tetrahedron's rotations, $A_4$ of order 12.
 
 ![6 binder clips forming a 3D cross](6cross.jpg)  
-Symmetry group: tetrahedron's rotations, $A_4$ of order 12.
+Symmetry group: pyritohedron rotations and reflections, $A_4\times C_2$ of order 24.
 
 ![6 binder clips with spiky handles](6spike.jpg)  
-Symmetry group: pyritohedron rotations, $A_4\times C_2$ of order 24.
+Symmetry group: pyritohedron rotations and reflections, $A_4\times C_2$ of order 24.
 
 ## I-series
 
