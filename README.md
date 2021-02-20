@@ -39,10 +39,10 @@ keeps source codes, comments, and results.
 ## Publications
 
 [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523)
-is to appear in IEEE Transactions on Information Theory.
+is in IEEE Transactions on Information Theory, March 2021.
 
 [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570)
-is to appear in IEEE Transactions on Information Theory.
+is in IEEE Transactions on Information Theory, March 2021.
 
 ## Curriculum vitae
 
