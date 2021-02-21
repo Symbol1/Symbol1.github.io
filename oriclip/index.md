@@ -39,6 +39,12 @@ Symmetry group: cube's rotations, $S_4$ of order 24.
 ![24 clips forming 12 I-edges forming octahedron](I24octa.jpg)  
 Symmetry group: cube's rotations, $S_4$ of order 24.
 
+![60 clips forming 30 I-edges forming dodecahedron](I60dodeca.jpg)  
+Symmetry group: dodecahedron's rotations, $A_5$ of order 60.
+
+![60 clips forming 30 I-edges forming iscosahedron](I60icosa.jpg)  
+Symmetry group: dodecahedron's rotations, $A_5$ of order 60.
+
 For more on symmetry group, see
 [wiki/Polyhedral group](https://en.wikipedia.org/wiki/Polyhedral_group)
 and the references therein.
