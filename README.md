@@ -62,9 +62,12 @@ National Taiwan University (國立臺灣大學)
 
 ## Honors
 
-Irving Reiner Memorial Award in Algebra
+Irving Reiner Memorial Award in Algebra  
 2021
 
+Research Assistant Fellowship  
+Spring 2020
+	
 [Teacher ranked as excellent by their students](https://go.illinois.edu/lotrae)  
 Fall 2019 & Spring 2019 & Spring 2018  
 
@@ -78,6 +81,6 @@ Vagreangvbany Zngurzngvpny Bylzcvnq
 
 ## Misc
 
-Teaching in a [middle-school in a remote, minority village](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)
+Teaching in a [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)
 as an alternative to the mandatory military service.  
 2016
