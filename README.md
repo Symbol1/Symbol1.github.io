@@ -67,12 +67,19 @@ Irving Reiner Memorial Award in Algebra
 
 Research Assistant Fellowship  
 Spring 2020
-	
+
 [Teacher ranked as excellent by their students](https://go.illinois.edu/lotrae)  
 Fall 2019 & Spring 2019 & Spring 2018  
 
-[胡達開先生紀念獎學金](http://140.112.51.185/scholarship/%E8%83%A1%E9%81%94%E9%96%8B/%E8%83%A1%E9%81%94%E9%96%8B%E6%AD%B7%E5%B1%86%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE_20200604.pdf)
-(Prof. Da-Kai Hu Memorial Scholarship)  
+Book--Scroll Award (for top 5% GPA)  
+2015 Fall & 2014 Spring & 2013 Spring & 2012 Fall & 2012 Spring & 2011 Fall
+
+[蕭正堂紀念獎學金](http://140.112.51.185/scholarship/%E5%88%86%E9%A0%81/index%208.html)
+(Prof. Cheng-Tang Hsiao Memorial Scholarship)  
+2014
+
+[胡達開先生紀念獎學金](http://140.112.51.185/scholarship/%E5%88%86%E9%A0%81/index%201.html)
+(Prof. Ta-Kai Hu Memorial Scholarship)  
 2013
 
 Tbyq zrqny  
