@@ -62,7 +62,7 @@ National Taiwan University (國立臺灣大學)
 
 ## Honors
 
-Irving Reiner Memorial Award in Algebra  
+[Irving Reiner Memorial Award in Algebra](https://math.illinois.edu/academics/graduate-program/funding/graduate-awards-and-fellowships/irving-reiner-memorial-award-and)  
 2021
 
 Research Assistant Fellowship  
