@@ -80,7 +80,7 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 ↑ # Clips = 12  
 ↑ base = tetrahedron  
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
-↑ dual = itself  
+↑ dual = [itself](#i12tetra)  
 
 ### I24cube
 
@@ -88,7 +88,7 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 ↑ # Clips = 24  
 ↑ base = cube  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
-↑ dual = [I24octa](i24octa)  
+↑ dual = [I24octa](#24octa)  
 
 ### I24octa
 
@@ -96,7 +96,7 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 ↑ # Clips = 24  
 ↑ base = octahedron  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
-↑ dual = [I24cube](i24cube)  
+↑ dual = [I24cube](#i24cube)  
 
 ### I60dodeca
 
