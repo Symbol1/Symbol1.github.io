@@ -92,6 +92,6 @@ Teaching in a [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)
 as an alternative to the mandatory military service.  
 2016
 
-[Vaseman](/vaseman)
+[Vaseman](/vaseman) (Warning: many photos.)
 
-[Oriclip](/oriclip)
+[Oriclip](/oriclip) (Warning: a lot of photos.)
