@@ -86,7 +86,7 @@ Tbyq zrqny
 Vagreangvbany Zngurzngvpny Bylzcvnq  
 2011 & 2009
 
-## Misc
+## Extracurricular
 
 Teaching in a [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)
 as an alternative to the mandatory military service.  
