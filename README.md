@@ -5,7 +5,7 @@
 
 Email = hpwang2 at illinois dot edu  
 Social media
-= [Facebook](https://www.facebook.com/Xymbol.1)
+= [Instagram](https://www.instagram.com/xymbol.1/)
 & [Twitter](https://twitter.com/Xymbol_1)
 & [StackExchange](https://stackexchange.com/users/4418253/symbol-1)
 
