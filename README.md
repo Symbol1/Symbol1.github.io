@@ -38,6 +38,9 @@ keeps source codes, comments, and results.
 
 ## Publications
 
+[*Multilinear Algebra for Distributed Storage*](https://arxiv.org/abs/2006.08911)
+is to appear in SIAM Journal on Applied Algebra and Geometry.
+
 [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523)
 is in IEEE Transactions on Information Theory, March 2021.
 
@@ -92,6 +95,8 @@ Teaching in a [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)
 as an alternative to the mandatory military service.  
 2016
 
-[Vaseman](/vaseman) (Warning: many photos.)
+[Vaseman](/vaseman) is about drawing people that look like vases.
+(Data plan warning: many photos!)
 
-[Oriclip](/oriclip) (Warning: a lot of photos.)
+[Oriclip](/oriclip) is about binder clip sculptures.
+(Data plan warning: a lot of photos!)
