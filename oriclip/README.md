@@ -114,10 +114,10 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ dual = [I60dodeca](#i60dodeca)  
 
-### I18truncated
+### I36truncated
 
-![18 clips forming 9 I-edges forming truncated tetrahedron](I18truncated.jpg)  
-↑ # Clips = 18  
+![36 clips forming 18 I-edges forming truncated tetrahedron](I36truncated.jpg)  
+↑ # Clips = 36  
 ↑ base = truncated tetrahedron  
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
 ↑ (dual = triakis tetrahedron)
