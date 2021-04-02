@@ -1,15 +1,15 @@
 
 # Polar Comments
 
-From the oldest to the newest.
+The following is my works on polar coding, from the oldest to the newest.
 
-|  Abbreviation  |  Title  |
-| :------------: | :-----: |
-| [ModerDevia18] | Polar Code Moderate Deviation: Recovering the Scaling Exponent |
+|  Abbreviation  |  Title                                                              |
+| :------------: | :-----------------------------------------------------------------: |
+| [ModerDevia18] | Polar Code Moderate Deviation: Recovering the Scaling Exponent      |
 | [LargeDevia18] | Polar-like Codes and Asymptotic Tradeoff among Block Length, Code Rate, and Error Probability |
 | [LoglogTime18] | Log-logarithmic Time Pruned Polar Coding on Binary Erasure Channels |
-| [LoglogTime19] | Log-logarithmic Time Pruned Polar Coding |
-| [Hypotenuse19] | Polar Codes' Simplicity, Random Codes' Durability |
+| [LoglogTime19] | Log-logarithmic Time Pruned Polar Coding                            |
+| [Hypotenuse19] | Polar Codes' Simplicity, Random Codes' Durability                   |
 
 [ModerDevia18] focuses on the moderate deviations regime (MDR) of polar coding.
 MDR is also called the **moderate deviations principle** (MDP)
@@ -30,7 +30,7 @@ we are able to predict how codes constructed with $G$ will behave,
 up to some big-$O$ notations.
 Remark:
 The result says it is easy to go from $\rho$ (or $\mu$) to MDP.
-But $\rho$ is usually difficult to find.
+But $\rho$ is usually difficult to estimate.
 Alternatively, there are easy ways to bound $\rho$.
 In that case, our MDP prediction becomes a one-way bound.
 
@@ -38,8 +38,8 @@ In that case, our MDP prediction becomes a one-way bound.
 if we would like to tolerate higher $P_e$ and lower $R$,
 we can reduce the encoding and decoding complexities
 from $\log N$ per information bit to $\log(\log N)$ per information bit.
-By *higher $P_e$* we mean $P_e$ scales as $N^{-1/5}$;
-By *lower $R$* we mean $R$ scales as $\text{Capacity}-N^{-1/5}$.
+By *higher $P_e$* we mean that $P_e$ scales as $N^{-1/5}$;
+By *lower $R$* we that mean that $R$ scales as $\text{Capacity}-N^{-1/5}$.
 Thus the constructed codes barely, but still, achieve capacity.
 
 While [LoglogTime18] deals with the binary erasure channels,

@@ -34,7 +34,7 @@ meta-explanation of distributed storage and distributed computation papers.
 I have once computed, on a supercomputer,
 the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
 [This GitHub repository](https://github.com/Symbol1/BlueWaters-RM64)
-keeps source codes, comments, and results.
+keeps the source codes, comments, and results.
 
 ## Publications
 
@@ -53,7 +53,7 @@ Ph.D. Candidate
 (Advisor = [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/))  
 Department of Mathematics  
 University of Illinois at Urbana--Champaign  
-2016--present
+2016--2011
 
 Visiter  
 National Center for Theoretical Sciences (國家理論科學研究中心)  
