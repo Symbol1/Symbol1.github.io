@@ -27,11 +27,13 @@ Random coding and polar coding over communication channels.
 Distributed storage and distributed computation,
 application of algebra and combinatorics to.
 
-See [polar coding comments](/paper/polar) for meta-explanation of polar coding papers.  
-See also [distributed storage comments](/paper/storage)
-for meta-explanation of distributed storage papers.  
-See also [distributed computation comments](/paper/compute)
-for meta-explanation of distributed computation papers.  
+For meta-explanations of my works categorized by topics, see:
+
+* [Polar coding comments](/paper/polar)
+
+* [Distributed storage comments](/paper/storage)
+
+* [Distributed computation comments](/paper/compute)
 
 I have once computed, on a supercomputer,
 the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
@@ -55,7 +57,7 @@ Ph.D. Candidate
 (Advisor = [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/))  
 Department of Mathematics  
 University of Illinois at Urbana--Champaign  
-2016--2011
+2016--2021
 
 Visiter  
 National Center for Theoretical Sciences (國家理論科學研究中心)  

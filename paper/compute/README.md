@@ -1,14 +1,13 @@
 
-# Distributed Comments
+# Distributed Computation Comments
 
-From the oldest to the newest.
+I have one work on distributed computation.
 
 |  Abbreviation  |  Title                            |
 | :------------: | :-------------------------------: |
 | [PlutoCharon20]| Parity-Checked Strassen Algorithm |
 
-[PlutoCharon20] concerns distributed computation.
-To be precise, it deals with distributed matrix-matrix multiplication (MMM)
+[PlutoCharon20] deals with distributed matrix-matrix multiplication (MMM)
 where the workers might crash or straggle.
 By MMM we mean that we want to compute $C=AB$, where $A, B$ are huge matrices.
 By crashing and straggling we mean that an entry multiplication,

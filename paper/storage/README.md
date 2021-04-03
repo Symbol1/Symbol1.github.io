@@ -1,7 +1,7 @@
 
 # Distributed Storage Comments
 
-From the oldest to the newest.
+The following are my works on distributed storage systems, from the oldest to the newest.
 
 |  Abbreviation  |  Title                                                     |
 | :------------: | :--------------------------------------------------------: |
@@ -16,7 +16,7 @@ A **regenerating code** consists of
 * a file of size $M$ symbols and
 * a system of $n$ storage devices, called **nodes**.
 
-They satisfy the following conditions:
+The configuration of the nodes satisfies the following conditions:
 
 * Each node stores $\alpha$ symbols of the file.
 * Any $k$ nodes contains sufficient information to recover the file.
@@ -36,14 +36,14 @@ the node size $\alpha$ is at most $d\beta$.
 One can also show that $k - 1$ nodes ($\alpha$)
 plus $d - k + 1$ help messages ($\beta$) is at least $M$.
 There is a family of bounds of this type.
-They restrict where those parameters can live.
+They are called *cut-set bounds* and restrict where those parameters can live.
 
 The opposite approach is to construct regenerating codes
-that aim to achieve low $\alpha$ and $\beta$ and high $M$.
+that aim to achieve low $\alpha$, low $\beta$, and high $M$.
 [MoulinAlge20] utilizes multilinear algebra to do this.
-We construct a series of regenerating codes (which we call **moulin codes**).
+We construct a series of regenerating codes which we call **moulin codes**.
 They achieve the best known $\alpha/M$-versus-$\beta/M$ trade-off to date.
-It is conjectured that this trade-off is optimal.
+And it is conjectured that this trade-off is optimal.
 
 See
 [Figure 1 on page 3](https://arxiv.org/pdf/2006.08911v1.pdf#page=3)
@@ -55,8 +55,8 @@ See also
 for the relations among some competitive constructions.
 ![interior ERRC](interiorERRC.png)
 
-[Atrahasis20] exploits multilinear algebra to construct MSR codes
-(which we called **Atrahasis codes**).
+[Atrahasis20] exploits multilinear algebra to construct MSR codes,
+which we called **Atrahasis codes**.
 Formally, an **MSR code** is a regenerating code
 with $M = k\alpha$ and $\beta = \alpha/(d - k + 1)$.
 From the constraint on $M$ one sees that there is no wastes of storage

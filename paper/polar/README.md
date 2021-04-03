@@ -1,7 +1,7 @@
 
 # Polar Comments
 
-The following is my works on polar coding, from the oldest to the newest.
+The following are my works on polar coding, from the oldest to the newest.
 
 |  Abbreviation  |  Title                                                              |
 | :------------: | :-----------------------------------------------------------------: |
