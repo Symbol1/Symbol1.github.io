@@ -1,13 +1,12 @@
 
-# Distributed Comments
+# Distributed Storage Comments
 
 From the oldest to the newest.
 
-|  Abbreviation  |  Title  |
-| :------------: | :-----: |
-| [MoulinAlge20] | Multilinear Algebra for Distributed Storage |
+|  Abbreviation  |  Title                                                     |
+| :------------: | :--------------------------------------------------------: |
+| [MoulinAlge20] | Multilinear Algebra for Distributed Storage                |
 |  [Atrahasis20] | Multilinear Algebra for Minimum Storage Regenerating Codes |
-| [PlutoCharon20]| Parity-Checked Strassen Algorithm |
 
 Both [MoulinAlge20] and [Atrahasis20] concern regenerating codes
 that have applications in distributed storage systems.
@@ -49,12 +48,12 @@ It is conjectured that this trade-off is optimal.
 See
 [Figure 1 on page 3](https://arxiv.org/pdf/2006.08911v1.pdf#page=3)
 in MoulinAlge20 for an example of $\alpha/M$-versus-$\beta/M$ trade-off.
-![a b M regenerate](figure/abMregenerate.png)
+![a b M regenerate](abMregenerate.png)
 
 See also
 [Table 2 on page 29](https://arxiv.org/pdf/2006.08911v1.pdf#page=29)
 for the relations among some competitive constructions.
-![interior ERRC](figure/interiorERRC.png)
+![interior ERRC](interiorERRC.png)
 
 [Atrahasis20] exploits multilinear algebra to construct MSR codes
 (which we called **Atrahasis codes**).
@@ -71,7 +70,7 @@ node size ($\alpha \geq M/k$), and only then they minimize help messages
 See
 [Table 1 on page 5](https://arxiv.org/pdf/2006.16998v1.pdf#page=5)
 in Atrahasis20 for a comparison of some existing contraptions.
-![MSR alpha Fq](figure/MSRalphaFq.png)
+![MSR alpha Fq](MSRalphaFq.png)
 
 [PlutoCharon20] concerns distributed computation.
 To be precise, it deals with distributed matrix-matrix multiplication (MMM)
