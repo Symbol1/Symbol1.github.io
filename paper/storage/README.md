@@ -1,7 +1,7 @@
 
 # Distributed Storage Comments
 
-The following are my works on distributed storage systems, from the oldest to the newest.
+The following are my works on distributed storage systems. 
 
 |  Abbreviation  |  Title                                                     |
 | :------------: | :--------------------------------------------------------: |
@@ -47,13 +47,16 @@ And it is conjectured that this trade-off is optimal.
 
 See
 [Figure 1 on page 3](https://arxiv.org/pdf/2006.08911v1.pdf#page=3)
-in MoulinAlge20 for an example of $\alpha/M$-versus-$\beta/M$ trade-off.
-![a b M regenerate](abMregenerate.png)
+in MoulinAlge20 for the $\alpha/M$-versus-$\beta/M$ trade-off for the $(n, 3, 3)$ case.
+![The trade-off of (n, 3, 4) regenerating codes](n33alphbetaM.png)
+Here is another $\alpha/M$-versus-$\beta/M$ trade-off for the $(n, 3, 4)$ case.
+(In a newer version of MoulinAlge20 that I am still working on.)
+![The trade-off of (n, 3, 4) regenerating codes](n33alphbetaM.png)
 
 See also
 [Table 2 on page 29](https://arxiv.org/pdf/2006.08911v1.pdf#page=29)
 for the relations among some competitive constructions.
-![interior ERRC](interiorERRC.png)
+![Comparison among several ERRC codes that aim for interior points](interiorERRC.png)
 
 [Atrahasis20] exploits multilinear algebra to construct MSR codes,
 which we called **Atrahasis codes**.
@@ -70,7 +73,7 @@ node size ($\alpha \geq M/k$), and only then they minimize help messages
 See
 [Table 1 on page 5](https://arxiv.org/pdf/2006.16998v1.pdf#page=5)
 in Atrahasis20 for a comparison of some existing contraptions.
-![MSR alpha Fq](MSRalphaFq.png)
+![The alpha--F_q trade-off of some well-known MSR codes](MSRalphaFq.png)
 
 [MoulinAlge20]: https://arxiv.org/abs/2006.08911
 [Atrahasis20]: https://arxiv.org/abs/2006.16998

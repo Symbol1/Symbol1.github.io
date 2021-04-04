@@ -72,11 +72,11 @@ Błasiok, Fazeli, Guruswami, Hassani, Honda, Korada, Mori, Şaşoğlu, Sutter, e
 For a quick comparison, see
 [Figure 1 on page 3](https://arxiv.org/pdf/1912.08995v1.pdf#page=3)
 in Hypotenuse19.
-![hypotenuse](hypotenuse.png)
+![The pi--rho plot of several milestone works](hypotenuse.png)
 
 See also
 [Table 2 on page 40](https://arxiv.org/pdf/1912.08995v1.pdf#page=40).
-![channelgoal](channelgoal.png)
+![The channels, goals, and the works that achieve them](channelgoal.png)
 
 [Hypotenuse19]: https://arxiv.org/abs/1912.08995
 [LoglogTime19]: https://arxiv.org/abs/1905.13340
