@@ -53,9 +53,8 @@ is in IEEE Transactions on Information Theory, March 2021.
 
 ## Education
 
-Ph.D. Candidate
-(Advisor = [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/))  
-Department of Mathematics  
+Ph.D in Mathematics  
+Advisor = [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/)  
 University of Illinois at Urbana--Champaign  
 2016--2021
 
