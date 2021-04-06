@@ -1,6 +1,8 @@
 
 # Hsin-Po Wang
 
+Math PhD @ UIUC
+
 ## Contact
 
 Email = hpwang2 at illinois dot edu  
