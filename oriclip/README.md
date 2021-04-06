@@ -18,7 +18,7 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 
 ### 6wedge
 
-![6 binder clips with bodies pointing outward](6wedge.jpg)  
+![6 binder clips with mouths pointing outward](6wedge.jpg)  
 ↑ # Clips = 6  
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12
 
@@ -43,6 +43,12 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 ### 6spike
 
 ![6 binder clips with spiky handles](6spike.jpg)  
+↑ # Clips = 6  
+↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24
+
+### 6stand
+
+![6 binder clips whose bodies stand on the octahedron formed by handles](6stand.jpg)  
 ↑ # Clips = 6  
 ↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24
 
@@ -120,7 +126,7 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 ↑ # Clips = 36  
 ↑ base = truncated tetrahedron  
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
-↑ (dual = triakis tetrahedron)
+↑ (dual = triakis tetrahedron)  
 
 ### I48cubocta
 
@@ -137,6 +143,30 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 ↑ base = rhombic dodecahedron  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ dual = [I48cubocta](#i48cubocta)  
+
+### I72rhombi
+
+![72 clips forming 36 I-edges forming truncated octahedron](I72truncated.jpg)  
+↑ # Clips = 72  
+↑ base = truncated octahedron  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ (dual =  tetrakis hexahedron)  
+
+### I96rhombi
+
+![96 clips forming 96 I-edges forming snub cube](I96rhombi.jpg)  
+↑ # Clips = 96  
+↑ base = rhombicuboctahedron  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ (dual = deltoidal icositetrahedron)  
+
+### I120snub
+
+![120 clips forming 60 I-edges forming snub cube](I120snub.jpg)  
+↑ # Clips = 120  
+↑ base = snub cube  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ dual = pentagonal icositetrahedron  
 
 ## Wiki
 
