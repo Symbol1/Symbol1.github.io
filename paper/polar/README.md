@@ -10,6 +10,8 @@ The following are my works on polar coding, from the oldest to the newest.
 | [LoglogTime18] | Log-logarithmic Time Pruned Polar Coding on Binary Erasure Channels |
 | [LoglogTime19] | Log-logarithmic Time Pruned Polar Coding                            |
 | [Hypotenuse19] | Polar Codes' Simplicity, Random Codes' Durability                   |
+| [LoglogTime21] | Log-logarithmic Time Pruned Polar Coding (IEEE.TIT version of [LoglogTime19]) |
+| [Hypotenuse21] | Polar Codes' Simplicity, Random Codes' Durability (IEEE.TIT version of [Hypotenuse19]) |
 | [PhDThesis21]  | Complexity and Second Moment of the Mathematical Theory of Communication|
 
 [ModerDevia18] focuses on the moderate deviations regime (MDR) of polar coding.
@@ -67,28 +69,31 @@ On the other, polar codes' complexity ($\log N$) is considered low.
 constructions for general channels and $O(1)$ constructions for BEC.)
 This result holds for all discrete memoryless channels,
 the family of channels Shannon considered in 1948.
-This result extends a series of works done by (alphabetically) Arıkan,
-Błasiok, Fazeli, Guruswami, Hassani, Honda, Korada, Mori, Şaşoğlu, Sutter, etc.
+
+[PhDThesis21] is my PhD dissertation.
+It will be released on arXiv soon.
 
 For a figurative comparison, see
 [Figure 1 on page 3](https://arxiv.org/pdf/1912.08995v1.pdf#page=3)
 in Hypotenuse19.
 ![The pi--rho plot of several milestone works](hypotenuse.png)
 
-See also
-[Table 2 on page 40](https://arxiv.org/pdf/1912.08995v1.pdf#page=40).
+See also the following table for channels, goals, and references.
+(Will be in [PhDThesis21].)
 ![The channels, goals, and the works that achieve them](channelgoal.png)
 
 Here is a table for the error--gap--complexity trade-offs of
 some well-known capacity-achieving codes and the corresponding channels.
 ![Error--gap--complexity trade-offs of some capacity-achieving codes](complexityPR.png)
 
-Here is an analog among
+The following table is an analog among
 probability theory, random coding theory, and polar coding theory.
 ![Trinitarian analog among probability, random coding, polar coding](trinityanalog.png)
 
-[Hypotenuse19]: https://arxiv.org/abs/1912.08995
-[LoglogTime19]: https://arxiv.org/abs/1905.13340
-[LargeDevia18]: https://arxiv.org/abs/1812.08112
-[LoglogTime18]: https://arxiv.org/abs/1812.08106
 [ModerDevia18]: https://arxiv.org/abs/1806.02405
+[LoglogTime18]: https://arxiv.org/abs/1812.08106
+[LargeDevia18]: https://arxiv.org/abs/1812.08112
+[LoglogTime19]: https://arxiv.org/abs/1905.13340
+[Hypotenuse19]: https://arxiv.org/abs/1912.08995
+[LoglogTime21]: https://doi.org/10.1109/TIT.2020.3041523
+[Hypotenuse21]: https://doi.org/10.1109/TIT.2020.3041570
