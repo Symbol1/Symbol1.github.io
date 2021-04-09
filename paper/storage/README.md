@@ -1,5 +1,5 @@
 
-# Distributed Storage Comments
+# Distributed Storage Papers
 
 The following are my works on distributed storage systems. 
 

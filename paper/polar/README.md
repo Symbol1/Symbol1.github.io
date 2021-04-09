@@ -1,5 +1,5 @@
 
-# Polar Comments
+# Polar Coding Papers
 
 The following are my works on polar coding, from the oldest to the newest.
 
