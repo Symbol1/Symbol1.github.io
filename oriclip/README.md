@@ -102,6 +102,7 @@ Two clips = one I-edge = one edge.
 ![12 clips forming 6 I-edges forming tetrahedron](I12tetra.jpg)  
 ↑ # Clips = 12  
 ↑ Base = [tetrahedron]  
+↑ Vertex config = 3.3.3  
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
 ↑ Dual = [itself](#i12tetra)  
 
@@ -110,6 +111,7 @@ Two clips = one I-edge = one edge.
 ![24 clips forming 12 I-edges forming cube](I24cube.jpg)  
 ↑ # Clips = 24  
 ↑ base = [cube]  
+↑ Vertex config = 4.4.4  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ dual = [I24octa](#i24octa)  
 
@@ -118,6 +120,7 @@ Two clips = one I-edge = one edge.
 ![24 clips forming 12 I-edges forming octahedron](I24octa.jpg)  
 ↑ # Clips = 24  
 ↑ Base = [octahedron]  
+↑ Vertex config = 3.3.3.3  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ Dual = [I24cube](#i24cube)  
 
@@ -125,6 +128,7 @@ Two clips = one I-edge = one edge.
 
 ![60 clips forming 30 I-edges forming dodecahedron](I60dodeca.jpg)  
 ↑ # Clips = 30  
+↑ Vertex config = 5.5.5  
 ↑ Base = [dodecahedron]  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [I60icosa](#i60icosa)  
@@ -134,6 +138,7 @@ Two clips = one I-edge = one edge.
 ![60 clips forming 30 I-edges forming icosahedron](I60icosa.jpg)  
 ↑ # Clips = 30  
 ↑ Base = [icosahedron]  
+↑ Vertex config = 3.3.3.3.3  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ dual = [I60dodeca](#i60dodeca)  
 
@@ -142,14 +147,25 @@ Two clips = one I-edge = one edge.
 ![36 clips forming 18 I-edges forming truncated tetrahedron](I36truncated.jpg)  
 ↑ # Clips = 36  
 ↑ Base = [truncated tetrahedron]  
+↑ Vertex config = 3.6.6  
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
-↑ (Dual = triakis tetrahedron)  
+↑ Dual = [I36triakis](#i36triakis)  
+
+### I36triakis
+
+![36 clips forming 18 I-edges forming triakis tetrahedron](I36triakis.jpg)  
+↑ # Clips = 36  
+↑ Face config = 3.6.6  
+↑ Base = [triakis tetrahedron]  
+↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Dual = [I36truncated](#i36truncated)  
 
 ### I48cubocta
 
 ![48 clips forming 24 I-edges forming cuboctahedron](I48cubocta.jpg)  
 ↑ # Clips = 48  
 ↑ Base = [cuboctahedron]  
+↑ Vertex config = 3.4.3.4  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ Dual = [I48rhombic](#i48rhombic)  
 
@@ -157,15 +173,17 @@ Two clips = one I-edge = one edge.
 
 ![48 clips forming 24 I-edges forming rhombic dodecahedron](I48rhombic.jpg)  
 ↑ # Clips = 48  
-↑ Base = [rhombic dodecahedron]
+↑ Base = [rhombic dodecahedron]  
+↑ Face config = 3.4.3.4  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
-↑ dual = [I48cubocta](#i48cubocta)  
+↑ Dual = [I48cubocta](#i48cubocta)  
 
 ### I72truncated
 
 ![72 clips forming 36 I-edges forming truncated octahedron](I72truncated.jpg)  
 ↑ # Clips = 72  
 ↑ Base = [truncated octahedron]  
+↑ Vertex config = 4.6.6  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ (Dual = tetrakis hexahedron)  
 
@@ -174,6 +192,7 @@ Two clips = one I-edge = one edge.
 ![96 clips forming 96 I-edges forming snub cube](I96rhombi.jpg)  
 ↑ # Clips = 96  
 ↑ Base = [rhombicuboctahedron]  
+↑ Vertex config = 3.4.4.4  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ (Dual = deltoidal icositetrahedron)  
 
@@ -182,13 +201,14 @@ Two clips = one I-edge = one edge.
 ![120 clips forming 60 I-edges forming snub cube](I120snub.jpg)  
 ↑ # Clips = 120  
 ↑ base = [snub cube]  
+↑ Vertex config = 3.3.3.3.4  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ (Dual = pentagonal icositetrahedron)  
 
 ## Wiki
 
-For a systematic introduction of polyhedra, checkout
-[Platonic solid] and [Archimedean solid] and the references therein.
+For a systematic introduction of polyhedra, checkout [Platonic solid] and
+[Archimedean solid] and its dual [Catalan solid] and the references therein.
 
 For more on symmetry groups, see
 [Polyhedral group](https://enwp.org/Polyhedral_group) and the references therein.
@@ -207,20 +227,31 @@ For more on symmetry groups, see
 
 [Archimedean solid]: https://en.wikipedia.org/wiki/Archimedean_solid
   [truncated tetrahedron]: https://en.wikipedia.org/wiki/Truncated_tetrahedron
-  [cuboctahedron]: https://en.wikipedia.org/wiki/Cuboctahedron
   [truncated cube]: https://en.wikipedia.org/wiki/Truncated_cube
   [truncated octahedron]: https://en.wikipedia.org/wiki/Truncated_octahedron
-  [rhombicuboctahedron]: https://en.wikipedia.org/wiki/Rhombicuboctahedron
   [truncated cuboctahedron]: https://en.wikipedia.org/wiki/Truncated_cuboctahedron
-  [snub cube]: https://en.wikipedia.org/wiki/Snub_cube
-  [icosidodecahedron]: https://en.wikipedia.org/wiki/Icosidodecahedron
   [truncated dodecahedron]: https://en.wikipedia.org/wiki/Truncated_dodecahedron
   [truncated icosahedron]: https://en.wikipedia.org/wiki/Truncated_icosahedron
-  [rhombicosidodecahedron]: https://en.wikipedia.org/wiki/Rhombicosidodecahedron
   [truncated icosidodecahedron]: https://en.wikipedia.org/wiki/Truncated_icosidodecahedron
+  [cuboctahedron]: https://en.wikipedia.org/wiki/Cuboctahedron
+  [icosidodecahedron]: https://en.wikipedia.org/wiki/Icosidodecahedron
+  [rhombicuboctahedron]: https://en.wikipedia.org/wiki/Rhombicuboctahedron
+  [rhombicosidodecahedron]: https://en.wikipedia.org/wiki/Rhombicosidodecahedron
+  [snub cube]: https://en.wikipedia.org/wiki/Snub_cube
   [snub dodecahedron]: https://en.wikipedia.org/wiki/Snub_dodecahedron
 
 [Catalan solid]: https://en.wikipedia.org/wiki/Catalan_solid
   [triakis tetrahedron]: https://en.wikipedia.org/wiki/Triakis_tetrahedron
+  [triakis octahedron]: https://en.wikipedia.org/wiki/Triakis_octahedron
+  [disdyakis dodecahedron]: https://en.wikipedia.org/wiki/Disdyakis_dodecahedron
   [tetrakis hexahedron]: https://en.wikipedia.org/wiki/Tetrakis_hexahedron
+  [triakis icosahedron]: https://en.wikipedia.org/wiki/Triakis_icosahedron
+  [disdyakis triacontahedron]: https://en.wikipedia.org/wiki/Disdyakis_triacontahedron
+  [pentakis dodecahedron]: https://en.wikipedia.org/wiki/Pentakis_dodecahedron
   [rhombic dodecahedron]: https://en.wikipedia.org/wiki/Rhombic_dodecahedron
+  [rhombic triacontahedron]: https://en.wikipedia.org/wiki/Rhombic_triacontahedron
+  [deltoidal icositetrahedron]: https://en.wikipedia.org/wiki/Deltoidal_icositetrahedron
+  [deltoidal hexecontahedron]: https://en.wikipedia.org/wiki/Deltoidal_hexecontahedron
+  [pentagonal icositetrahedron]: https://en.wikipedia.org/wiki/Pentagonal_icositetrahedron
+  [pentagonal hexecontahedron]: https://en.wikipedia.org/wiki/Pentagonal_hexecontahedron
+  
