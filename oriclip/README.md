@@ -9,6 +9,18 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 
 (The page is under construction; check back periodically.)
 
+## 2-clip constructions
+
+### 2face2face
+
+![2 binder clips face to face](2face2face.jpg)  
+↑ # Clips = 2  
+
+### 2back2back
+
+![2 binder clips back to bacl](2back2back.jpg)  
+↑ # Clips = 2  
+
 ## 6-clip constructions
 
 ### 6cycle
@@ -254,4 +266,3 @@ For more on symmetry groups, see
   [deltoidal hexecontahedron]: https://en.wikipedia.org/wiki/Deltoidal_hexecontahedron
   [pentagonal icositetrahedron]: https://en.wikipedia.org/wiki/Pentagonal_icositetrahedron
   [pentagonal hexecontahedron]: https://en.wikipedia.org/wiki/Pentagonal_hexecontahedron
-  
