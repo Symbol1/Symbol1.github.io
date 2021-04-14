@@ -18,7 +18,7 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 
 ### 2back2back
 
-![2 binder clips back to bacl](2back2back.jpg)  
+![2 binder clips back to back](2back2back.jpg)  
 ↑ # Clips = 2  
 
 ## 6-clip constructions
