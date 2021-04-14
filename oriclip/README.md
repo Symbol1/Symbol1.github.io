@@ -163,14 +163,14 @@ Two clips = one I-edge = one edge.
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
 ↑ Dual = [I36triakis](#i36triakis)  
 
-### I36triakis
+### I72truncated
 
-![36 clips forming 18 I-edges forming triakis tetrahedron](I36triakis.jpg)  
-↑ # Clips = 36  
-↑ Face config = 3.6.6  
-↑ Base = [triakis tetrahedron]  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
-↑ Dual = [I36truncated](#i36truncated)  
+![72 clips forming 36 I-edges forming truncated octahedron](I72truncated.jpg)  
+↑ # Clips = 72  
+↑ Base = [truncated octahedron]  
+↑ Vertex config = 4.6.6  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ (Dual = tetrakis hexahedron)  
 
 ### I48cubocta
 
@@ -181,23 +181,14 @@ Two clips = one I-edge = one edge.
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ Dual = [I48rhombic](#i48rhombic)  
 
-### I48rhombic
+### I120icosidodeca
 
-![48 clips forming 24 I-edges forming rhombic dodecahedron](I48rhombic.jpg)  
-↑ # Clips = 48  
-↑ Base = [rhombic dodecahedron]  
-↑ Face config = 3.4.3.4  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
-↑ Dual = [I48cubocta](#i48cubocta)  
-
-### I72truncated
-
-![72 clips forming 36 I-edges forming truncated octahedron](I72truncated.jpg)  
-↑ # Clips = 72  
-↑ Base = [truncated octahedron]  
-↑ Vertex config = 4.6.6  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
-↑ (Dual = tetrakis hexahedron)  
+![120 clips forming 60 I-edges forming icosidodecahedron](I120icosidodeca.jpg)  
+↑ # Clips = 120  
+↑ base = [icosidodecahedron]  
+↑ Vertex config = 3.5.3.5  
+↑ Symmetry =  dodecahedron's rotations = $A_5$ of order 60  
+↑ (Dual = rhombic triacontahedron)  
 
 ### I96rhombi
 
@@ -216,6 +207,24 @@ Two clips = one I-edge = one edge.
 ↑ Vertex config = 3.3.3.3.4  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ (Dual = pentagonal icositetrahedron)  
+
+### I36triakis
+
+![36 clips forming 18 I-edges forming triakis tetrahedron](I36triakis.jpg)  
+↑ # Clips = 36  
+↑ Face config = 3.6.6  
+↑ Base = [triakis tetrahedron]  
+↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Dual = [I36truncated](#i36truncated)  
+
+### I48rhombic
+
+![48 clips forming 24 I-edges forming rhombic dodecahedron](I48rhombic.jpg)  
+↑ # Clips = 48  
+↑ Base = [rhombic dodecahedron]  
+↑ Face config = 3.4.3.4  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Dual = [I48cubocta](#i48cubocta)  
 
 ## Wiki
 
