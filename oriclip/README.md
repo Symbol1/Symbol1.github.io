@@ -226,6 +226,15 @@ Two clips = one I-edge = one edge.
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ Dual = [I48cubocta](#i48cubocta)  
 
+### I120rhombic
+
+![120 clips forming 60 I-edges forming rhombic triacontahedron](I120rhombic.jpg)  
+↑ # Clips = 120  
+↑ Base = [rhombic triacontahedron]  
+↑ Face config = 3.5.3.5  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Dual = [I120icosidodeca](#i120icosidodeca)  
+
 ## Wiki
 
 For a systematic introduction of polyhedra, checkout [Platonic solid] and
