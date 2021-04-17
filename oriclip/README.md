@@ -243,6 +243,14 @@ For a systematic introduction of polyhedra, checkout [Platonic solid] and
 For more on symmetry groups, see
 [Polyhedral group](https://enwp.org/Polyhedral_group) and the references therein.
 
+## Similar works by other people
+
+* <http://zacharyabel.com/sculpture/> by Zachary Abel.
+
+* <https://www.instructables.com/Binder-Clip-Ball/> by 69valentine.
+
+* <http://blog.andreahawksley.com/tag/binderclips/> by Andrea Hawksley.
+
 [three-piece burr]: https://en.wikipedia.org/wiki/Burr_puzzle#Three-piece_burr
 [six-piece burr]: https://en.wikipedia.org/wiki/Burr_puzzle#Six-piece_burr
 
