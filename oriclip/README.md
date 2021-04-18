@@ -235,7 +235,16 @@ Two clips = one I-edge = one edge.
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [I120icosidodeca](#i120icosidodeca)  
 
-## Wiki
+### I180pentakis
+
+![180 clips forming 90 I-edges forming pentakis dodecahedron](I180pentakis.jpg)  
+↑ # Clips = 120  
+↑ Base = [pentakis dodecahedron]  
+↑ Face config = 5.6.6  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ (Dual = truncated icosidodecahedron)  
+
+## Read more
 
 For a systematic introduction of polyhedra, checkout [Platonic solid] and
 [Archimedean solid] and its dual [Catalan solid] and the references therein.
