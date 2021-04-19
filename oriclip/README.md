@@ -7,6 +7,14 @@ The name *oriclip* is inspired by [*origami*](https://enwp.org/Origami),
 which stands for *ori* “fold” and *kami* “paper”.
 Note that binder clips are sometimes called foldover clip or foldback clip.
 
+Jump to
+[2-clip](#2-clip-constructions),
+[6-clip](#6-clip-constructions),
+[I-Platonic](#i-series,-platonic)
+[I-Archimedean](#i-series,-archimedean),
+[I-Catalan](#i-series,-catalan),
+[I-Fullerene](#i-series,-fullerene).
+
 (The page is under construction; check back periodically.)
 
 ## 2-clip constructions
@@ -105,7 +113,7 @@ One clip = one edge.
 ↑ Base = [rhombicuboctahedron]  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24
 
-## I-series
+## I-series, Platonic
 
 Two clips = one I-edge = one edge.
 
@@ -153,6 +161,8 @@ Two clips = one I-edge = one edge.
 ↑ Vertex config = 3.3.3.3.3  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ dual = [I60-D](#i60-d)  
+
+## I-series, Archimedean
 
 ### I36-tT
 
@@ -217,6 +227,8 @@ Two clips = one I-edge = one edge.
 ↑ Symmetry =  dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [I180-kD](#i180-kd)  
 
+## I-series, Catalan
+
 ### I36-kT
 
 ![36 clips forming 18 I-edges forming triakis tetrahedron](I36-kT.jpg)  
@@ -262,6 +274,8 @@ Two clips = one I-edge = one edge.
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ (Dual = Pentagonal hexecontahedron)  
 
+## I-series, Fullerene
+
 ### I240-cD
 
 ![240 clips forming 120 I-edges forming chamfered dodecahedron](I240-cD.jpg)  
@@ -277,6 +291,11 @@ For a systematic introduction of polyhedra, checkout [Platonic solid] and
 
 For more on symmetry groups, see
 [Polyhedral group](https://enwp.org/Polyhedral_group) and the references therein.
+
+For naming, see [Conway notation] and [Goldberg polyhedra].
+Or play with this interactive web app:
+[polyHédronisme](https://levskaya.github.io/polyhedronisme/).
+(Refresh to get random example!)
 
 ## Similar works by other people
 
@@ -327,3 +346,6 @@ For more on symmetry groups, see
   [deltoidal hexecontahedron]: https://en.wikipedia.org/wiki/Deltoidal_hexecontahedron
   [pentakis dodecahedron]: https://en.wikipedia.org/wiki/Pentakis_dodecahedron
   [pentagonal hexecontahedron]: https://en.wikipedia.org/wiki/Pentagonal_hexecontahedron
+
+[Conway notation]: https://en.wikipedia.org/wiki/Conway_polyhedron_notation
+[Goldberg polyhedra]: https://en.wikipedia.org/wiki/List_of_geodesic_polyhedra_and_Goldberg_polyhedra
