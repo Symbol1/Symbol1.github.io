@@ -208,6 +208,15 @@ Two clips = one I-edge = one edge.
 ↑ Symmetry =  dodecahedron's rotations = $A_5$ of order 60  
 ↑ (Dual = rhombic triacontahedron)  
 
+### I180-tI
+
+![180 clips forming 90 I-edges forming truncated icosahedron](I120-aD.jpg)  
+↑ # Clips = 180  
+↑ base = [truncated icosahedron]  
+↑ Vertex config = 5.5.6  
+↑ Symmetry =  dodecahedron's rotations = $A_5$ of order 60  
+↑ Dual = [I180-kD](#i180-kd)  
+
 ### I36-kT
 
 ![36 clips forming 18 I-edges forming triakis tetrahedron](I36-kT.jpg)  
@@ -242,7 +251,24 @@ Two clips = one I-edge = one edge.
 ↑ Base = [pentakis dodecahedron]  
 ↑ Face config = 5.6.6  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
-↑ (Dual = truncated icosidodecahedron)  
+↑ Dual = [I180-tI](#i180-ti)  
+
+### I300-sD
+
+![300 clips forming 150 I-edges forming snub dodecahedron](I300-sD.jpg)  
+↑ # Clips = 300  
+↑ Base = [snub dodecahedron]  
+↑ Face config = 3.3.3.3.5  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ (Dual = Pentagonal hexecontahedron)  
+
+### I240-cD
+
+![240 clips forming 120 I-edges forming chamfered dodecahedron](I240-cD.jpg)  
+↑ # Clips = 240  
+↑ Base = [chamfered dodecahedron]  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ (Dual = Pentakis icosidodecahedron)  
 
 ## Read more
 
