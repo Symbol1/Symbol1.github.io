@@ -11,12 +11,12 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 
 ## 2-clip constructions
 
-### 2face2face
+### 2-face2face
 
 ![2 binder clips face to face](2-face2face.jpg)  
 ↑ # Clips = 2  
 
-### 2back2back
+### 2-back2back
 
 ![2 binder clips back to back](2-back2back.jpg)  
 ↑ # Clips = 2  
@@ -274,30 +274,30 @@ For more on symmetry groups, see
 
 [Archimedean solid]: https://en.wikipedia.org/wiki/Archimedean_solid
   [truncated tetrahedron]: https://en.wikipedia.org/wiki/Truncated_tetrahedron
+  [cuboctahedron]: https://en.wikipedia.org/wiki/Cuboctahedron
   [truncated cube]: https://en.wikipedia.org/wiki/Truncated_cube
   [truncated octahedron]: https://en.wikipedia.org/wiki/Truncated_octahedron
+  [rhombicuboctahedron]: https://en.wikipedia.org/wiki/Rhombicuboctahedron
   [truncated cuboctahedron]: https://en.wikipedia.org/wiki/Truncated_cuboctahedron
+  [snub cube]: https://en.wikipedia.org/wiki/Snub_cube
+  [icosidodecahedron]: https://en.wikipedia.org/wiki/Icosidodecahedron
   [truncated dodecahedron]: https://en.wikipedia.org/wiki/Truncated_dodecahedron
   [truncated icosahedron]: https://en.wikipedia.org/wiki/Truncated_icosahedron
-  [truncated icosidodecahedron]: https://en.wikipedia.org/wiki/Truncated_icosidodecahedron
-  [cuboctahedron]: https://en.wikipedia.org/wiki/Cuboctahedron
-  [icosidodecahedron]: https://en.wikipedia.org/wiki/Icosidodecahedron
-  [rhombicuboctahedron]: https://en.wikipedia.org/wiki/Rhombicuboctahedron
   [rhombicosidodecahedron]: https://en.wikipedia.org/wiki/Rhombicosidodecahedron
-  [snub cube]: https://en.wikipedia.org/wiki/Snub_cube
+  [truncated icosidodecahedron]: https://en.wikipedia.org/wiki/Truncated_icosidodecahedron
   [snub dodecahedron]: https://en.wikipedia.org/wiki/Snub_dodecahedron
 
 [Catalan solid]: https://en.wikipedia.org/wiki/Catalan_solid
   [triakis tetrahedron]: https://en.wikipedia.org/wiki/Triakis_tetrahedron
+  [rhombic dodecahedron]: https://en.wikipedia.org/wiki/Rhombic_dodecahedron
   [triakis octahedron]: https://en.wikipedia.org/wiki/Triakis_octahedron
   [disdyakis dodecahedron]: https://en.wikipedia.org/wiki/Disdyakis_dodecahedron
+  [deltoidal icositetrahedron]: https://en.wikipedia.org/wiki/Deltoidal_icositetrahedron
   [tetrakis hexahedron]: https://en.wikipedia.org/wiki/Tetrakis_hexahedron
+  [pentagonal icositetrahedron]: https://en.wikipedia.org/wiki/Pentagonal_icositetrahedron
+  [rhombic triacontahedron]: https://en.wikipedia.org/wiki/Rhombic_triacontahedron
   [triakis icosahedron]: https://en.wikipedia.org/wiki/Triakis_icosahedron
   [disdyakis triacontahedron]: https://en.wikipedia.org/wiki/Disdyakis_triacontahedron
-  [pentakis dodecahedron]: https://en.wikipedia.org/wiki/Pentakis_dodecahedron
-  [rhombic dodecahedron]: https://en.wikipedia.org/wiki/Rhombic_dodecahedron
-  [rhombic triacontahedron]: https://en.wikipedia.org/wiki/Rhombic_triacontahedron
-  [deltoidal icositetrahedron]: https://en.wikipedia.org/wiki/Deltoidal_icositetrahedron
   [deltoidal hexecontahedron]: https://en.wikipedia.org/wiki/Deltoidal_hexecontahedron
-  [pentagonal icositetrahedron]: https://en.wikipedia.org/wiki/Pentagonal_icositetrahedron
+  [pentakis dodecahedron]: https://en.wikipedia.org/wiki/Pentakis_dodecahedron
   [pentagonal hexecontahedron]: https://en.wikipedia.org/wiki/Pentagonal_hexecontahedron
