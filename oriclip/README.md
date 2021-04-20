@@ -10,10 +10,10 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 Jump to
 [2-clip](#2-clip-constructions),
 [6-clip](#6-clip-constructions),
-[I-Platonic](#i-series,-platonic)
-[I-Archimedean](#i-series,-archimedean),
-[I-Catalan](#i-series,-catalan),
-[I-Fullerene](#i-series,-fullerene).
+[I-Platonic](#i-series-platonic)
+[I-Archimedean](#i-series-archimedean),
+[I-Catalan](#i-series-catalan),
+[I-Fullerene](#i-series-fullerene).
 
 (The page is under construction; check back periodically.)
 
@@ -36,49 +36,74 @@ Jump to
 ![6 binder clips forming a cycle](6-cycle.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [triangular antiprism]  
-↑ Symmetry = triangular antiprism's rotations = $D_6$ of order 6
+↑ Symmetry = triangular antiprism's rotations = $D_6$ of order 6  
+
+### 6-dense
+
+![6 binder clips clipping and interlocking densely](6-dense.jpg)  
+↑ # Clips = 6  
+↑ Base = [six-piece burr]  
+↑ Symmetry = triangular antiprism's rotations = $D_6$ of order 6  
 
 ### 6-wedge
 
 ![6 binder clips with mouths pointing outward](6-wedge.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [six-piece burr]  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12
+↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
 
 ### 6-fitin
 
 ![6 binder clips with handles fit in notches](6-fitin.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [octahedron]  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12
+↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
 
 ### 6-twist
 
 ![6 binder clips with interlocking handles](6-twist.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [octahedron]  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12
+↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
 
 ### 6-cross
 
 ![6 binder clips forming a 3D cross](6-cross.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [three-piece burr]  
-↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24
+↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
 
 ### 6-spike
 
 ![6 binder clips with spiky handles](6-spike.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [six-piece burr]  
-↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24
+↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
 
 ### 6-stand
 
 ![6 binder clips whose bodies stand on the octahedron formed by handles](6-stand.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [octahedron]  
-↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24
+↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
+
+## S-series
+
+One clip = one vertex.
+
+### S12-aC
+
+![12 clips forming cuboctahedron](S12-aC.jpg)  
+↑ # Clips = 12  
+↑ Base = [cuboctahedron]  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+
+### S30-aD
+
+![30 clips forming icosidodecahedron](S30-aD.jpg)  
+↑ # Clips = 30  
+↑ Base = [icosidodecahedron]  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 
 ## A-series
 
@@ -89,21 +114,21 @@ One clip = one edge.
 ![12 clips forming spiky octahedron](A12-O.jpg)  
 ↑ # Clips = 12  
 ↑ Base = [octahedron]  
-↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24
+↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
 
 ### A24-aC
 
 ![24 clips forming spiky cuboctahedron](A24-aC.jpg)  
 ↑ # Clips = 24  
 ↑ Base = [cuboctahedron]  
-↑ Symmetry = cube's rotations = $S_4$ of order 24
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
 
 ### A36-kC
 
 ![36 clips forming spiky tetrakis hexahedron](A36-kC.jpg)  
 ↑ # Clips = 36  
 ↑ Base = [tetrakis hexahedron]  
-↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24
+↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
 ↑ (Dual = truncated octahedron)  
 
 ### A48-aaC
@@ -111,7 +136,7 @@ One clip = one edge.
 ![48 clips forming spiky rhombicuboctahedron](A48-aaC.jpg)  
 ↑ # Clips = 48  
 ↑ Base = [rhombicuboctahedron]  
-↑ Symmetry = cube's rotations = $S_4$ of order 24
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
 
 ## I-series, Platonic
 
@@ -171,7 +196,7 @@ Two clips = one I-edge = one edge.
 ↑ Base = [truncated tetrahedron]  
 ↑ Vertex config = 3.6.6  
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
-↑ Dual = [I36-kT](#36-kt)  
+↑ Dual = [I36-kT](#i36-kt)  
 
 ### I48-aC
 
@@ -215,7 +240,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 120  
 ↑ base = [icosidodecahedron]  
 ↑ Vertex config = 3.5.3.5  
-↑ Symmetry =  dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ (Dual = rhombic triacontahedron)  
 
 ### I180-tI
@@ -224,7 +249,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 180  
 ↑ base = [truncated icosahedron]  
 ↑ Vertex config = 5.5.6  
-↑ Symmetry =  dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [I180-kD](#i180-kd)  
 
 ## I-series, Catalan
@@ -281,8 +306,29 @@ Two clips = one I-edge = one edge.
 ![240 clips forming 120 I-edges forming chamfered dodecahedron](I240-cD.jpg)  
 ↑ # Clips = 240  
 ↑ Base = [chamfered dodecahedron]  
+↑ Each dodecahedron vertex = 4 new vertices  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
-↑ (Dual = Pentakis icosidodecahedron)  
+↑ Dual = [I240-uI](#i240-ui)  
+
+### I240-uI
+
+![240 clips forming 120 I-edges forming ](I240-uI.jpg)  
+↑ # Clips = 240  
+↑ Base = [Pentakis icosidodecahedron] aka C80  
+↑ Each icosahedron face = 4 small triangles  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Dual = [I240-cD](#i240-cd)  
+
+## L-series
+
+### L24-O
+
+![24 clips forming 12 L-edges forming Octahedron](L24-O.jpg)  
+↑ # Clips = 36  
+↑ Base = [Octahedron]  
+↑ Vertex config = 3.3.3.3  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Dual = [L24-C](#L24-C)  
 
 ## Read more
 
@@ -292,12 +338,12 @@ For a systematic introduction of polyhedra, checkout [Platonic solid] and
 For more on symmetry groups, see
 [Polyhedral group](https://enwp.org/Polyhedral_group) and the references therein.
 
-For naming, see [Conway notation] and [Goldberg polyhedra].
+For naming, see [Conway notation] and [list of "G" polyhedra].
 Or play with this interactive web app:
 [polyHédronisme](https://levskaya.github.io/polyhedronisme/).
 (Refresh to get random example!)
 
-## Similar works by other people
+## Similar clip works by other people
 
 * <http://zacharyabel.com/sculpture/> by Zachary Abel.
 
@@ -347,5 +393,11 @@ Or play with this interactive web app:
   [pentakis dodecahedron]: https://en.wikipedia.org/wiki/Pentakis_dodecahedron
   [pentagonal hexecontahedron]: https://en.wikipedia.org/wiki/Pentagonal_hexecontahedron
 
+[Goldberg polyhedra]: https://en.wikipedia.org/wiki/Goldberg_polyhedron
+  [chamfered dodecahedron]: https://en.wikipedia.org/wiki/Chamfered_dodecahedron
+
+[geodesic polyhedron]: https://en.wikipedia.org/wiki/Geodesic_polyhedron
+  [pentakis icosidodecahedron]: https://en.wikipedia.org/wiki/Pentakis_icosidodecahedron
+
 [Conway notation]: https://en.wikipedia.org/wiki/Conway_polyhedron_notation
-[Goldberg polyhedra]: https://en.wikipedia.org/wiki/List_of_geodesic_polyhedra_and_Goldberg_polyhedra
+[list of "G" polyhedra]: https://en.wikipedia.org/wiki/List_of_geodesic_polyhedra_and_Goldberg_polyhedra
