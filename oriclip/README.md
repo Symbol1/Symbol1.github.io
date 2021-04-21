@@ -10,7 +10,10 @@ Note that binder clips are sometimes called foldover clip or foldback clip.
 Jump to
 [2-clip](#2-clip-constructions),
 [6-clip](#6-clip-constructions),
-[I-Platonic](#i-series-platonic)
+[S-series](#s-series),
+[A-series](#a-series),
+[L-series](#l-series),
+[I-Platonic](#i-series-platonic),
 [I-Archimedean](#i-series-archimedean),
 [I-Catalan](#i-series-catalan),
 [I-Fullerene](#i-series-fullerene).
@@ -90,6 +93,7 @@ Jump to
 ## S-series
 
 One clip = one vertex.
+One handle = one edge.
 
 ### S12-aC
 
@@ -137,6 +141,47 @@ One clip = one edge.
 ↑ # Clips = 48  
 ↑ Base = [rhombicuboctahedron]  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
+
+## L-series
+
+Two clips = one L-edge = one edge.
+
+### L24-C
+
+![24 clips forming 12 L-edges forming Cube](L24-C.jpg)  
+↑ # Clips = 24  
+↑ Base = [Cube]  
+↑ Vertex config = 4.4.4  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Dual = [L24-O](#l24-o)  
+
+### L24-O
+
+![24 clips forming 12 L-edges forming Octahedron](L24-O.jpg)  
+↑ # Clips = 24  
+↑ Base = [Octahedron]  
+↑ Vertex config = 3.3.3.3  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Dual = [L24-C](#l24-c)  
+
+### L60-D
+
+![60 clips forming 30 L-edges forming dodecahedron](L60-D.jpg)  
+↑ # Clips = 60  
+↑ Vertex config = 5.5.5  
+↑ Base = [dodecahedron]  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Dual = [L60-I](#l60-i)  
+
+### L60-I
+
+![60 clips forming 30 L-edges forming icosahedron](L60-I.jpg)  
+↑ # Clips = 60  
+↑ Vertex config = 3.3.3  
+↑ Base = [icosahedron]  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Dual = [L60-D](#l60-d)  
+
 
 ## I-series, Platonic
 
@@ -318,17 +363,6 @@ Two clips = one I-edge = one edge.
 ↑ Each icosahedron face = 4 small triangles  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [I240-cD](#i240-cd)  
-
-## L-series
-
-### L24-O
-
-![24 clips forming 12 L-edges forming Octahedron](L24-O.jpg)  
-↑ # Clips = 36  
-↑ Base = [Octahedron]  
-↑ Vertex config = 3.3.3.3  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
-↑ Dual = [L24-C](#L24-C)  
 
 ## Read more
 
