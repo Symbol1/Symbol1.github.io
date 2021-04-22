@@ -133,7 +133,6 @@ One clip = one edge.
 ↑ # Clips = 36  
 ↑ Base = [tetrakis hexahedron]  
 ↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
-↑ (Dual = truncated octahedron)  
 
 ### A48-aaC
 
@@ -142,24 +141,53 @@ One clip = one edge.
 ↑ Base = [rhombicuboctahedron]  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 
+## X-series
+
+### X24-C
+
+![24 clips forming 12 X-edges forming cube](X24-C.jpg)  
+↑ # Clips = 24  
+↑ base = [cube]  
+↑ Vertex config = 4.4.4  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ dual = [X24-O](#x24-o)  
+
+### X24-O
+
+![24 clips forming 12 X-edges forming octahedron](X24-O.jpg)  
+↑ # Clips = 24  
+↑ base = [octahedron]  
+↑ Vertex config = 4.4.4  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ dual = [X24-C](#x24-c)  
+
 ## L-series
 
 Two clips = one L-edge = one edge.
 
+### L12-T
+
+![12 clips forming 6 L-edges forming tetrahedron](L12-T.jpg)  
+↑ # Clips = 12  
+↑ Base = [tetrahedron]  
+↑ Vertex config = 3.3.3  
+↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Dual = [L24-O](#l24-o)  
+
 ### L24-C
 
-![24 clips forming 12 L-edges forming Cube](L24-C.jpg)  
+![24 clips forming 12 L-edges forming cube](L24-C.jpg)  
 ↑ # Clips = 24  
-↑ Base = [Cube]  
+↑ Base = [cube]  
 ↑ Vertex config = 4.4.4  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ Dual = [L24-O](#l24-o)  
 
 ### L24-O
 
-![24 clips forming 12 L-edges forming Octahedron](L24-O.jpg)  
+![24 clips forming 12 L-edges forming octahedron](L24-O.jpg)  
 ↑ # Clips = 24  
-↑ Base = [Octahedron]  
+↑ Base = [octahedron]  
 ↑ Vertex config = 3.3.3.3  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ Dual = [L24-C](#l24-c)  
@@ -181,7 +209,6 @@ Two clips = one L-edge = one edge.
 ↑ Base = [icosahedron]  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [L60-D](#l60-d)  
-
 
 ## I-series, Platonic
 
@@ -363,6 +390,26 @@ Two clips = one I-edge = one edge.
 ↑ Each icosahedron face = 4 small triangles  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [I240-cD](#i240-cd)  
+
+## W-series
+
+### W24-C
+
+![24 clips forming 12 W-edges forming cube](W24-C.jpg)  
+↑ # Clips = 24  
+↑ base = [cube]  
+↑ Vertex config = 4.4.4  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ dual = [W24-O](#w24-o)  
+
+### W24-O
+
+![24 clips forming 12 W-edges forming octahedron](W24-O.jpg)  
+↑ # Clips = 24  
+↑ base = [octahedron]  
+↑ Vertex config = 4.4.4  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ dual = [W24-C](#w24-c)  
 
 ## Read more
 
