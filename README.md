@@ -25,7 +25,7 @@ Social media
 
 Interests =
 Information theory / coding theory / Shannon theory:
-Random coding and polar coding over communication channels.
+Random coding and polar coding over communication channels;
 Distributed storage and distributed computation,
 application of algebra and combinatorics to.
 
@@ -60,7 +60,7 @@ Advisor = [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/)
 University of Illinois at Urbana--Champaign  
 2016--2021
 
-Visiter  
+Visitor  
 National Center for Theoretical Sciences (國家理論科學研究中心)  
 2020 Winter
 
