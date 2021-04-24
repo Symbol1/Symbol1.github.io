@@ -7,11 +7,12 @@ The name *oriclip* is inspired by [*origami*](https://enwp.org/Origami),
 which stands for *ori* “fold” and *kami* “paper”.
 Note that binder clips are sometimes called foldover clip or foldback clip.
 
-Jump to
+Fast scroll to
 [2-clip](#2-clip-constructions),
 [6-clip](#6-clip-constructions),
 [S-series](#s-series),
 [A-series](#a-series),
+[X-series](#x-series),
 [L-series](#l-series),
 [I-Platonic](#i-series-platonic),
 [I-Archimedean](#i-series-archimedean),
@@ -22,14 +23,14 @@ Jump to
 
 ## 2-clip constructions
 
-### 2-face2face
+### 2-ftf
 
-![2 binder clips face to face](2-face2face.jpg)  
+![2 binder clips touch face to face](2-ftf.jpg)  
 ↑ # Clips = 2  
 
-### 2-back2back
+### 2-btb
 
-![2 binder clips back to back](2-back2back.jpg)  
+![2 binder clips hold back to back](2-btb.jpg)  
 ↑ # Clips = 2  
 
 ## 6-clip constructions
@@ -89,6 +90,14 @@ Jump to
 ↑ # Clips = 6  
 ↑ Base = [octahedron]  
 ↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
+
+## Polylink
+
+### 12-aC
+
+![12 binder clips forming 4 triangles forming a polylink](12-aC.jpg)  
+↑ # Clips = 12  
+
 
 ## S-series
 
@@ -160,6 +169,14 @@ One clip = one edge.
 ↑ Vertex config = 4.4.4  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ dual = [X24-C](#x24-c)  
+
+### X60-D
+
+![60 clips forming 30 X-edges forming dodecahedron](X60-D.jpg)  
+↑ # Clips = 30  
+↑ Vertex config = 5.5.5  
+↑ Base = [dodecahedron]  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 
 ## L-series
 
