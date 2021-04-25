@@ -23,6 +23,8 @@ Social media
 
 * [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
 
+* [Microsoft Academic](https://academic.microsoft.com/profile/g141337f-e259-4116-9954-g46j0ef17e2h/Symbol/)
+
 Interests =
 Information theory / coding theory / Shannon theory:
 Random coding and polar coding over communication channels;
