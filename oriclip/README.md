@@ -93,11 +93,11 @@ Fast scroll to
 
 ## Polylink
 
-### 12-aC
+### Q12-aC
 
-![12 binder clips forming 4 triangles forming a polylink](12-aC.jpg)  
+![12 binder clips forming 4 triangles forming a polylink](Q12-aC.jpg)  
 ↑ # Clips = 12  
-
+↑ Base = [cuboctahedron]  
 
 ## S-series
 
@@ -238,7 +238,7 @@ Two clips = one I-edge = one edge.
 ↑ Base = [tetrahedron]  
 ↑ Vertex config = 3.3.3  
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
-↑ Dual = [itself](#i12-T)  
+↑ Dual = [itself](#i12-t)  
 
 ### I24-C
 
@@ -410,6 +410,15 @@ Two clips = one I-edge = one edge.
 
 ## W-series
 
+### W12-T
+
+![12 clips forming 6 W-edges forming tetrahedron](W12-T.jpg)  
+↑ # Clips = 12  
+↑ Base = [tetrahedron]  
+↑ Vertex config = 3.3.3  
+↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Dual = [itself](#w12-t)  
+
 ### W24-C
 
 ![24 clips forming 12 W-edges forming cube](W24-C.jpg)  
@@ -436,7 +445,7 @@ For a systematic introduction of polyhedra, checkout [Platonic solid] and
 For more on symmetry groups, see
 [Polyhedral group](https://enwp.org/Polyhedral_group) and the references therein.
 
-For naming, see [Conway notation] and [list of "G" polyhedra].
+For my naming scheme, see [Conway notation] and [list of "G" polyhedra].
 Or play with this interactive web app:
 [polyHédronisme](https://levskaya.github.io/polyhedronisme/).
 (Refresh to get random example!)
