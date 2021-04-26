@@ -1,5 +1,5 @@
 
-# Distributed Computation Papers
+# Distributed Computation Paper
 
 I have one work on distributed computation.
 
@@ -10,13 +10,16 @@ I have one work on distributed computation.
 [PlutoCharon20] deals with distributed matrix-matrix multiplication (MMM)
 where the workers might crash or straggle.
 By MMM we mean that we want to compute $C=AB$, where $A, B$ are huge matrices.
-By crashing and straggling we mean that an entry multiplication,
-for instance $A_{12}\times A_{23}$, might be available very late, if at all.
+By crashing and straggling we mean that some entry multiplication,
+for instance $A_{12}\times B_{23}$, might be available very late, if at all.
+This makes the computation slow.
 
 To compensate, one needs to hire more-than-necessary workers
-and asks them to do redundant computations.
+and ask them to do redundant computations.
 A possibility to generate redundancy is to draw random vectors $g, h$
 and then ask extra workers to compute $(gA)\times(Bh)$ on top of $A\times B$.
+Once this is done, the associativity equation $(gA)(Bh)=gCh$
+will give you some parity checks that help you recover the missing entries of $C$.
 
 The contribution of [PlutoCharon20] is three-fold.
 One: We obverse that the computation of $A\times B$
