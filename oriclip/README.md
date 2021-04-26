@@ -99,6 +99,17 @@ Fast scroll to
 ↑ # Clips = 12  
 ↑ Base = [cuboctahedron]  
 
+### Φ-series
+
+### Φ24-O
+
+![24 clips forming 12 Φ-edges forming octahedron](Φ24-O.jpg)  
+↑ # Clips = 24  
+↑ base = [octahedron]  
+↑ Vertex config = 3.3.3.3  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ dual = [Φ24-C](#φ24-c)  
+
 ## S-series
 
 One clip = one vertex.
@@ -150,6 +161,18 @@ One clip = one edge.
 ↑ Base = [rhombicuboctahedron]  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 
+## Δ-series
+
+### Δ60-D
+
+![60 clips forming 30 Δ-edges forming dodecahedron](L60-D.jpg)  
+↑ # Clips = 60  
+↑ Vertex config = 5.5.5  
+↑ Base = [dodecahedron]  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Dual = [Δ60-I](#δ60-i)  
+
+
 ## X-series
 
 ### X24-C
@@ -166,7 +189,7 @@ One clip = one edge.
 ![24 clips forming 12 X-edges forming octahedron](X24-O.jpg)  
 ↑ # Clips = 24  
 ↑ base = [octahedron]  
-↑ Vertex config = 4.4.4  
+↑ Vertex config = 3.3.3.3  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ dual = [X24-C](#x24-c)  
 
@@ -226,6 +249,14 @@ Two clips = one L-edge = one edge.
 ↑ Base = [icosahedron]  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [L60-D](#l60-d)  
+
+### L36-tT
+
+![36 clips forming 18 L-edges forming truncated tetrahedron](L36-tT.jpg)  
+↑ # Clips = 36  
+↑ Base = [truncated tetrahedron]  
+↑ Vertex config = 3.6.6  
+↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
 
 ## I-series, Platonic
 
@@ -401,9 +432,9 @@ Two clips = one I-edge = one edge.
 
 ### I240-uI
 
-![240 clips forming 120 I-edges forming ](I240-uI.jpg)  
+![240 clips forming 120 I-edges forming pentakis icosidodecahedron](I240-uI.jpg)  
 ↑ # Clips = 240  
-↑ Base = [Pentakis icosidodecahedron] aka C80  
+↑ Base = [pentakis icosidodecahedron] aka C80  
 ↑ Each icosahedron face = 4 small triangles  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [I240-cD](#i240-cd)  
@@ -433,9 +464,17 @@ Two clips = one I-edge = one edge.
 ![24 clips forming 12 W-edges forming octahedron](W24-O.jpg)  
 ↑ # Clips = 24  
 ↑ base = [octahedron]  
-↑ Vertex config = 4.4.4  
+↑ Vertex config = 3.3.3.3  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ dual = [W24-C](#w24-c)  
+
+### W36-tT
+
+![36 clips forming 18 W-edges forming truncated tetrahedron](W36-tT.jpg)  
+↑ # Clips = 36  
+↑ Base = [truncated tetrahedron]  
+↑ Vertex config = 3.6.6  
+↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
 
 ## Read more
 
