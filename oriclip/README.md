@@ -101,14 +101,23 @@ Fast scroll to
 
 ### Φ-series
 
+### Φ24-C
+
+![24 clips forming 12 Φ-edges forming cube](Φ24-C.jpg)  
+↑ # Clips = 24  
+↑ Base = [cube]  
+↑ Vertex config = 4.4.4  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Dual = [Φ24-O](#φ24-o)  
+
 ### Φ24-O
 
 ![24 clips forming 12 Φ-edges forming octahedron](Φ24-O.jpg)  
 ↑ # Clips = 24  
-↑ base = [octahedron]  
+↑ Base = [octahedron]  
 ↑ Vertex config = 3.3.3.3  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
-↑ dual = [Φ24-C](#φ24-c)  
+↑ Dual = [Φ24-C](#φ24-c)  
 
 ## S-series
 
@@ -171,7 +180,6 @@ One clip = one edge.
 ↑ Base = [dodecahedron]  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [Δ60-I](#δ60-i)  
-
 
 ## X-series
 
@@ -236,8 +244,8 @@ Two clips = one L-edge = one edge.
 
 ![60 clips forming 30 L-edges forming dodecahedron](L60-D.jpg)  
 ↑ # Clips = 60  
-↑ Vertex config = 5.5.5  
 ↑ Base = [dodecahedron]  
+↑ Vertex config = 5.5.5  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [L60-I](#l60-i)  
 
@@ -245,8 +253,8 @@ Two clips = one L-edge = one edge.
 
 ![60 clips forming 30 L-edges forming icosahedron](L60-I.jpg)  
 ↑ # Clips = 60  
-↑ Vertex config = 3.3.3  
 ↑ Base = [icosahedron]  
+↑ Vertex config = 3.3.3.3.3  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [L60-D](#l60-d)  
 
@@ -349,7 +357,7 @@ Two clips = one I-edge = one edge.
 
 ![120 clips forming 60 I-edges forming snub cube](I120-sC.jpg)  
 ↑ # Clips = 120  
-↑ base = [snub cube]  
+↑ Base = [snub cube]  
 ↑ Vertex config = 3.3.3.3.4  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ (Dual = pentagonal icositetrahedron)  
@@ -358,16 +366,16 @@ Two clips = one I-edge = one edge.
 
 ![120 clips forming 60 I-edges forming icosidodecahedron](I120-aD.jpg)  
 ↑ # Clips = 120  
-↑ base = [icosidodecahedron]  
+↑ Base = [icosidodecahedron]  
 ↑ Vertex config = 3.5.3.5  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ (Dual = rhombic triacontahedron)  
 
 ### I180-tI
 
-![180 clips forming 90 I-edges forming truncated icosahedron](I120-aD.jpg)  
+![180 clips forming 90 I-edges forming truncated icosahedron](I180-tI.jpg)  
 ↑ # Clips = 180  
-↑ base = [truncated icosahedron]  
+↑ Base = [truncated icosahedron]  
 ↑ Vertex config = 5.5.6  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [I180-kD](#i180-kd)  
