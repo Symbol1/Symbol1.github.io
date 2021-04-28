@@ -174,14 +174,22 @@ One clip = one edge.
 
 ### Δ60-D
 
-![60 clips forming 30 Δ-edges forming dodecahedron](L60-D.jpg)  
+![60 clips forming 30 Δ-edges forming dodecahedron](Δ60-D.jpg)  
 ↑ # Clips = 60  
 ↑ Vertex config = 5.5.5  
 ↑ Base = [dodecahedron]  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
-↑ Dual = [Δ60-I](#δ60-i)  
 
 ## X-series
+
+### X12-T
+
+![12 clips forming 6 X-edges forming tetrahedron](X12-T.jpg)  
+↑ # Clips = 12  
+↑ Base = [tetrahedron]  
+↑ Vertex config = 3.3.3  
+↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Dual = [itself](#x12-t)  
 
 ### X24-C
 
@@ -220,7 +228,7 @@ Two clips = one L-edge = one edge.
 ↑ Base = [tetrahedron]  
 ↑ Vertex config = 3.3.3  
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
-↑ Dual = [L24-O](#l24-o)  
+↑ Dual = [itself](#l12-t)  
 
 ### L24-C
 
@@ -476,6 +484,15 @@ Two clips = one I-edge = one edge.
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ dual = [W24-C](#w24-c)  
 
+### W60-I
+
+![60 clips forming 30 W-edges forming icosahedron](W60-I.jpg)  
+↑ # Clips = 60  
+↑ Base = [icosahedron]  
+↑ Vertex config = 3.3.3.3.3  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Dual = [W60-D](#w60-d)  
+
 ### W36-tT
 
 ![36 clips forming 18 W-edges forming truncated tetrahedron](W36-tT.jpg)  
@@ -483,6 +500,7 @@ Two clips = one I-edge = one edge.
 ↑ Base = [truncated tetrahedron]  
 ↑ Vertex config = 3.6.6  
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+
 
 ## Read more
 
