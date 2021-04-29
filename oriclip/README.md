@@ -236,6 +236,16 @@ Two clips = one X-edge = one edge.
 ↑ Vertex config = 5.5.5  
 ↑ Base = [dodecahedron]  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ dual = [X60-I](#x60-i)  
+
+#### X60-I
+
+![60 clips forming 30 X-edges forming icosahedron](X60-I.jpg)  
+↑ # Clips = 30  
+↑ Vertex config = 3.3.3.3.3  
+↑ Base = [icosahedron]  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ dual = [X60-D](#x60-d)  
 
 ### L-series
 
@@ -372,6 +382,15 @@ Two clips = one I-edge = one edge.
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ Dual = [I48-jC](#i48-jc)  
 
+#### I72-tC
+
+![72 clips forming 36 I-edges forming truncated cube](I72-tC.jpg)  
+↑ # Clips = 72  
+↑ Base = [truncated cube]  
+↑ Vertex config = 3.8.8  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ (Dual = triakis octahedron)  
+
 #### I72-tO
 
 ![72 clips forming 36 I-edges forming truncated octahedron](I72-tO.jpg)  
@@ -416,6 +435,14 @@ Two clips = one I-edge = one edge.
 ↑ Vertex config = 5.5.6  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ Dual = [I180-kD](#i180-kd)  
+
+#### I240-aaD
+
+![240 clips forming 120 I-edges forming rhombicosidodecahedron](I240-aaD.jpg)  
+↑ # Clips = 240  
+↑ Base = [rhombicosidodecahedron]  
+↑ Vertex config = 3.4.5.4  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 
 ### I-series, Catalan
 
