@@ -1,5 +1,5 @@
 
-# TikZ TeX Talk
+# TikZ TeX TalK
 
 Hi!
 
