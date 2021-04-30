@@ -196,6 +196,14 @@ Three clips = one Δ-vertex = one vertex.
 ↑ Base = [dodecahedron]  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 
+#### Δ180-tI
+
+![60 clips forming 30 Δ-edges forming truncated icosahedron](Δ180-tI.jpg)  
+↑ # Clips = 180  
+↑ Vertex config = 5.6.6  
+↑ Base = [truncated icosahedron]  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+
 ## Edge unit
 
 ### X-series
@@ -425,7 +433,7 @@ Two clips = one I-edge = one edge.
 ↑ Base = [icosidodecahedron]  
 ↑ Vertex config = 3.5.3.5  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
-↑ (Dual = rhombic triacontahedron)  
+↑ Dual = [I120-jD](#i120-jd)
 
 #### I180-tI
 
@@ -531,6 +539,15 @@ Two clips = one I-edge = one edge.
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ dual = [W24-C](#w24-c)  
 
+#### W60-D
+
+![60 clips forming 30 W-edges forming dodecahedron](W60-D.jpg)  
+↑ # Clips = 60  
+↑ Base = [dodecahedron]  
+↑ Vertex config = 5.5.5  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Dual = [W60-I](#w60-i)  
+
 #### W60-I
 
 ![60 clips forming 30 W-edges forming icosahedron](W60-I.jpg)  
@@ -547,6 +564,14 @@ Two clips = one I-edge = one edge.
 ↑ Base = [truncated tetrahedron]  
 ↑ Vertex config = 3.6.6  
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+
+#### W120-aD
+
+![120 clips forming 60 W-edges forming icosidodecahedron](W120-aD.jpg)  
+↑ # Clips = 120  
+↑ Base = [icosidodecahedron]  
+↑ Vertex config = 3.5.3.5  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 
 ## Read more
 
@@ -611,9 +636,9 @@ Or play with this interactive web app:
   [pentagonal hexecontahedron]: https://en.wikipedia.org/wiki/Pentagonal_hexecontahedron
 
 [list of "G" polyhedra]: https://en.wikipedia.org/wiki/List_of_geodesic_polyhedra_and_Goldberg_polyhedra
-  [Goldberg polyhedra]: https://en.wikipedia.org/wiki/Goldberg_polyhedron
-    [chamfered dodecahedron]: https://en.wikipedia.org/wiki/Chamfered_dodecahedron
-  [geodesic polyhedron]: https://en.wikipedia.org/wiki/Geodesic_polyhedron
-    [pentakis icosidodecahedron]: https://en.wikipedia.org/wiki/Pentakis_icosidodecahedron
+ [Goldberg polyhedra]: https://en.wikipedia.org/wiki/Goldberg_polyhedron
+  [chamfered dodecahedron]: https://en.wikipedia.org/wiki/Chamfered_dodecahedron
+ [geodesic polyhedron]: https://en.wikipedia.org/wiki/Geodesic_polyhedron
+  [pentakis icosidodecahedron]: https://en.wikipedia.org/wiki/Pentakis_icosidodecahedron
 
 [Conway notation]: https://en.wikipedia.org/wiki/Conway_polyhedron_notation
