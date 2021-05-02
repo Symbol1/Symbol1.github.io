@@ -361,15 +361,6 @@ Two clips = one I-edge = one edge.
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ dual = [I60-D](#i60-d)  
 
-#### I300-sD
-
-![300 clips forming 150 I-edges forming snub dodecahedron](I300-sD.jpg)  
-↑ # Clips = 300  
-↑ Base = [snub dodecahedron]  
-↑ Face config = 3.3.3.3.5  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
-↑ (Dual = pentagonal hexecontahedron)  
-
 ### I-series, Archimedean
 
 #### I36-tT
@@ -451,6 +442,15 @@ Two clips = one I-edge = one edge.
 ↑ Base = [rhombicosidodecahedron]  
 ↑ Vertex config = 3.4.5.4  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+
+#### I300-sD
+
+![300 clips forming 150 I-edges forming snub dodecahedron](I300-sD.jpg)  
+↑ # Clips = 300  
+↑ Base = [snub dodecahedron]  
+↑ Face config = 3.3.3.3.5  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ (Dual = pentagonal hexecontahedron)  
 
 ### I-series, Catalan
 
