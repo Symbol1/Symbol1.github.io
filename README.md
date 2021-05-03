@@ -102,6 +102,8 @@ Teaching in a [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)
 as an alternative to the mandatory military service.  
 2016
 
+[TikZ TeX Talk](/ttt) collects some of my ideas for (La)TeX and TikZ.
+
 [Vaseman](/vaseman) is about drawing people that look like vases.
 (Data plan warning: many photos!)
 

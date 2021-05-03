@@ -36,10 +36,10 @@ Convert pdf to gif with terminal command
 convert -delay 2 cycloid.pdf cycloid.gif
 ```
 
-or this command with anti-aliasing
+or with this command that does anti-aliasing
 
 ```shell
-    convert -delay 2 -density 300 -resize 300x300 cycloid.pdf cycloid.gif
+convert -delay 2 -density 300 -resize 300x300 cycloid.pdf cycloid.gif
 ```
 
 This is inspired by <https://twitter.com/jagarikin/status/1331409504953540613>.
