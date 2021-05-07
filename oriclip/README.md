@@ -16,8 +16,8 @@ Fast scroll to
   [S-series](#s-series),
   [A-series](#a-series)
 * Vertex unit:
-  [Φ-series](φ-series),
-  [Δ-series](δ-series)
+  [Φ-series](#φ-series),
+  [Δ-series](#δ-series)
 * Edge unit:
   [X-series](#x-series),
   [L-series](#l-series),
@@ -311,6 +311,14 @@ Two clips = one L-edge = one edge.
 ↑ Base = [truncated tetrahedron]  
 ↑ Vertex config = 3.6.6  
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+
+#### L48-aC
+
+![48 clips forming 24 L-edges forming cuboctahedron](L48-aC.jpg)  
+↑ # Clips = 48  
+↑ Base = [cuboctahedron]  
+↑ Vertex config = 3.4.3.4  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
 
 ### I-series, Platonic
 
