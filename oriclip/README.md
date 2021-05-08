@@ -480,6 +480,15 @@ Two clips = one I-edge = one edge.
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ Dual = [I48-aC](#i48-ac)  
 
+#### I72-kC
+
+![72 clips forming 36 I-edges forming tetrakis hexahedron](I72-kC.jpg)  
+↑ # Clips = 72  
+↑ Base = [tetrakis hexahedron]  
+↑ Face config = 4.6.6  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Dual = [I72-tO](#i72-to)  
+
 #### I120-jD
 
 ![120 clips forming 60 I-edges forming rhombic triacontahedron](I120-jD.jpg)  
