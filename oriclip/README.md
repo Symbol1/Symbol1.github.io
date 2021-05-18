@@ -405,7 +405,7 @@ Two clips = one I-edge = one edge.
 ↑ Base = [truncated octahedron]  
 ↑ Vertex config = 4.6.6  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
-↑ (Dual = tetrakis hexahedron)  
+↑ [I72-kC](#i72kc)  
 
 #### I96-aaC
 
@@ -414,7 +414,7 @@ Two clips = one I-edge = one edge.
 ↑ Base = [rhombicuboctahedron]  
 ↑ Vertex config = 3.4.4.4  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
-↑ (Dual = deltoidal icositetrahedron)  
+↑ [I96-jjC](#i96-jjc)  
 
 #### I120-sC
 
@@ -488,6 +488,15 @@ Two clips = one I-edge = one edge.
 ↑ Face config = 4.6.6  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ Dual = [I72-tO](#i72-to)  
+
+#### I96-jjC
+
+![96 clips forming 96 I-edges forming deltoidal icositetrahedron](I96-jjC.jpg)  
+↑ # Clips = 96  
+↑ Base = [deltoidal icositetrahedron]  
+↑ Face config = 3.4.4.4  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ [I96-aaC](#i96-aac)  
 
 #### I120-jD
 
