@@ -599,6 +599,14 @@ Two clips = one I-edge = one edge.
 ↑ Vertex config = 3.5.3.5  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 
+#### W240-cD
+
+![240 clips forming 60 W-edges forming chamfered dodecahedron](W240-cD.jpg)  
+↑ # Clips = 240  
+↑ Base = [chamfered dodecahedron]  
+↑ Each dodecahedron vertex = 4 new vertices  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+
 ## Read more
 
 For a systematic introduction of polyhedra, checkout [Platonic solid] and
