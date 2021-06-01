@@ -17,7 +17,8 @@ Fast scroll to
   [A-series](#a-series)
 * Vertex unit:
   [Φ-series](#φ-series),
-  [Δ-series](#δ-series)
+  [Δ-series](#δ-series),
+  [Η-series](#η-series)
 * Edge unit:
   [X-series](#x-series),
   [L-series](#l-series),
@@ -161,6 +162,18 @@ One clip = one edge.
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 
 ## Vertex unit
+
+### Η-series
+
+Four clips = one Η-vertex = one vertex.
+
+#### Η24-O
+
+![24 clips forming 12 Η-edges forming octahedron](Η24-O.jpg)  
+↑ # Clips = 24  
+↑ Base = [octahedron]  
+↑ Vertex config = 3.3.3.3  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
 
 ### Φ-series
 
