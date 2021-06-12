@@ -13,7 +13,7 @@
 ![Vaseman reached the top of mountain](Jau-Pao%20Wang%202020-12-03.jpg)  
 ↑ Artist illustration of *Polar Codes' Simplicity, Random Codes' Durability*.
 
-![Vaseman holding a windmill with Eiffel](Jau-Pao%20Wang%202020-12-17.jpg)  
+![Vaseman holding a windmill with Eiffel Tower](Jau-Pao%20Wang%202020-12-17.jpg)  
 ↑ Artist illustration of *Multilinear Algebra for Distributed Storage*.
 
 ![Vaseman family jumping on a grass field](Jau-Pao%20Wang%202021-04-12.jpg)
@@ -21,3 +21,6 @@
 
 ![Vaseman family wish you a happy new year](Jau-Pao%20Wang%202021-04-14.jpg)
 ↑ Artist illustration of my family wishing you a happy new year.
+
+![Vaseman couple happy with just-finished oriclip](Jau-Pao%20Wang%202021-05-20.jpg)
+↑ Artist illustration of we celebrating the completion of [oriclip](../oriclip).

@@ -16,9 +16,9 @@ Fast scroll to
   [S-series](#s-series),
   [A-series](#a-series)
 * Vertex unit:
+  [Η-series](#η-series),
   [Φ-series](#φ-series),
-  [Δ-series](#δ-series),
-  [Η-series](#η-series)
+  [Δ-series](#δ-series)
 * Edge unit:
   [X-series](#x-series),
   [L-series](#l-series),
@@ -619,6 +619,8 @@ Two clips = one I-edge = one edge.
 ↑ Base = [chamfered dodecahedron]  
 ↑ Each dodecahedron vertex = 4 new vertices  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+
+![vaseman and oriclip](../vaseman/Jau-Pao%20Wang%202021-05-20.jpg)
 
 ## Read more
 
