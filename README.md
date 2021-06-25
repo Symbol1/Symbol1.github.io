@@ -1,7 +1,7 @@
 
 # Hsin-Po Wang
 
-Math PhD @ UIUC
+Math PhD @ UIUC .. ECE postdoc @ UCSD
 
 ## Contact
 
@@ -55,11 +55,17 @@ is in IEEE Transactions on Information Theory, March 2021.
 [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570)
 is in IEEE Transactions on Information Theory, March 2021.
 
-## Education
+## Education & Positions
+
+Postdoc in Electrical and Computer Engineering  
+Advisor = Alexander Vardy  
+University of California San Diego  
+Advisor += [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
+2021--
 
 Ph.D in Mathematics  
 Advisor = [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/)  
-University of Illinois at Urbana--Champaign  
+University of Illinois Urbana-Champaign  
 2016--2021
 
 Visitor  
@@ -70,7 +76,7 @@ Bachelor of Science in Mathematics
 National Taiwan University (國立臺灣大學)  
 2011--2015
 
-## Honors
+## Awards & Honors
 
 [Irving Reiner Memorial Award in Algebra](https://math.illinois.edu/academics/graduate-program/funding/graduate-awards-and-fellowships/irving-reiner-memorial-award-and)  
 2021
