@@ -16,6 +16,24 @@
 
 * [隱藏數據](https://docs.google.com/spreadsheets/d/1yi99TOn-kWSfSSRRIKeAR_1ZTntbzmrvJ79MsMSoP9Q/)
 
-## 機制
+## 中文簡報
+
+* [定位月步傳送](https://docs.google.com/presentation/d/1vq6iNPsOQmgh8Z2rSqnK7arqhTwO42rmtAJc8M6wEpQ/)
+
+* [Amiibo 掉寶保底](https://docs.google.com/presentation/d/1WSLUUipMFUV08WIyTX89icfF3VsQIXHW4mTLKFD80Xo/)
+
+## 遊戲機制
 
 * [分類：遊戲機制](https://zeldamods.org/wiki/Category:Game_mechanics/zh)
+
+## 英文資料
+
+* [All Glitch](https://docs.google.com/spreadsheets/d/1xk1t-sG_49KG8ywW6lGijkwNDXAP1tDHCcaPLBdj74I/)
+  by That_Ski_Freak
+
+* [Combat Glossary](https://docs.google.com/document/d/1qtYT06sxweRW3tRnovcCc-f4xIOGFNsD02pG1TzloHc/)
+  by Rin
+
+## Discord
+
+*  YuDa 的 [Switch Game 頻道群](https://discord.com/invite/5V872Y8)
