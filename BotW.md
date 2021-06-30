@@ -22,18 +22,21 @@
 
 * [Amiibo 掉寶保底](https://docs.google.com/presentation/d/1WSLUUipMFUV08WIyTX89icfF3VsQIXHW4mTLKFD80Xo/)
 
-## 遊戲機制
+## 中文遊戲機制講解
 
-* [分類：遊戲機制](https://zeldamods.org/wiki/Category:Game_mechanics/zh)
+* [ZeldaMods：遊戲機制](https://zeldamods.org/wiki/Category:Game_mechanics/zh)
 
 ## 英文資料
 
-* [All Glitch](https://docs.google.com/spreadsheets/d/1xk1t-sG_49KG8ywW6lGijkwNDXAP1tDHCcaPLBdj74I/)
-  by That_Ski_Freak
+* [Legancy Object Map](https://objmap-legacy.zeldamods.org/)
+  by MrCheeze
+
+* [Object Map](https://objmap.zeldamods.org/)
+  by leoetlino
 
 * [Combat Glossary](https://docs.google.com/document/d/1qtYT06sxweRW3tRnovcCc-f4xIOGFNsD02pG1TzloHc/)
   by Rin
 
 ## Discord
 
-*  YuDa 的 [Switch Game 頻道群](https://discord.com/invite/5V872Y8)
+* YuDa 的 [Switch Game 頻道群](https://discord.com/invite/5V872Y8)
