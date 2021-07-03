@@ -1,7 +1,7 @@
 
 # Hsin-Po Wang
 
-Math PhD @ UIUC .. ECE postdoc @ UCSD
+UIUC Math PhD .. UCSD ECE postdoc
 
 ## Contact
 
