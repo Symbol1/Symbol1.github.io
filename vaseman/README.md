@@ -24,3 +24,6 @@
 
 ![Vaseman couple happy with just-finished oriclip](Jau-Pao%20Wang%202021-05-20.jpg)
 ↑ Artist illustration of we celebrating the completion of [oriclip](../oriclip).
+
+![Vaseman petting Pluto as it is no longer a planet](Jau-Pao%20Wang%202021-06-27.jpg)
+↑ Artist illustration of of *Parity-Checked Strassen Algorithm*.
