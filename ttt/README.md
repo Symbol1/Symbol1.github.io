@@ -54,10 +54,10 @@ This is inspired by <https://twitter.com/jagarikin/status/1331409504953540613>.
 % diffuse.tex
 \documentclass[tikz]{standalone}
 \begin{document}
-\def\textdiffuse#1{%
+\def\textdiffuse#1{\relax%
     \def\diffcoeff{50}%
     \pdfliteral{q 1 J 1 j 1 Tr}%
-    \foreach\mixture in{5,10,...,45}{%
+    \foreach\mixture in{5,10,...,45}{\relax%
         \color{darkgray!\mixture!white}%
         \pgfsetlinewidth{(105-2*\mixture)/\diffcoeff}%
         \rlap{#1}%
@@ -66,7 +66,7 @@ This is inspired by <https://twitter.com/jagarikin/status/1331409504953540613>.
     \color{darkgray}%
     \rlap{#1}%
     \pdfliteral{1 Tr}%
-    \foreach\mixture in{95,90,...,55}{%
+    \foreach\mixture in{95,90,...,55}{\relax%
         \color{darkgray!\mixture!white}%
         \pgfsetlinewidth{(2*\mixture-95)/\diffcoeff}%
         \rlap{#1}%
