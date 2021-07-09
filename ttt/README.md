@@ -1,6 +1,8 @@
 
 # TikZ TeX TalK
 
+## Cycloid
+
 ![a spinning color wheel that seems to be drawing cycloid](cycloid/cycloid.gif)
 
 ```latex
@@ -30,7 +32,7 @@
 \end{document}
 ```
 
-Convert pdf to gif with terminal command
+Convert pdf to gif with terminal command (with ImageMagick installed)
 
 ```shell
 convert -delay 2 cycloid.pdf cycloid.gif
@@ -43,3 +45,52 @@ convert -delay 2 -density 300 -resize 300x300 cycloid.pdf cycloid.gif
 ```
 
 This is inspired by <https://twitter.com/jagarikin/status/1331409504953540613>.
+
+## Diffuse
+
+![A former pangram with certain word glowing](diffuse/diffuse.jpg)
+
+```latex
+% diffuse.tex
+\documentclass[tikz]{standalone}
+\begin{document}
+\def\textdiffuse#1{%
+    \def\diffcoeff{50}%
+    \pdfliteral{q 1 J 1 j 1 Tr}%
+    \foreach\mixture in{5,10,...,45}{%
+        \color{darkgray!\mixture!white}%
+        \pgfsetlinewidth{(105-2*\mixture)/\diffcoeff}%
+        \rlap{#1}%
+    }%
+    \pdfliteral{q 4 Tr}%
+    \color{darkgray}%
+    \rlap{#1}%
+    \pdfliteral{1 Tr}%
+    \foreach\mixture in{95,90,...,55}{%
+        \color{darkgray!\mixture!white}%
+        \pgfsetlinewidth{(2*\mixture-95)/\diffcoeff}%
+        \rlap{#1}%
+    }%
+    \pdfliteral{Q}%
+    \pgfsetlinewidth{5/\diffcoeff}%
+    \color{darkgray!50!white}%
+    \rlap{#1}%
+    \pdfliteral{Q}%
+    \phantom{#1}%
+}
+\Huge\bfseries
+\tikz\node[align=center,scale=10,fill=white]{
+    Quick \textdiffuse{Blurred Fox}	\\
+    Jumps over	\\
+    \colorlet{darkgray}{red}
+    the \textdiffuse{Laser Dog}
+};
+\end{document}
+```
+
+Convert pdf to jpg (or png in exchange for file size)
+with terminal command (with ImageMagick installed)
+
+```shell
+convert -density 144 -resize 2000 diffuse.pdf diffuse.jpg
+```
