@@ -28,14 +28,17 @@
 
 ## 英文資料
 
-* [Legancy Object Map](https://objmap-legacy.zeldamods.org/)
+* [Legacy Object Map](https://objmap-legacy.zeldamods.org/)
   by MrCheeze
 
-* [Object Map](https://objmap.zeldamods.org/)
+* [Searchable Object Map](https://objmap.zeldamods.org/)
   by leoetlino
 
 * [Combat Glossary](https://docs.google.com/document/d/1qtYT06sxweRW3tRnovcCc-f4xIOGFNsD02pG1TzloHc/)
   by Rin
+
+* [Shrines no-major-glitch table](https://docs.google.com/spreadsheets/d/1n82Emcn8qfcYG2zd9fn7cDPzj-RedgHkFDyNM7FnRUs/)
+  by Komali
 
 ## Discord
 
