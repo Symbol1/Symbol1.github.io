@@ -46,6 +46,9 @@ keeps the source codes, comments, and results.
 
 ## Publications
 
+[*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://arxiv.org/abs/2006.16998)
+is to appear in Applicable Algebra in Engineering, Communication and Computing.
+
 [*Multilinear Algebra for Distributed Storage*](https://arxiv.org/abs/2006.08911)
 is to appear in SIAM Journal on Applied Algebra and Geometry.
 
@@ -82,7 +85,7 @@ National Taiwan University (國立臺灣大學)
 2021
 
 Research Assistant Fellowship  
-Spring 2020
+2020 Spring
 
 [Teacher ranked as excellent by their students](https://go.illinois.edu/lotrae)  
 Fall 2019 & Spring 2019 & Spring 2018  
