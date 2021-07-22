@@ -88,7 +88,7 @@ Research Assistant Fellowship
 2020 Spring
 
 [Teacher ranked as excellent by their students](https://go.illinois.edu/lotrae)  
-Fall 2019 & Spring 2019 & Spring 2018  
+2019 Fall & 2019 Spring & 2018 Spring
 
 Book--Scroll Award (for top 5% GPA)  
 2015 Fall & 2014 Spring & 2013 Spring & 2012 Fall & 2012 Spring & 2011 Fall
