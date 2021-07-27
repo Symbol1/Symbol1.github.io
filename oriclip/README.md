@@ -212,6 +212,14 @@ Three clips = one Φ-vertex = one vertex.
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 ↑ Dual = [Φ24-C](#φ24-c)  
 
+#### ΦB60-I
+
+![60 clips forming 12 Φ-vertices and 30 B-edges forming Icosahedron](ΦB60-I.jpg)  
+↑ # Clips = 60  
+↑ Vertex config = 3.3.3.3.3  
+↑ Base = [icosahedron]  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+
 ### Δ-series
 
 Three clips = one Δ-vertex = one vertex.
