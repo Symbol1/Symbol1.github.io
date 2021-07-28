@@ -94,3 +94,72 @@ with terminal command (with ImageMagick installed)
 ```shell
 convert -density 144 -resize 2000 diffuse.pdf diffuse.jpg
 ```
+
+## Inversion
+
+![Applying inversion transformation to Lenna the image](inversion/inversion.jpg)
+
+```latex
+\documentclass[border=9,tikz]{standalone}
+\begin{document}
+\def\LennaIpsum{\includegraphics[width=2cm]{lenna.png}\llap\LaTeX}
+\def\RememberInversion(#1,#2){
+    \expandafter\xdef\csname Inv(\u,\v)x\endcsname{\xx}
+    \expandafter\xdef\csname Inv(\u,\v)y\endcsname{\yy}
+}
+\def\RecallInversion#1(#2,#3){
+    \expandafter\xdef\csname#1x\endcsname{\csname Inv(#2,#3)x\endcsname}
+    \expandafter\xdef\csname#1y\endcsname{\csname Inv(#2,#3)y\endcsname}
+}
+\tikz{
+    \draw circle(.05)circle(5)(3,0)node{\LennaIpsum}(12.5,0);
+    \draw[dotted](4,-5)--(4,5)(3.125,0)circle(3.125);
+    \foreach\u in{-10,...,10}{
+        \foreach\v in{-10,...,10}{
+            % Affine transformation of (u, v), unit mm
+            \pgfmathsetmacro\uu{\u+30}
+            \pgfmathsetmacro\vv{\v+0}
+            \pgfmathsetmacro\rr{\uu*\uu+\vv*\vv}
+            % Take inversion, unit mm
+            \pgfmathsetmacro\xx{50*\uu/\rr*50}
+            \pgfmathsetmacro\yy{50*\vv/\rr*50}
+            % Remember the coordinates
+            \RememberInversion(\u,\v)
+        }
+    }
+    \foreach\u in{-10,...,9}{
+        \foreach\v in{-10,...,9}{
+            % For every square, recall the coordinates of the four corners
+            \pgfmathtruncatemacro\U{\u+1}
+            \pgfmathtruncatemacro\V{\v+1}
+            \RecallInversion NW(\u,\V)\RecallInversion NE(\U,\V)
+            \RecallInversion SW(\u,\v)\RecallInversion SE(\U,\v)
+            % The lower left triangle ◺
+            \pgfmathsetmacro\aa{\SEx-\SWx}\pgfmathsetmacro\ab{\SEy-\SWy}
+            \pgfmathsetmacro\ba{\NWx-\SWx}\pgfmathsetmacro\bb{\NWy-\SWy}
+            \pgflowlevelobj{
+                \pgfsettransformentries\aa\ab\ba\bb{\SWx mm}{\SWy mm}
+            }{
+                \clip(1.02mm,0)-|(0,1.02mm)--cycle;
+                \path(-\u mm,-\v mm)node{\LennaIpsum};
+            }
+            % The upper right triangle ◹
+            \pgfmathsetmacro\aa{\NEx-\NWx}\pgfmathsetmacro\ab{\NEy-\NWy}
+            \pgfmathsetmacro\ba{\NEx-\SEx}\pgfmathsetmacro\bb{\NEy-\SEy}
+            \pgflowlevelobj{
+                \pgfsettransformentries\aa\ab\ba\bb{\NEx mm}{\NEy mm}
+            }{
+                \clip(-1mm,.01mm)-|(.01mm,-1mm)--cycle;
+                \path(-\U mm,-\V mm)node{\LennaIpsum};
+            }
+        }
+    }
+}
+\end{document}
+```
+
+Convert pdf to jpg with terminal command (with ImageMagick installed)
+
+```shell
+convert -density 300 inversion.pdf inversion.jpg
+```
