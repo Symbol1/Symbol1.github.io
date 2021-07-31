@@ -1,15 +1,17 @@
 
 # Distributed Storage Papers
 
-The following are my works on distributed storage systems. 
-
-|  Abbreviation  |  Title                                                     |
-| :------------: | :--------------------------------------------------------: |
-| [MoulinAlge20] | Multilinear Algebra for Distributed Storage                |
-|  [Atrahasis20] | Multilinear Algebra for Minimum Storage Regenerating Codes |
-
-Both [MoulinAlge20] and [Atrahasis20] concern regenerating codes
+The following are my works on distributed storage systems.
+Both concern regenerating code
 that have applications in distributed storage systems.
+
+| Abbreviation|Authors|Title                                                    |
+|:-----------:|:-----:|:--------------------------------------------------------:|
+|[MoulinAlg20]| D   W |Multilinear Algebra for Distributed Storage               |
+|[Atrahasis20]| D L W |Multilinear Algebra for Minimum Storage Regenerating Codes|
+
+D = Iwan Duursma (Advisor of the time);  
+L = Xiao Li (academic sister).
 
 A **regenerating code** consists of
 
@@ -20,8 +22,8 @@ The configuration of the nodes satisfies the following conditions:
 
 * Each node stores $\alpha$ symbols of the file.
 * Any $k$ nodes contains sufficient information to recover the file.
-* When a node fails, any $d$ other nodes
-    will each sends it $\beta$ symbols to repair.
+* When a node fails, some $d$ other nodes will each
+  send it $\beta$ symbols to repair the failing node.
 
 The code is named regenerating mainly due to
 the last bullet point---the nodes regenerate themselves.
@@ -40,17 +42,18 @@ They are called *cut-set bounds* and restrict where those parameters can live.
 
 The opposite approach is to construct regenerating codes
 that aim to achieve low $\alpha$, low $\beta$, and high $M$.
-[MoulinAlge20] utilizes multilinear algebra to do this.
-We construct a series of regenerating codes which we call **moulin codes**.
+[MoulinAlg20] utilizes multilinear algebra to do this.
+We construct a series of regenerating codes which we call **Moulin codes**.
 They achieve the best known $\alpha/M$-versus-$\beta/M$ trade-off to date.
 And it is conjectured that this trade-off is optimal.
 
 See
 [Figure 1 on page 3](https://arxiv.org/pdf/2006.08911v1.pdf#page=3)
-in MoulinAlge20 for the $\alpha/M$-versus-$\beta/M$ trade-off for the $(n, 3, 3)$ case.
+in MoulinAlg20 for the $\alpha/M$-versus-$\beta/M$
+trade-off for the $(n, 3, 3)$ case.
 ![The trade-off of (n, 3, 4) regenerating codes](n33alphbetaM.png)
 Here is another $\alpha/M$-versus-$\beta/M$ trade-off for the $(n, 3, 4)$ case.
-(In a newer version of MoulinAlge20 that I am still working on.)
+(In a newer version of MoulinAlg20 that I am still working on.)
 ![The trade-off of (n, 3, 4) regenerating codes](n33alphbetaM.png)
 
 See also
@@ -75,5 +78,5 @@ See
 in Atrahasis20 for a comparison of some existing contraptions.
 ![The alpha--F_q trade-off of some well-known MSR codes](MSRalphaFq.png)
 
-[MoulinAlge20]: https://arxiv.org/abs/2006.08911
+[MoulinAlg20]: https://arxiv.org/abs/2006.08911
 [Atrahasis20]: https://arxiv.org/abs/2006.16998
