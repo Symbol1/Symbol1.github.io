@@ -12,6 +12,7 @@ Fast scroll to
 * Special case:
   [2-clip](#2-clip-constructions),
   [6-clip](#6-clip-constructions),
+  [12-clip](#12-clip-constructions),
   [polylink](#polylink),
   [S-series](#s-series),
   [A-series](#a-series)
@@ -99,6 +100,15 @@ Fast scroll to
 
 ![6 binder clips whose bodies stand on the octahedron formed by handles](6-stand.jpg)  
 ↑ # Clips = 6  
+↑ Base = [octahedron]  
+↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
+
+### 12-clip constructions
+
+#### 12-angel
+
+![6 binder clips form an octahedron, another 6 form tentacles](12-angel.jpg)
+↑ # Clips = 12  
 ↑ Base = [octahedron]  
 ↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
 
