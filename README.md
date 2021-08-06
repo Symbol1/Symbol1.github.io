@@ -6,10 +6,11 @@ UIUC Math PhD .. UCSD ECE postdoc
 ## Contact
 
 Email = hpwang2 at illinois dot edu  
-Social media
-= [Instagram](https://www.instagram.com/xymbol.1/)
-& [Twitter](https://twitter.com/Xymbol_1)
-& [StackExchange](https://stackexchange.com/users/4418253/symbol-1)
+Email += A dot Simple dot People at gmail dot com  
+Social media =
+[Instagram](https://www.instagram.com/xymbol.1/) +
+[Twitter](https://twitter.com/Xymbol_1) +
+[StackExchange](https://stackexchange.com/users/4418253/symbol-1)
 
 ## Research
 
