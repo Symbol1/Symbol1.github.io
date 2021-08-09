@@ -1,10 +1,16 @@
 {
     "cSpell.words": [
+        "BDMC",
+        "Duursma",
         "Hsin",
-        "Multilinear",
+        "Iwan",
         "Oriclip",
+        "Strassen",
         "Tutte",
+        "UCSD",
         "UIUC",
+        "Vaseman",
+        "Amiibo",
         "antiprism",
         "antiprism's",
         "cuboctahedron",
@@ -16,7 +22,8 @@
         "hexecontahedron",
         "icosidodecahedron",
         "icositetrahedron",
-        "orderedlist",
+        "memoryless",
+        "multilinear",
         "pentakis",
         "polylink",
         "pyritohedron's",
@@ -24,8 +31,6 @@
         "rhombicuboctahedron",
         "tetrakis",
         "triacontahedron",
-        "triakis",
-        "UCSD",
-        "vaseman"
+        "triakis"
     ]
 }
