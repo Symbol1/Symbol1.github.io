@@ -1,5 +1,5 @@
 
-# Oriclip
+# Modular Oriclip
 
 One of my interests involves building
 [binder clip](https://enwp.org/Binder_clip) sculptures.
@@ -215,7 +215,7 @@ Three clips = one Φ-vertex = one vertex.
 
 #### Φ24-O
 
-![24 clips forming 12 Φ-vertices forming octahedron](Φ24-O.jpg)  
+In progress   
 ↑ # Clips = 24  
 ↑ Base = [octahedron]  
 ↑ Vertex config = 3.3.3.3  
@@ -286,7 +286,7 @@ Two clips = one X-edge = one edge.
 #### X60-D
 
 ![60 clips forming 30 X-edges forming dodecahedron](X60-D.jpg)  
-↑ # Clips = 30  
+↑ # Clips = 60  
 ↑ Vertex config = 5.5.5  
 ↑ Base = [dodecahedron]  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
@@ -295,11 +295,19 @@ Two clips = one X-edge = one edge.
 #### X60-I
 
 ![60 clips forming 30 X-edges forming icosahedron](X60-I.jpg)  
-↑ # Clips = 30  
+↑ # Clips = 60  
 ↑ Vertex config = 3.3.3.3.3  
 ↑ Base = [icosahedron]  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ dual = [X60-D](#x60-d)  
+
+#### XX120-D
+
+![120 clips forming 30 XX-edges forming dodecahedron](XX120-D.jpg)  
+↑ # Clips = 120  
+↑ Vertex config = 5.5.5  
+↑ Base = [dodecahedron]  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 
 ### L-series
 
@@ -595,12 +603,12 @@ Two clips = one I-edge = one edge.
 
 #### W24-C
 
-![24 clips forming 12 W-edges forming cube](W24-C.jpg)  
-↑ # Clips = 24  
-↑ base = [cube]  
-↑ Vertex config = 4.4.4  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
-↑ dual = [W24-O](#w24-o)  
+Difficulty encountered  
+~~↑ # Clips = 24~~  
+~~↑ base = [cube]~~  
+~~↑ Vertex config = 4.4.4~~  
+~~↑ Symmetry = cube's rotations = $S_4$ of order 24~~  
+~~↑ dual = [W24-O](#w24-o)~~  
 
 #### W24-O
 
