@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Homogeneous Tradeoff</title>
+<script src="https://d3js.org/d3.v3.js"></script>
+<body>
+<H1>Homogeneous Tradeoff</H1>
+Instruction:
+Scroll to zoom.
+When the mouse is over the x or y axis,
+zooming applies to the corresponding axis.
+From right to left, k = 2, 3, 4, 5, ... .
+(Note that at MSR, alpha/M = 1/k.)
+From top to bottom, d - k = 0, 1, 2, 3, ... .
+(beta decreases as d increases.)
+Hover over a point to see moulin parameter.
+Hover over a segment to obtain putative inequality parameter.
+<div id="divCanvas"></div>
+<style>
+	.axis path{
+		fill: none;
+		stroke: #000;
+	}
+	.axis line {
+		fill: none;
+		stroke: #888;
+	}
+</style>
+<script>
+	var DrawAndAllowZoom = LayoutAndDraw().zoom(true);
+	
+	function Binom(n, k) {
+		if (n - k < k) {
+			k = n - k
+		}
+		if (k < 0) {
+			return 0
+		}
+		var ans = 1
+		for (var i = 0; i < k; i++) {
+			ans *= n-i
+			ans /= i+1
+		}
+		return ans
+	}
+
+	function Alpha(k, d, s) {		
+		var alpha = 0
+		for (var p = 0; p <= s-1; p++) {
+			var q = s-1 - p
+			alpha += Math.pow(d-k, p) * Binom(k, q)
+		}
+		return alpha
+	}
+
+	function Beta(k, d, s) {
+		var beta = 0
+		for (var p = 0; p <= s-2; p++) {
+			var q = s-2 - p
+			beta += Math.pow(d-k, p) * Binom(k-1, q)
+		}
+		return beta
+	}
+
+	function MMM(k, d, s) {
+		var Mmm = d * Alpha(k, d, s)
+		for (var p = 0; p <= s; p++) {
+			var q = s - p
+			Mmm -= Math.pow(d-k, p) * Binom(k, q)
+		}
+		return Mmm
+	}
+
+	function GCD(x, y){
+		if ((typeof x !== 'number') || (typeof y !== 'number')) {
+			return false;
+		}
+		x = Math.abs(x);
+		y = Math.abs(y);
+		while(y) {
+			var t = y;
+			y = x % y;
+			x = t;
+		}
+		return x;
+	}
+
+	var k_max = 12
+	var d_k_max = 9
+
+	var MoulineParameter = [];
+	for (var k = 2; k <= k_max; k++) {
+		for (var d = k; d <= k + d_k_max ; d++) {
+			for (var s = 2; s <= k+1; s++) {
+				// Fix a (k, d; s)
+				alpha = Alpha(k, d, s)
+				beta = Beta(k, d, s)
+				Mmm = MMM(k, d, s)
+				MoulineParameter.push(
+					[alpha, beta, Mmm, (d-k) * 222.49223595]
+				);
+			}
+		}
+	}
+
+	var PutativeInequality = [];
+	for (var k = 2; k <= k_max; k++) {
+		for (var d = k; d <= k + d_k_max ; d++) {
+			for (var s = 2; s <= k; s++) {
+				// Fix a (k, d; s, s+1)
+				alpha1 = Alpha(k, d, s)
+				beta1 = Beta(k, d, s)
+				Mmm1 = MMM(k, d, s)
+				alpha2 = Alpha(k, d, s+1)
+				beta2 = Beta(k, d, s+1)
+				Mmm2 = MMM(k, d, s+1)
+				PutativeInequality.push(
+					[alpha1, beta1, Mmm1, alpha2, beta2, Mmm2, (d-k) * 222.49223595]
+				);
+			}
+		}
+	}
+
+	d3.select('#divCanvas')
+		.append("svg")
+			.attr("width", window.innerWidth  - 16)
+			.attr("height",window.innerHeight - 160)
+		.datum([MoulineParameter, PutativeInequality]).call(DrawAndAllowZoom);
+	
+	function LayoutAndDraw() {
+		var svg;
+		var marg = {
+			top: 0,
+			bot: 60,
+			lef: 60,
+			rig: 0
+		};
+		var xwidth = window.innerWidth - 16;
+		var yheight = window.innerHeight - 160;
+		var xaxis = d3.svg.axis();
+		var yaxis = d3.svg.axis();
+		var xscale = d3.scale.linear();
+		var yscale = d3.scale.linear();
+		var zoomable = true;
+
+		var ZoomPropot = 
+			d3.behavior.zoom()
+				.x(xscale)
+				.y(yscale)
+				.on("zoom", zoomable ? DrawPerAxes : null);
+		var ZoomAlongX = 
+			d3.behavior.zoom()
+				.x(xscale)
+				.on("zoom", zoomable ? DrawPerAxes : null);
+		var ZoomAlongY =
+			d3.behavior.zoom()
+				.y(yscale)
+				.on("zoom", zoomable ? DrawPerAxes : null);
+		
+		function MainCanvas(selection) {
+			selection.each(function(data) {
+				svg = d3.select(this).selectAll('svg').data([data]);
+				svg.enter().append('svg');
+				var g = svg.append('g')
+					.attr("transform", "translate(" + marg.lef + "," + marg.top + ")");
+
+				g.append("g").attr("class", "x axis")
+					.attr("transform", "translate(0, " + (yheight - marg.top - marg.bot) + ")");
+	
+				g.append("g").attr("class", "y axis");
+				
+				g.append("svg:rect")
+					.attr("class", "ZoomXBox")
+					.attr("width", xwidth - marg.lef - marg.rig)
+					.attr("height", marg.bot)
+					.attr("transform", "translate(0, " + (yheight - marg.top - marg.bot) + ")")
+					// .style("visibility", "hidden")
+					.style("stroke", "#FAA")
+					.style("fill", "none")
+					.attr("pointer-events", "all")
+					.call(ZoomAlongX);
+	
+				g.append("svg:rect")
+					.attr("class", "ZoomYBox")
+					.attr("width", marg.lef)
+					.attr("height", yheight - marg.top - marg.bot)
+					.attr("transform", "translate(" + -marg.lef + ", 0)")
+					// .style("visibility", "hidden")
+					.style("stroke", "#AFA")
+					.style("fill", "none")
+					.attr("pointer-events", "all")
+					.call(ZoomAlongY);
+
+				g.append("svg:rect")
+					.attr("class", "ZoomBothBox")
+					.attr("width", xwidth - marg.lef - marg.rig)
+					.attr("height", yheight - marg.top - marg.bot)
+					// .style("visibility", "hidden")
+					.style("stroke", "#AAF")
+					.style("fill", "none")
+					.attr("pointer-events", "all")
+					.call(ZoomPropot);
+
+				g.append("g")
+					.attr("class", "BrokenLines")
+
+				g.append("g")
+					.attr("class", "ScatterPoints")
+
+				// Update the x-axis
+				xscale.domain(d3.extent(data[0], function(RawQuadruple) {
+					return RawQuadruple[0]/RawQuadruple[2]; // return x of every RawQuadruple
+				}))
+					.range([40, xwidth - marg.lef - marg.rig - 40]); // fit to this interval
+	
+				xaxis.scale(xscale)
+					.orient('bottom')
+					.tickPadding(10);
+	
+				svg.select('g.x.axis').call(xaxis);
+	
+				// Update the y-scale.
+				yscale.domain(d3.extent(data[0], function(RawQuadruple) {
+					return RawQuadruple[1]/RawQuadruple[2]; // return x of every RawQuadruple
+				}))
+					.range([yheight - marg.top - marg.bot - 40, 40]); // fit to this interval
+	
+				yaxis.scale(yscale)
+					.orient('left')
+					.tickPadding(5);
+	
+				svg.select('g.y.axis').call(yaxis);
+	
+				DrawPerAxes();
+			});
+	
+			return MainCanvas;
+		}
+	
+		function ImportDataPoints() {
+			var gsp = svg.select("g.ScatterPoints");
+	
+			var circle = gsp.selectAll("circle") // to catch old circles to delete them
+				.data(function(RawData) {
+					return RawData[0]
+				});
+	
+			circle.enter().append("svg:circle")
+				.style("fill", function(RawQuadruple) {
+					var metacolor = d3.hsl("red")
+					metacolor.h = RawQuadruple[3]
+					return metacolor
+				})
+				.attr("r", 6) // circle size
+				.append("svg:title").text(function(RawQuadruple){
+					return "("+RawQuadruple[0]+", "+RawQuadruple[1]+")/"+RawQuadruple[2]
+				});
+	
+			circle
+				.attr("cx", function(RawQuadruple) {
+					return xscale(RawQuadruple[0]/RawQuadruple[2]);
+				})
+				.attr("cy", function(RawQuadruple) {
+					return yscale(RawQuadruple[1]/RawQuadruple[2]);
+				});
+	
+			circle.exit().remove();
+		}
+
+		function ImportDataLines() {
+			var gbl = svg.select("g.BrokenLines");
+
+			var line = gbl.selectAll("line") // to catch old lines to delete them
+				.data(function(RawData) {
+					return RawData[1]
+				});
+			line.enter().append("svg:line")
+				.style("stroke", function(RawSeptuple){
+					var metacolor = d3.hsl("red")
+					metacolor.h = RawSeptuple[6]
+					return metacolor
+				})
+				.attr("stroke-width", 3) // segment width; line width
+				.append("svg:title").text(function(RawSeptuple){
+					alpha1 = RawSeptuple[0]
+					beta1 = RawSeptuple[1]
+					Mmm1 = RawSeptuple[2]
+					alpha2 = RawSeptuple[3]
+					beta2 = RawSeptuple[4]
+					Mmm2 = RawSeptuple[5]
+					CX = beta2*Mmm1 - beta1*Mmm2
+					CY = alpha1*Mmm2 - alpha2*Mmm1
+					CZ = alpha1*beta2 - alpha2*beta1
+					gcd3 = GCD(CX, CY)
+					gcd3 = GCD(gcd3, CZ)
+					CX /= gcd3
+					CY /= gcd3
+					CZ /= gcd3
+					return CX+"X + "+CY+"Y = "+CZ
+				});
+			line
+				.attr("x1", function(RawSeptuple) {
+					return xscale(RawSeptuple[0]/RawSeptuple[2])
+				})
+				.attr("y1", function(RawSeptuple) {
+					return yscale(RawSeptuple[1]/RawSeptuple[2])
+				})
+				.attr("x2", function(RawSeptuple) {
+					return xscale(RawSeptuple[3]/RawSeptuple[5])
+				})
+				.attr("y2", function(RawSeptuple) {
+					return yscale(RawSeptuple[4]/RawSeptuple[5])
+				})
+			line.exit().remove();
+		}
+	
+		function ZoomUpdate() {
+			ZoomPropot = d3.behavior.zoom()
+				.x(xscale)
+				.y(yscale)
+				.on("zoom", zoomable ? DrawPerAxes : null);
+			ZoomAlongX = d3.behavior.zoom()
+				.x(xscale)
+				.on("zoom", zoomable ? DrawPerAxes : null);
+			ZoomAlongY = d3.behavior.zoom()
+				.y(yscale)
+				.on("zoom", zoomable ? DrawPerAxes : null);
+	
+			svg.select('rect.ZoomBothBox').call(ZoomPropot);
+			svg.select('rect.ZoomXBox').call(ZoomAlongX);
+			svg.select('rect.ZoomYBox').call(ZoomAlongY);
+		}
+	
+		function DrawPerAxes() {
+			svg.select('g.x.axis').call(xaxis);
+			svg.select('g.y.axis').call(yaxis);
+	
+			ImportDataPoints();
+			ImportDataLines();
+			ZoomUpdate();
+		};
+	
+		MainCanvas.zoom = function (_) {
+			if (!arguments.length) return zoomable;
+			zoomable = _;
+			return MainCanvas;
+		}
+	
+		return MainCanvas;
+	}
+</script>
+</body>
