@@ -171,6 +171,13 @@ One clip = one edge.
 ↑ Base = [rhombicuboctahedron]  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 
+#### A60-aD*
+
+![60 clips forming icosidodecahedron, but with helps](A60-aD.jpg)  
+↑ # Clips = 60  
+↑ Base = [icosidodecahedron]  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+
 ## Vertex unit
 
 ### Η-series
