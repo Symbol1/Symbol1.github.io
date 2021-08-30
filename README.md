@@ -54,10 +54,10 @@ is to appear in Applicable Algebra in Engineering, Communication and Computing.
 is to appear in SIAM Journal on Applied Algebra and Geometry.
 
 [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523)
-is in IEEE Transactions on Information Theory, March 2021.
+is in IEEE Transactions on Information Theory, 2021 March.
 
 [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570)
-is in IEEE Transactions on Information Theory, March 2021.
+is in IEEE Transactions on Information Theory, 2021 March.
 
 ## Education & Positions
 
