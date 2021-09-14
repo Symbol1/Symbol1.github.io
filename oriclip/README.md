@@ -397,6 +397,14 @@ Two clips = one L-edge = one edge.
 ↑ Vertex config = 3.4.3.4  
 ↑ Symmetry = cube's rotations = $S_4$ of order 24  
 
+#### L180-tI
+
+![180 clips forming 90 L-edges forming truncated icosahedron](L180-tI.jpg)  
+↑ # Clips = 180  
+↑ Base = [truncated icosahedron]  
+↑ Vertex config = 5.6.6  
+↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+
 ### I-series, Platonic
 
 Two clips = one I-edge = one edge.
