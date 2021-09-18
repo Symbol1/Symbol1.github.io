@@ -178,6 +178,14 @@ One clip = one edge.
 ↑ Base = [icosidodecahedron]  
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 
+#### A24-aC8-O
+
+![24 clips forming spiky cuboctahedron, 8 of that forming octahedron](A24-aC8-O.jpg)  
+↑ # Clips = 192  
+↑ Local base = [cuboctahedron]  
+↑ Global base = [octahedron]  
+↑ Symmetry = cube's rotations = $S_4$ of order 24  
+
 ## Vertex unit
 
 ### Η-series
@@ -230,7 +238,7 @@ Three clips = one Φ-vertex = one vertex.
 
 #### Φ24-O
 
-In progress   
+In progress  
 ↑ # Clips = 24  
 ↑ Base = [octahedron]  
 ↑ Vertex config = 3.3.3.3  
