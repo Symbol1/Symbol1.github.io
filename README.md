@@ -50,8 +50,8 @@ keeps the source codes, comments, and results.
 [*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://arxiv.org/abs/2006.16998)
 is to appear in Applicable Algebra in Engineering, Communication and Computing.
 
-[*Multilinear Algebra for Distributed Storage*](https://arxiv.org/abs/2006.08911)
-is to appear in SIAM Journal on Applied Algebra and Geometry.
+[*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742)
+is in SIAM Journal on Applied Algebra and Geometry, 2021 September.
 
 [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523)
 is in IEEE Transactions on Information Theory, 2021 March.
