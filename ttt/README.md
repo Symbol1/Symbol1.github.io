@@ -80,8 +80,8 @@ This is inspired by <https://twitter.com/jagarikin/status/1331409504953540613>.
 }
 \Huge\bfseries
 \tikz\node[align=center,scale=10,fill=white]{
-    Quick \textdiffuse{Blurred Fox}	\\
-    Jumps over	\\
+    Quick \textdiffuse{Blurred Fox}    \\
+    Jumps over    \\
     \colorlet{darkgray}{red}
     the \textdiffuse{Laser Dog}
 };
@@ -162,4 +162,47 @@ Convert pdf to jpg with terminal command (with ImageMagick installed)
 
 ```shell
 convert -density 300 inversion.pdf inversion.jpg
+```
+
+## Galaxy
+
+![Pixelated galaxy is rotating](galaxy/galaxy.gif)
+
+```latex
+\documentclass[tikz]{standalone}
+\begin{document}
+\foreach~in{0,5,...,179.9}{
+    \pgfdeclarefunctionalshading{Balls}
+    {\pgfpoint{-25bp}{-25bp}}{\pgfpoint{25bp}{25bp}}{}{
+        % X Y
+        1 index floor .5 add % X Y U:=floor(X)+.5
+        1 index floor .5 add % X Y U V:=floor(T)+.5
+        2 copy % X Y U V U V
+        2 copy % X Y U V U V U V
+        25 div % X Y U V U V U v:=V/25
+        dup mul % X Y U V U V U v²
+        exch % X Y U V U V v² U
+        25 div % X Y U V U V v² u:=U/25
+        dup mul % X Y U V U V v² u²
+        add sqrt % X Y U V U V r:=√u²+v²
+        360 mul % X Y U V U V R:=360r
+        3 1 roll % X Y U V R U V
+        atan % X Y U V R θ
+        ~ add % add the phase
+        add % X Y U V τ:=R+θ+phase
+        sin % X Y U V sin(τ)
+        dup mul % X Y U V s:=sin(τ)²
+        5 1 roll % s X Y U V
+        3 2 roll % s X U V Y
+        sub 2 mul % s X U y:=2(V-Y)
+        dup mul % s X U y²
+        3 1 roll % s y² X U
+        sub 2 mul % s y² x:=2(X-U)
+        dup mul % s y² x²
+        add % s q:=y²+x²
+        le {0 0 0} {1 1 1} ifelse % s ≤ q ? black : white
+    }
+    \tikz\path[shading={Balls}](-10,-10)rectangle(10,10);
+}
+\end{document}
 ```
