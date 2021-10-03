@@ -1,7 +1,7 @@
 
 # Hsin-Po Wang
 
-UIUC Math PhD .. UCSD ECE postdoc
+Postdoc @ UC San Diego
 
 ## Contact
 
@@ -47,8 +47,8 @@ keeps the source codes, comments, and results.
 
 ## Publications
 
-[*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://arxiv.org/abs/2006.16998)
-is to appear in Applicable Algebra in Engineering, Communication and Computing.
+[*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://rdcu.be/cyJs2)
+is in Applicable Algebra in Engineering, Communication and Computing, 2021 October.
 
 [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742)
 is in SIAM Journal on Applied Algebra and Geometry, 2021 September.
