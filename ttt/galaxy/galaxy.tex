@@ -3,11 +3,13 @@
 
 \begin{document}
 \foreach~in{0,5,...,179.9}{
-	\pgfdeclarefunctionalshading{Balls}
+	\pgfdeclarefunctionalshading{Stars}
 	{\pgfpoint{-25bp}{-25bp}}{\pgfpoint{25bp}{25bp}}{}{
 		% X Y
-		1 index floor .5 add % X Y U:=floor(X)+.5
-		1 index floor .5 add % X Y U V:=floor(T)+.5
+		1 index % X Y X
+		floor .5 add % X Y U:=floor(X)+.5
+		1 index % X Y U Y
+		floor .5 add % X Y U V:=floor(Y)+.5
 		2 copy % X Y U V U V
 		2 copy % X Y U V U V U V
 		25 div % X Y U V U V U v:=V/25
@@ -33,6 +35,6 @@
 		add % s q:=y²+x²
 		le {0 0 0} {1 1 1} ifelse % s ≤ q ? black : white
 	}
-	\tikz\path[shading={Balls}](-10,-10)rectangle(10,10);
+	\tikz\path[shading=Stars](-10,-10)rectangle(10,10);
 }
 \end{document}

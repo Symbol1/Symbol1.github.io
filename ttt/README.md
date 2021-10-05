@@ -100,6 +100,7 @@ convert -density 144 -resize 2000 diffuse.pdf diffuse.jpg
 ![Applying inversion transformation to Lenna the image](inversion/inversion.jpg)
 
 ```latex
+% inversion.tex
 \documentclass[border=9,tikz]{standalone}
 \begin{document}
 \def\LennaIpsum{\includegraphics[width=2cm]{lenna.png}\llap\LaTeX}
@@ -169,14 +170,18 @@ convert -density 300 inversion.pdf inversion.jpg
 ![Pixelated galaxy is rotating](galaxy/galaxy.gif)
 
 ```latex
+% galaxy.tex
 \documentclass[tikz]{standalone}
+
 \begin{document}
 \foreach~in{0,5,...,179.9}{
-    \pgfdeclarefunctionalshading{Balls}
+    \pgfdeclarefunctionalshading{Stars}
     {\pgfpoint{-25bp}{-25bp}}{\pgfpoint{25bp}{25bp}}{}{
         % X Y
-        1 index floor .5 add % X Y U:=floor(X)+.5
-        1 index floor .5 add % X Y U V:=floor(T)+.5
+        1 index % X Y X
+        floor .5 add % X Y U:=floor(X)+.5
+        1 index % X Y U Y
+        floor .5 add % X Y U V:=floor(Y)+.5
         2 copy % X Y U V U V
         2 copy % X Y U V U V U V
         25 div % X Y U V U V U v:=V/25
@@ -202,7 +207,11 @@ convert -density 300 inversion.pdf inversion.jpg
         add % s q:=y²+x²
         le {0 0 0} {1 1 1} ifelse % s ≤ q ? black : white
     }
-    \tikz\path[shading={Balls}](-10,-10)rectangle(10,10);
+   \tikz\path[shading=Stars](-10,-10)rectangle(10,10);
 }
 \end{document}
 ```
+
+ImageMagick does not convert this pdf properly.
+(In general, it has issues with functional shading.)
+I ended up using online conversion tools.
