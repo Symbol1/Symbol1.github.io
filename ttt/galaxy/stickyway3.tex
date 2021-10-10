@@ -1,0 +1,43 @@
+
+\documentclass[tikz]{standalone}
+
+\begin{document}
+\foreach~in{0,5,...,359.9}{
+	\pgfdeclarefunctionalshading{Stars}
+	{\pgfpoint{-25bp}{-25bp}}{\pgfpoint{25bp}{25bp}}{}{
+		% X Y
+		2 copy      % X Y X Y
+		25 div      % X Y X y:=Y/25
+		dup mul     % X Y X y²
+		exch        % X Y y² X
+		25 div      % X Y y² x:=X/25
+		dup mul     % X Y y² x²
+		add         % X Y x²+y²
+		sqrt        % X Y r:=√x²+y²
+		540 mul     % X Y R:=360r
+		2 index     % X Y R X
+		2 index     % X Y R X Y
+		atan        % X Y R θ
+		~           % X Y R θ phase
+		add add     % X Y τ:=R+θ+phase
+		sin 2.5 mul % X Y t:=2.5sin(τ)
+		2 index     % X Y t X
+		360 mul sin % X Y t u:=sin(360X)
+		sub         % X Y t-u
+		2 index     % X Y t-u X
+		180 mul     % X Y t-u 180X
+		2 index     % X Y t-u 180X Y
+		311.77 mul  % X Y t-u 180X 180Y√3
+		add sin     % X Y t-u-v:=sin(180X+180Y√3)
+		sub         % X Y t-u-v
+		3 2 roll    % Y t-u-v X
+		180 mul     % Y t-u-v 180X
+		3 2 roll    % t-u-v 180X Y
+		311.77 mul  % t-u-v 180X 180Y√3
+		sub sin     % t-u-v w:=sin(180X-180Y√3)
+		sub         % t-u-v-w
+		0 le {0 0 0} {1 1 1} ifelse % t ≤ u+v+w ? black : white
+	}
+	\tikz\path[shading=Stars](-10,-10)rectangle(10,10);
+}
+\end{document}
