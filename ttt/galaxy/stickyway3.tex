@@ -22,18 +22,18 @@
 		add add     % X Y τ:=R+θ+phase
 		sin 2.5 mul % X Y t:=2.5sin(τ)
 		2 index     % X Y t X
-		360 mul sin % X Y t u:=sin(360X)
+		180 mul sin % X Y t u:=sin(360X)
 		sub         % X Y t-u
 		2 index     % X Y t-u X
-		180 mul     % X Y t-u 180X
+		90 mul      % X Y t-u 180X
 		2 index     % X Y t-u 180X Y
-		311.77 mul  % X Y t-u 180X 180Y√3
+		90 mul 3 sqrt mul  % X Y t-u 180X 180Y√3
 		add sin     % X Y t-u-v:=sin(180X+180Y√3)
 		sub         % X Y t-u-v
 		3 2 roll    % Y t-u-v X
-		180 mul     % Y t-u-v 180X
+		90 mul      % Y t-u-v 180X
 		3 2 roll    % t-u-v 180X Y
-		311.77 mul  % t-u-v 180X 180Y√3
+		90 mul 3 sqrt mul % t-u-v 180X 180Y√3
 		sub sin     % t-u-v w:=sin(180X-180Y√3)
 		sub         % t-u-v-w
 		0 le {0 0 0} {1 1 1} ifelse % t ≤ u+v+w ? black : white
