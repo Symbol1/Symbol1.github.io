@@ -726,6 +726,8 @@ Similar works have been published under the names
 
 * <http://blog.andreahawksley.com/tag/binderclips/> by Andrea Hawksley.
 
+* <https://binderclippolyhedra.com/> by unknown author.
+
 * <https://momath.org/mathmonday/math-monday-what-to-make-from-binder-clips/>
   a news article by George Hart.
 
