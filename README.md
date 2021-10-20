@@ -5,8 +5,8 @@ Postdoc @ UC San Diego (ECE)
 
 ## Contact
 
-Email = hpwang2 at illinois dot edu  
-Email += A dot Simple dot People at gmail dot com  
+Email = hsw001 at ucsd dot edu  
+Email += A dot Simple dot People at g mail dot com  
 Social media =
 [Instagram](https://www.instagram.com/xymbol.1/) +
 [Twitter](https://twitter.com/Xymbol_1) +
@@ -64,8 +64,8 @@ is in IEEE Transactions on Information Theory, 2021 March.
 
 Postdoc in Electrical and Computer Engineering  
 Advisor = Alexander Vardy  
-University of California San Diego  
 Advisor += [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
+University of California San Diego  
 2021--
 
 Ph.D in Mathematics  
