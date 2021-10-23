@@ -462,6 +462,16 @@ Two clips = one I-edge = one edge.
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 ↑ dual = [I60-D](#i60-d)  
 
+#### II24-T
+
+![24 clips forming 6 II-edges forming tetrahedron](II24-T.jpg)  
+↑ # Clips = 24  
+↑ Base = [tetrahedron]  
+↑ Vertex config = 3.3.3  
+↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Dual = [itself](#ii14-t)  
+
+
 ### I-series, Archimedean
 
 #### I36-tT
