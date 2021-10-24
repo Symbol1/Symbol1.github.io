@@ -49,7 +49,7 @@ keeps the source codes, comments, and results.
 
 [*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://doi.org/10.1007/s00200-021-00526-3)
 is in Applicable Algebra in Engineering, Communication and Computing, 2021 October.
-(Not open access; [author copy]((https://rdcu.be/cyJs2)).)
+(Not open access; [author copy](https://rdcu.be/cyJs2).)
 
 [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742)
 is in SIAM Journal on Applied Algebra and Geometry, 2021 September.
