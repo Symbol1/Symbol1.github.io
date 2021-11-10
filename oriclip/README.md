@@ -21,6 +21,7 @@ Fast scroll to
   [Φ-series](#φ-series),
   [Δ-series](#δ-series)
 * Edge unit:
+  [Y-series](#y-series),
   [X-series](#x-series),
   [L-series](#l-series),
   [I-Platonic](#i-series-platonic),
@@ -282,6 +283,18 @@ Three clips = one Δ-vertex = one vertex.
 ↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
 
 ## Edge unit
+
+### Y-series
+
+Three clips = one Y-edge = one edge.
+
+#### Y18-T
+
+![18 clips forming 6 Η-edges forming octahedron](Y18-T.jpg)  
+↑ # Clips = 24  
+↑ Base = [tetrahedron]  
+↑ Vertex config = 3.3.3  
+↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
 
 ### X-series
 
