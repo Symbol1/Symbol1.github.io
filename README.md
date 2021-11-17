@@ -45,7 +45,7 @@ the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
 [This GitHub repository](https://github.com/Symbol1/BlueWaters-RM64)
 keeps the source codes, comments, and results.
 
-## Publications
+## First-Author Publications
 
 [*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://doi.org/10.1007/s00200-021-00526-3)
 is in Applicable Algebra in Engineering, Communication and Computing, 2021 October.
@@ -53,6 +53,7 @@ is in Applicable Algebra in Engineering, Communication and Computing, 2021 Octob
 
 [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742)
 is in SIAM Journal on Applied Algebra and Geometry, 2021 September.
+(15 minutes [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM).)
 
 [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523)
 is in IEEE Transactions on Information Theory, 2021 March.
