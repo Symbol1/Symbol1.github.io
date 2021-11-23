@@ -3,6 +3,8 @@
 
 Postdoc @ UC San Diego (ECE)
 
+[How to pronounce my name?](/pronounce)
+
 ## Contact
 
 Email = hsw001 at ucsd dot edu  
