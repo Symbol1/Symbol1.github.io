@@ -66,7 +66,7 @@ is in IEEE Transactions on Information Theory, 2021 March.
 ## Education & Positions
 
 Postdoc in Electrical and Computer Engineering  
-Advisor = Alexander Vardy  
+Advisor = [Alexander Vardy](https://orcid.org/0000-0003-3303-9078)  
 Advisor += [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
 University of California San Diego  
 2021--
