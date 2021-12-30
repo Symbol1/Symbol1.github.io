@@ -53,56 +53,56 @@ Fast scroll to
 ![6 binder clips forming a cycle](6-cycle.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [triangular antiprism]  
-↑ Symmetry = triangular antiprism's rotations = $D_6$ of order 6  
+↑ Symmetry = triangular antiprism's rotations  
 
 #### 6-dense
 
 ![6 binder clips clipping and interlocking densely](6-dense.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [six-piece burr]  
-↑ Symmetry = triangular antiprism's rotations = $D_6$ of order 6  
+↑ Symmetry = triangular antiprism's rotations  
 
 #### 6-wedge
 
 ![6 binder clips with mouths pointing outward](6-wedge.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [six-piece burr]  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 
 #### 6-fitin
 
 ![6 binder clips with handles fit in notches](6-fitin.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [octahedron]  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 
 #### 6-twist
 
 ![6 binder clips with interlocking handles](6-twist.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [octahedron]  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 
 #### 6-cross
 
 ![6 binder clips forming a 3D cross](6-cross.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [three-piece burr]  
-↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
+↑ Symmetry = pyritohedron's rotations and reflections
 
 #### 6-spike
 
 ![6 binder clips with spiky handles](6-spike.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [six-piece burr]  
-↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
+↑ Symmetry = pyritohedron's rotations and reflections
 
 #### 6-stand
 
 ![6 binder clips whose bodies stand on the octahedron formed by handles](6-stand.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [octahedron]  
-↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
+↑ Symmetry = pyritohedron's rotations and reflections
 
 ### 12-clip constructions
 
@@ -111,7 +111,7 @@ Fast scroll to
 ![6 binder clips form an octahedron, another 6 form tentacles](12-angel.jpg)
 ↑ # Clips = 12  
 ↑ Base = [octahedron]  
-↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
+↑ Symmetry = pyritohedron's rotations and reflections
 
 ### Polylink
 
@@ -131,14 +131,14 @@ One handle = one edge.
 ![12 clips forming cuboctahedron](S12-aC.jpg)  
 ↑ # Clips = 12  
 ↑ Base = [cuboctahedron]  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 
 #### S30-aD
 
 ![30 clips forming icosidodecahedron](S30-aD.jpg)  
 ↑ # Clips = 30  
 ↑ Base = [icosidodecahedron]  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 
 ### A-series
 
@@ -149,35 +149,35 @@ One clip = one edge.
 ![12 clips forming spiky octahedron](A12-O.jpg)  
 ↑ # Clips = 12  
 ↑ Base = [octahedron]  
-↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
+↑ Symmetry = pyritohedron's rotations and reflections
 
 #### A24-aC
 
 ![24 clips forming spiky cuboctahedron](A24-aC.jpg)  
 ↑ # Clips = 24  
 ↑ Base = [cuboctahedron]  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 
 #### A36-kC
 
 ![36 clips forming spiky tetrakis hexahedron](A36-kC.jpg)  
 ↑ # Clips = 36  
 ↑ Base = [tetrakis hexahedron]  
-↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
+↑ Symmetry = pyritohedron's rotations and reflections
 
 #### A48-aaC
 
 ![48 clips forming spiky rhombicuboctahedron](A48-aaC.jpg)  
 ↑ # Clips = 48  
 ↑ Base = [rhombicuboctahedron]  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 
 #### A60-aD*
 
 ![60 clips forming icosidodecahedron, but with helps](A60-aD.jpg)  
 ↑ # Clips = 60  
 ↑ Base = [icosidodecahedron]  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 
 #### A24-aC8-O
 
@@ -185,7 +185,7 @@ One clip = one edge.
 ↑ # Clips = 192  
 ↑ Local base = [cuboctahedron]  
 ↑ Global base = [octahedron]  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 
 ## Vertex unit
 
@@ -199,7 +199,7 @@ Four clips = one Η-vertex = one vertex.
 ↑ # Clips = 24  
 ↑ Base = [octahedron]  
 ↑ Vertex config = 3.3.3.3  
-↑ Symmetry = pyritohedron's rotations and reflections = $A_4\times C_2$ of order 24  
+↑ Symmetry = pyritohedron's rotations and reflections
 
 #### Η48-jC
 
@@ -207,14 +207,14 @@ Four clips = one Η-vertex = one vertex.
 ↑ # Clips = 48  
 ↑ Base = [rhombic dodecahedron]  
 ↑ Face config = 3.4.3.4  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 
 #### Η120-lC
 
 ![24 clips forming 12 Η-faces forming lofted cube](Η120-lC.jpg)  
 ↑ # Clips = 120  
 ↑ Base = application of the *loft* operation upon a cube  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 
 #### Η24-T
 
@@ -222,7 +222,7 @@ Four clips = one Η-vertex = one vertex.
 ↑ # Clips = 24  
 ↑ Base = [tetrahedron]  
 ↑ Vertex config = 3.3.3  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 
 #### Η48-O
 
@@ -230,7 +230,7 @@ Four clips = one Η-vertex = one vertex.
 ↑ # Clips = 48  
 ↑ Base = [octahedron]  
 ↑ Vertex config = 3.3.3.3  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 
 #### Η48-C
 
@@ -238,7 +238,7 @@ Four clips = one Η-vertex = one vertex.
 ↑ # Clips = 48  
 ↑ Base = [cube]  
 ↑ Vertex config = 4.4.4  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 
 ### Φ-series
 
@@ -250,7 +250,7 @@ Three clips = one Φ-vertex = one vertex.
 ↑ # Clips = 24  
 ↑ Base = [cube]  
 ↑ Vertex config = 4.4.4  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ Dual = [Φ24-O](#φ24-o)  
 
 #### Φ24-O
@@ -259,7 +259,7 @@ In progress
 ↑ # Clips = 24  
 ↑ Base = [octahedron]  
 ↑ Vertex config = 3.3.3.3  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ Dual = [Φ24-C](#φ24-c)  
 
 #### ΦB60-I
@@ -268,7 +268,7 @@ In progress
 ↑ # Clips = 60  
 ↑ Vertex config = 3.3.3.3.3  
 ↑ Base = [icosahedron]  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 
 #### ΦJ60-D
 
@@ -276,7 +276,7 @@ In progress
 ↑ # Clips = 60  
 ↑ Vertex config = 5.5.5  
 ↑ Base = [dodecahedron]  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 
 ### Δ-series
 
@@ -288,7 +288,7 @@ Three clips = one Δ-vertex = one vertex.
 ↑ # Clips = 60  
 ↑ Vertex config = 5.5.5  
 ↑ Base = [dodecahedron]  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 
 #### Δ180-tI
 
@@ -296,7 +296,7 @@ Three clips = one Δ-vertex = one vertex.
 ↑ # Clips = 180  
 ↑ Vertex config = 5.6.6  
 ↑ Base = [truncated icosahedron]  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 
 ## Edge unit
 
@@ -310,7 +310,7 @@ Three clips = one Y-edge = one edge.
 ↑ # Clips = 24  
 ↑ Base = [tetrahedron]  
 ↑ Vertex config = 3.3.3  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 
 ### X-series
 
@@ -322,7 +322,7 @@ Two clips = one X-edge = one edge.
 ↑ # Clips = 12  
 ↑ Base = [tetrahedron]  
 ↑ Vertex config = 3.3.3  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 ↑ Dual = [itself](#x12-t)  
 
 #### X24-C
@@ -331,7 +331,7 @@ Two clips = one X-edge = one edge.
 ↑ # Clips = 24  
 ↑ base = [cube]  
 ↑ Vertex config = 4.4.4  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ dual = [X24-O](#x24-o)  
 
 #### X24-O
@@ -340,7 +340,7 @@ Two clips = one X-edge = one edge.
 ↑ # Clips = 24  
 ↑ base = [octahedron]  
 ↑ Vertex config = 3.3.3.3  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ dual = [X24-C](#x24-c)  
 
 #### X60-D
@@ -349,7 +349,7 @@ Two clips = one X-edge = one edge.
 ↑ # Clips = 60  
 ↑ Vertex config = 5.5.5  
 ↑ Base = [dodecahedron]  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ dual = [X60-I](#x60-i)  
 
 #### X60-I
@@ -358,7 +358,7 @@ Two clips = one X-edge = one edge.
 ↑ # Clips = 60  
 ↑ Vertex config = 3.3.3.3.3  
 ↑ Base = [icosahedron]  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ dual = [X60-D](#x60-d)  
 
 #### XX120-D
@@ -367,7 +367,7 @@ Two clips = one X-edge = one edge.
 ↑ # Clips = 120  
 ↑ Vertex config = 5.5.5  
 ↑ Base = [dodecahedron]  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 
 ### L-series
 
@@ -379,7 +379,7 @@ Two clips = one L-edge = one edge.
 ↑ # Clips = 12  
 ↑ Base = [tetrahedron]  
 ↑ Vertex config = 3.3.3  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 ↑ Dual = [itself](#l12-t)  
 
 #### L24-C
@@ -388,7 +388,7 @@ Two clips = one L-edge = one edge.
 ↑ # Clips = 24  
 ↑ Base = [cube]  
 ↑ Vertex config = 4.4.4  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ Dual = [L24-O](#l24-o)  
 
 #### L24-O
@@ -397,7 +397,7 @@ Two clips = one L-edge = one edge.
 ↑ # Clips = 24  
 ↑ Base = [octahedron]  
 ↑ Vertex config = 3.3.3.3  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ Dual = [L24-C](#l24-c)  
 
 #### L60-D
@@ -406,7 +406,7 @@ Two clips = one L-edge = one edge.
 ↑ # Clips = 60  
 ↑ Base = [dodecahedron]  
 ↑ Vertex config = 5.5.5  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ Dual = [L60-I](#l60-i)  
 
 #### L60-I
@@ -415,7 +415,7 @@ Two clips = one L-edge = one edge.
 ↑ # Clips = 60  
 ↑ Base = [icosahedron]  
 ↑ Vertex config = 3.3.3.3.3  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ Dual = [L60-D](#l60-d)  
 
 #### L36-tT
@@ -424,7 +424,7 @@ Two clips = one L-edge = one edge.
 ↑ # Clips = 36  
 ↑ Base = [truncated tetrahedron]  
 ↑ Vertex config = 3.6.6  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 
 #### L48-aC
 
@@ -432,7 +432,7 @@ Two clips = one L-edge = one edge.
 ↑ # Clips = 48  
 ↑ Base = [cuboctahedron]  
 ↑ Vertex config = 3.4.3.4  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 
 #### L180-tI
 
@@ -440,7 +440,7 @@ Two clips = one L-edge = one edge.
 ↑ # Clips = 180  
 ↑ Base = [truncated icosahedron]  
 ↑ Vertex config = 5.6.6  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 
 ### I-series, Platonic
 
@@ -452,7 +452,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 12  
 ↑ Base = [tetrahedron]  
 ↑ Vertex config = 3.3.3  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 ↑ Dual = [itself](#i12-t)  
 
 #### I24-C
@@ -461,7 +461,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 24  
 ↑ base = [cube]  
 ↑ Vertex config = 4.4.4  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ dual = [I24-O](#i24-o)  
 
 #### I24-O
@@ -470,7 +470,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 24  
 ↑ Base = [octahedron]  
 ↑ Vertex config = 3.3.3.3  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ Dual = [I24-C](#i24-c)  
 
 #### I60-D
@@ -479,7 +479,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 30  
 ↑ Vertex config = 5.5.5  
 ↑ Base = [dodecahedron]  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ Dual = [I60-I](#i60-i)  
 
 #### I60-I
@@ -488,7 +488,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 30  
 ↑ Base = [icosahedron]  
 ↑ Vertex config = 3.3.3.3.3  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ dual = [I60-D](#i60-d)  
 
 #### II24-T
@@ -497,7 +497,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 24  
 ↑ Base = [tetrahedron]  
 ↑ Vertex config = 3.3.3  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 ↑ Dual = [itself](#ii14-t)  
 
 
@@ -509,7 +509,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 36  
 ↑ Base = [truncated tetrahedron]  
 ↑ Vertex config = 3.6.6  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 ↑ Dual = [I36-kT](#i36-kt)  
 
 #### I48-aC
@@ -518,7 +518,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 48  
 ↑ Base = [cuboctahedron]  
 ↑ Vertex config = 3.4.3.4  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ Dual = [I48-jC](#i48-jc)  
 
 #### I72-tC
@@ -527,7 +527,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 72  
 ↑ Base = [truncated cube]  
 ↑ Vertex config = 3.8.8  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ (Dual = triakis octahedron)  
 
 #### I72-tO
@@ -536,7 +536,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 72  
 ↑ Base = [truncated octahedron]  
 ↑ Vertex config = 4.6.6  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ [I72-kC](#i72kc)  
 
 #### I96-aaC
@@ -545,7 +545,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 96  
 ↑ Base = [rhombicuboctahedron]  
 ↑ Vertex config = 3.4.4.4  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ [I96-jjC](#i96-jjc)  
 
 #### I120-sC
@@ -554,7 +554,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 120  
 ↑ Base = [snub cube]  
 ↑ Vertex config = 3.3.3.3.4  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ (Dual = pentagonal icositetrahedron)  
 
 #### I120-aD
@@ -563,7 +563,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 120  
 ↑ Base = [icosidodecahedron]  
 ↑ Vertex config = 3.5.3.5  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ Dual = [I120-jD](#i120-jd)
 
 #### I180-tI
@@ -572,7 +572,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 180  
 ↑ Base = [truncated icosahedron]  
 ↑ Vertex config = 5.5.6  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ Dual = [I180-kD](#i180-kd)  
 
 #### I240-aaD
@@ -581,7 +581,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 240  
 ↑ Base = [rhombicosidodecahedron]  
 ↑ Vertex config = 3.4.5.4  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 
 #### I300-sD
 
@@ -589,7 +589,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 300  
 ↑ Base = [snub dodecahedron]  
 ↑ Face config = 3.3.3.3.5  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ (Dual = pentagonal hexecontahedron)  
 
 ### I-series, Catalan
@@ -600,7 +600,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 36  
 ↑ Face config = 3.6.6  
 ↑ Base = [triakis tetrahedron]  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 ↑ Dual = [I36-tT](#i36-tt)  
 
 #### I48-jC
@@ -609,7 +609,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 48  
 ↑ Base = [rhombic dodecahedron]  
 ↑ Face config = 3.4.3.4  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ Dual = [I48-aC](#i48-ac)  
 
 #### I72-kC
@@ -618,7 +618,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 72  
 ↑ Base = [tetrakis hexahedron]  
 ↑ Face config = 4.6.6  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ Dual = [I72-tO](#i72-to)  
 
 #### I96-jjC
@@ -627,7 +627,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 96  
 ↑ Base = [deltoidal icositetrahedron]  
 ↑ Face config = 3.4.4.4  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ [I96-aaC](#i96-aac)  
 
 #### I120-jD
@@ -636,7 +636,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 120  
 ↑ Base = [rhombic triacontahedron]  
 ↑ Face config = 3.5.3.5  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ Dual = [I120-aD](#i120-ad)  
 
 #### I180-kD
@@ -645,7 +645,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 120  
 ↑ Base = [pentakis dodecahedron]  
 ↑ Face config = 5.6.6  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ Dual = [I180-tI](#i180-ti)  
 
 ### I-series, Fullerene
@@ -656,7 +656,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 240  
 ↑ Base = [chamfered dodecahedron]  
 ↑ Each dodecahedron vertex = 4 new vertices  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ Dual = [I240-uI](#i240-ui)  
 
 #### I240-uI
@@ -665,7 +665,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 240  
 ↑ Base = [pentakis icosidodecahedron] aka C80  
 ↑ Each icosahedron face = 4 small triangles  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ Dual = [I240-cD](#i240-cd)  
 
 ### W-series
@@ -676,7 +676,7 @@ Two clips = one I-edge = one edge.
 ↑ # Clips = 12  
 ↑ Base = [tetrahedron]  
 ↑ Vertex config = 3.3.3  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 ↑ Dual = [itself](#w12-t)  
 
 #### W24-C
@@ -685,7 +685,7 @@ Difficulty encountered
 ~~↑ # Clips = 24~~  
 ~~↑ base = [cube]~~  
 ~~↑ Vertex config = 4.4.4~~  
-~~↑ Symmetry = cube's rotations = $S_4$ of order 24~~  
+~~↑ Symmetry = cube's rotations~~  
 ~~↑ dual = [W24-O](#w24-o)~~  
 
 #### W24-O
@@ -694,7 +694,7 @@ Difficulty encountered
 ↑ # Clips = 24  
 ↑ base = [octahedron]  
 ↑ Vertex config = 3.3.3.3  
-↑ Symmetry = cube's rotations = $S_4$ of order 24  
+↑ Symmetry = cube's rotations  
 ↑ dual = [W24-C](#w24-c)  
 
 #### W60-D
@@ -703,7 +703,7 @@ Difficulty encountered
 ↑ # Clips = 60  
 ↑ Base = [dodecahedron]  
 ↑ Vertex config = 5.5.5  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ Dual = [W60-I](#w60-i)  
 
 #### W60-I
@@ -712,7 +712,7 @@ Difficulty encountered
 ↑ # Clips = 60  
 ↑ Base = [icosahedron]  
 ↑ Vertex config = 3.3.3.3.3  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 ↑ Dual = [W60-D](#w60-d)  
 
 #### W36-tT
@@ -721,7 +721,7 @@ Difficulty encountered
 ↑ # Clips = 36  
 ↑ Base = [truncated tetrahedron]  
 ↑ Vertex config = 3.6.6  
-↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+↑ Symmetry = tetrahedron's rotations  
 
 #### W120-aD
 
@@ -729,7 +729,7 @@ Difficulty encountered
 ↑ # Clips = 120  
 ↑ Base = [icosidodecahedron]  
 ↑ Vertex config = 3.5.3.5  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 
 #### W240-cD
 
@@ -737,7 +737,7 @@ Difficulty encountered
 ↑ # Clips = 240  
 ↑ Base = [chamfered dodecahedron]  
 ↑ Each dodecahedron vertex = 4 new vertices  
-↑ Symmetry = dodecahedron's rotations = $A_5$ of order 60  
+↑ Symmetry = dodecahedron's rotations  
 
 ![vaseman and oriclip](../vaseman/Jau-Pao%20Wang%202021-05-20.jpg)
 
