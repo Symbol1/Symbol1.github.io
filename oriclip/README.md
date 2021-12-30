@@ -232,6 +232,14 @@ Four clips = one Η-vertex = one vertex.
 ↑ Vertex config = 3.3.3.3  
 ↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
 
+#### Η48-C
+
+![48 clips forming 8 Η-edges forming cube](Η48-C.jpg)  
+↑ # Clips = 48  
+↑ Base = [cube]  
+↑ Vertex config = 4.4.4  
+↑ Symmetry = tetrahedron's rotations = $A_4$ of order 12  
+
 ### Φ-series
 
 Three clips = one Φ-vertex = one vertex.
