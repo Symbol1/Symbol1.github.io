@@ -5,13 +5,17 @@ The following are my works on distributed storage systems.
 Both concern regenerating code
 that have applications in distributed storage systems.
 
-| Abbreviation|Authors|Title                                                    |
+| Abbreviation|Authors|Title                                                     |
 |:-----------:|:-----:|:--------------------------------------------------------:|
 |[MoulinAlg20]| D   W |Multilinear Algebra for Distributed Storage               |
 |[Atrahasis20]| D L W |Multilinear Algebra for Minimum Storage Regenerating Codes|
+|[MoulinAlg21]| D   W |Multilinear Algebra for Distributed Storage               |
+|[Atrahasis21]| D L W |Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction|
 
 D = Iwan Duursma (Advisor of the time);  
-L = Xiao Li (academic sister).
+L = Xiao Li (academic sister).  
+[MoulinAlg21] is the journal version of [MoulinAlg20] published in SIAM SIAGA.  
+[Atrahasis21] is the journal version of [Atrahasis20] published in Springer AAECC.
 
 A **regenerating code** consists of
 
@@ -81,3 +85,5 @@ in Atrahasis20 for a comparison of some existing contraptions.
 
 [MoulinAlg20]: https://arxiv.org/abs/2006.08911
 [Atrahasis20]: https://arxiv.org/abs/2006.16998
+[MoulinAlg21]: https://doi.org/10.1137/20M1346742
+[Atrahasis21]: https://doi.org/10.1007/s00200-021-00526-3
