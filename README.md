@@ -29,10 +29,7 @@ Social media =
 * [Microsoft Academic](https://academic.microsoft.com/profile/g141337f-e259-4116-9954-g46j0ef17e2h/Symbol/)
 
 Interests =
-Information theory | coding theory | Shannon theory:
-Random coding and polar coding over communication channels;
-Distributed storage and distributed computation,
-application of algebra and combinatorics to.
+information theory; coding theory; application of algebra and combinatorics.
 
 For meta-comments of my works categorized by topics, see:
 
