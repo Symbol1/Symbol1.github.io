@@ -272,7 +272,7 @@ Three clips = one Φ-vertex = one vertex.
 
 #### Φ24-O
 
-In progress  
+![24 clips forming 6 Φ-vertices forming octahedron](Φ24-O.jpg)  
 ↑ # Clips = 24  
 ↑ Base = [octahedron]  
 ↑ Vertex config = 3.3.3.3  
@@ -516,7 +516,6 @@ Two clips = one I-edge = one edge.
 ↑ Vertex config = 3.3.3  
 ↑ Symmetry = tetrahedron's rotations  
 ↑ Dual = [itself](#ii14-t)  
-
 
 ### I-series, Archimedean
 
