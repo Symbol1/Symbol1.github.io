@@ -185,6 +185,14 @@ One clip = one edge.
 ↑ Global base = [cube]  
 ↑ Symmetry = cube's rotations  
 
+#### A24-aC4-T
+
+![24 clips forming spiky cuboctahedron, 4 of that forming tetrahedron](A24-aC4-T.jpg)  
+↑ # Clips = 96  
+↑ Local base = [cuboctahedron]  
+↑ Global base = [tetrahedron]  
+↑ Symmetry = tetrahedron's rotations  
+
 #### A24-aC8-O
 
 ![24 clips forming spiky cuboctahedron, 6 of that forming octahedron](A24-aC6-O.jpg)  
@@ -214,6 +222,12 @@ Four clips = one Η-vertex = one vertex.
 ↑ Base = [rhombic dodecahedron]  
 ↑ Face config = 3.4.3.4  
 ↑ Symmetry = cube's rotations  
+
+#### Η120-aD
+![120 clips forming 12 Η-vertices forming icosidodecahedron](Η120-aD.jpg)
+↑ # Clips = 120  
+↑ Base = icosidodecahedron
+↑ Symmetry = dodecahedron's rotations  
 
 #### Η120-lC
 
