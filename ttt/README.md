@@ -220,6 +220,7 @@ I ended up using online conversion tools.
 ![Pixelated egg with light shading](egg/egg.png)
 
 ```latex
+% egg.tex
 \documentclass[tikz]{standalone}
 \def\ditherdivide{ %%%  y  x  dither_score  power_of_2
     2 mul 4 2 roll 2 mul dup cvi 1 and 2 mul
@@ -255,19 +256,20 @@ I ended up using online conversion tools.
         mul sqrt                %  ww'
         exch .3 mul add         %  += vv'
         exch .4 mul add         %  += uu'
-        dup abs add 2 div       % keep if ≥ 0 otherwise 0
-        .1 add % affine transform light
+        dup abs add 2 div       %  keep if ≥ 0 otherwise 0
+        .1 add                  %  affine transform light
     }ifelse
     %%%  score  light
-    le {1} {0} ifelse % sum<light
+    le {1} {0} ifelse           %  sum<light
 }
 \begin{document}
     \tikz\shade[shading=ordered dithering egg]
         (0,0)rectangle(4in,4in);
 \end{document}
+
 ```
 
-Using macOS preview to convert pdf to png (with resolution 256 pixel/inch).
+Using macOS Preview.app to convert pdf to png (with resolution 256 pixel/inch).
 But if you look closely, the “correct” resolution should be 128 pixel/inch.
 Turns out there are some rounding issues no matter I use `floor` or `round`
-in the code that go away when the resolution are doubled.
+in the code that go away when the resolution is doubled.

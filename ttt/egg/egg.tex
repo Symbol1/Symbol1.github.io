@@ -1,11 +1,12 @@
-\documentclass[tikz]{standalone}
 
-\def\ditherdivide{%%%  y  x  dither_score  power_of_2
+
+
+\documentclass[tikz]{standalone}
+\def\ditherdivide{ %%%  y  x  dither_score  power_of_2
 	2 mul 4 2 roll 2 mul dup cvi 1 and 2 mul
 	3 2 roll 2 mul dup 4 1 roll cvi 1 and
 	3 mul xor 5 4 roll add 4 div 4 3 roll
 }
-
 \pgfdeclarefunctionalshading{ordered dithering egg}
 	{\pgfpoint{0bp}{0bp}}{\pgfpoint{50bp}{50bp}}{}{
 	%%%  X:[0,50]  Y:[0,50]
@@ -35,16 +36,15 @@
 		mul sqrt				%  ww'
 		exch .3 mul add			%  += vv'
 		exch .4 mul add			%  += uu'
-		dup abs add 2 div		% keep if ≥ 0 otherwise 0
-		.1 add % affine transform light
+		dup abs add 2 div		%  keep if ≥ 0 otherwise 0
+		.1 add					%  affine transform light
 	}ifelse
 	%%%  score  light
-	le {1} {0} ifelse % sum<light
+	le {1} {0} ifelse			%  sum<light
 }
-
 \begin{document}
 	\tikz\shade[shading=ordered dithering egg]
 		(0,0)rectangle(4in,4in);
 \end{document}
 
-12345678123456781234567812345678123456781234567812345678
+
