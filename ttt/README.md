@@ -221,7 +221,7 @@ I ended up using online conversion tools.
 
 ```latex
 \documentclass[tikz]{standalone}
-\def\ditherdivide{%%%  y  x  dither_score  power_of_2
+\def\ditherdivide{ %%%  y  x  dither_score  power_of_2
     2 mul 4 2 roll 2 mul dup cvi 1 and 2 mul
     3 2 roll 2 mul dup 4 1 roll cvi 1 and
     3 mul xor 5 4 roll add 4 div 4 3 roll
