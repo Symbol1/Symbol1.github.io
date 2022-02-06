@@ -52,13 +52,15 @@ is in Applicable Algebra in Engineering, Communication and Computing, 2021 Octob
 
 [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742)
 is in SIAM Journal on Applied Algebra and Geometry, 2021 September.
-(15 minutes [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM).)
+(15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM).)
 
 [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523)
 is in IEEE Transactions on Information Theory, 2021 March.
 
 [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570)
 is in IEEE Transactions on Information Theory, 2021 March.
+([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
+[slides @ UIUC](https://github.com/Symbol1/Complex2Order).)
 
 ## Education & Positions
 
@@ -68,14 +70,14 @@ Advisor += [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)
 University of California San Diego  
 2021--
 
+Visitor  
+National Center for Theoretical Sciences (國家理論科學研究中心)  
+2020 Winter
+
 Ph.D in Mathematics  
 Advisor = [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/)  
 University of Illinois Urbana-Champaign  
 2016--2021
-
-Visitor  
-National Center for Theoretical Sciences (國家理論科學研究中心)  
-2020 Winter
 
 Bachelor of Science in Mathematics  
 National Taiwan University (國立臺灣大學)  
@@ -116,7 +118,7 @@ as an alternative to the mandatory military service.
 [TikZ TeX Talk](/ttt) collects some of my ideas for (La)TeX and TikZ.
 
 [Vaseman](/vaseman) is about drawing people that look like vases.
-(Data plan warning: many photos!)
+(Data plan warning: scans of drawings!)
 
 [Oriclip](/oriclip) is about binder clip sculptures.
 (Data plan warning: a lot of photos!)
