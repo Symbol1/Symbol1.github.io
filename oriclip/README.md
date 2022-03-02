@@ -37,11 +37,17 @@ Fast scroll to
 #### 2-ftf
 
 ![2 binder clips touch face to face](2-ftf.jpg)  
-↑ # Clips = 2  
 
 #### 2-btb
 
 ![2 binder clips hold back to back](2-btb.jpg)  
+↑ # Clips = 2  
+
+↑ # Clips = 2  
+
+#### 2-hth
+
+![2 binder clips hold back to back](2-hth.jpg)  
 ↑ # Clips = 2  
 
 ### 6-clip constructions
@@ -224,6 +230,7 @@ Four clips = one Η-vertex = one vertex.
 ↑ Symmetry = cube's rotations  
 
 #### Η120-aD
+
 ![120 clips forming 12 Η-vertices forming icosidodecahedron](Η120-aD.jpg)
 ↑ # Clips = 120  
 ↑ Base = icosidodecahedron
