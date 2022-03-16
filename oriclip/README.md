@@ -19,6 +19,7 @@ Fast scroll to
 * Vertex unit:
   [Η-series](#η-series),
   [Φ-series](#φ-series),
+  [Ψ-series](#ψ-series),
   [Δ-series](#δ-series)
 * Edge unit:
   [Y-series](#y-series),
@@ -284,7 +285,7 @@ Three clips = one Φ-vertex = one vertex.
 
 #### Φ24-C
 
-![24 clips forming 12 Φ-vertices forming cube](Φ24-C.jpg)  
+![24 clips forming 8 Φ-vertices forming cube](Φ24-C.jpg)  
 ↑ # Clips = 24  
 ↑ Base = [cube]  
 ↑ Vertex config = 4.4.4  
@@ -315,6 +316,28 @@ Three clips = one Φ-vertex = one vertex.
 ↑ Vertex config = 5.5.5  
 ↑ Base = [dodecahedron]  
 ↑ Symmetry = dodecahedron's rotations  
+
+### Ψ-series
+
+Three clips = one Ψ-vertex = one vertex.
+
+#### Ψ12-T
+
+![12 clips forming 4 Ψ-vertices forming tetrahedron](Ψ12-T.jpg)  
+↑ # Clips = 12  
+↑ Base = [tetrahedron]  
+↑ Vertex config = 3.3.3  
+↑ Symmetry = tetrahedron's rotations  
+↑ Dual = [itself](#ψ12-t)  
+
+#### Ψ24-C
+
+![24 clips forming 8 Ψ-vertices forming cube](Ψ24-C.jpg)  
+↑ # Clips = 23  
+↑ Base = [cube]  
+↑ Vertex config = 4.4.4  
+↑ Symmetry = cube's rotations  
+↑ Dual = [Ψ24-O](#ψ24-o)  
 
 ### Δ-series
 
