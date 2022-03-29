@@ -260,6 +260,14 @@ Four clips = one Η-vertex = one vertex.
 ↑ Vertex config = 3.3.3.3  
 ↑ Symmetry = pyritohedron's rotations and reflections  
 
+#### Η48-C
+
+![48 clips forming 8 Η-vertices forming cube](Η48-C.jpg)  
+↑ # Clips = 48  
+↑ Base = [cube]  
+↑ Vertex config = 4.4.4  
+↑ Symmetry = tetrahedron's rotations  
+
 #### H48-O
 
 This “H” is the Latin Ech because it is used as an edge unit.
@@ -271,13 +279,16 @@ The other “Η” are Greek Eta because they are used as vertex unit.
 ↑ Vertex config = 3.3.3.3  
 ↑ Symmetry = cube's rotations  
 
-#### Η48-C
+#### H120-D
 
-![48 clips forming 8 Η-vertices forming cube](Η48-C.jpg)  
-↑ # Clips = 48  
-↑ Base = [cube]  
-↑ Vertex config = 4.4.4  
-↑ Symmetry = tetrahedron's rotations  
+This “H” is the Latin Ech because it is used as an edge unit.
+The other “Η” are Greek Eta because they are used as vertex unit.
+
+![120 clips forming 30 H-edges forming dodecahedron](H120-D.jpg)  
+↑ # Clips = 120  
+↑ Base = [dodecahedron]  
+↑ Vertex config = 5.5.5  
+↑ Symmetry = dodecahedron's rotations  
 
 ### Φ-series
 
