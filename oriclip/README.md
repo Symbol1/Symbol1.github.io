@@ -344,11 +344,20 @@ Three clips = one Ψ-vertex = one vertex.
 #### Ψ24-C
 
 ![24 clips forming 8 Ψ-vertices forming cube](Ψ24-C.jpg)  
-↑ # Clips = 23  
+↑ # Clips = 24  
 ↑ Base = [cube]  
 ↑ Vertex config = 4.4.4  
 ↑ Symmetry = cube's rotations  
 ↑ Dual = [Ψ24-O](#ψ24-o)  
+
+#### Ψ24-O
+
+![24 clips forming 6 Ψ-vertices forming octahedron](Ψ24-O.jpg)  
+↑ # Clips = 24  
+↑ Base = [octahedron]  
+↑ Vertex config = 3.3.3.3  
+↑ Symmetry = cube's rotations  
+↑ Dual = [Ψ24-C](#ψ24-c)  
 
 ### Δ-series
 
