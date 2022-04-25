@@ -38,12 +38,11 @@ Fast scroll to
 #### 2-ftf
 
 ![2 binder clips touch face to face](2-ftf.jpg)  
+↑ # Clips = 2  
 
 #### 2-btb
 
 ![2 binder clips hold back to back](2-btb.jpg)  
-↑ # Clips = 2  
-
 ↑ # Clips = 2  
 
 #### 2-hth
@@ -293,6 +292,15 @@ The other “Η” are Greek Eta because they are used as vertex unit.
 ### Φ-series
 
 Three clips = one Φ-vertex = one vertex.
+
+#### Φ12-T
+
+![12 clips forming 4 Φ-vertices forming tetrahedron](Φ12-T.jpg)  
+↑ # Clips = 12  
+↑ Base = [tetrahedron]  
+↑ Vertex config = 3.3.3  
+↑ Symmetry = tetrahedron's rotations  
+↑ Dual = [itself](#φ12-t)  
 
 #### Φ24-C
 
