@@ -95,6 +95,9 @@ with terminal command (with ImageMagick installed)
 convert -density 144 -resize 2000 diffuse.pdf diffuse.jpg
 ```
 
+Related to TeX.SX post <https://tex.stackexchange.com/a/545948/51022>
+and less related to <https://tex.stackexchange.com/a/544134/51022>.
+
 ## Inversion
 
 ![Applying inversion transformation to Lenna the image](inversion/inversion.jpg)
@@ -165,6 +168,10 @@ Convert pdf to jpg with terminal command (with ImageMagick installed)
 convert -density 300 inversion.pdf inversion.jpg
 ```
 
+This is the final form of a series of posts,
+the starting point being <https://tex.stackexchange.com/a/332173/51022>
+and the end point being <https://tex.stackexchange.com/a/376128/51022>.
+
 ## Galaxy
 
 ![Pixelated galaxy is rotating](galaxy/galaxy.gif)
@@ -214,6 +221,8 @@ convert -density 300 inversion.pdf inversion.jpg
 ImageMagick does not convert this pdf properly.
 (In general, it has issues with functional shading.)
 I ended up using online conversion tools.
+
+This is inspired by <http://www.peda.com/grafeq/gallery.html>.
 
 # Egg
 
@@ -273,3 +282,6 @@ Using macOS Preview.app to convert pdf to png (with resolution 256 pixel/inch).
 But if you look closely, the “correct” resolution should be 128 pixel/inch.
 Turns out there are some rounding issues no matter I use `floor` or `round`
 in the code that go away when the resolution is doubled.
+
+This is a derivation of <https://tex.stackexchange.com/a/267088/51022>,
+motivated by Kurzgesagt's video <https://www.youtube.com/watch?v=h6fcK_fRYaI>
