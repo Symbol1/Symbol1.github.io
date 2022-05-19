@@ -44,7 +44,8 @@ or with this command that does anti-aliasing
 convert -delay 2 -density 300 -resize 300x300 cycloid.pdf cycloid.gif
 ```
 
-This is inspired by <https://twitter.com/jagarikin/status/1331409504953540613>.
+This is inspired by じゃがりきん's
+[twitter post](https://twitter.com/jagarikin/status/1331409504953540613).
 
 ## Diffuse
 
@@ -162,15 +163,18 @@ and less related to <https://tex.stackexchange.com/a/544134/51022>.
 \end{document}
 ```
 
+`lenna.png` is taken from wikipedia.
 Convert pdf to jpg with terminal command (with ImageMagick installed)
 
 ```shell
 convert -density 300 inversion.pdf inversion.jpg
 ```
 
-This is the final form of a series of posts,
-the starting point being <https://tex.stackexchange.com/a/332173/51022>
-and the end point being <https://tex.stackexchange.com/a/376128/51022>.
+This is the final form of a series of answers on TeX.SX, including
+<https://tex.stackexchange.com/a/332173/51022> and
+<https://tex.stackexchange.com/a/336821/51022> and
+<https://tex.stackexchange.com/a/376128/51022> and
+<https://tex.stackexchange.com/a/479188/51022>.
 
 ## Galaxy
 
@@ -284,4 +288,5 @@ Turns out there are some rounding issues no matter I use `floor` or `round`
 in the code that go away when the resolution is doubled.
 
 This is a derivation of <https://tex.stackexchange.com/a/267088/51022>,
-motivated by Kurzgesagt's video <https://www.youtube.com/watch?v=h6fcK_fRYaI>
+motivated by Kurzgesagt's video
+[The Egg - A Short Story](https://www.youtube.com/watch?v=h6fcK_fRYaI).
