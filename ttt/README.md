@@ -256,7 +256,7 @@ This is inspired by <http://www.peda.com/grafeq/gallery.html>.
     %%%   Y:[0,power2]  X:[0,power2]  score power2
     4 2 roll floor 2 index div  %  score  power2  Y  x
     3 1 roll floor exch div     %  score  x  y
-    %%%  score x:[0:1]  y:[0,1]
+    %%%  score  x:[0:1]  y:[0,1]
     .5 sub 2.2 mul exch .5 sub 2.2 mul  %  recenter and rescale
     1 index 5 div 1.3 add mul   %  score  x  y(1.3+x/5)
     %%%  score  u:=x  v:=y(1.3+x/5)
@@ -285,7 +285,7 @@ This is inspired by <http://www.peda.com/grafeq/gallery.html>.
 Using macOS Preview.app to convert pdf to png (with resolution 256 pixel/inch).
 But if you look closely, the “correct” resolution should be 128 pixel/inch.
 Turns out there are some rounding issues no matter I use `floor` or `round`
-in the code that go away when the resolution is doubled.
+in the code.  The issues go away when the resolution is doubled.
 
 This is a derivation of <https://tex.stackexchange.com/a/267088/51022>,
 motivated by Kurzgesagt's video
