@@ -44,12 +44,21 @@ keeps the source codes, comments, and results.
 
 ## First-Author Publications
 
+[*Accelerating Polarization via Alphabet Extension*] is accepted to
+International Conference on Randomization and Computation (RANDOM), 2022 September.
+([Full version](https://arxiv.org/abs/2207.04522).)
+
+[*PCR, Tropical Arithmetic, and Group Testing*]
+is in IEEE International Symposium on Information Theory (ISIT), 2022 June.
+([Full version](https://arxiv.org/abs/2201.05440) and
+ [slides @ ISIT](https://github.com/Symbol1/PCR-TGT).)
+
 [*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://doi.org/10.1007/s00200-021-00526-3)
 is in Applicable Algebra in Engineering, Communication and Computing, 2021 October.
 (Not open access; [author copy](https://rdcu.be/cyJs2).)
 
 [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742)
-is in SIAM Journal on Applied Algebra and Geometry, 2021 September.
+is in SIAM Journal on Applied Algebra and Geometry (SIAGA), 2021 September.
 (15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM).)
 
 [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523)
@@ -58,7 +67,7 @@ is in IEEE Transactions on Information Theory, 2021 March.
 [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570)
 is in IEEE Transactions on Information Theory, 2021 March.
 ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
-[slides @ UIUC](https://github.com/Symbol1/Complex2Order).)
+ [slides @ UIUC](https://github.com/Symbol1/Complex2Order).)
 
 ## Education & Positions
 
