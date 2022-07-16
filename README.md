@@ -45,27 +45,27 @@ keeps the source codes, comments, and results.
 ## First-Author Publications
 
 [*Accelerating Polarization via Alphabet Extension*] is accepted to
-International Conference on Randomization and Computation (RANDOM), 2022 September.
+International Conference on Randomization and Computation (RANDOM), September 2022.
 ([Full version](https://arxiv.org/abs/2207.04522).)
 
 [*PCR, Tropical Arithmetic, and Group Testing*]
-is in IEEE International Symposium on Information Theory (ISIT), 2022 June.
+is in IEEE International Symposium on Information Theory (ISIT), June 2022.
 ([Full version](https://arxiv.org/abs/2201.05440) and
  [slides @ ISIT](https://github.com/Symbol1/PCR-TGT).)
 
 [*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://doi.org/10.1007/s00200-021-00526-3)
-is in Applicable Algebra in Engineering, Communication and Computing, 2021 October.
+is in Applicable Algebra in Engineering, Communication and Computing, October 2021.
 (Not open access; [author copy](https://rdcu.be/cyJs2).)
 
 [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742)
-is in SIAM Journal on Applied Algebra and Geometry (SIAGA), 2021 September.
+is in SIAM Journal on Applied Algebra and Geometry (SIAGA), September 2021.
 (15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM).)
 
 [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523)
-is in IEEE Transactions on Information Theory, 2021 March.
+is in IEEE Transactions on Information Theory, March 2021.
 
 [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570)
-is in IEEE Transactions on Information Theory, 2021 March.
+is in IEEE Transactions on Information Theory, March 2021.
 ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
  [slides @ UIUC](https://github.com/Symbol1/Complex2Order).)
 
@@ -79,7 +79,7 @@ University of California San Diego
 
 Visitor  
 National Center for Theoretical Sciences (國家理論科學研究中心)  
-2020 Winter
+Winter 2020
 
 Ph.D in Mathematics  
 Advisor = [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/)  
@@ -96,13 +96,13 @@ National Taiwan University (國立臺灣大學)
 2021
 
 Research Assistant Fellowship  
-2020 Spring
+Spring 2020
 
 [Teacher ranked as excellent by their students](https://go.illinois.edu/lotrae)  
-2019 Fall & 2019 Spring & 2018 Spring
+Fall 2019 & Spring 2019 & Spring 2018
 
 Book--Scroll Award (for top 5% GPA)  
-2015 Fall & 2014 Spring & 2013 Spring & 2012 Fall & 2012 Spring & 2011 Fall
+Fall 2015 & Spring 2014 & Spring 2013 & Fall 2012 & Spring 2012 & Fall 2011
 
 [蕭正堂紀念獎學金](http://140.112.51.185/scholarship/%E5%88%86%E9%A0%81/index%208.html)
 (Prof. Cheng-Tang Hsiao Memorial Scholarship)  
