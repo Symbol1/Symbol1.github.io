@@ -3,7 +3,8 @@
 
 ![Vaseman standing still, smiling professionally](Jau-Pao%20Wang%202019-02-10.jpg)
 ↑ Jau-Pao Wang, February 2019, pen on paper.  
-↑ Artist illustration of myself.
+↑ Hello, I am Hsin-Po Wang.  Checkout [this page](../pronounce) for the
+  pronunciation of my name.
 
 ![Vaseman finished pruning a tree](Jau-Pao%20Wang%202019-02-19.jpg)  
 ↑ Jau-Pao Wang, February 2019, pen on paper.  
@@ -15,8 +16,9 @@
 
 ![Vaseman finding glasses, which hang on his forehead](Jau-Pao%20Wang%202019-03-16.jpg)
 ↑ Jau-Pao Wang, March 2019, pen on paper.  
-↑ Artist illustration of me finding my glasses, which hang on my forehead.  This
-  is used in the 404 page of this website.
+↑ I am finding my glasses, which hang on my forehead.  This is used in the 404
+  page of this website.  Try enter a meaningless url, such as
+  [xj04a83](xj04a83), to trigger the 404 page.
 
 ![Vaseman reached the top of mountain](Jau-Pao%20Wang%202020-12-03.jpg)  
 ↑ Jau-Pao Wang, December 2020, pen on paper.  
@@ -39,32 +41,35 @@
 
 ![Vaseman family jumping synchronously on a grass field](Jau-Pao%20Wang%202021-04-12.jpg)
 ↑ Jau-Pao Wang, April 2021, pen on paper.  
-↑ Artist illustration of my family jumping synchronously on a grass field.  From
-  left to right: wife, myself, father, mother, sister.  We go on field trips a
-  lot when we are all gathered in Taipei.
+↑ My family jump synchronously on a grass field.  From left to right: wife,
+  myself, father, mother, sister.  We go on field trips a lot when we are all
+  gathered in Taipei.
 
 ![Vaseman family wish you a happy new year](Jau-Pao%20Wang%202021-04-14.jpg)
 ↑ Jau-Pao Wang, April 2021, pen on paper.  
-↑ Artist illustration of my family wishing you a happy new year.  From left to
-  right: sister, father, mother, myself, and wife.
+↑ We wish you a happy new year.  From left to right: sister, father, mother,
+  myself, and wife.
 
 ![Vaseman couple happy with just-finished oriclip](Jau-Pao%20Wang%202021-05-20.jpg)
 ↑ Jau-Pao Wang, December 2020, pen on paper.  
-↑ Artist illustration of we celebrating the completion of an
-  [oriclip](../oriclip), that is, a binder clip sculpture.
+↑ Let us celebrate the completion of an [oriclip](../oriclip), that is, a binder
+  clip sculpture.
 
 ![Vaseman petting Pluto as it is no longer a planet](Jau-Pao%20Wang%202021-06-27.jpg)
 ↑ Jau-Pao Wang, June 2021, pen on paper.  
 ↑ Artist illustration of *Parity-Checked Strassen Algorithm*.  This work defines
   a code that allows nine CPUs to compute a matrix-matrix multiplication
-  collaboratively.  Ghd collaboration is such that the failure of one CPU does
+  collaboratively.  The collaboration is such that the failure of one CPU does
   not delay the final result.  This is named *Pluto code* because there were
   once nine planets, until someday Pluto was reclassified as a dwarf planet.
 
 ![Vaseman celebrating for obtaining a PhD degree](Jau-Pao%20Wang%202021-08-20.jpg)
 ↑ Jau-Pao Wang, August 2021, pen on paper.  
-↑ Artist illustration of me celebrating for obtaining a PhD degree.  Due to the
-  pandemic, my family cannot attend the commencement; so it's only me.
+↑ I receive a PhD degree in Mathematics from University of Illinois
+  Urbana-Champaign.  My dissertation is titled [Complexity and Second Moment of
+  the Mathematical Theory of Communication], which discusses capacity-achieving
+  error-correcting codes and their complexities.  Due to the pandemic, my family
+  cannot attend the commencement; so it's only me.  (Also the artist was busy.)
 
 ![Vaseman guiding digital animals to enter an ark](Jau-Pao%20Wang%202021-08-23.jpg)
 ↑ Jau-Pao Wang, August 2021, pen on paper.  
@@ -79,4 +84,32 @@
 
 ![Vaseman driving a stuffed car to UC San Diego](Jau-Pao%20Wang%202022-06-21.jpg)
 ↑ Jau-Pao Wang, June 2022, pen on paper.  
-↑ Artist illustration of me moving to San Diego, California for the new job.
+↑ In September, 2021, I moved to San Diego, California for the new job.
+
+![Vaseman conducting dangerous experiments with viruses](Jau-Pao%20Wang%202022-06-22.jpg)  
+↑ Jau-Pao Wang, June 2022, pen on paper.  
+↑ Artist illustration of *PCR, Tropical Arithmetic, and Group Testing*, part 1
+  of 5.
+
+![Vaseman taking a nasal swab sample; it hurts](Jau-Pao%20Wang%202022-06-23.jpg)
+↑ Jau-Pao Wang, June 2022, pen on paper.  
+↑ Artist illustration of *PCR, Tropical Arithmetic, and Group Testing*, part 2
+  of 5.
+
+![Vaseman doing computations on a blackboard with toco toucan](Jau-Pao%20Wang%202022-06-24.jpg)
+↑ Jau-Pao Wang, June 2022, pen on paper.  
+↑ Artist illustration of *PCR, Tropical Arithmetic, and Group Testing*, part 3
+  of 5.
+
+![Vaseman introducing MRI scan to a mummy](Jau-Pao%20Wang%202022-06-25.jpg)
+↑ Jau-Pao Wang, June 2022, pen on paper.  
+↑ Artist illustration of *PCR, Tropical Arithmetic, and Group Testing*, part 4
+  of 5.
+
+![Vaseman weighing coins](Jau-Pao%20Wang%202022-06-26.jpg)
+↑ Jau-Pao Wang, June 2022, pen on paper.  
+↑ Artist illustration of *PCR, Tropical Arithmetic, and Group Testing*, part 5
+  of 5.  This series of images were used in the [slides for ISIT 2022].
+
+[Complexity and Second Moment of the Mathematical Theory of Communication]: https://arxiv.org/abs/2107.06420
+[slides for ISIT 2022]: https://github.com/Symbol1/PCR-TGT
