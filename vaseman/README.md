@@ -34,10 +34,11 @@
   work, I construct a regeneration code named *moulin code*.  This name is
   inspired by the *cascade code* that pioneers this work.  The word "cascade"
   refers to the nested nature of the code, but also means a type of waterfalls.
-  I found the word "moulin" means a waterfall within a glacier, which puts a
+  I found the word "moulin" means a waterfall within a glacier, which drops a
   reference to Amazon S3 Glacier, a long-term storage service.  Later when I
-  proposed this name to Iwan my advisor, his first reaction is asking why
-  windmill, the meaning of moulin in French.
+  proposed this name to Iwan my advisor, his first reaction was asking why
+  windmill, the meaning of moulin in French?  Did I mention that "moulin" sounds
+  like an abbreviation of "multilinear"?
 
 ![Vaseman family jumping synchronously on a grass field](Jau-Pao%20Wang%202021-04-12.jpg)
 ↑ Jau-Pao Wang, April 2021, pen on paper.  
@@ -62,6 +63,8 @@
   collaboratively.  The collaboration is such that the failure of one CPU does
   not delay the final result.  This is named *Pluto code* because there were
   once nine planets, until someday Pluto was reclassified as a dwarf planet.
+  I also include in this work a construction called *Charon code*, which is
+  after the moon of Pluto.
 
 ![Vaseman celebrating for obtaining a PhD degree](Jau-Pao%20Wang%202021-08-20.jpg)
 ↑ Jau-Pao Wang, August 2021, pen on paper.  
@@ -106,7 +109,7 @@
 ↑ Artist illustration of *PCR, Tropical Arithmetic, and Group Testing*, part 4
   of 5.
 
-![Vaseman weighing coins](Jau-Pao%20Wang%202022-06-26.jpg)
+![Vaseman weighing coins for finding fake coins](Jau-Pao%20Wang%202022-06-26.jpg)
 ↑ Jau-Pao Wang, June 2022, pen on paper.  
 ↑ Artist illustration of *PCR, Tropical Arithmetic, and Group Testing*, part 5
   of 5.  This series of images were used in the [slides for ISIT 2022].

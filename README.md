@@ -1,7 +1,7 @@
 
 # Hsin-Po Wang
 
-Postdoc @ UC San Diego (ECE)
+Postdoc @ UC San Diego, Department of ECE
 
 [How to pronounce my name?](/pronounce)
 
@@ -27,7 +27,8 @@ Social media =
 * [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
 
 Interests =
-information theory; coding theory; application of algebra and combinatorics.
+information theory; coding theory; polar code; distributed system;
+application of algebra and combinatorics.
 
 For meta-comments of my works categorized by topics, see:
 
@@ -59,7 +60,8 @@ is in Applicable Algebra in Engineering, Communication and Computing, October 20
 
 [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742)
 is in SIAM Journal on Applied Algebra and Geometry (SIAGA), September 2021.
-(15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM).)
+(15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM)
+ and [slides @ SIAM AG21](https://github.com/Symbol1/MoulinDistorage).)
 
 [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523)
 is in IEEE Transactions on Information Theory, March 2021.

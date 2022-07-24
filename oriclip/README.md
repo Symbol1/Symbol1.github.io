@@ -1,27 +1,28 @@
 
 # Modular Oriclip
 
-One of my interests involves building
-[binder clip](https://enwp.org/Binder_clip) sculptures.
-The name *oriclip* is inspired by [*origami*](https://enwp.org/Origami),
-which stands for *ori* “fold” and *kami* “paper”.
-Sometimes, binder clips are called foldover clip or foldback clip.
+I am enthusiastic about building binder clip sculptures.  I made up the name
+*oriclip*, which is inspired by my older habit *origami*, which stands for *ori*
+“fold” and *kami* “paper”.
 
-Fast scroll to
+(In some places, UK and its friends I suppose, binder clips are called foldover
+clips or foldback clips, which sort-of justifies the prefix *ori*.)
 
-* Special case:
+Fast forward to
+
+* special cases:
   [2-clip](#2-clip-constructions),
   [6-clip](#6-clip-constructions),
-  [12-clip](#12-clip-constructions),
+  [12-clip](#12-clip-construction),
   [polylink](#polylink),
   [S-series](#s-series),
   [A-series](#a-series)
-* Vertex unit:
+* vertex units:
   [Η-series](#η-series),
   [Φ-series](#φ-series),
   [Ψ-series](#ψ-series),
   [Δ-series](#δ-series)
-* Edge unit:
+* edge units:
   [Y-series](#y-series),
   [X-series](#x-series),
   [L-series](#l-series),
@@ -31,7 +32,7 @@ Fast scroll to
   [I-Fullerene](#i-series-fullerene),
   [W-series](#w-series)
 
-## Special case
+## Special cases
 
 ### 2-clip constructions
 
@@ -47,7 +48,7 @@ Fast scroll to
 
 #### 2-hth
 
-![2 binder clips hold back to back](2-hth.jpg)  
+![2 binder clips hold hand to hand](2-hth.jpg)  
 ↑ # Clips = 2  
 
 ### 6-clip constructions
@@ -108,7 +109,7 @@ Fast scroll to
 ↑ Base = [octahedron]  
 ↑ Symmetry = pyritohedron's rotations and reflections
 
-### 12-clip constructions
+### 12-clip construction
 
 #### 12-angel
 
@@ -207,7 +208,7 @@ One clip = one edge.
 ↑ Global base = [octahedron]  
 ↑ Symmetry = cube's rotations  
 
-## Vertex unit
+## Vertex units
 
 ### Η-series
 
@@ -387,7 +388,7 @@ Three clips = one Δ-vertex = one vertex.
 ↑ Base = [truncated icosahedron]  
 ↑ Symmetry = dodecahedron's rotations  
 
-## Edge unit
+## Edge units
 
 ### Y-series
 
@@ -827,8 +828,6 @@ Difficulty encountered
 ↑ Each dodecahedron vertex = 4 new vertices  
 ↑ Symmetry = dodecahedron's rotations  
 
-![vaseman and oriclip](../vaseman/Jau-Pao%20Wang%202021-05-20.jpg)
-
 ## Read more
 
 For a systematic introduction of polyhedra, checkout [Platonic solid] and
@@ -841,6 +840,15 @@ For the naming scheme, see [Conway notation] and [list of "G" polyhedra].
 Or play with this interactive web app:
 [polyHédronisme](https://levskaya.github.io/polyhedronisme/).
 (Refresh to get random example!)
+
+## Thank You for Attention
+
+![vaseman and oriclip](../vaseman/Jau-Pao%20Wang%202021-05-20.jpg)
+
+Please email me if you have questions (perhaps you want to teach binder clip
+sculpture in a class) or contributions (when you make something not seen on this
+page).  Once you have made sufficiently many sculptures, you might as well
+showcase them on a personal website.  Notify me so I can put your link below.
 
 ## Similar clip works by other people
 
