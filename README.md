@@ -45,39 +45,46 @@ keeps the source codes, comments, and results.
 
 ## First-Author Publications
 
-[*Accelerating Polarization via Alphabet Extension*] is accepted to
-International Conference on Randomization and Computation (RANDOM), September 2022.
-([Full version](https://arxiv.org/abs/2207.04522).)
+1. Duursma, Gabrys, Guruswami, Lin, Wang.
+   [*Accelerating Polarization via Alphabet Extension*].
+   Accepted to International Conference on Randomization and Computation (RANDOM), September 2022.
+   ([Full version](https://arxiv.org/abs/2207.04522).)
 
-[*PCR, Tropical Arithmetic, and Group Testing*]
-is in IEEE International Symposium on Information Theory (ISIT), June 2022.
-([Full version](https://arxiv.org/abs/2201.05440) and
- [slides @ ISIT](https://github.com/Symbol1/PCR-TGT).)
+2. Wang, Gabrys, Vardy.
+   [*PCR, Tropical Arithmetic, and Group Testing*](https://doi.org/10.1109/ISIT50566.2022.9834718).
+   IEEE International Symposium on Information Theory (ISIT), June 2022.
+   ([Full version](https://arxiv.org/abs/2201.05440) and
+    [slides @ ISIT](https://github.com/Symbol1/PCR-TGT).)
 
-[*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://doi.org/10.1007/s00200-021-00526-3)
-is in Applicable Algebra in Engineering, Communication and Computing, October 2021.
-(Not open access; [author copy](https://rdcu.be/cyJs2).)
+3. Duursma, Wang.
+   [*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://doi.org/10.1007/s00200-021-00526-3).
+   Applicable Algebra in Engineering, Communication and Computing, October 2021.
+   (Not open access; [author copy](https://rdcu.be/cyJs2).)
 
-[*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742)
-is in SIAM Journal on Applied Algebra and Geometry (SIAGA), September 2021.
-(15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM)
- and [slides @ SIAM AG21](https://github.com/Symbol1/MoulinDistorage).)
+4. Duursma, Li, Wang.
+   [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742).
+   SIAM Journal on Applied Algebra and Geometry (SIAGA), September 2021.
+   (Not open access; [preprint](https://arxiv.org/abs/2006.08911).)
+   (15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM)
+    and [slides @ SIAM AG21](https://github.com/Symbol1/MoulinDistorage).)
 
-[*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523)
-is in IEEE Transactions on Information Theory, March 2021.
+5. Wang, Duursma.
+   [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523).
+   IEEE Transactions on Information Theory, March 2021.
 
-[*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570)
-is in IEEE Transactions on Information Theory, March 2021.
-([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
- [slides @ UIUC](https://github.com/Symbol1/Complex2Order).)
+6. Wang, Duursma.
+   [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570).
+   IEEE Transactions on Information Theory, March 2021.
+   ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
+    [slides @ UIUC](https://github.com/Symbol1/Complex2Order).)
 
 ## Education & Positions
 
 Postdoc in Electrical and Computer Engineering  
-Advisor = [Alexander Vardy](https://orcid.org/0000-0003-3303-9078)  
-Advisor += [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
+Supervisor = [Alexander Vardy](https://orcid.org/0000-0003-3303-9078)  
+Supervisor += [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
 University of California San Diego  
-2021--
+October 2021--September 2022
 
 Visitor  
 National Center for Theoretical Sciences (國家理論科學研究中心)  
