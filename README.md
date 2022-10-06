@@ -1,7 +1,7 @@
 
 # Hsin-Po Wang
 
-Postdoc @ UC San Diego, Department of ECE
+Postdoc @ UC Berkeley, Department of EECS
 
 [How to pronounce my name?](/pronounce)
 
@@ -80,6 +80,11 @@ keeps the source codes, comments, and results.
     [slides @ UIUC](https://github.com/Symbol1/Complex2Order).)
 
 ## Education & Positions
+
+Postdoc in Engineering and Computer Sciences  
+Supervisor = [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)  
+University of California, Berkeley  
+October 2022--
 
 Postdoc in Electrical and Computer Engineering  
 Supervisor = [Alexander Vardy](https://orcid.org/0000-0003-3303-9078)  
