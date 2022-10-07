@@ -7,8 +7,7 @@ Postdoc @ UC Berkeley, Department of EECS
 
 ## Contact
 
-Email = hsw001 at ucsd dot edu  
-Email += a dot simple dot people at g mail dot com  
+Email = a dot simple dot people at g mail dot com  
 Social media =
 [Instagram](https://www.instagram.com/xymbol.1/) +
 [Twitter](https://twitter.com/Xymbol_1) +
