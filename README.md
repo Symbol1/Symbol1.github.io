@@ -133,7 +133,12 @@ Vagreangvbany Zngurzngvpny Bylzcvnq
 
 ## Extracurricular
 
-Teaching in a [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)
+Jury  
+[2022 International Mathematics Competition](https://www.facebook.com/iimc2022/)  
+[2022 International Young Mathematicians Convention](http://www.cmseducation.org/iymc/)
+
+
+Teaching in a [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
 as an alternative to the mandatory military service.  
 2016
 
