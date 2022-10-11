@@ -26,11 +26,11 @@
 ## 外文資料
 
 * [訛植料理](https://docs.google.com/spreadsheets/d/1efenvai4JJM9iPGziHvvef6jSWvNeUGrx-WV9eWlR3g/)
-  by ???
-* [WMC料理賣價計算式](https://docs.google.com/spreadsheets/d/1NT6u2fGmT7xJAwA7n-uS0D6c-RTMtxxmpNaIY3xgqTk/edit)
-  by ???
+  collectively by players in the Glitch Hunter Channel.
+* [WMC 料理賣價計算式](https://docs.google.com/spreadsheets/d/1NT6u2fGmT7xJAwA7n-uS0D6c-RTMtxxmpNaIY3xgqTk/edit)
+  by Nebulaara
 * [一般情報](https://docs.google.com/spreadsheets/d/1lCFAZIlSgVV4HiCd2gDhHX5o08Smtgval7svBhZbtn4/edit)
-  by ???
+  by 萱草プレリアル
 * [戰鬥技巧合集](https://docs.google.com/document/d/1qtYT06sxweRW3tRnovcCc-f4xIOGFNsD02pG1TzloHc/)
   by Rin
 * [神廟技巧性速通總表（禁止風彈月步錯傳馬滑）](https://docs.google.com/spreadsheets/d/1n82Emcn8qfcYG2zd9fn7cDPzj-RedgHkFDyNM7FnRUs/)
