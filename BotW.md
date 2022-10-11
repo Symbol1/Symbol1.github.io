@@ -23,11 +23,18 @@
 * [ZeldaMods：遊戲機制](https://zeldamods.org/wiki/Category:Game_mechanics/zh)
 * [Google-Doc：物理](https://docs.google.com/document/d/1HdIff0N22_VC7YKEfpAEil0RTT6AKk-tkVDn17GTROk/)
 
-## 外文表格
+## 外文資料
 
-* [訛植料理](https://docs.google.com/spreadsheets/d/1efenvai4JJM9iPGziHvvef6jSWvNeUGrx-WV9eWlR3g/) by ???
-* [WMC料理賣價計算式](https://docs.google.com/spreadsheets/d/1NT6u2fGmT7xJAwA7n-uS0D6c-RTMtxxmpNaIY3xgqTk/edit) by ???
-* [一般情報](https://docs.google.com/spreadsheets/d/1lCFAZIlSgVV4HiCd2gDhHX5o08Smtgval7svBhZbtn4/edit) by ???
+* [訛植料理](https://docs.google.com/spreadsheets/d/1efenvai4JJM9iPGziHvvef6jSWvNeUGrx-WV9eWlR3g/)
+  by ???
+* [WMC料理賣價計算式](https://docs.google.com/spreadsheets/d/1NT6u2fGmT7xJAwA7n-uS0D6c-RTMtxxmpNaIY3xgqTk/edit)
+  by ???
+* [一般情報](https://docs.google.com/spreadsheets/d/1lCFAZIlSgVV4HiCd2gDhHX5o08Smtgval7svBhZbtn4/edit)
+  by ???
+* [戰鬥技巧合集](https://docs.google.com/document/d/1qtYT06sxweRW3tRnovcCc-f4xIOGFNsD02pG1TzloHc/)
+  by Rin
+* [神廟技巧性速通總表（禁止風彈月步錯傳馬滑）](https://docs.google.com/spreadsheets/d/1n82Emcn8qfcYG2zd9fn7cDPzj-RedgHkFDyNM7FnRUs/)
+  by Komali
 
 ## 英文地圖
 
@@ -55,13 +62,6 @@
   by PlasmaSlaya
 * [野馬（含血速魔）](https://gamefaqs.gamespot.com/wii-u/632936-the-legend-of-zelda-breath-of-the-wild/faqs/74764/normal-horses)
   by HylianAngel
-
-## 其他英文資料
-
-* [戰鬥技巧合集](https://docs.google.com/document/d/1qtYT06sxweRW3tRnovcCc-f4xIOGFNsD02pG1TzloHc/)
-  by Rin
-* [神廟技巧性速通總表（禁止風彈月步錯傳馬滑）](https://docs.google.com/spreadsheets/d/1n82Emcn8qfcYG2zd9fn7cDPzj-RedgHkFDyNM7FnRUs/)
-  by Komali
 
 ## Discord
 
