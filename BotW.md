@@ -21,7 +21,13 @@
 ## 中文文件
 
 * [ZeldaMods：遊戲機制](https://zeldamods.org/wiki/Category:Game_mechanics/zh)
-* [G-Doc：物理](https://docs.google.com/document/d/1HdIff0N22_VC7YKEfpAEil0RTT6AKk-tkVDn17GTROk/)
+* [Google-Doc：物理](https://docs.google.com/document/d/1HdIff0N22_VC7YKEfpAEil0RTT6AKk-tkVDn17GTROk/)
+
+## 外文表格
+
+* [訛植料理](https://docs.google.com/spreadsheets/d/1efenvai4JJM9iPGziHvvef6jSWvNeUGrx-WV9eWlR3g/) by ???
+* [WMC料理賣價計算式](https://docs.google.com/spreadsheets/d/1NT6u2fGmT7xJAwA7n-uS0D6c-RTMtxxmpNaIY3xgqTk/edit) by ???
+* [一般情報](https://docs.google.com/spreadsheets/d/1lCFAZIlSgVV4HiCd2gDhHX5o08Smtgval7svBhZbtn4/edit) by ???
 
 ## 英文地圖
 
