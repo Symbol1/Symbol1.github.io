@@ -786,6 +786,14 @@ Difficulty encountered
 ↑ Symmetry = cube's rotations  
 ↑ dual = [W24-C](#w24-c)  
 
+#### W48-aC
+
+![48 clips forming 24 W-edges forming cuboctahedron](W48-aC.jpg)  
+↑ # Clips = 48  
+↑ Base = [cuboctahedron]  
+↑ Vertex config = 3.4.3.4  
+↑ Symmetry = cube's rotations  
+
 #### W60-D
 
 ![60 clips forming 30 W-edges forming dodecahedron](W60-D.jpg)  
