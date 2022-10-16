@@ -11,7 +11,7 @@
 
 * Given name ≈ *Simple* ≈ *Symbol*
 
-* Family name ≈ *One* ≈ *Won*
+* Family name ≈ *Own* ≈ *Won*
 
 ## In Taiwanese
 
