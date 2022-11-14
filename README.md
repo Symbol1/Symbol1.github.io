@@ -85,6 +85,12 @@ Supervisor = [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)
 University of California, Berkeley  
 October 2022--
 
+Visitor  
+National Taiwan University  
+Summer 2022  
+Taught a small, short lecture on polar codes.
+([lecture notes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi))  
+
 Postdoc in Electrical and Computer Engineering  
 Supervisor = [Alexander Vardy](https://orcid.org/0000-0003-3303-9078)  
 Supervisor += [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
@@ -136,7 +142,6 @@ Vagreangvbany Zngurzngvpny Bylzcvnq
 Jury  
 [2022 International Mathematics Competition](https://www.facebook.com/iimc2022/)  
 [2022 International Young Mathematicians Convention](http://www.cmseducation.org/iymc/)
-
 
 Teaching in a [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
 as an alternative to the mandatory military service.  
