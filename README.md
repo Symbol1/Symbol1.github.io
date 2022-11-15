@@ -37,6 +37,8 @@ For meta-comments of my works categorized by topics, see:
 
 * [Distributed computation paper](/paper/compute)
 
+* [Group testing papers](/paper/grouptest)
+
 I have once computed, on a supercomputer,
 the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
 [This GitHub repository](https://github.com/Symbol1/BlueWaters-RM64)
