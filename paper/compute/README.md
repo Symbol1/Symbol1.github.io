@@ -3,13 +3,12 @@
 
 I have one work on distributed computation of matrix multiplication.
 
-|  Abbreviation   |  Title                            |
-| :-------------: | :-------------------------------: |
-| [PlutoCharon20] | Parity-Checked Strassen Algorithm |
+* [[PlutoCharon20]]
+  H.-P. Wang, I. Duursma.
+  *Parity-Checked Strassen Algorithm*.
+  arXiv.
 
-Coauthor = Iwan Duursma.
-
-[PlutoCharon20] deals with distributed matrix-matrix multiplication (DMM)
+[[PlutoCharon20]] deals with distributed matrix-matrix multiplication (DMM)
 where the workers might straggle or crash.
 By MM we mean that you want to compute $C = A \times B$,
 where $A, B$ are huge matrices with compatible dimensions.
@@ -37,7 +36,7 @@ The overhead of using parity checks to recover missing entries of $C$
 is usually faster than waiting for the straggling workers to recover.
 So you can actually save time by paying for more CPU times.
 
-The contribution of [PlutoCharon20] is three-fold.
+The contribution of [[PlutoCharon20]] is three-fold.
 
 * One: We obverse that the routine computation of $A\times B$
   can be carried-out by fast matrix multiplication (FMM).

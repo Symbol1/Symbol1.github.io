@@ -5,17 +5,25 @@ The following are my works on distributed storage systems.
 Both concern regenerating code
 that have applications in distributed storage systems.
 
-| Abbreviation|Authors|Title                                                     |
-|:-----------:|:-----:|:--------------------------------------------------------:|
-|[MoulinAlg20]| D   W |Multilinear Algebra for Distributed Storage               |
-|[Atrahasis20]| D L W |Multilinear Algebra for Minimum Storage Regenerating Codes|
-|[MoulinAlg21]| D   W |Multilinear Algebra for Distributed Storage               |
-|[Atrahasis21]| D L W |Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction|
-
-D = Iwan Duursma (Advisor of the time);  
-L = Xiao Li (academic sister).  
-[MoulinAlg21] is the journal version of [MoulinAlg20] published in SIAM SIAGA.  
-[Atrahasis21] is the journal version of [Atrahasis20] published in Springer AAECC.
+* [[MoulinAlg20]]
+  I. Duursma, H.-P. Wang.
+  *Multilinear Algebra for Distributed Storage*.
+  arXiv.
+* [[Atrahasis20]]
+  I. Duursma, X. Li, H.-P. Wang.
+  *Multilinear Algebra for Minimum Storage Regenerating Codes*.
+  arXiv.
+* [[MoulinAlg21]]
+  I. Duursma, H.-P. Wang.
+  *Multilinear Algebra for Distributed Storage*.
+  SIAM Journal on Applied Algebra and Geometry (SIAGA).
+  (Journal version of [[MoulinAlg20]])
+* [[Atrahasis21]]
+  I. Duursma, X. Li, H.-P. Wang.
+  *Multilinear Algebra for Minimum Storage Regenerating Codes:
+   A Generalization of Product-Matrix Construction*.
+  Applicable Algebra in Engineering, Communication and Computing.
+  (Journal version of [[Atrahasis20]])
 
 A **regenerating code** consists of
 
@@ -46,18 +54,18 @@ They are called *cut-set bounds* and restrict where those parameters can live.
 
 The opposite approach is to construct regenerating codes
 that aim to achieve low $\alpha$, low $\beta$, and high $M$.
-[MoulinAlg20] utilizes multilinear algebra to do this.
+[[MoulinAlg20]] utilizes multilinear algebra to do this.
 We construct a series of regenerating codes which we call **Moulin codes**.
 They achieve the best known $\alpha/M$-versus-$\beta/M$ trade-off to date.
 And it is conjectured that this trade-off is optimal.
 
 See
 [Figure 1 on page 3](https://arxiv.org/pdf/2006.08911v1.pdf#page=3)
-in MoulinAlg20 for the $\alpha/M$-versus-$\beta/M$
+[in MoulinAlg20] for the $\alpha/M$-versus-$\beta/M$
 trade-off for the $(n, 3, 3)$ case.
 ![The trade-off of (n, 3, 4) regenerating codes](n33alphbetaM.png)
 Here is another $\alpha/M$-versus-$\beta/M$ trade-off for the $(n, 3, 4)$ case.
-(In a newer version of MoulinAlg20 that I am still working on.)
+(In a newer version [of MoulinAlg20] that I am still working on.)
 ![The trade-off of (n, 3, 4) regenerating codes](n33alphbetaM.png)
 For more general parameters, check out [this D3.js plot](homogeneous.html).
 
@@ -66,7 +74,7 @@ See also
 for the relations among some competitive constructions.
 ![Comparison among several ERRC codes that aim for interior points](interiorERRC.png)
 
-[Atrahasis20] exploits multilinear algebra to construct MSR codes,
+[[Atrahasis20]] exploits multilinear algebra to construct MSR codes,
 which we called **Atrahasis codes**.
 Formally, an **MSR code** is a regenerating code
 with $M = k\alpha$ and $\beta = \alpha/(d - k + 1)$.
@@ -80,7 +88,7 @@ node size ($\alpha \geq M/k$), and only then they minimize help messages
 ($\beta \geq \alpha/(d - k + 1)$ given that $\alpha \geq M/k$).
 See
 [Table 1 on page 5](https://arxiv.org/pdf/2006.16998v1.pdf#page=5)
-in Atrahasis20 for a comparison of some existing contraptions.
+[in Atrahasis20] for a comparison of some existing contraptions.
 ![The alpha--F_q trade-off of some well-known MSR codes](MSRalphaFq.png)
 
 [MoulinAlg20]: https://arxiv.org/abs/2006.08911
