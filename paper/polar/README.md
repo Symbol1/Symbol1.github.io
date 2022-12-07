@@ -50,7 +50,6 @@ The following are my works on polar coding, from the oldest to the newest.
   International Conference on Randomization and Computation (RANDOM).
   (Conference version of [[TetraErase22x]])
 
-
 In the early days, my research focuses on the **moderate deviations principle
 (MDP) paradigm**.  MDP addresses the joint relation among block length ($N$),
 error probability ($P_e$), and code rate ($R$) in a parameter region  
@@ -138,7 +137,7 @@ of \[PhDThesis21\].
 
 See also the following table for channels, goals, and references.
 It is [Table 6.1 on page 98](https://arxiv.org/pdf/2107.06420.pdf#page=104)
-of PhDThesis21.
+of \[PhDThesis21\].
 ![The channels, goals, and the works that achieve them](channelgoal.png)
 
 Here is a table for the error--gap--complexity trade-offs of some well-known

@@ -95,7 +95,7 @@ Visitor
 National Taiwan University  
 Summer 2022  
 Taught a small, short lecture on polar codes.
-([lecture notes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi))  
+([Lecture notes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi))  
 
 Postdoc in Electrical and Computer Engineering  
 Supervisor = [Alexander Vardy](https://orcid.org/0000-0003-3303-9078)  
