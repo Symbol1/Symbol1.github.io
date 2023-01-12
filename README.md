@@ -5,6 +5,9 @@ Postdoc @ UC Berkeley, Department of EECS
 
 [How to pronounce my name?](/pronounce)
 
+[PDF CV](/cv%20Hsin-Po%20WANG.pdf)
+
+
 ## Contact
 
 Email = a dot simple dot people at g mail dot com  
@@ -44,7 +47,7 @@ the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
 [This GitHub repository](https://github.com/Symbol1/BlueWaters-RM64)
 keeps the source codes, comments, and results.
 
-## First-Author Publications
+## Publications
 
 1. I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
    [*Accelerating Polarization via Alphabet Extension*](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
