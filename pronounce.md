@@ -4,18 +4,15 @@
 ## Passport
 
 * Given name = 新博 Hsin-Po
-
 * Family name = 王 Wang
 
 ## Americanization
 
-* Given name ≈ *Simple* ≈ *Symbol*
+* Hsin-Po ≈ *Simple* ≈ *Symbol*
+* Wang ≈ *Own* ≈ *Won*
 
-* Family name ≈ *Own* ≈ *Won*
-
-## In Taiwanese (Tâi-lô)
+## Pronunciation in Taiwanese (Tâi-lô)
 
 * Sin-Phok Ông
-
 * [Listen](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
-  (click the triangle button)
+  (click the triangle button to play)
