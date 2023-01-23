@@ -7,7 +7,6 @@ Postdoc @ UC Berkeley, Department of EECS
 
 [PDF CV](/cv%20Hsin-Po%20WANG.pdf)
 
-
 ## Contact
 
 Email = a dot simple dot people at g mail dot com  
@@ -81,13 +80,14 @@ keeps the source codes, comments, and results.
    [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570).
    IEEE Transactions on Information Theory, March 2021.
    ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
-    [slides @ UIUC](https://github.com/Symbol1/Complex2Order).)
+    [slides @ UIUC](https://github.com/Symbol1/Complex2Order) and
+    [slides @ Princeton](https://github.com/Symbol1/abc).)
 
 ## Education & Positions
 
 Visitor  
 Duke University  
-WInter 2022
+Winter 2022
 
 Postdoc in Electrical Engineering and Computer Sciences  
 Supervisor = [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)  

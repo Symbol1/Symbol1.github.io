@@ -842,12 +842,14 @@ For a systematic introduction of polyhedra, checkout [Platonic solid] and
 [Archimedean solid] and its dual [Catalan solid] and the references therein.
 
 For more on symmetry groups, see
-[Polyhedral group](https://enwp.org/Polyhedral_group) and the references therein.
+[Polyhedral group](https://enwp.org/Polyhedral_group)
+and the references therein.
 
-For the naming scheme, see [Conway notation] and [list of "G" polyhedra].
+For the naming scheme, see [Conway notation] and
+[List_of_geodesic_polyhedra_and_Goldberg_polyhedra].
 Or play with this interactive web app:
 [polyHédronisme](https://levskaya.github.io/polyhedronisme/).
-(Refresh to get random example!)
+(Refresh the page to get random example!)
 
 ## Thank You for Attention
 
@@ -869,12 +871,14 @@ Similar works have been published under the names
 
 * <http://blog.andreahawksley.com/tag/binderclips/> by Andrea Hawksley.
 
-* <https://binderclippolyhedra.com/> by unknown author.
+* `https://binderclippolyhedra.com/` by unknown author.
+  (Domain expired.  Link is kept in case the owner buy it back.)
 
 * <https://momath.org/mathmonday/math-monday-what-to-make-from-binder-clips/>
   a news article by George Hart.
 
-* <https://www.rocky-lau.com/> LEGO counterpart by Rocky Lau.
+* <https://www.instagram.com/rockylau333/> LEGO counterpart by Rocky Lau.
+  (Old link is `https://www.rocky-lau.com/` but connection timeout.)
 
 [triangular antiprism]: https://en.wikipedia.org/wiki/Antiprism
 [three-piece burr]: https://en.wikipedia.org/wiki/Burr_puzzle#Three-piece_burr
@@ -917,7 +921,7 @@ Similar works have been published under the names
   [pentakis dodecahedron]: https://en.wikipedia.org/wiki/Pentakis_dodecahedron
   [pentagonal hexecontahedron]: https://en.wikipedia.org/wiki/Pentagonal_hexecontahedron
 
-[list of "G" polyhedra]: https://en.wikipedia.org/wiki/List_of_geodesic_polyhedra_and_Goldberg_polyhedra
+[List_of_geodesic_polyhedra_and_Goldberg_polyhedra]: https://en.wikipedia.org/wiki/List_of_geodesic_polyhedra_and_Goldberg_polyhedra
  [Goldberg polyhedra]: https://en.wikipedia.org/wiki/Goldberg_polyhedron
   [chamfered dodecahedron]: https://en.wikipedia.org/wiki/Chamfered_dodecahedron
  [geodesic polyhedron]: https://en.wikipedia.org/wiki/Geodesic_polyhedron
