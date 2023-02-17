@@ -48,35 +48,39 @@ keeps the source codes, comments, and results.
 
 ## Publications
 
-1. I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
+1. H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
+   [*Sub-4.7 Scaling Exponent of Polar Codes*](https://arxiv.org/abs/2204.11683).
+   Accepted for publication in IEEE Transactions on Information Theory.
+
+2. I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
    [*Accelerating Polarization via Alphabet Extension*](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
    International Conference on Randomization and Computation (RANDOM), September 2022.
    ([Full version](https://arxiv.org/abs/2207.04522) and
     [animation](https://www.youtube.com/watch?v=2mmbd58rSts).)
 
-2. H.-P. Wang, R. Gabrys, A. Vardy.
+3. H.-P. Wang, R. Gabrys, A. Vardy.
    [*PCR, Tropical Arithmetic, and Group Testing*](https://doi.org/10.1109/ISIT50566.2022.9834718).
    IEEE International Symposium on Information Theory (ISIT), June 2022.
    ([Full version](https://arxiv.org/abs/2201.05440) and
     [slides @ ISIT](https://github.com/Symbol1/PCR-TGT).)
 
-3. I. Duursma, H.-P. Wang.
+4. I. Duursma, H.-P. Wang.
    [*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://doi.org/10.1007/s00200-021-00526-3).
    Applicable Algebra in Engineering, Communication and Computing, October 2021.
    (Not open access; [author copy](https://rdcu.be/cyJs2).)
 
-4. I. Duursma, X. Li, H.-P. Wang.
+5. I. Duursma, X. Li, H.-P. Wang.
    [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742).
    SIAM Journal on Applied Algebra and Geometry (SIAGA), September 2021.
    (Not open access; [preprint](https://arxiv.org/abs/2006.08911).)
    (15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM)
     and [slides @ SIAM AG21](https://github.com/Symbol1/MoulinDistorage).)
 
-5. H.-P. Wang, I. Duursma.
+6. H.-P. Wang, I. Duursma.
    [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523).
    IEEE Transactions on Information Theory, March 2021.
 
-6. H.-P. Wang, I. Duursma.
+7. H.-P. Wang, I. Duursma.
    [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570).
    IEEE Transactions on Information Theory, March 2021.
    ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
