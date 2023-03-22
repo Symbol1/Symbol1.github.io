@@ -49,8 +49,9 @@ keeps the source codes, comments, and results.
 ## Publications
 
 1. H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
-   [*Sub-4.7 Scaling Exponent of Polar Codes*](https://arxiv.org/abs/2204.11683).
-   Accepted for publication in IEEE Transactions on Information Theory.
+   [*Sub-4.7 Scaling Exponent of Polar Codes*](https://doi.org/10.1109/TIT.2023.3253074).
+   IEEE Transactions on Information Theory.
+   (Not open access; [preprint](https://arxiv.org/abs/2204.11683).)
 
 2. I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
    [*Accelerating Polarization via Alphabet Extension*](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
