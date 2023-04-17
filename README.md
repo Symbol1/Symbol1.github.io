@@ -46,42 +46,64 @@ the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
 [This GitHub repository](https://github.com/Symbol1/BlueWaters-RM64)
 keeps the source codes, comments, and results.
 
-## Publications
+## Conference Publications
+
+1. H.-P. Wang, R. Gabrys, V. Guruswami.
+   *Quickly-Decodable Group Testing with Fewer Tests: Price-Scarlett's Nonadaptive Splitting with Explicit Scalars.*
+   IEEE International Symposium on Information Theory (ISIT), June 2023.
+
+2. H.-P. Wang, V. Guruswami.
+   *How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?*.
+   IEEE International Symposium on Information Theory (ISIT), June 2023.
+
+3. T.-C. Lin, H.-P. Wang.
+   *Optimal Self-Dual Inequalities to Order Polarized BECs*.
+   IEEE International Symposium on Information Theory (ISIT), June 2023.
+
+4. H.-P. Wang, C.-W. Chin.
+   *Density Devolution for Ordering Synthetic Channels*.
+   IEEE International Symposium on Information Theory (ISIT), June 2023.
+
+5. H.-P. Wang, V.-F. Dragoi.
+   *Fast Methods for Ranking Synthetic BECs*.
+   IEEE International Symposium on Information Theory (ISIT), June 2023.
+
+6. I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
+   [*Accelerating Polarization via Alphabet Extension*](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
+   International Conference on Randomization and Computation (RANDOM), September 2022.
+   ([Full version](https://arxiv.org/abs/2207.04522) and
+    [animation](https://www.youtube.com/watch?v=2mmbd58rSts).)
+
+7. H.-P. Wang, R. Gabrys, A. Vardy.
+   [*PCR, Tropical Arithmetic, and Group Testing*](https://doi.org/10.1109/ISIT50566.2022.9834718).
+   IEEE International Symposium on Information Theory (ISIT), June 2022.
+   ([Full version](https://arxiv.org/abs/2201.05440) and
+    [slides @ ISIT](https://github.com/Symbol1/PCR-TGT).)
+
+## Journal Publications
 
 1. H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
    [*Sub-4.7 Scaling Exponent of Polar Codes*](https://doi.org/10.1109/TIT.2023.3253074).
    IEEE Transactions on Information Theory.
    (Not open access; [preprint](https://arxiv.org/abs/2204.11683).)
 
-2. I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
-   [*Accelerating Polarization via Alphabet Extension*](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
-   International Conference on Randomization and Computation (RANDOM), September 2022.
-   ([Full version](https://arxiv.org/abs/2207.04522) and
-    [animation](https://www.youtube.com/watch?v=2mmbd58rSts).)
-
-3. H.-P. Wang, R. Gabrys, A. Vardy.
-   [*PCR, Tropical Arithmetic, and Group Testing*](https://doi.org/10.1109/ISIT50566.2022.9834718).
-   IEEE International Symposium on Information Theory (ISIT), June 2022.
-   ([Full version](https://arxiv.org/abs/2201.05440) and
-    [slides @ ISIT](https://github.com/Symbol1/PCR-TGT).)
-
-4. I. Duursma, H.-P. Wang.
+2. I. Duursma, H.-P. Wang.
    [*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://doi.org/10.1007/s00200-021-00526-3).
    Applicable Algebra in Engineering, Communication and Computing, October 2021.
    (Not open access; [author copy](https://rdcu.be/cyJs2).)
 
-5. I. Duursma, X. Li, H.-P. Wang.
+3. I. Duursma, X. Li, H.-P. Wang.
    [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742).
    SIAM Journal on Applied Algebra and Geometry (SIAGA), September 2021.
    (Not open access; [preprint](https://arxiv.org/abs/2006.08911).)
    (15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM)
     and [slides @ SIAM AG21](https://github.com/Symbol1/MoulinDistorage).)
 
-6. H.-P. Wang, I. Duursma.
+4. H.-P. Wang, I. Duursma.
    [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523).
    IEEE Transactions on Information Theory, March 2021.
 
-7. H.-P. Wang, I. Duursma.
+5. H.-P. Wang, I. Duursma.
    [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570).
    IEEE Transactions on Information Theory, March 2021.
    ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
