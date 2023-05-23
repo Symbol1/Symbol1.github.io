@@ -9,7 +9,7 @@ Postdoc @ UC Berkeley, Department of EECS
 
 ## Contact
 
-Email = a dot simple dot people at g mail dot com  
+Email = <a.simple.people@gmail.com>  
 Social media =
 [Instagram](https://www.instagram.com/xymbol.1/) +
 [Twitter](https://twitter.com/Xymbol_1) +
@@ -29,7 +29,7 @@ Social media =
 
 Interests =
 information theory; coding theory; polar code; distributed system;
-application of algebra and combinatorics.
+application of algebra, combinatorics, and calculus.
 
 For meta-comments of my works categorized by topics, see:
 
