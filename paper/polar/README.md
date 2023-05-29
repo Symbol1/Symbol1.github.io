@@ -10,8 +10,7 @@ newest.
   arXiv.
 * [[LargeDevia18]]
   H.-P. Wang, I. Duursma.
-  *Polar-like Codes and Asymptotic Tradeoff among Block Length, Code
-  *Rate, and Error Probability*.
+  *Polar-like Codes and Asymptotic Tradeoff among Block Length, Code Rate, and Error Probability*.
   arXiv.
 * [[LoglogTime18]]
   H.-P. Wang, I. Duursma.
@@ -37,8 +36,7 @@ newest.
   (Journal version of [[Hypotenuse19]])
 * [[PhDThesis21]]
   H.-P. Wang.
-  *Complexity and Second Moment of the Mathematical Theory of
-  *Communication*.
+  *Complexity and Second Moment of the Mathematical Theory of Communication*.
 * [[Sub-4.7-mu22]]
   H.-P. Wang, T.-C. Lin, A. Vardy, R.Gabrys.
   *Sub-4.7 Scaling Exponent of Polar Codes*.
