@@ -1,56 +1,59 @@
 
 # Polar Coding Papers
 
-The following are my works on polar coding, from the oldest to the newest.
+The following are my works on polar coding, from the oldest to the
+newest.
 
 * [[ModerDevia18]]
-  Wang, Duursma.
+  H.-P. Wang, I. Duursma.
   *Polar Code Moderate Deviation: Recovering the Scaling Exponent*.
   arXiv.
 * [[LargeDevia18]]
-  Wang, Duursma.
-  *Polar-like Codes and Asymptotic Tradeoff among Block Length, Code Rate, and Error Probability*.
+  H.-P. Wang, I. Duursma.
+  *Polar-like Codes and Asymptotic Tradeoff among Block Length, Code
+  *Rate, and Error Probability*.
   arXiv.
 * [[LoglogTime18]]
-  Wang, Duursma.
+  H.-P. Wang, I. Duursma.
   *Log-logarithmic Time Pruned Polar Coding on Binary Erasure Channels*.
   arXiv.
 * [[LoglogTime19]]
-  Wang, Duursma.
+ H.-P. Wang, I. Duursma.
   *Log-logarithmic Time Pruned Polar Coding*.
   arXiv.
 * [[Hypotenuse19]]
-  Wang, Duursma.
+  H.-P. Wang, I. Duursma.
   *Polar Codes' Simplicity, Random Codes' Durability*.
   arXiv.
 * [[LoglogTime21]]
-  Wang, Duursma.
+  H.-P. Wang, I. Duursma.
   *Log-logarithmic Time Pruned Polar Coding*.
   IEEE Transactions on Information Theory.
   (Journal version of [[LoglogTime19]])
 * [[Hypotenuse21]]
-  Wang, Duursma.
+  H.-P. Wang, I. Duursma.
   *Polar Codes' Simplicity, Random Codes' Durability*.
   IEEE Transactions on Information Theory.
   (Journal version of [[Hypotenuse19]])
 * [[PhDThesis21]]
-  Hsin-Po Wang.
-  *Complexity and Second Moment of the Mathematical Theory of Communication*.
+  H.-P. Wang.
+  *Complexity and Second Moment of the Mathematical Theory of
+  *Communication*.
 * [[Sub-4.7-mu22]]
-  Wang, Lin, Vardy, Gabrys.
+  H.-P. Wang, T.-C. Lin, A. Vardy, R.Gabrys.
   *Sub-4.7 Scaling Exponent of Polar Codes*.
   arXiv.
 * [[TetraErase22x]]
-  Duursma, Gabrys, Guruswami, Lin, Wang.
+  I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
   *Accelerating Polarization via Alphabet Extension*.
   arXiv.
 * [[TetraErase22]]
-  Duursma, Gabrys, Guruswami, Lin, Wang.
+  I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
   *Accelerating Polarization via Alphabet Extension*.
   International Conference on Randomization and Computation (RANDOM).
   (Conference version of [[TetraErase22x]])
 * [[Sub-4.7-mu23]]
-  Wang, Lin, Vardy, Gabrys.
+  H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
   *Sub-4.7 Scaling Exponent of Polar Codes*.
   IEEE Transactions on Information Theory.
 
