@@ -28,7 +28,11 @@ Social media =
 * [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
 
 Interests =
-information theory; coding theory; polar code; distributed system;
+information theory;
+coding theory;
+polar code;
+distributed system;
+group testing;
 application of algebra, combinatorics, and calculus.
 
 For meta-comments of my works categorized by topics, see:
@@ -48,78 +52,91 @@ keeps the source codes, comments, and results.
 
 ## Conference Publications
 
-[1] H.-P. Wang, R. Gabrys, V. Guruswami.
-    *Quickly-Decodable Group Testing with Fewer Tests: Price-Scarlett's Nonadaptive Splitting with Explicit Scalars.*
-    IEEE International Symposium on Information Theory (ISIT), June 2023.
+* [1]
+  H.-P. Wang, R. Gabrys, V. Guruswami.
+  *Quickly-Decodable Group Testing with Fewer Tests: Price-Scarlett's Nonadaptive Splitting with Explicit Scalars.*
+  IEEE International Symposium on Information Theory (ISIT), June 2023.
 
-[2] H.-P. Wang, V. Guruswami.
-    *How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?*.
-    IEEE International Symposium on Information Theory (ISIT), June 2023.
+* [2]
+  H.-P. Wang, V. Guruswami.
+  *How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?*.
+  IEEE International Symposium on Information Theory (ISIT), June 2023.
 
-[3] T.-C. Lin, H.-P. Wang.
-    *Optimal Self-Dual Inequalities to Order Polarized BECs*.
-   IEEE International Symposium on Information Theory (ISIT), June 2023.
-    ([Preprint](https://arxiv.org/abs/2304.07664).)
+* [3]
+  T.-C. Lin, H.-P. Wang.
+  *Optimal Self-Dual Inequalities to Order Polarized BECs*.
+  IEEE International Symposium on Information Theory (ISIT), June 2023.
+  ([Preprint](https://arxiv.org/abs/2304.07664).)
 
-[4] H.-P. Wang, C.-W. Chin.
-    *Density Devolution for Ordering Synthetic Channels*.
-    IEEE International Symposium on Information Theory (ISIT), June 2023.
-    ([Preprint](https://arxiv.org/abs/2304.07667).)
+* [4]
+  H.-P. Wang, C.-W. Chin.
+  *Density Devolution for Ordering Synthetic Channels*.
+  IEEE International Symposium on Information Theory (ISIT), June 2023.
+  ([Preprint](https://arxiv.org/abs/2304.07667).)
 
-[5] H.-P. Wang, V.-F. Dragoi.
-    *Fast Methods for Ranking Synthetic BECs*.
-    IEEE International Symposium on Information Theory (ISIT), June 2023.
-    ([Preprint](https://arxiv.org/abs/2304.11781).)
+* [5]
+  H.-P. Wang, V.-F. Dragoi.
+  *Fast Methods for Ranking Synthetic BECs*.
+  IEEE International Symposium on Information Theory (ISIT), June 2023.
+  ([Preprint](https://arxiv.org/abs/2304.11781).)
 
-[6] I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
-    [*Accelerating Polarization via Alphabet Extension*](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
-    International Conference on Randomization and Computation (RANDOM), September 2022.
-    ([Full version](https://arxiv.org/abs/2207.04522) and
-     [animation](https://www.youtube.com/watch?v=2mmbd58rSts).)
+* [6]
+  I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
+  [*Accelerating Polarization via Alphabet Extension*](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
+  International Conference on Randomization and Computation (RANDOM), September 2022.
+  ([Full version](https://arxiv.org/abs/2207.04522) and
+   [animation](https://www.youtube.com/watch?v=2mmbd58rSts).)
 
-[7] H.-P. Wang, R. Gabrys, A. Vardy.
-    [*PCR, Tropical Arithmetic, and Group Testing*](https://doi.org/10.1109/ISIT50566.2022.9834718).
-    IEEE International Symposium on Information Theory (ISIT), June 2022.
-    ([Full version](https://arxiv.org/abs/2201.05440) and
-     [slides @ ISIT](https://github.com/Symbol1/PCR-TGT).)
+* [7]
+  H.-P. Wang, R. Gabrys, A. Vardy.
+  [*PCR, Tropical Arithmetic, and Group Testing*](https://doi.org/10.1109/ISIT50566.2022.9834718).
+  IEEE International Symposium on Information Theory (ISIT), June 2022.
+  ([Full version](https://arxiv.org/abs/2201.05440) and
+   [slides @ ISIT](https://github.com/Symbol1/PCR-TGT).)
 
 ## Journal Publications
 
-[1] H.-P. Wang, R. Gabrys, A. Vardy.
-    *Tropical Group Testing*.
-    IEEE Transactions on Information Theory.
-    ([Preprint](https://arxiv.org/abs/2201.05440).)
+* [1]
+  H.-P. Wang, R. Gabrys, A. Vardy.
+  *Tropical Group Testing*.
+  IEEE Transactions on Information Theory.
+  ([Preprint](https://arxiv.org/abs/2201.05440).)
 
-[2] H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
-    [*Sub-4.7 Scaling Exponent of Polar Codes*](https://doi.org/10.1109/TIT.2023.3253074).
-    IEEE Transactions on Information Theory.
-    ([Preprint](https://arxiv.org/abs/2204.11683).)
+* [2]
+  H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
+  [*Sub-4.7 Scaling Exponent of Polar Codes*](https://doi.org/10.1109/TIT.2023.3253074).
+  IEEE Transactions on Information Theory.
+  ([Preprint](https://arxiv.org/abs/2204.11683).)
 
-[3] I. Duursma, H.-P. Wang.
-    [*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://doi.org/10.1007/s00200-021-00526-3).
-    Applicable Algebra in Engineering, Communication and Computing, October 2021.
-    ([Author copy](https://rdcu.be/cyJs2) and
-     [Preprint](https://arxiv.org/abs/2006.16998).)
+* [3]
+  I. Duursma, H.-P. Wang.
+  [*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://doi.org/10.1007/s00200-021-00526-3).
+  Applicable Algebra in Engineering, Communication and Computing, October 2021.
+  ([Author copy](https://rdcu.be/cyJs2) and
+   [Preprint](https://arxiv.org/abs/2006.16998).)
 
-[4] I. Duursma, X. Li, H.-P. Wang.
-    [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742).
-    SIAM Journal on Applied Algebra and Geometry (SIAGA), September 2021.
-    ([Preprint](https://arxiv.org/abs/2006.08911),
+* [4]
+  I. Duursma, X. Li, H.-P. Wang.
+  [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742).
+  SIAM Journal on Applied Algebra and Geometry (SIAGA), September 2021.
+  ([Preprint](https://arxiv.org/abs/2006.08911),
      a 15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM), and
-     [slides @ SIAM AG21](https://github.com/Symbol1/MoulinDistorage).)
+   [slides @ SIAM AG21](https://github.com/Symbol1/MoulinDistorage).)
 
-[5] H.-P. Wang, I. Duursma.
-    [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523).
-    IEEE Transactions on Information Theory, March 2021.
-    ([Preprint](https://arxiv.org/abs/1905.13340) and
-     [Predecessor](https://arxiv.org/abs/1812.08106).)
+* [5]
+  H.-P. Wang, I. Duursma.
+  [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523).
+  IEEE Transactions on Information Theory, March 2021.
+  ([Preprint](https://arxiv.org/abs/1905.13340) and
+   [Predecessor](https://arxiv.org/abs/1812.08106).)
 
-[6] H.-P. Wang, I. Duursma.
-    [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570).
-    IEEE Transactions on Information Theory, March 2021.
-    ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
-     [slides @ UIUC](https://github.com/Symbol1/Complex2Order) and
-     [slides @ Princeton](https://github.com/Symbol1/abc).)
+* [6]
+  H.-P. Wang, I. Duursma.
+  [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570).
+  IEEE Transactions on Information Theory, March 2021.
+  ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
+   [slides @ UIUC](https://github.com/Symbol1/Complex2Order) and
+   [slides @ Princeton](https://github.com/Symbol1/abc).)
 
 ## Education & Positions
 
