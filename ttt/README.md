@@ -325,7 +325,6 @@ manually (which is not quite easy), or you can wrap the code above using:
 \end{document}
 ```
 
-
 The trick is that TeX has this neat feature that `^^68` is interpret as
 the letter `h` because the ASCII code for the letter `h` is `0x68`.
 TeX also interprets `^^(` as the letter `h` because the ASCII code
@@ -348,5 +347,65 @@ These pieces of code are motivated by the (unnecessary) need to hide one's
 email address from *non-experts*.  This is inspired by the famous file
 [`xii.tex`](https://ctan.org/tex-archive/macros/plain/contrib/xii).
 
+## Bonsai
 
+![A binary tree that is somewhat irregular](bonsai/bonsai.png)
 
+```latex
+\documentclass[tikz]{standalone}
+\begin{document}
+    \usepgfmodule{parser}
+    \pgfparserdef{bonsai}{initial}{the character :}{
+        % \PackageWarning{bonsai}{execute :}
+        \definecolor{root}{Hsb}{40,1,0.3}
+        \definecolor{leaf}{Hsb}{80,1,0.6}
+        \def\bonsaiwidth{5pt}
+        \def\fanout{120}
+        \pgfmathsetmacro\angle{\fanout*1.5 + 30}
+        \def\factor{100}
+    }
+    \pgfparserdef{bonsai}{initial}{the character <}{
+        % \PackageWarning{bonsai}{execute <}
+        \pgfmathsetmacro\angle{\angle - \fanout}
+        \path (0, 0) coordinate (stem);
+        \bgroup\iffalse\egroup\fi
+        \pgfmathsetmacro\angle{\angle * 0.75}
+        \pgfmathsetmacro\factor{\factor * (0.8 + abs(\angle/1000))}
+        \pgftransformshift{\pgfpointpolarxy{\angle}{\factor/100}}
+        \draw [root!\factor!leaf, line width=\factor/100*\bonsaiwidth]
+            (stem) to[in=\angle+180+rand*20, out=\angle+rand*20] (0, 0);
+        \pgfmathsetmacro\angle{\angle + \fanout*1.5}
+    }
+    \pgfparserdef{bonsai}{initial}{the character >}{
+        % \PackageWarning{bonsai}{execute >}
+        \iffalse\bgroup\fi\egroup
+    }
+    \pgfparserdef{bonsai}{initial}{the character .}{
+        % \PackageWarning{bonsai}{execute .}
+        \fill [leaf] (0, 0) circle [radius=\factor/500];
+    }
+    \pgfparserdef{bonsai}{initial}{the character ;}{
+        % \PackageWarning{bonsai}{execute ;}
+        \pgfparserswitch{final}
+    }
+    \begin{tikzpicture}
+        \tikzset{rotate=90}
+        \pgfparserparse{bonsai}:
+            <<<.><<.><.>>><<<<.><.>><<<.><.>><<<.><.>><<<<.><.>><<<.><.>
+            ><.>>><<<.><.>><.>>>>>><<.><.>>>><<<.><.>><<<<<.><<.><<.><<.
+            ><.>>>>><<.><<<><.>><.>>>><<<.><.>><<<<.><.>><.>><.>>>><<<<.
+            ><.>><<<.><.>><<.><.>>>><<<.><.>><<<<<.><.>><<<<.><.>><.>><.
+            >>><<.><.>>><<<.><.>><.>>>>>>>
+        ;
+        \tikzset{rotate=-90}
+        \filldraw [red!50!black, line width=2pt]
+            (-1, 0) -- (1, 0) -- (.7, -.5) -- (-.7, -.5) -- cycle;
+    \end{tikzpicture}
+\end{document}
+```
+
+Convert pdf to png with terminal command (with ImageMagick installed)
+
+```latex
+convert -density 600 bonsai.pdf bonsai.png
+```
