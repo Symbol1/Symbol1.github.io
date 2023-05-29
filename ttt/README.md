@@ -282,10 +282,11 @@ This is inspired by <http://www.peda.com/grafeq/gallery.html>.
 
 ```
 
-Using macOS Preview.app to convert pdf to png (with resolution 256 pixel/inch).
-But if you look closely, the “correct” resolution should be 128 pixel/inch.
-Turns out there are some rounding issues no matter I use `floor` or `round`
-in the code.  The issues go away when the resolution is doubled.
+Using macOS Preview.app to convert pdf to png (with resolution 256
+pixel/inch).  But if you look closely, the “correct” resolution should
+be 128 pixel/inch.  Turns out there are some rounding issues no matter I
+use `floor` or `round` in the code.  The issues go away when the
+resolution is doubled.
 
 This is a derivation of <https://tex.stackexchange.com/a/267088/51022>,
 motivated by Kurzgesagt's video
@@ -304,7 +305,8 @@ generates my old, deprecated email `hpwang2@illinois.edu`.
 ~....%$$$$577757775\endr
 ```
 
-This piece of TeX code generates my old, deprecated email `hsw001@ucsd.edu`.
+This piece of TeX code generates my old, deprecated email
+`hsw001@ucsd.edu`.
 
 ```latex
 \def~#1#2{#1\catcode`#27
@@ -326,26 +328,28 @@ manually (which is not quite easy), or you can wrap the code above using:
 ```
 
 The trick is that TeX has this neat feature that `^^68` is interpret as
-the letter `h` because the ASCII code for the letter `h` is `0x68`.
-TeX also interprets `^^(` as the letter `h` because the ASCII code
-for the left parenthesis `(` and the ASCII code for the letter `h` differ by
-sixty-four.  With this trick, lowercase letters `abcd...` can be **expanded**
-into `^^61^^62^^63^^64...` or, less obviously `^^!^^"^#^^$...`.
+the letter `h` because the ASCII code for the letter `h` is `0x68`.  TeX
+also interprets `^^(` as the letter `h` because the ASCII code for the
+left parenthesis `(` and the ASCII code for the letter `h` differ by
+sixty-four.  With this trick, lowercase letters `abcd...` can be
+**expanded** into `^^61^^62^^63^^64...` or, less obviously
+`^^!^^"^#^^$...`.
 
-However, it would be less mysterious if one sees two superscript symbols `^^`
-everywhere in a code.  So TeX also has this neat feature that it doesn't have to
-be two superscript symbols; any repeated symbols whose category code is seven
-will work.  For instance, if we change the category code of the left parenthesis
-to seven by ```\catcode`(=7```, then `(((` equals `^^(` equals `h`.  Similarly,
-if you change the category code of the number six to seven by
-```\catcode`6=7```, then `6668` equals `^^68` equals `h`.
+However, it would be less mysterious if one sees two superscript symbols
+`^^` everywhere in a code.  So TeX also has this neat feature that it
+doesn't have to be two superscript symbols; any repeated symbols whose
+category code is seven will work.  For instance, if we change the
+category code of the left parenthesis to seven by ```\catcode`(=7```,
+then `(((` equals `^^(` equals `h`.  Similarly, if you change the
+category code of the number six to seven by ```\catcode`6=7```, then
+`6668` equals `^^68` equals `h`.
 
 Now it becomes a matter of looking up every letter in your email address
 and choose either `^^68` or `^^(`, whichever maximizes the obscurity.
 
-These pieces of code are motivated by the (unnecessary) need to hide one's
-email address from *non-experts*.  This is inspired by the famous file
-[`xii.tex`](https://ctan.org/tex-archive/macros/plain/contrib/xii).
+These pieces of code are motivated by the (unnecessary) need to hide
+one's email address from *non-experts*.  This is inspired by the famous
+file [`xii.tex`](https://ctan.org/tex-archive/macros/plain/contrib/xii).
 
 ## Bonsai
 
