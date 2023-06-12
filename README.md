@@ -158,7 +158,7 @@ keeps the source codes, comments, and results.
 ## Journal Publications
 
 1. H.-P. Wang, R. Gabrys, A. Vardy.
-   *Tropical Group Testing*.
+   [*Tropical Group Testing*](https://doi.org/10.1109/TIT.2023.3282847).
    IEEE Transactions on Information Theory.
    ([Preprint](https://arxiv.org/abs/2201.05440).)
 

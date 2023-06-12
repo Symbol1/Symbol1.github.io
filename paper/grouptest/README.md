@@ -58,8 +58,8 @@ monitoring the amount of DNA fragments, we get an idea of the number of
 virus particles in a specimen.  The term **Ct value** (which stands for
 cycle threshold value) is used to denote the number of cycles the
 polymerase needs.  Let $c$ denote the Ct value and $v$ denote the
-number of virus particles, then
-$$ c \approx 40 - \lfloor\log_2(v)\rfloor $$
+number of virus particles, then  
+$ c \approx 40 - \lfloor\log_2(v)\rfloor $  
 is a relation between $c$ and $v$ subject to errors.
 
 So we want to combine group testing and Ct value.  But Ct value is very
