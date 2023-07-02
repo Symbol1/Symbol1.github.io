@@ -147,7 +147,7 @@ keeps the source codes, comments, and results.
    [*Accelerating Polarization via Alphabet Extension*](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
    International Conference on Randomization and Computation (RANDOM), September 2022.
    ([Full version](https://arxiv.org/abs/2207.04522) and
-    [animation](https://www.youtube.com/watch?v=2mmbd58rSts).)
+    7-minute [animation](https://www.youtube.com/watch?v=2mmbd58rSts).)
 
 7. H.-P. Wang, R. Gabrys, A. Vardy.
    [*PCR, Tropical Arithmetic, and Group Testing*](https://doi.org/10.1109/ISIT50566.2022.9834718).
