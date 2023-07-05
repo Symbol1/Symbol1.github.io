@@ -123,25 +123,30 @@ keeps the source codes, comments, and results.
 1. H.-P. Wang, R. Gabrys, V. Guruswami.
    *Quickly-Decodable Group Testing with Fewer Tests: Price-Scarlett's Nonadaptive Splitting with Explicit Scalars.*
    IEEE International Symposium on Information Theory (ISIT), June 2023.
+   ([Slides](https://drive.google.com/file/d/18Kku7Q1lpmylhz8ScPs-zwBRzIyP6sec/view?usp=sharing).)
 
-2. H.-P. Wang, V. Guruswami.
-   *How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?*.
+2. H.-P. Wang, C.-W. Chin.
+   *Density Devolution for Ordering Synthetic Channels*.
    IEEE International Symposium on Information Theory (ISIT), June 2023.
+   ([Preprint](https://arxiv.org/abs/2304.07667) and
+    4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
 
 3. T.-C. Lin, H.-P. Wang.
    *Optimal Self-Dual Inequalities to Order Polarized BECs*.
    IEEE International Symposium on Information Theory (ISIT), June 2023.
-   ([Preprint](https://arxiv.org/abs/2304.07664).)
+   ([Preprint](https://arxiv.org/abs/2304.07664) and
+    4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
 
-4. H.-P. Wang, C.-W. Chin.
-   *Density Devolution for Ordering Synthetic Channels*.
+4. H.-P. Wang, V. Guruswami.
+   *How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?*.
    IEEE International Symposium on Information Theory (ISIT), June 2023.
-   ([Preprint](https://arxiv.org/abs/2304.07667).)
+   (4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
 
 5. H.-P. Wang, V.-F. Dragoi.
    *Fast Methods for Ranking Synthetic BECs*.
    IEEE International Symposium on Information Theory (ISIT), June 2023.
-   ([Preprint](https://arxiv.org/abs/2304.11781).)
+   ([Preprint](https://arxiv.org/abs/2304.11781) and
+    4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
 
 6. I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
    [*Accelerating Polarization via Alphabet Extension*](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
@@ -196,6 +201,7 @@ keeps the source codes, comments, and results.
 ## Extracurricular
 
 * Jury  
+  [2023 International Mathematics Competition](http://bimc2023.com/)  
   [2022 International Mathematics Competition](https://www.facebook.com/iimc2022/)  
   [2022 International Young Mathematicians Convention](http://www.cmseducation.org/iymc/)
 
