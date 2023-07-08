@@ -63,6 +63,7 @@
 * [野馬（含血速魔）](https://gamefaqs.gamespot.com/wii-u/632936-the-legend-of-zelda-breath-of-the-wild/faqs/74764/normal-horses)
   by HylianAngel
 
-## Discord
+## 其他
 
-* YuDa 的 [Yuda's Switch道場](https://discord.com/invite/5V872Y8)
+* [王國之淚入口](/ToTk)
+* YuDa 的 Discord: [Yuda's Switch道場](https://discord.com/invite/5V872Y8)
