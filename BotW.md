@@ -65,4 +65,4 @@
 
 ## Discord
 
-* YuDa 的 [Switch Game 頻道群](https://discord.com/invite/5V872Y8)
+* YuDa 的 [Yuda's Switch道場](https://discord.com/invite/5V872Y8)
