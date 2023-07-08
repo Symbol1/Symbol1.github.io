@@ -3,7 +3,7 @@
 ## 英文表格
 
 * [Data Sheet v5](https://docs.google.com/spreadsheets/d/18pNtDx3z-8CwGJRmlW574xbQ6VphQOkvpZhClpOEVDA/)
-  Echocolat et al.
+  by Echocolat et al.
   （作者表示因為 Phil 的表格更漂亮所以此表格不再更新，
     但是下面幾個小表格可能還有用）
   * [餘料武器攻擊計算](https://docs.google.com/spreadsheets/d/1LPhUKU479MtmxFd5V7EXdIAurIGR6pxOG3FYjuZw8NM/)
@@ -35,6 +35,8 @@
   by Danny Janse
 * [物件地圖2 - 完整的搜尋功能](https://objmap-totk.zeldamods.org/)
   by leoetlino
+* [互動地圖](https://www.zeldadungeon.net/tears-of-the-kingdom-interactive-map/)
+  host by Zelda Dungeon
 
 ## 未分類
 

@@ -65,5 +65,5 @@
 
 ## 其他
 
-* [王國之淚入口](/ToTk)
+* [王國之淚入口](/TotK)
 * YuDa 的 Discord: [Yuda's Switch道場](https://discord.com/invite/5V872Y8)
