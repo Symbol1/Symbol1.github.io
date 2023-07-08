@@ -217,3 +217,7 @@ keeps the source codes, comments, and results.
 
 * [Vaseman](/vaseman) is about drawing people that look like vases.
 (Data plan warning: scans of drawings!)
+
+* 薩爾達傳說 [曠野之息的中、外文資料](/BotW)
+
+* 薩爾達傳說 [王國之淚的中、外文資料](/TotK)
