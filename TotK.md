@@ -1,5 +1,32 @@
 # 王國之淚
 
+## 中文地圖
+
+* [互動地圖](https://www.gamertw.com/zelda/totk/map)
+  by 巴哈/scps940208
+  （原[巴哈貼文](https://forum.gamer.com.tw/C.php?bsn=1689&snA=11168)
+  * [素材效果與位置](https://www.gamertw.com/zelda/totk/material)
+  * [防具位置與升級所需素材](https://www.gamertw.com/zelda/totk/armor)
+
+## 更多中文資料
+
+* [特殊建材](https://forum.gamer.com.tw/C.php?bsn=1689&snA=11715)
+   by 巴哈/z59922395525
+* [100%/全要素](https://forum.gamer.com.tw/C.php?bsn=1689&snA=11607)
+  by 巴哈/a255010，
+  含神廟、破魔之根、魔猶伊、圖鑑、立牌、古代石碑、井、任務、克洛格果實、討伐勳章、食譜
+* [料理指南](https://haozzone.notion.site/Z-5908f127996e4454806aca88e74dcda5)
+  by 巴哈/haophic
+
+## 英文地圖
+
+* [物件地圖1 - 縮小時顯示總數](https://vetyst.github.io/TotK-Object-Map/)
+  by Danny Janse
+* [物件地圖2 - 完整的搜尋功能](https://objmap-totk.zeldamods.org/)
+  by leoetlino
+* [互動地圖](https://www.zeldadungeon.net/tears-of-the-kingdom-interactive-map/)
+  host by Zelda Dungeon
+
 ## 英文表格
 
 * [Data Sheet v5](https://docs.google.com/spreadsheets/d/18pNtDx3z-8CwGJRmlW574xbQ6VphQOkvpZhClpOEVDA/)
@@ -28,15 +55,6 @@
     by Phil
 * [List of glitches](https://docs.google.com/spreadsheets/d/1xNB1gOLZRSF9yp1mHUsS9ymogRJa1Wz8rTliTXezeRM/)
   by the speedrun community?
-
-## 英文地圖
-
-* [物件地圖1 - 縮小時顯示總數](https://vetyst.github.io/TotK-Object-Map/)
-  by Danny Janse
-* [物件地圖2 - 完整的搜尋功能](https://objmap-totk.zeldamods.org/)
-  by leoetlino
-* [互動地圖](https://www.zeldadungeon.net/tears-of-the-kingdom-interactive-map/)
-  host by Zelda Dungeon
 
 ## 未分類
 
