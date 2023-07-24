@@ -67,6 +67,13 @@
     的 reddit 文章
 * [料理數學](https://www.reddit.com/r/tearsofthekingdom/comments/144ss8t/cooking_cheat_sheet_version_03_with_ingredient/)
   by HylianExplorer
+* [餘料建造模擬器](https://zonai-fusion.link)
+  by Track-tor
+
+## 藝廊
+
+* 有趣的[左納烏裝置組合](https://www.youtube.com/playlist?list=PLAp_O-WDBQLDk0owRTliK7G7FUrKuFS6q)
+  by youtube/Top Gaming Plays
 
 ## 其他
 

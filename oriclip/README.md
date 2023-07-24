@@ -232,14 +232,14 @@ Four clips = one Η-vertex = one vertex.
 
 #### Η120-aD
 
-![120 clips forming 12 Η-vertices forming icosidodecahedron](Η120-aD.jpg)
+![120 clips forming 30 Η-vertices forming icosidodecahedron](Η120-aD.jpg)
 ↑ # Clips = 120  
-↑ Base = icosidodecahedron
+↑ Base = [icosidodecahedron]  
 ↑ Symmetry = dodecahedron's rotations  
 
 #### Η120-lC
 
-![24 clips forming 12 Η-faces forming lofted cube](Η120-lC.jpg)  
+![24 clips forming 30 Η-faces forming lofted cube](Η120-lC.jpg)  
 ↑ # Clips = 120  
 ↑ Base = application of the *loft* operation upon a cube  
 ↑ Symmetry = cube's rotations  
