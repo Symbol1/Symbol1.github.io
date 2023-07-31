@@ -43,13 +43,17 @@
   by Phil (with helps from Aeon and SuperSpazzy)
   * [可互動之物品列表](https://docs.google.com/spreadsheets/d/1eHHFwGDsI3sHTOLaawlxKgxbiLG8ceHUHpbpC2Bj57k/)
     by Phil and Jay
-  * [多語言名詞對照](https://docs.google.com/spreadsheets/d/11S_vD-kUTwG58qnhtchB12humhFOOK0qzRRilrA_hek/)
+  * [多語言名詞對照（含對話等）](https://docs.google.com/spreadsheets/d/11S_vD-kUTwG58qnhtchB12humhFOOK0qzRRilrA_hek/)
     by Phil and Aeon
   * [升級防具的素材](https://docs.google.com/spreadsheets/d/1gzS-kViCZ6c4GCDdUFiwfx_Fih2sbcwJm5czzKLJvGo/)
     by Phil
   * [升級馬匹的素材](https://docs.google.com/spreadsheets/d/1dIqcZ4a0D_oyug5wTMdF9Ori7wOyTzJOsamnGHn-IdU/)
     by Phil
-  * [原始「參數」](https://docs.google.com/spreadsheets/d/1YkGXGsYIr91d00Lri2cTXYtorRfoMkZNbS1I_4mZLGc/)
+  * [遊戲的原始參數](https://docs.google.com/spreadsheets/d/1YkGXGsYIr91d00Lri2cTXYtorRfoMkZNbS1I_4mZLGc/)
+  * [解釋賢者攻擊力](https://www.reddit.com/r/tearsofthekingdom/comments/14ct8kt/sage_attack_power_a_full_breakdown/)
+    的 reddit 貼文
+  * [解釋 boss 攻擊力](https://www.reddit.com/r/tearsofthekingdom/comments/14rr5sd/how_temple_bosses_scale_a_full_breakdown/)
+    的 reddit 貼文
 * [Data Sheet v5](https://docs.google.com/spreadsheets/d/18pNtDx3z-8CwGJRmlW574xbQ6VphQOkvpZhClpOEVDA/)
   by Echocolat et al.
   （作者表示因為 Phil 的表格更漂亮所以此表格不再更新，
@@ -60,15 +64,20 @@
   * [經驗值系統](https://docs.google.com/spreadsheets/d/1VyzoV6YrTkJHUjqBcgaflPLRDNPvFEhaStJMuOahfAY/)
   * [餘料武器命名法](https://docs.google.com/spreadsheets/d/1wQDX1RJIRRbRBhujk-XA8TqxJU_WjvR_LBC1ZGtRuM4/)
   * [解釋攻擊力](https://www.reddit.com/r/tearsofthekingdom/comments/13wrp2g/a_mostly_complete_post_about_how_the_weapon/)
-    的 reddit 文章
+    的 reddit 貼文
   * [解釋未腐朽武器](https://www.reddit.com/r/tearsofthekingdom/comments/13uqo9h/everything_you_need_to_know_about_nondecayed/)
-    的 reddit 文章
+    的 reddit 貼文
   * [解釋經驗值系統](https://www.reddit.com/r/tearsofthekingdom/comments/1496az3/explaining_level_scaling_in_totk/)
-    的 reddit 文章
+    的 reddit 貼文
+* [猜測各參數的意思](https://docs.google.com/spreadsheets/d/1_wiJD0WQ2uEqOEdgBCg8bTuF35pFTU9rengRp6GE--w/)
 * [料理數學](https://www.reddit.com/r/tearsofthekingdom/comments/144ss8t/cooking_cheat_sheet_version_03_with_ingredient/)
   by HylianExplorer
 * [餘料建造模擬器](https://zonai-fusion.link)
   by Track-tor
+* 立體模型與究極手黏著點 by SuperSpazzy
+  * [bleh](http://dev.ssmvc.org:8080/bleh.html?actor=Obj_SpikeBall_B)
+  * [wip](http://dev.ssmvc.org:8080/wip.html?actor=Obj_SpikeBall_B)
+  * 把網址的 `actor=` 後面換成你想看的物品的 actor name
 
 ## 藝廊
 
