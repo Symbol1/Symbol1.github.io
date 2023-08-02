@@ -80,6 +80,7 @@ Fast forward to
 ↑ # Clips = 6  
 ↑ Base = [octahedron]  
 ↑ Symmetry = tetrahedron's rotations  
+↑ Video instruction = <https://youtu.be/XCLxfR3sDGM>  
 
 #### 6-twist
 
@@ -93,7 +94,9 @@ Fast forward to
 ![6 binder clips forming a 3D cross](6-cross.jpg)  
 ↑ # Clips = 6  
 ↑ Base = [three-piece burr]  
-↑ Symmetry = pyritohedron's rotations and reflections
+↑ Symmetry = pyritohedron's rotations and reflections  
+↑ Video instruction = <https://youtu.be/8F8225Ve_RE>  
+↑ Looks like = [Czech hedgehog](https://en.wikipedia.org/wiki/Czech_hedgehog)  
 
 #### 6-spike
 
@@ -154,7 +157,9 @@ One clip = one edge.
 ![12 clips forming spiky octahedron](A12-O.jpg)  
 ↑ # Clips = 12  
 ↑ Base = [octahedron]  
-↑ Symmetry = pyritohedron's rotations and reflections
+↑ Symmetry = pyritohedron's rotations and reflections  
+↑ Video instruction = <https://youtu.be/aXINnqdEPB8>  
+↑ Looks like = Ramiel in Evangelion  
 
 #### A24-aC
 
@@ -187,7 +192,7 @@ One clip = one edge.
 #### A12-O8-C
 
 ![12 clips forming spiky octahedron, 8 of that forming cube](A12-O8-C.jpg)  
-↑ # Clips = 96  
+↑ # Clips = (12 per vertex) x (8 vertices) = 96  
 ↑ Local base = [octahedron]  
 ↑ Global base = [cube]  
 ↑ Symmetry = cube's rotations  
@@ -195,7 +200,7 @@ One clip = one edge.
 #### A24-aC4-T
 
 ![24 clips forming spiky cuboctahedron, 4 of that forming tetrahedron](A24-aC4-T.jpg)  
-↑ # Clips = 96  
+↑ # Clips = (24 per vertex) x (4 vertices) = 96  
 ↑ Local base = [cuboctahedron]  
 ↑ Global base = [tetrahedron]  
 ↑ Symmetry = tetrahedron's rotations  
@@ -203,7 +208,7 @@ One clip = one edge.
 #### A24-aC8-O
 
 ![24 clips forming spiky cuboctahedron, 6 of that forming octahedron](A24-aC6-O.jpg)  
-↑ # Clips = 144  
+↑ # Clips = (24 per vertex) x (8 vertices) = 144  
 ↑ Local base = [cuboctahedron]  
 ↑ Global base = [octahedron]  
 ↑ Symmetry = cube's rotations  
@@ -217,15 +222,16 @@ Four clips = one Η-vertex = one vertex.
 #### Η24-O
 
 ![24 clips forming 6 Η-vertices forming octahedron](Η24-O.jpg)  
-↑ # Clips = 24  
+↑ # Clips = (4 per face) x (6 faces) = 24  
 ↑ Base = [octahedron]  
 ↑ Vertex config = 3.3.3.3  
-↑ Symmetry = pyritohedron's rotations and reflections
+↑ Symmetry = pyritohedron's rotations and reflections  
+↑ Video instruction = <https://youtu.be/Crru2VOmpL4>  
 
 #### Η48-jC
 
-![48 clips forming 24 Η-vertices forming rhombic dodecahedron](Η48-jC.jpg)  
-↑ # Clips = 48  
+![48 clips forming 12 Η-vertices forming rhombic dodecahedron](Η48-jC.jpg)  
+↑ # Clips = (4 per vertex) x (12 vertices) = 48  
 ↑ Base = [rhombic dodecahedron]  
 ↑ Face config = 3.4.3.4  
 ↑ Symmetry = cube's rotations  
@@ -233,7 +239,7 @@ Four clips = one Η-vertex = one vertex.
 #### Η120-aD
 
 ![120 clips forming 30 Η-vertices forming icosidodecahedron](Η120-aD.jpg)
-↑ # Clips = 120  
+↑ # Clips = (4 per face) x (30 vertices) = 120  
 ↑ Base = [icosidodecahedron]  
 ↑ Symmetry = dodecahedron's rotations  
 
@@ -409,11 +415,13 @@ Two clips = one X-edge = one edge.
 #### X12-T
 
 ![12 clips forming 6 X-edges forming tetrahedron](X12-T.jpg)  
-↑ # Clips = 12  
+↑ # Clips = (2 per edge) x (6 edges) = 12  
 ↑ Base = [tetrahedron]  
 ↑ Vertex config = 3.3.3  
 ↑ Symmetry = tetrahedron's rotations  
 ↑ Dual = [itself](#x12-t)  
+↑ Video Instruction = <https://youtu.be/0hu1LEuSWS4>  
+↑ Looks like = [Roman sueface](https://en.wikipedia.org/wiki/Roman_surface)  
 
 #### X24-C
 
@@ -489,6 +497,8 @@ Two clips = one L-edge = one edge.
 ↑ Vertex config = 3.3.3.3  
 ↑ Symmetry = cube's rotations  
 ↑ Dual = [L24-C](#l24-c)  
+↑ Video instruction = <https://youtu.be/rpFVjyZ3XF8>  
+↑ Looks like = gyroscope frame  
 
 #### L60-D
 
