@@ -10,6 +10,7 @@
 
 ## 更多中文資料
 
+* [中文雜表](https://docs.google.com/spreadsheets/d/1-QiEisDV4v-nOZ4xeYdnYFbYBfL-Q4f4M3g1TLFarJY/)
 * [特殊建材](https://forum.gamer.com.tw/C.php?bsn=1689&snA=11715)
    by 巴哈/z59922395525
 * [100%/全要素](https://forum.gamer.com.tw/C.php?bsn=1689&snA=11607)
