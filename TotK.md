@@ -80,10 +80,18 @@
   * [wip](http://dev.ssmvc.org:8080/wip.html?actor=Obj_SpikeBall_B)
   * 把網址的 `actor=` 後面換成你想看的物品的 actor name
 
+## 日文攻略
+
+* [GameWith](https://gamewith.jp/zelda-totk/)
+* 也有[英文版](https://gamewith.net/zelda-totk/)
+
 ## 藝廊
 
 * 有趣的[左納烏裝置組合](https://www.youtube.com/playlist?list=PLAp_O-WDBQLDk0owRTliK7G7FUrKuFS6q)
   by youtube/Top Gaming Plays
+* [More things you still didn't know](https://www.youtube.com/playlist?list=PLpg6WLs8kxGMPX8cYED64m1Kgq3Rnnp_W)
+  系列
+  by GameSpot / Rin
 
 ## 其他
 
