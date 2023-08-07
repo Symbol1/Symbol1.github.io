@@ -30,6 +30,7 @@
 * 追蹤進度的地圖（不需登入）
   * [host by Zelda Dungeon](https://www.zeldadungeon.net/tears-of-the-kingdom-interactive-map/)
   * [host by Zelda Maps](https://zeldamaps.com/?game=TotK)
+  * [By AEON](https://totk.aeonsake.com/)
 * 需要登入的地圖
   * [host by Map Genie](https://mapgenie.io/zelda-tears-of-the-kingdom/maps/hyrule)
   * [host by IGN](https://www.ign.com/maps/the-legend-of-zelda-tears-of-the-kingdom/hyrule)
@@ -50,7 +51,7 @@
     by Phil
   * [升級馬匹的素材](https://docs.google.com/spreadsheets/d/1dIqcZ4a0D_oyug5wTMdF9Ori7wOyTzJOsamnGHn-IdU/)
     by Phil
-  * [遊戲的原始參數](https://docs.google.com/spreadsheets/d/1YkGXGsYIr91d00Lri2cTXYtorRfoMkZNbS1I_4mZLGc/)
+  * [生參數](https://docs.google.com/spreadsheets/d/1YkGXGsYIr91d00Lri2cTXYtorRfoMkZNbS1I_4mZLGc/)
   * [解釋賢者攻擊力](https://www.reddit.com/r/tearsofthekingdom/comments/14ct8kt/sage_attack_power_a_full_breakdown/)
     的 reddit 貼文
   * [解釋 boss 攻擊力](https://www.reddit.com/r/tearsofthekingdom/comments/14rr5sd/how_temple_bosses_scale_a_full_breakdown/)
@@ -71,14 +72,19 @@
   * [解釋經驗值系統](https://www.reddit.com/r/tearsofthekingdom/comments/1496az3/explaining_level_scaling_in_totk/)
     的 reddit 貼文
 * [猜測各參數的意思](https://docs.google.com/spreadsheets/d/1_wiJD0WQ2uEqOEdgBCg8bTuF35pFTU9rengRp6GE--w/)
-* [料理數學](https://www.reddit.com/r/tearsofthekingdom/comments/144ss8t/cooking_cheat_sheet_version_03_with_ingredient/)
-  by HylianExplorer
 * [餘料建造模擬器](https://zonai-fusion.link)
   by Track-tor
 * 立體模型與究極手黏著點 by SuperSpazzy
   * [bleh](http://dev.ssmvc.org:8080/bleh.html?actor=Obj_SpikeBall_B)
   * [wip](http://dev.ssmvc.org:8080/wip.html?actor=Obj_SpikeBall_B)
   * 把網址的 `actor=` 後面換成你想看的物品的 actor name
+* 料理
+  * [食材簡表](https://www.reddit.com/r/tearsofthekingdom/comments/144ss8t/cooking_cheat_sheet_version_03_with_ingredient/)
+    by HylianExplorer
+  * [料理模擬器](https://www.zelda.recipes/) by jamie
+  * [料理模擬器](https://www.totkcookbook.com/) by Ghastly64
+* [龍的預報](https://restite.org/dragons/)
+* [廟名與京都地名的關係](https://www.google.com/maps/d/u/0/viewer?mid=1LskaKRbdTSr2jqlaybiMCAcKMSa5rUY)
 
 ## 日文攻略
 
