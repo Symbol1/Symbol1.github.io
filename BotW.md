@@ -70,4 +70,5 @@
 ## 其他
 
 * [王國之淚入口](/TotK)
-* YuDa 的 Discord: [Yuda's Switch道場](https://discord.com/invite/5V872Y8)
+* YuDa 的 [Discord 聊天室](https://discord.com/invite/5V872Y8)
+* YuDa 的 [Youtube 頻道](https://www.youtube.com/@zb_yuhudaddy/playlists)

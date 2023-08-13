@@ -102,4 +102,5 @@
 ## 其他
 
 * [曠野之息入口](/BotW)
-* YuDa 的 Discord: [Yuda's Switch道場](https://discord.com/invite/5V872Y8)
+* YuDa 的 [Discord 聊天室](https://discord.com/invite/5V872Y8)
+* YuDa 的 [Youtube 頻道](https://www.youtube.com/@zb_yuhudaddy/playlists)
