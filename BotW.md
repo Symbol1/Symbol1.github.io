@@ -67,6 +67,12 @@
 * [神廟技巧性速通總表（禁止風彈月步錯傳馬滑）](https://docs.google.com/spreadsheets/d/1n82Emcn8qfcYG2zd9fn7cDPzj-RedgHkFDyNM7FnRUs/)
   by Komali
 
+## 藝廊
+
+* [More things you still didn't know](https://www.youtube.com/watch?v=7ZbcmPrPtII&list=PLpg6WLs8kxGO0sUCxow2TVQfHW1s7wBbY)
+  系列
+  by GameSpot / Rin
+
 ## 其他
 
 * [王國之淚入口](/TotK)
