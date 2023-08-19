@@ -1,0 +1,92 @@
+% !TEX encoding = UTF-8 Unicode
+% !TEX program = pdflatex
+
+\documentclass[tikz]{standalone}
+	\usepgfmodule{parser}
+
+\begin{document}
+
+\def\pixelartinitial{
+    \def\pixelartx{0}
+    \def\pixelarty{0}
+    \catcode13=12
+}
+\def\pixelartnextrow{% next row = new line = enter
+    \def\pixelartx{0}
+    \pgfmathsetmacro\pixelarty{\pixelarty - 1}
+}
+\def\pixelartput#1{% #1 is a color or tikz options
+    \pgfmathsetmacro\pixelartx{\pixelartx + 1}
+    \fill [color={#1}] (\pixelartx, \pixelarty) rectangle +(1.05, 1.05);
+    % 1.05 is overshoot; necessary to avoid white gaps
+}
+\def\pixelartfinal{
+    \catcode13=5
+    \pgfparserswitch{final}
+}
+
+\pgfparserdef{pixel art}{initial}{the character <}{\pixelartinitial}
+\pgfparserdef{pixel art}{initial}{the character >}{\pixelartfinal}
+\catcode13=12\relax%
+\pgfparserdef{pixel art}{initial}{the character ^^M}{\pixelartnextrow}%
+\catcode13=5\relax
+\pgfparserdef{pixel art}{initial}{the character '}{\pixelartput{gray,7:white,0;black,7}}
+\pgfparserdef{pixel art}{initial}{the character -}{\pixelartput{gray,7:white,1;black,6}}
+\pgfparserdef{pixel art}{initial}{the character ;}{\pixelartput{gray,7:white,2;black,5}}
+\pgfparserdef{pixel art}{initial}{the letter l}{\pixelartput{gray,7:white,3;black,4}}
+\pgfparserdef{pixel art}{initial}{the letter C}{\pixelartput{gray,7:white,4;black,3}}
+\pgfparserdef{pixel art}{initial}{the letter D}{\pixelartput{gray,7:white,5;black,2}}
+\pgfparserdef{pixel art}{initial}{the letter H}{\pixelartput{gray,7:white,6;black,1}}
+\pgfparserdef{pixel art}{initial}{the letter M}{\pixelartput{gray,7:white,7;black,0}}
+
+\begin{tikzpicture}[x=1mm, y=2mm]
+\pgfparserparse{pixel art}<
+lll;l;;;l;l;;llll;l;;l;;;ll;l;ll;l;ll;;ll;;;;;;;l;l;;;l;;;;;
+lCClCCClCClCClllCCClCCClCCCCClllClllllllllllllllllllllCllCCC
+;ClCllllCllllllCCllllllllClllllllCllDDDDDDDDDDDDDDDCDCDDllll
+;lDllDDDCCCDDCDDDCllllDllDDDDCDCCDDDCDCCDCDDDDDDDDCCDDCllDCl
+CDDCDCDDDCDCCCCCDDDDCDDDCDCC;lll;CllDCCCDDDDDCCCDDDDCCCllDCC
+lCDCDCCCCCCCDDCDDDCDDCDll---';-;;;--llCCCDCCCCDCCDDCDCCDDDDD
+CDDDDCCHCCCCCDDCCCCCHHlllCHDCDC;l--;-;;CCCCCDCCCCDDCDDCCCCDD
+;DCCCCHDHDHDHHHHHCCDHC-CHMHHMDCl;-----;-DCCCCCDCDDCCCCDCDDCC
+lDCCHDCHDHDHDHDHDHHDC;lHMMMMMDDCCll---;;lCCllDCDCCCDCCDDDCCD
+-;ClClCCDDllCCHHHDDl--lDDDDHDDDDl;l---;--l;;CClCCDCCCDCDllll
+;-;;CllCCCl;;;lDCCD;;-CC;;DClDC;Cl;--;;--lll;l;;;lDDDCClllll
+-;;;CClCC;l;;;;;llCl-;DDHHDDDDDDHD;----;;l;ll;ll;lDCDllClClC
+-;ll;;;;;;l;llll;l;--;;HDHDCCDDCl;-;;;;;--ll;;;;;lCCCl;;;;;;
+;l--l;llll;;lll;;;;;-;;CDCC-;CDl;l-;-;;----------lllllll;-;l
+;---ll;l;llll;llll-;--;lCCDllllCll---;;;-;;ll;llll;l;l-;ll;l
+;---lllll-;-;lll;l;----;-CDCC;l;;--;-;;----lllllll;;--ll;;ll
+;;-;---;l;l;;l;;CCC;;-;;;-'--;---;----;;;;;--lll-;-----l-ll-
+;----;ll;ll;;CCCClll---;-;-lC;lll;;l--;-;;-;-llll;lllll;-ll;
+--l;;ll;;;lll-l;--;;;--;;;llDDlCDDDll;;--;;-;;;----;;llll;--
+;l;llllllllll-;-;;;---;llDHDDDHDDHDD;--;;;;;;--;;C;;;ll;----
+-l;ll-l;ll;l--;----;;;-DDMMMMDDMDDHDl---;';-;;;;-;;;l;;;l;--
+;-lll-ll;CC;;-l---;;lCDDMMMMMMMHDHHDl--l;;;;l-;''--l;l;;Clll
+;;;l;llll;;;;;------CHMHMMHMHHMMHMHCl;;;;;;--;-''-'';;--llC;
+;-;lll;;l;;;l-;;;-;-lCDDCHMHHHHHMDl;;--;;-'''-'-'''';-------
+---l;;;l;l;--;-;;;-;--;;-l;Clllll-;;;;';---;''''-''''--;;-;-
+--;-l;l;lll--;;;;-;--;--l--;-;;-;-;'-;-;;;;--;;;'''''';--;;-
+;---l;;ll;-;;;---;;;;;;---;;----;-''';;';;;;-;;-'''''';--;;-
+--;;CClCC;;;;;;-;-;;-';;;;;;;;;;'''''';;-;---'-'-''';'';---;
+;-l;l;ll----;;;;;;-;;''--;;;-;;'''''''-;-;-'--'''''''''-;-;;
+;;;----;;-----;-;-;;-';'';;;;'''-'''''-;'''''-'-'''-'''''-;;
+;-;;--;--;;;-----;;-;';''--;'''';'''''''--''-'''-'-''''-';;;
+;-;;;;;;--;;;;;;;;-';;;;;;'-''-'--'-'''''--'''-'''''''''-;;-
+;-;;;;;-lll--l-;;-';''---'-'-'--'''-''''''''''-'''-'''''-'-;
+;;-;;;--lll;llll;DCCCl;l-;-M-'''''''-'''''''''''-''-''--'-''
+;;;;;;;;;---;-;llCCCCCCDDlCl-'--''--------''''-'-'-'''''''-'
+;;;;;;;--;;;--;;l;;CCCDDDDClCDl-;;--;;;;;;-;'''-'-''''''''''
+;;''''-';;'';;'---l;lClllllC;CC;l;ll-----;;;--''-''''-'--'''
+';'-;'-;';'''--;;lDl;l;;CCCCl;---l-;-----;;';;---'''--'-'';;
+''-'';;;-''''-ll;;lCl;-lllCCll;;-;;;-;;;;';;'''-''-''''-'';;
+''''''''''''';-ll;lC;--;--';--;--;-'''-'''-''''--'''''-'''''
+''-'';'''''''-''-;l';;;;;-;-;;''--'-'-''''--''-'-'-'-'''''''
+''''''-';-;;'''';;;;;;;;;;;'-'--'''-''''-'''''-'''''----'-''
+'-'''''-;''-'';;;''''-''''-'--'-''''-'-''----''-'---'''''''-
+'''''-''-'';;;'''''-'''''----'-'''-'-'-'-'----'-''-'-'-'-'''
+'''''''';;;;;;;''''''''''''-'''-'-''--''''''''---''''''-''''
+>
+\end{tikzpicture}
+
+\end{document}
