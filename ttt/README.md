@@ -432,11 +432,11 @@ convert -density 600 bonsai.pdf bonsai.png
     \def\pixelarty{0}
     \catcode13=12
 }
-\def\pixelartnextrow{% next row = new line = enter
+\def\pixelartnextrow{ % next row = new line = enter
     \def\pixelartx{0}
     \pgfmathsetmacro\pixelarty{\pixelarty - 1}
 }
-\def\pixelartput#1{% #1 is a color or tikz options
+\def\pixelartput#1{ % #1 is a color or tikz options
     \pgfmathsetmacro\pixelartx{\pixelartx + 1}
     \fill [color={#1}] (\pixelartx, \pixelarty) rectangle +(1.05, 1.05);
     % 1.05 is overshoot; necessary to avoid white gaps
