@@ -164,12 +164,12 @@ keeps the source codes, comments, and results.
 
 1. H.-P. Wang, R. Gabrys, A. Vardy.
    [*Tropical Group Testing*](https://doi.org/10.1109/TIT.2023.3282847).
-   IEEE Transactions on Information Theory.
+   IEEE Transactions on Information Theory, June 2023.
    ([Preprint](https://arxiv.org/abs/2201.05440).)
 
 2. H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
    [*Sub-4.7 Scaling Exponent of Polar Codes*](https://doi.org/10.1109/TIT.2023.3253074).
-   IEEE Transactions on Information Theory.
+   IEEE Transactions on Information Theory, March 2023.
    ([Preprint](https://arxiv.org/abs/2204.11683).)
 
 3. I. Duursma, H.-P. Wang.
