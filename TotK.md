@@ -84,12 +84,14 @@
   * [料理模擬器](https://www.zelda.recipes/) by jamie
   * [料理模擬器](https://www.totkcookbook.com/) by Ghastly64
 * [龍的預報](https://restite.org/dragons/)
+
+## 日文資料
+
+* [GameWith 的攻略](https://gamewith.jp/zelda-totk/)
+  * 也有[英文版](https://gamewith.net/zelda-totk/)
+* [NPC 命名來源](https://docs.google.com/spreadsheets/d/1MnnpgzMHRm8lZ73lhvGc2fx04M6542w61zop9l7TAE0/)
+  * [BotW NPC 命名來源](https://docs.google.com/spreadsheets/d/1u1ZhEDEJNl5aNl8UIyHqkcQ-UeUGOluNLbTLBDpAkEg/)
 * [廟名與京都地名的關係](https://www.google.com/maps/d/u/0/viewer?mid=1LskaKRbdTSr2jqlaybiMCAcKMSa5rUY)
-
-## 日文攻略
-
-* [GameWith](https://gamewith.jp/zelda-totk/)
-* 也有[英文版](https://gamewith.net/zelda-totk/)
 
 ## 藝廊
 
