@@ -45,7 +45,7 @@
   by Phil (with helps from Aeon and SuperSpazzy)
   * [可互動之物品列表](https://docs.google.com/spreadsheets/d/1eHHFwGDsI3sHTOLaawlxKgxbiLG8ceHUHpbpC2Bj57k/)
     by Phil and Jay
-  * [多語言名詞對照（含對話等）](https://docs.google.com/spreadsheets/d/11S_vD-kUTwG58qnhtchB12humhFOOK0qzRRilrA_hek/)
+  * [多語言文字對照](https://docs.google.com/spreadsheets/d/11S_vD-kUTwG58qnhtchB12humhFOOK0qzRRilrA_hek/)
     by Phil and Aeon
   * [升級防具的素材](https://docs.google.com/spreadsheets/d/1gzS-kViCZ6c4GCDdUFiwfx_Fih2sbcwJm5czzKLJvGo/)
     by Phil
@@ -56,6 +56,11 @@
     的 reddit 貼文
   * [解釋 boss 攻擊力](https://www.reddit.com/r/tearsofthekingdom/comments/14rr5sd/how_temple_bosses_scale_a_full_breakdown/)
     的 reddit 貼文
+* DT12345 的生參數表格
+  * [Raw Parameter Files](https://docs.google.com/spreadsheets/d/1HlkGg9Si61lvuWooPckmQMlv3EJT-jHcR2ZmLtRmsL4/)
+  * [Combined Parameter Files](https://docs.google.com/spreadsheets/d/13_I_wPuG6AvFm02qgtIBDamQrrb6x4a8--UouZYKOsc/)
+  * [Drop Tables](https://docs.google.com/spreadsheets/d/1PhKeLdLqjLTLxRqsd3ZvzpUpU8RBSD6zXFgzmxIRSbM/edit#gid=21404910)
+  * [AttackParam with all the unused stuff removed](https://docs.google.com/spreadsheets/d/1UQG0W2RkYq_HyMhK0ZB9cqDeKxa4TcI_y6nynz6fbAc/)
 * [Data Sheet v5](https://docs.google.com/spreadsheets/d/18pNtDx3z-8CwGJRmlW574xbQ6VphQOkvpZhClpOEVDA/)
   by Echocolat et al.
   （作者表示因為 Phil 的表格更漂亮所以此表格不再更新，
@@ -84,6 +89,7 @@
   * [料理模擬器](https://www.zelda.recipes/) by jamie
   * [料理模擬器](https://www.totkcookbook.com/) by Ghastly64
 * [龍的預報](https://restite.org/dragons/)
+  by savage13
 
 ## 日文資料
 
