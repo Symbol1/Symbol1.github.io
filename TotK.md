@@ -11,6 +11,7 @@
 ## 更多中文資料
 
 * [中文雜表](https://docs.google.com/spreadsheets/d/1-QiEisDV4v-nOZ4xeYdnYFbYBfL-Q4f4M3g1TLFarJY/)
+  防具、弓、盾牌、武器、材料、食物、左納烏裝置、重要道具、布料、藍圖、圖鑑、商店、轉蛋機、可互動物品
 * [特殊建材](https://forum.gamer.com.tw/C.php?bsn=1689&snA=11715)
    by 巴哈/z59922395525
 * [100%/全要素](https://forum.gamer.com.tw/C.php?bsn=1689&snA=11607)
@@ -28,9 +29,10 @@
   * [有完整搜尋功能的地圖](https://objmap-totk.zeldamods.org/)
     by leoetlino
 * 追蹤進度的地圖（不需登入）
+  * [可開塔、含神殿](https://totk.aeonsake.com/)
+    By AEON
   * [host by Zelda Dungeon](https://www.zeldadungeon.net/tears-of-the-kingdom-interactive-map/)
   * [host by Zelda Maps](https://zeldamaps.com/?game=TotK)
-  * [By AEON](https://totk.aeonsake.com/)
 * 需要登入的地圖
   * [host by Map Genie](https://mapgenie.io/zelda-tears-of-the-kingdom/maps/hyrule)
   * [host by IGN](https://www.ign.com/maps/the-legend-of-zelda-tears-of-the-kingdom/hyrule)
@@ -40,18 +42,24 @@
 ## 英文資料
 
 * [List of glitches](https://docs.google.com/spreadsheets/d/1xNB1gOLZRSF9yp1mHUsS9ymogRJa1Wz8rTliTXezeRM/)
+  程錯列表
   by the community?
 * [Data Spreadsheet](https://docs.google.com/spreadsheets/d/1fBvQ17WHP3ASgtO8ode_rf1g4DfEHErMrHwwLppNTJM/)
   by Phil (with helps from Aeon and SuperSpazzy)
-  * [可互動之物品列表](https://docs.google.com/spreadsheets/d/1eHHFwGDsI3sHTOLaawlxKgxbiLG8ceHUHpbpC2Bj57k/)
+  * [Interactable Objects](https://docs.google.com/spreadsheets/d/1eHHFwGDsI3sHTOLaawlxKgxbiLG8ceHUHpbpC2Bj57k/)
+    可互動之物品
     by Phil and Jay
-  * [多語言文字對照](https://docs.google.com/spreadsheets/d/11S_vD-kUTwG58qnhtchB12humhFOOK0qzRRilrA_hek/)
+  * [Text Dump](https://docs.google.com/spreadsheets/d/11S_vD-kUTwG58qnhtchB12humhFOOK0qzRRilrA_hek/)
+    多語言文字對照
     by Phil and Aeon
-  * [升級防具的素材](https://docs.google.com/spreadsheets/d/1gzS-kViCZ6c4GCDdUFiwfx_Fih2sbcwJm5czzKLJvGo/)
+  * [Armor Upgrade Material Calculator](https://docs.google.com/spreadsheets/d/1gzS-kViCZ6c4GCDdUFiwfx_Fih2sbcwJm5czzKLJvGo/)
+    升級防具的素材
     by Phil
-  * [升級馬匹的素材](https://docs.google.com/spreadsheets/d/1dIqcZ4a0D_oyug5wTMdF9Ori7wOyTzJOsamnGHn-IdU/)
+  * [Horse Upgrade Calculator](https://docs.google.com/spreadsheets/d/1dIqcZ4a0D_oyug5wTMdF9Ori7wOyTzJOsamnGHn-IdU/)
+    升級馬匹的素材
     by Phil
-  * [生參數](https://docs.google.com/spreadsheets/d/1YkGXGsYIr91d00Lri2cTXYtorRfoMkZNbS1I_4mZLGc/)
+  * [Raw Param](https://docs.google.com/spreadsheets/d/1YkGXGsYIr91d00Lri2cTXYtorRfoMkZNbS1I_4mZLGc/)
+    原始參數
   * [解釋賢者攻擊力](https://www.reddit.com/r/tearsofthekingdom/comments/14ct8kt/sage_attack_power_a_full_breakdown/)
     的 reddit 貼文
   * [解釋 boss 攻擊力](https://www.reddit.com/r/tearsofthekingdom/comments/14rr5sd/how_temple_bosses_scale_a_full_breakdown/)
@@ -65,18 +73,23 @@
   by Echocolat et al.
   （作者表示因為 Phil 的表格更漂亮所以此表格不再更新，
     但是下面幾個小表格可能還有用）
-  * [餘料武器攻擊計算](https://docs.google.com/spreadsheets/d/1LPhUKU479MtmxFd5V7EXdIAurIGR6pxOG3FYjuZw8NM/)
-  * [所有餘料建造的總表](https://docs.google.com/spreadsheets/d/1D8FpE5meHxblv62VbI70g_eRBd3b2Xphz7wM69stG5E/)
-  * [動物與怪物的攻擊力](https://docs.google.com/spreadsheets/d/1HvVT5MWV0tr7ZiioW8MndsQGtG7S-g4AtWF2NFi-5qQ/)
-  * [經驗值系統](https://docs.google.com/spreadsheets/d/1VyzoV6YrTkJHUjqBcgaflPLRDNPvFEhaStJMuOahfAY/)
-  * [餘料武器命名法](https://docs.google.com/spreadsheets/d/1wQDX1RJIRRbRBhujk-XA8TqxJU_WjvR_LBC1ZGtRuM4/)
+  * [weapon damage calculator](https://docs.google.com/spreadsheets/d/1LPhUKU479MtmxFd5V7EXdIAurIGR6pxOG3FYjuZw8NM/)
+    餘料武器攻擊計算
+  * [FUSION](https://docs.google.com/spreadsheets/d/1D8FpE5meHxblv62VbI70g_eRBd3b2Xphz7wM69stG5E/)
+    所有餘料建造的總表
+  * [Attack Params](https://docs.google.com/spreadsheets/d/1HvVT5MWV0tr7ZiioW8MndsQGtG7S-g4AtWF2NFi-5qQ/)
+    動物與怪物的攻擊力
+  * [XP system](https://docs.google.com/spreadsheets/d/1VyzoV6YrTkJHUjqBcgaflPLRDNPvFEhaStJMuOahfAY/)
+    經驗值系統
+  * [Fuse names](https://docs.google.com/spreadsheets/d/1wQDX1RJIRRbRBhujk-XA8TqxJU_WjvR_LBC1ZGtRuM4/)
+    餘料武器命名法
   * [解釋攻擊力](https://www.reddit.com/r/tearsofthekingdom/comments/13wrp2g/a_mostly_complete_post_about_how_the_weapon/)
     的 reddit 貼文
   * [解釋未腐朽武器](https://www.reddit.com/r/tearsofthekingdom/comments/13uqo9h/everything_you_need_to_know_about_nondecayed/)
     的 reddit 貼文
   * [解釋經驗值系統](https://www.reddit.com/r/tearsofthekingdom/comments/1496az3/explaining_level_scaling_in_totk/)
     的 reddit 貼文
-* [猜測各參數的意思](https://docs.google.com/spreadsheets/d/1_wiJD0WQ2uEqOEdgBCg8bTuF35pFTU9rengRp6GE--w/)
+* [猜測參數的含義](https://docs.google.com/spreadsheets/d/1_wiJD0WQ2uEqOEdgBCg8bTuF35pFTU9rengRp6GE--w/)
 * [餘料建造模擬器](https://zonai-fusion.link)
   by Track-tor
 * 立體模型與究極手黏著點 by SuperSpazzy
@@ -101,7 +114,7 @@
 
 ## 藝廊
 
-* 有趣的[左納烏裝置組合](https://www.youtube.com/playlist?list=PLAp_O-WDBQLDk0owRTliK7G7FUrKuFS6q)
+* 有趣的[左納烏機械](https://www.youtube.com/playlist?list=PLAp_O-WDBQLDk0owRTliK7G7FUrKuFS6q)
   by youtube/Top Gaming Plays
 * [More things you still didn't know](https://www.youtube.com/playlist?list=PLpg6WLs8kxGMPX8cYED64m1Kgq3Rnnp_W)
   系列
