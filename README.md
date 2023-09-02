@@ -31,7 +31,7 @@ coding theory /
 polar code /
 distributed system /
 group testing /
-application of algebra, combinatorics, and calculus.
+applications of algebra, combinatorics, calculus, and probability theory.
 
 For meta-comments of my works categorized by topics, see:
 

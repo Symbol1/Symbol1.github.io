@@ -27,7 +27,7 @@
   * [縮小時顯示總數的地圖](https://vetyst.github.io/TotK-Object-Map/)
     by Danny Janse
   * [有完整搜尋功能的地圖](https://objmap-totk.zeldamods.org/)
-    by leoetlino
+    by Léo Lam
 * 追蹤進度的地圖（不需登入）
   * [可開塔、含神殿](https://totk.aeonsake.com/)
     By AEON
@@ -93,9 +93,9 @@
 * [餘料建造模擬器](https://zonai-fusion.link)
   by Track-tor
 * 立體模型與究極手黏著點 by SuperSpazzy
+  （把網址的 `actor=` 後面換成你想看的物品的 actor name）
   * [bleh](http://dev.ssmvc.org:8080/bleh.html?actor=Obj_SpikeBall_B)
   * [wip](http://dev.ssmvc.org:8080/wip.html?actor=Obj_SpikeBall_B)
-  * 把網址的 `actor=` 後面換成你想看的物品的 actor name
 * 料理
   * [食材簡表](https://www.reddit.com/r/tearsofthekingdom/comments/144ss8t/cooking_cheat_sheet_version_03_with_ingredient/)
     by HylianExplorer
