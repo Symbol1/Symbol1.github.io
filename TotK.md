@@ -10,7 +10,7 @@
 
 ## 更多中文資料
 
-* [中文雜表](https://docs.google.com/spreadsheets/d/1-QiEisDV4v-nOZ4xeYdnYFbYBfL-Q4f4M3g1TLFarJY/)
+* [中文雜表](https://docs.google.com/spreadsheets/d/1-QiEisDV4v-nOZ4xeYdnYFbYBfL-Q4f4M3g1TLFarJY/)：
   防具、弓、盾牌、武器、材料、食物、左納烏裝置、重要道具、布料、藍圖、圖鑑、商店、轉蛋機、可互動物品
 * [特殊建材](https://forum.gamer.com.tw/C.php?bsn=1689&snA=11715)
    by 巴哈/z59922395525

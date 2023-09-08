@@ -48,7 +48,21 @@ the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
 [This GitHub repository](https://github.com/Symbol1/BlueWaters-RM64)
 keeps the source codes, comments, and results.
 
-## Education & Positions
+## Education
+
+* Ph.D in Mathematics  
+  [Dissertation](https://www.ideals.illinois.edu/items/120952)
+  (better-looking
+   [single-spacing version](https://arxiv.org/abs/2107.06420))  
+  Advisor = [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/)  
+  University of Illinois Urbana-Champaign  
+  2016--2021
+
+* Bachelor of Science in Mathematics  
+  National Taiwan University (國立臺灣大學)  
+  2011--2015
+
+# Employment
 
 * Research Fellowship  
   Simons Institute for the Theory of Computing  
@@ -57,40 +71,31 @@ keeps the source codes, comments, and results.
 * Visitor  
   Duke University  
   Winter 2022  
-  (Gave a small talk on distributed matrix multiplication;
-   [slides](https://github.com/Symbol1/ChatPPT))
+  (Gave a small talk on distributed matrix multiplication.
+   [Slides](https://github.com/Symbol1/ChatPPT))
 
-* Postdoctoral Scholar in Electrical Engineering and Computer Sciences  
+* Postdoctoral Scholar  
   Supervisor = [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)  
+  Department of Electrical Engineering and Computer Sciences  
   University of California, Berkeley  
   October 2022--October 2023
 
 * Visitor  
   National Taiwan University  
   Summer 2022  
-  Taught a small, short lecture on polar codes.
-  ([Lecture notes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).)  
+  (Taught a small, short lecture on polar codes.
+   [Lecture notes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).)  
 
-* Postdoctoral Scholar in Electrical and Computer Engineering  
+* Postdoctoral Scholar in
   Supervisor = [Alexander Vardy](https://orcid.org/0000-0003-3303-9078)  
   Supervisor += [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
+  Department of Electrical and Computer Engineering  
   University of California San Diego  
   October 2021--September 2022
 
 * Visitor  
   National Center for Theoretical Sciences (國家理論科學研究中心)  
-  Winter 2020
-
-* Ph.D in Mathematics  
-  [Dissertation](https://www.ideals.illinois.edu/items/120952)
-  ([single-spacing version](https://arxiv.org/abs/2107.06420))  
-  Advisor = [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/)  
-  University of Illinois Urbana-Champaign  
-  2016--2021
-
-* Bachelor of Science in Mathematics  
-  National Taiwan University (國立臺灣大學)  
-  2011--2015
+  Winter 2020, Summer 2023
 
 ## Awards & Honors
 
@@ -118,7 +123,7 @@ keeps the source codes, comments, and results.
   Vagreangvbany Zngurzngvpny Bylzcvnq  
   2011 & 2009
 
-## Conference Publications
+## Peer-Reviewed Conference Publicationss
 
 1. H.-P. Wang, R. Gabrys, V. Guruswami.
    [*Quickly-Decodable Group Testing with Fewer Tests: Price-Scarlett's Nonadaptive Splitting with Explicit Scalars*](https://doi.org/10.1109/ISIT54713.2023.10206843).
@@ -205,8 +210,8 @@ keeps the source codes, comments, and results.
   [2022 International Mathematics Competition](https://www.facebook.com/iimc2022/)  
   [2022 International Young Mathematicians Convention](http://www.cmseducation.org/iymc/)
 
-* Teaching  
-  in a [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)
+* Teaching
+  in a [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
   as an alternative to the mandatory military service.  
   2016
 
