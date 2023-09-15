@@ -1,5 +1,9 @@
 # 王國之淚
 
+（友情幫廣告）
+[**Breath of the Wild Decompilation**](https://botw.link/)
+（友情幫廣告）
+
 ## 中文地圖
 
 * [互動地圖](https://www.gamertw.com/zelda/totk/map)
@@ -103,6 +107,21 @@
   * [料理模擬器](https://www.totkcookbook.com/) by Ghastly64
 * [龍的預報](https://restite.org/dragons/)
   by savage13
+* [Stream Dump](https://docs.google.com/spreadsheets/d/1EulzqfIHFt5g7ElGktMRRMyXvvC9sY170P1M8yAjUPs/)
+  音樂與音效
+* [Physics](https://docs.google.com/document/d/1BrjXWYnciYpL76hLmQ8KQfZeWYtdDhyNDjPlGNh515o/)
+  物理引擎
+* [Damage Calculations](https://docs.google.com/document/d/1K5hLcxfnvSnY-nsIP-n8Ew7rm9EkqHtnn6iJqOnxlng/)
+  攻擊力計算
+* [Gloom mechanics](https://docs.google.com/document/d/1jGe6vV1-xgw6UbTiD39kUwd8No6zC4vSbhccfG9Flxo/)
+  瘴氣
+* [Amiibo 掉寶](https://gist.github.com/jordanbtucker/a950e3a041b95867bc123b71c4cf7f28)
+* [Special Objects for Building](https://docs.google.com/spreadsheets/d/1NkURUErF1Jpoemkr4rLQjrcMO-XibsMykpFEGj0uHVU/)
+  特殊建材
+* [The Construct Head](https://docs.google.com/document/d/1_SQPZ3IN_Dk1tGbcj2Wbze01Evusfrcrncc1rW8PsAc/edit#heading=h.qu83b7gjcu2a)
+  魔像頭
+* [Rin's Complete TOTK Advanced Combat Glossary](https://docs.google.com/document/d/1z0qViEN9cl7dTpTb2LP2vlUVp9qiFMu2QJS8KDFx-cM/)
+
 
 ## 日文資料
 

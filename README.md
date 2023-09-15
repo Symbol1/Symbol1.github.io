@@ -3,7 +3,7 @@
 
 Postdoc @ UC Berkeley, Department of EECS
 
-* [PDF CV](/cv%20Hsin-Po%20WANG.pdf)
+* [PDF CV](/cv/cv%20Hsin-Po%20WANG.pdf)
 
 * How to [pronounce my name?](/pronounce)
 
