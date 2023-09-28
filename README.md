@@ -208,7 +208,11 @@ keeps the source codes, comments, and results.
 * Jury  
   [2023 International Mathematics Competition](http://bimc2023.com/)  
   [2022 International Mathematics Competition](https://www.facebook.com/iimc2022/)  
-  [2022 International Young Mathematicians Convention](http://www.cmseducation.org/iymc/)
+  [2022 International Young Mathematicians Convention](http://www.cmseducation.org/iymc/)  
+  2016 International Mathematics Competition
+
+* Team Leader  
+  2015 International Mathematics Competition
 
 * Teaching
   in a [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
