@@ -86,7 +86,7 @@ keeps the source codes, comments, and results.
   (Taught a small, short lecture on polar codes.
    [Lecture notes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).)  
 
-* Postdoctoral Scholar in
+* Postdoctoral Scholar  
   Supervisor = [Alexander Vardy](https://orcid.org/0000-0003-3303-9078)  
   Supervisor += [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
   Department of Electrical and Computer Engineering  
