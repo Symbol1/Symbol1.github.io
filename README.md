@@ -43,6 +43,8 @@ For meta-comments of my works categorized by topics, see:
 
 * [Group testing papers](/paper/grouptest)
 
+* [Polder ordering papers] (to be elaborated...)
+
 I have once computed, on a supercomputer,
 the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
 [This GitHub repository](https://github.com/Symbol1/BlueWaters-RM64)
@@ -53,7 +55,8 @@ keeps the source codes, comments, and results.
 * Ph.D in Mathematics  
   [Dissertation](https://www.ideals.illinois.edu/items/120952)
   (better-looking
-   [single-spacing version](https://arxiv.org/abs/2107.06420))  
+   [single-spacing version](https://arxiv.org/abs/2107.06420)
+   and [slides](https://github.com/Symbol1/PhD-Thesis))  
   Advisor = [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/)  
   University of Illinois Urbana-Champaign  
   2016--2021
@@ -222,12 +225,12 @@ keeps the source codes, comments, and results.
 
 * [TikZ TeX Talk](/ttt) collects some of my ideas for (La)TeX and TikZ.
 
-* [Oriclip](/oriclip) is about binder clip sculptures.
+* [Oriclip](/oriclip) is about binder clip sculptures.  
 (Data plan warning: a lot of photos!)
 
-* [Vaseman](/vaseman) is about drawing people that look like vases.
+* [Vaseman](/vaseman) is about drawing people that look like vases.  
 (Data plan warning: scans of drawings!)
 
-* 薩爾達傳說 [曠野之息的中、外文資料](/BotW)
+* 薩爾達傳說·[曠野之息的中、外文資料](/BotW)
 
-* 薩爾達傳說 [王國之淚的中、外文資料](/TotK)
+* 薩爾達傳說·[王國之淚的中、外文資料](/TotK)

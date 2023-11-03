@@ -7,18 +7,18 @@
   arXiv.
 * [[PCR-TGT-22]]
   H.-P. Wang, R. Gabrys, A. Vardy.
-  PCR, Tropical Arithmetic, and Group Testing.
+  *PCR, Tropical Arithmetic, and Group Testing*.
   IEEE International Symposium on Information Theory (ISIT).
   (Conference version of [[TropicalGT22]])
-* [Bonsai23]
+* [[Bonsai23]]
   H.-P. Wang, R. Gabrys, V. Guruswami.
   *Quickly-Decodable Group Testing with Fewer Tests: Price--Scarlett's Nonadaptive Splitting with Explicit Scalars.*
   IEEE International Symposium on Information Theory (ISIT), June 2023.
-* [TropicalGT23]
+* [[TropicalGT23]]
   H.-P. Wang, R. Gabrys, A. Vardy.
   *Tropical Group Testing*.
   IEEE Transactions on Information Theory.
-  (journal version of [TropicalGT22])
+  (journal version of [[TropicalGT22]])
 
 Motivated by the Covid-19 pandemic, we study the possibility of using
 group testing to help finding the carrier of SARS-CoV-2.  (A small
@@ -78,3 +78,5 @@ To be elaborated...
 
 [TropicalGT22]: https://arxiv.org/abs/2201.05440
 [PCR-TGT-22]: https://doi.org/10.1109/ISIT50566.2022.9834718
+[Bonsai23]: https://doi.org/10.1109/ISIT54713.2023.10206843
+[TropicalGT23]: https://doi.org/10.1109/TIT.2023.3282847
