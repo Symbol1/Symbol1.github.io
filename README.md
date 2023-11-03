@@ -209,8 +209,8 @@ keeps the source codes, comments, and results.
   [2023 International Mathematics Competition](http://bimc2023.com/)  
   [2022 International Mathematics Competition](https://www.facebook.com/iimc2022/)  
   [2022 International Young Mathematicians Convention](http://www.cmseducation.org/iymc/)  
-  2016 International Mathematics Competition
-  2012 International Mathematics Competition
+  2016 International Mathematics Competition  
+  2012 International Mathematics Competition  
 
 * Team Leader  
   2015 International Mathematics Competition
