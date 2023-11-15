@@ -5,11 +5,11 @@
 
 \documentclass{article}
     \parindent0pt
-    \parskip1em
-    \def\thesection{\Roman{section}}
+    \parskip10pt plus10pt
     \def\email#1{\href{mailto:#1}{#1}}
+    \def\section#1{$ $\\\textbf{\fs2#1}}
 
-\usepackage[margin=77pt]{geometry}
+\usepackage[margin=79pt]{geometry}
 
 \usepackage{fontspec}
     \setmainfont[ItalicFont=NotoSerif-Italic,
@@ -19,7 +19,14 @@
     \setmonofont           {NotoSerif}%{NotoSansMono-Regular}
     \newfontfamily\zhfamily{NotoSerifTC-Regular}
 
-\usepackage{}
+\usepackage{pgfmath}
+    \def\fs#1{%
+        \pgfmathsetmacro\a{#1}%
+        \pgfmathsetmacro\A{10 * 1.2^\a}%
+        \pgfmathsetmacro\B{\A * 1.25}%
+        \fontsize{\A pt}{\B pt}\selectfont%
+    }
+
 \usepackage{xcolor, xurl, hyperref}
     \hypersetup{colorlinks,allcolors=blue!40!black}
 
@@ -30,67 +37,55 @@
                                     
                                 \author
                      {Hsin-Po Wang {\zhfamily 王新博}}
-                                    
-                         \def\day#1\year{\year}
-                                    
-                               \maketitle
 
-Website: \url{https://www.symbol.codes}
+\leftskip0pt plus1fill
+\rightskip0pt plus1fill
+\fs3
 
-Google Scholar:
-            \url{https://scholar.google.com/citations?user=tJ8-ChgAAAAJ}
+                            CURRICULUM VITAE
 
-Emails: \email{simple@berkeley.edu; a.simple.people@gmail.com}
+                      Hsin-Po Wang {\zhfamily 王新博}
 
-I received a bachelor's degree in mathematics from National Taiwan
-University in 2015 and a Ph.D. degree in mathematics from the University
-of Illinois Urbana-Champaign in 2021.  After spending a year as a
-Postdoctoral Scholar in the Department of ECE at UC San Diego, I am
-currently a Postdoctoral Scholar in the Department of EECS at UC
-Berkeley.  I have worked on polar codes, distributed storage,
-distributed computation, and group testing.  I am specialized at
-applying algebra, combinatorics, calculus, probability theory
-and other mathematics tools to these topics.
+\fs0
 
+                Website: \url{https://www.symbol.codes}
+                                   \\
+                        Emails: \href{mailto:#1}
+            {simple@berkeley.edu; a.simple.people@gmail.com}
+                                   \\
+                            Google Scholar:
+      \url{https://scholar.google.com/citations?user=tJ8-ChgAAAAJ}
+
+\leftskip0pt
+\rightskip0pt
+\fs0\selectfont
 
 \section{Education}
 
-Ph.D in Mathematics                                 \hfill 2016--2021 \\
-University of Illinois Urbana-Champaign                               \\
-Advisor: Iwan Duursma                                                 \\
-Dissertation: \emph{Complexity and Second Moment
-of the Mathematical Theory of Communication}
+Ph.D in Math
+\hfill University of Illinois Urbana-Champaign, Illinois
+\hfill 2016--2021
 
-Bachelor of Science in Mathematics                  \hfill 2011--2015 \\
-National Taiwan University ({\zhfamily 國立臺灣大學})
+BSc in Math
+\hfill National Taiwan University ({\zhfamily 國立臺灣大學}), Taiwan
+\hfill 2011--2015
 
 \section{Employment}
 
 Research Fellowship                          \hfill January--May 2024 \\
-Simons Institute for the Theory of Computing
+Simons Institute for the Theory of Computing, California
 
-Postdoctoral Scholar                     \hfill October 2022--Present \\
-Department of Electrical Engineering and Computer Sciences            \\
-University of California, Berkeley
+Postdoctoral Scholar               \hfill October 2022--December 2023 \\
+Department of Electrical Engineering and Computer Sciences, \\
+University of California, Berkeley, California
 
 Postdoctoral Scholar              \hfill October 2021--September 2022 \\
-Department of Electrical and Computer Engineering                     \\
-University of California San Diego
+Department of Electrical and Computer Engineering, \\
+University of California San Diego, California
 
-%Teaching Assistant                    \hfill September 2016--May 2023 \\
-%Department of Mathematics                                             \\
-%University of Illinois Urbana-Champaign
-
-\section{Research Interests}
-
-• Information theory
-• Coding theory
-• Polar codes
-• Distributed storage
-• Distributed computation
-• Group testing
-• Applications of algebra, combinatorics, calculus, probability theory
-  and other mathematics tools
+Teaching Assistant                    \hfill September 2016--May 2023 \\
+Department of Mathematics,  
+University of Illinois Urbana-Champaign, Illinois
 
 \section{Awards and Honors}
 
@@ -109,6 +104,21 @@ Prof. Cheng-Tang Hsiao Memorial Scholarship ({\zhfamily 蕭正堂紀念獎學金
 
 Prof. Ta-Kai Hu Memorial Scholarship ({\zhfamily 胡達開先生紀念獎學金})
                                                              \hfill 2013
+
+\section{Research Interests}
+
+Information theory
+•
+Coding theory
+•
+Polar codes (wireless communication)
+•
+Distributed storage and computation
+•
+Group testing
+•
+Applications of algebra, combinatorics, calculus, probability theory
+and other mathematics tools
 
 \section{Peer-Reviewed Conference Publications}
 
