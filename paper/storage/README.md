@@ -63,7 +63,7 @@ $(n, 3, 3)$ case.
 Here is another $\alpha/M$-versus-$\beta/M$ trade-off for the $(n, 3,
 4)$ case.  (In a newer version of [MoulinAlg20] that I am still working
 on.)
-![The trade-off of (n, 3, 4) regenerating codes](n33alphbetaM.png)
+![The trade-off of (n, 3, 4) regenerating codes](n34alphbetaM.png)
 For more general parameters, check out
 [this D3.js plot](homogeneous.html).
 

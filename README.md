@@ -1,7 +1,7 @@
 
-# Hsin-Po Wang
+# Hsin-Po Wang （王新博）
 
-Postdoc @ UC Berkeley, Department of EECS
+Apple Research Fellow @ Simons Institute for the Theory of Computing
 
 * [PDF CV](/cv/cv%20Hsin-Po%20WANG.pdf)
 
@@ -10,15 +10,17 @@ Postdoc @ UC Berkeley, Department of EECS
 * Email: <a.simple.people@gmail.com>
 
 * Social media:
-  [Instagram](https://www.instagram.com/xymbol.1/) /
+  [Facebook](https://www.facebook.com/xymbol.1/) /
+  [Discord](https://discord.com/channels/@me/527393219441590273) /
   [Twitter](https://twitter.com/Xymbol_1) /
+  [Instagram](https://www.instagram.com/xymbol.1/) /
   [StackExchange](https://stackexchange.com/users/4418253/symbol-1)
 
 ## Research
 
-* [arXiv author page](https://arxiv.org/a/wang_h_8.html)
-
 * [Google Scholar profile](https://scholar.google.com/citations?user=tJ8-ChgAAAAJ)
+
+* [arXiv author page](https://arxiv.org/a/wang_h_8.html)
 
 * Other profiles:
   [dblp](https://dblp.org/pid/75/329-1.html) /
@@ -28,14 +30,19 @@ Postdoc @ UC Berkeley, Department of EECS
 Interests:
 information theory /
 coding theory /
-polar code /
-distributed system /
+polar codes /
+distributed storage and distributed computation /
 group testing /
-applications of algebra, combinatorics, calculus, and probability theory.
+applications of
+algebra,
+combinatorics,
+calculus,
+probability theory,
+and other mathematical tools to said topics.
 
 For meta-comments of my works categorized by topics, see:
 
-* [Polar coding papers](/paper/polar)
+* [Polar code papers](/paper/polar)
 
 * [Distributed storage papers](/paper/storage)
 
@@ -148,7 +155,7 @@ keeps the source codes, comments, and results.
 4. H.-P. Wang, V. Guruswami.
    [*How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?*](https://doi.org/10.1109/ISIT54713.2023.10206989).
    IEEE International Symposium on Information Theory (ISIT), June 2023.
-   (4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
+   (4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
 
 5. H.-P. Wang, V.-F. Dragoi.
    [*Fast Methods for Ranking Synthetic BECs*](https://doi.org/10.1109/ISIT54713.2023.10206704).
@@ -205,6 +212,12 @@ keeps the source codes, comments, and results.
    ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
     [slides @ UIUC](https://github.com/Symbol1/Complex2Order) and
     [slides @ Princeton](https://github.com/Symbol1/abc).)
+
+## Invited Talk
+
+* H.-P. Wang.
+  [*Channel Manipulation as a Coding Technique*](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29146).
+  Joint Mathematics Meetings (JMM), January 2024.
 
 ## Extracurricular
 

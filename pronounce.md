@@ -1,11 +1,11 @@
 
-# Pronunciation of My Name
+# How to Pronounce My Name
 
 Given name = 新博 Hsin-Po ≈ *Simple* ≈ *Symbol*
 
 Family name = 王 Wang ≈ *Own* ≈ *Won*
 
-## Pronunciation in Taiwanese (Tâi-lô)
+## In Taiwanese (Tâi-lô)
 
 Sin-Phok Ông
 

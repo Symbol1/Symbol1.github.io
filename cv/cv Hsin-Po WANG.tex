@@ -7,9 +7,9 @@
     \parindent0pt
     \parskip10pt plus10pt
     \def\email#1{\href{mailto:#1}{#1}}
-    \def\section#1{$ $\\\textbf{\fs2#1}}
+    \def\section#1{$ $\\\textbf{\fs1#1}}
 
-\usepackage[margin=79pt]{geometry}
+\usepackage[margin=86pt]{geometry}
 
 \usepackage{fontspec}
     \setmainfont[ItalicFont=NotoSerif-Italic,
@@ -17,7 +17,7 @@
                            {NotoSerif}
     \setsansfont           {NotoSerif}%{NotoSans}
     \setmonofont           {NotoSerif}%{NotoSansMono-Regular}
-    \newfontfamily\zhfamily{NotoSerifTC-Regular}
+    \newfontfamily\zhfamily{STSongti-TC-Regular}
 
 \usepackage{pgfmath}
     \def\fs#1{%
@@ -28,37 +28,37 @@
     }
 
 \usepackage{xcolor, xurl, hyperref}
-    \hypersetup{colorlinks,allcolors=blue!40!black}
+    \hypersetup{colorlinks, allcolors=blue!50!purple}
 
 \begin{document}
 
-                                 \title
-                           {Curriculum Vitae}
-                                    
-                                \author
-                     {Hsin-Po Wang {\zhfamily 王新博}}
-
 \leftskip0pt plus1fill
 \rightskip0pt plus1fill
-\fs3
+
+                                 \title
+                           {Curriculum Vitae}
+
+                                \author
+                           {Hsin-Po Wang 王新博}
+
+\fs2
 
                             CURRICULUM VITAE
 
-                      Hsin-Po Wang {\zhfamily 王新博}
+                    Hsin-Po Wang ~ ~ {\zhfamily 王新博}
 
 \fs0
 
                 Website: \url{https://www.symbol.codes}
                                    \\
-                        Emails: \href{mailto:#1}
-            {simple@berkeley.edu; a.simple.people@gmail.com}
+                Email: \email{a.simple.people@gmail.com}
                                    \\
                             Google Scholar:
       \url{https://scholar.google.com/citations?user=tJ8-ChgAAAAJ}
 
 \leftskip0pt
 \rightskip0pt
-\fs0\selectfont
+\fs0
 
 \section{Education}
 
@@ -72,7 +72,7 @@ BSc in Math
 
 \section{Employment}
 
-Research Fellowship                          \hfill January--May 2024 \\
+Apple Research Fellow                        \hfill January--May 2024 \\
 Simons Institute for the Theory of Computing, California
 
 Postdoctoral Scholar               \hfill October 2022--December 2023 \\
@@ -108,19 +108,14 @@ Prof. Ta-Kai Hu Memorial Scholarship ({\zhfamily 胡達開先生紀念獎學金}
 \section{Research Interests}
 
 Information theory
-•
-Coding theory
-•
-Polar codes (wireless communication)
-•
-Distributed storage and computation
-•
-Group testing
-•
-Applications of algebra, combinatorics, calculus, probability theory
-and other mathematics tools
+• Coding theory
+• Polar codes (wireless communication)
+• Distributed storage and distributed computation
+• Group testing
+• Applications of algebra, combinatorics, calculus, probability theory
+  and other mathematics tools
 
-\section{Peer-Reviewed Conference Publications}
+\section{Peer-Reviewed Conference Publications (New to Old)}
 
 \bgroup
 \def\section#1#2{}
@@ -178,7 +173,7 @@ and other mathematics tools
 \end{thebibliography}
 \egroup
 
-\section{Journal Publications}
+\section{Journal Publications (New to Old)}
 
 \bgroup
 \def\section#1#2{}
@@ -226,5 +221,20 @@ and other mathematics tools
     March 2021.
     \url{https://doi.org/10.1109/TIT.2020.3041570}
 \end{thebibliography}
+\egroup
+
+\section{Invited Talk}
+
+\bgroup
+\def\section#1#2{}
+\begin{thebibliography}{9}
+    \bibitem{}
+    H.-P. Wang.
+    \emph{Channel Manipulation as a Coding Technique}.
+    Joint Mathematics Meetings (JMM).
+    January 2024.
+    \url{https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29146}
+\end{thebibliography}
+\egroup
 
 \end{document}
