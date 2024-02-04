@@ -1,7 +1,8 @@
 
 .DS_Store
 
-*.log
-*.aux
 *.gz
+*.aux
+*.log
+*.out
 *Lenna.png

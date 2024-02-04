@@ -4,123 +4,114 @@
 
 
 \documentclass{article}
+
+\usepackage[margin=98pt]{geometry}
     \parindent0pt
     \parskip10pt plus10pt
-    \def\email#1{\href{mailto:#1}{#1}}
-    \def\section#1{$ $\\\textbf{\fs1#1}}
 
-\usepackage[margin=86pt]{geometry}
-
-\usepackage{fontspec}
-    \setmainfont[ItalicFont=NotoSerif-Italic,
-                   BoldFont=NotoSerif-Bold]
-                           {NotoSerif}
-    \setsansfont           {NotoSerif}%{NotoSans}
-    \setmonofont           {NotoSerif}%{NotoSansMono-Regular}
+\usepackage{fontspec, pgfmath, xcolor, xurl}
+    \setmainfont
+     [ItalicFont=NotoSerif-Italic,
+        BoldFont=NotoSerif-Bold]
+                {NotoSerif}
+    \setsansfont{NotoSerif}%{NotoSans}
+    \setmonofont{NotoSerif}%{NotoSansMono-Regular}
     \newfontfamily\zhfamily{STSongti-TC-Regular}
-
-\usepackage{pgfmath}
+    \def\sec#1{\vskip1em\textbf{\fs1#1}}
     \def\fs#1{%
         \pgfmathsetmacro\a{#1}%
-        \pgfmathsetmacro\A{10 * 1.2^\a}%
-        \pgfmathsetmacro\B{\A * 1.25}%
+        \pgfmathsetmacro\A{\parskip*(4/3)^\a}%
+        \pgfmathsetmacro\B{\A*(4/3)}%
         \fontsize{\A pt}{\B pt}\selectfont%
     }
+    \def\newtoold{\mdseries (new to old)}
 
-\usepackage{xcolor, xurl, hyperref}
-    \hypersetup{colorlinks, allcolors=blue!50!purple}
+\usepackage[colorlinks, allcolors=blue!40!black]{hyperref}
+    \def\email#1{\href{mailto:#1}{#1}}
 
 \begin{document}
 
 \leftskip0pt plus1fill
 \rightskip0pt plus1fill
 
-                                 \title
-                           {Curriculum Vitae}
-
-                                \author
-                           {Hsin-Po Wang 王新博}
-
 \fs2
+                                          CURRICULUM VITAE
 
-                            CURRICULUM VITAE
-
-                    Hsin-Po Wang ~ ~ {\zhfamily 王新博}
+                               Hsin-Po Wang \kern2em {\zhfamily 王新博}
 
 \fs0
 
-                Website: \url{https://www.symbol.codes}
-                                   \\
-                Email: \email{a.simple.people@gmail.com}
-                                   \\
-                            Google Scholar:
-      \url{https://scholar.google.com/citations?user=tJ8-ChgAAAAJ}
+            Google Scholar: \url{https://scholar.google.com/citations?user=tJ8-ChgAAAAJ}
+
+     Website: \url{https://www.symbol.codes} \kern5em Email: \email{a.simple.people@gmail.com}
 
 \leftskip0pt
 \rightskip0pt
 \fs0
 
-\section{Education}
+\sec{Education}
 
-Ph.D in Math
-\hfill University of Illinois Urbana-Champaign, Illinois
-\hfill 2016--2021
+Ph.D in Math    \hfill    University of Illinois Urbana-Champaign, Illinois    \hfill    2016--2021
 
-BSc in Math
-\hfill National Taiwan University ({\zhfamily 國立臺灣大學}), Taiwan
-\hfill 2011--2015
+BSc in Math  \hfill  National Taiwan University ({\zhfamily 國立臺灣大學}), Taiwan  \hfill  2011--2015
 
-\section{Employment}
+\sec{Employment}
 
-Apple Research Fellow                        \hfill January--May 2024 \\
+Apple Research Fellow                                                    \hfill January--May 2024 \\
 Simons Institute for the Theory of Computing, California
 
-Postdoctoral Scholar               \hfill October 2022--December 2023 \\
+Postdoctoral Scholar                                           \hfill October 2022--December 2023 \\
 Department of Electrical Engineering and Computer Sciences, \\
 University of California, Berkeley, California
 
-Postdoctoral Scholar              \hfill October 2021--September 2022 \\
+Postdoctoral Scholar                                          \hfill October 2021--September 2022 \\
 Department of Electrical and Computer Engineering, \\
 University of California San Diego, California
 
-Teaching Assistant                    \hfill September 2016--May 2023 \\
-Department of Mathematics,  
+Teaching Assistant                                                \hfill September 2016--May 2023 \\
+Department of Mathematics, \\
 University of Illinois Urbana-Champaign, Illinois
 
-\section{Awards and Honors}
+\sec{Awards and Honors}
 
-Irving Reiner Memorial Award in Algebra                      \hfill 2021
+Irving Reiner Memorial Award in Algebra                                                  \hfill 2021
 
-Research Assistant Fellowship                         \hfill Spring 2020
+Research Assistant Fellowship                                                     \hfill Spring 2020
 
-Teacher ranked as excellent by their students
-                              \hfill Fall 2019, Spring 2019, Spring 2018
+Teacher ranked as excellent by their students             \hfill Fall 2019, Spring 2019, Spring 2018
 
-Book--Scroll Award (top 5\% GPA)
-       \hfill Fall 15, Spring 14, Spring 13, Fall 12, Spring 12, Fall 11
+Book--Scroll Award (top 5\% GPA)   \hfill Fall 15, Spring 14, Spring 13, Fall 12, Spring 12, Fall 11
 
-Prof. Cheng-Tang Hsiao Memorial Scholarship ({\zhfamily 蕭正堂紀念獎學金})
-                                                             \hfill 2014
+Prof. Cheng-Tang Hsiao Memorial Scholarship ({\zhfamily 蕭正堂紀念獎學金})                  \hfill 2014
 
-Prof. Ta-Kai Hu Memorial Scholarship ({\zhfamily 胡達開先生紀念獎學金})
-                                                             \hfill 2013
+Prof. Ta-Kai Hu Memorial Scholarship ({\zhfamily 胡達開先生紀念獎學金})                     \hfill 2013
 
-\section{Research Interests}
+\sec{Research Interests}
 
-Information theory
-• Coding theory
-• Polar codes (wireless communication)
-• Distributed storage and distributed computation
-• Group testing
-• Applications of algebra, combinatorics, calculus, probability theory
-  and other mathematics tools
+\def\interest#1{\textcolor{red!20!black}{\bfseries#1}}
+\def\work#1{\textcolor{yellow!30!black}{\bfseries#1}}
+\def\apply#1{\textcolor{green!20!black}{\bfseries#1}}
 
-\section{Peer-Reviewed Conference Publications (New to Old)}
+I am interested in
+\interest{information theory} and
+\interest{coding theory}.
+I have worked on
+\work{polar codes} (for wireless communication), 
+\work{regenerating codes} (for cloud storage),
+\work{distributed matrix--matrix multiplication} (for cloud computation),
+\work{group testing}, and
+\work{DNA storage}.
+I specialize in finding applications of
+\apply{algebra},
+\apply{combinatorics},
+\apply{calculus},
+\apply{probability theory},
+and other mathematical tools to said topics.
 
 \bgroup
-\def\section#1#2{}
-\begin{thebibliography}{9}
-    \bibitem{}
+\def\section#1#2{\sec{Peer-Reviewed Conference Publications \newtoold}}
+\begin{thebibliography}{C9}
+    \bibitem[C7]{C7}
     H.-P. Wang, R. Gabrys, V. Guruswami.
     \emph{Quickly-Decodable Group Testing with Fewer Tests:
     Price-Scarlett's Nonadaptive Splitting with Explicit Scalars}.
@@ -128,21 +119,21 @@ Information theory
     June 2023.
     \url{https://doi.org/10.1109/ISIT54713.2023.10206843}
 
-    \bibitem{}
+    \bibitem[C6]{C6}
     H.-P. Wang, C.-W. Chin.
     \emph{Density Devolution for Ordering Synthetic Channels}.
     IEEE International Symposium on Information Theory (ISIT).
     June 2023.
     \url{https://doi.org/10.1109/ISIT54713.2023.10206540}
 
-    \bibitem{}
+    \bibitem[C5]{C5}
     T.-C. Lin, H.-P. Wang.
     \emph{Optimal Self-Dual Inequalities to Order Polarized BECs}.
     IEEE International Symposium on Information Theory (ISIT).
     June 2023.
     \url{https://doi.org/10.1109/ISIT54713.2023.10206451}
     
-    \bibitem{}
+    \bibitem[C4]{C4}
     H.-P. Wang, V. Guruswami.
     \emph{How Many Matrices Should I Prepare to Polarize Channels
     Optimally Fast?}
@@ -150,21 +141,21 @@ Information theory
     June 2023.
     \url{https://doi.org/10.1109/ISIT54713.2023.10206989}
 
-    \bibitem{}
+    \bibitem[C3]{C3}
     H.-P. Wang, V.-F. Dragoi.
     \emph{Fast Methods for Ranking Synthetic BECs}.
     IEEE International Symposium on Information Theory (ISIT).
     June 2023.
     \url{https://doi.org/10.1109/ISIT54713.2023.10206704}
 
-    \bibitem{}
+    \bibitem[C2]{C2}
     I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
     \emph{Accelerating Polarization via Alphabet Extension}.
     International Conference on Randomization and Computation (RANDOM).
     September 2022.
     \url{https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17}
 
-    \bibitem{}
+    \bibitem[C1]{C1}
     H.-P. Wang, R. Gabrys, A. Vardy.
     \emph{PCR, Tropical Arithmetic, and Group Testing}.
     IEEE International Symposium on Information Theory (ISIT).
@@ -173,26 +164,24 @@ Information theory
 \end{thebibliography}
 \egroup
 
-\section{Journal Publications (New to Old)}
-
 \bgroup
-\def\section#1#2{}
-\begin{thebibliography}{9}
-    \bibitem{}
+\def\section#1#2{\sec{Journal Publications \newtoold}}
+\begin{thebibliography}{J9}
+    \bibitem[J6]{J6}
     H.-P. Wang and R. Gabrys and A. Vardy.
     \emph{Tropical Group Testing}.
     IEEE Transactions on Information Theory.
     June 2023.
     \url{https://ieeexplore.ieee.org/document/10146331/}
 
-    \bibitem{}
+    \bibitem[J5]{J5}
     H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
     \emph{Sub-4.7 Scaling Exponent of Polar Codes}.
     IEEE Transactions on Information Theory.
     March 2023
     \url{https://doi.org/10.1109/TIT.2023.3253074}
 
-    \bibitem{}
+    \bibitem[J4]{J4}
     I. Duursma, H.-P. Wang.
     \emph{Multilinear Algebra for Minimum Storage Regenerating Codes:
         A Generalization of Product-Matrix Construction}.
@@ -200,21 +189,21 @@ Information theory
     October 2021.
     \url{https://doi.org/10.1007/s00200-021-00526-3}
 
-    \bibitem{}
+    \bibitem[J3]{J3}
     I. Duursma, X. Li, H.-P. Wang.
     \emph{Multilinear Algebra for Distributed Storage}.
     SIAM Journal on Applied Algebra and Geometry (SIAGA).
     September 2021.
     \url{https://doi.org/10.1137/20M1346742}
 
-    \bibitem{}
+    \bibitem[J2]{J2}
     H.-P. Wang, I. Duursma.
     \emph{Log-logarithmic Time Pruned Polar Coding}.
     IEEE Transactions on Information Theory.
     March 2021.
     \url{https://doi.org/10.1109/TIT.2020.3041523}
 
-    \bibitem{}
+    \bibitem[J1]{J1}
     H.-P. Wang, I. Duursma.
     \emph{Polar Codes' Simplicity, Random Codes' Durability}.
     IEEE Transactions on Information Theory.
@@ -223,17 +212,28 @@ Information theory
 \end{thebibliography}
 \egroup
 
-\section{Invited Talk}
-
 \bgroup
-\def\section#1#2{}
-\begin{thebibliography}{9}
-    \bibitem{}
+\def\section#1#2{\sec{Invited Talks \newtoold}}
+\begin{thebibliography}{T9}
+    \bibitem[T3]{T3}
+    H.-P. Wang.
+    \emph{Intra-Strand Inner Polar Codes for DNA Storage}.
+    Information Theory and Applications Workshop (ITA).
+    February 2024.
+
+    \bibitem[T2]{T2}
     H.-P. Wang.
     \emph{Channel Manipulation as a Coding Technique}.
     Joint Mathematics Meetings (JMM).
     January 2024.
     \url{https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29146}
+
+    \bibitem[T1]{T1}
+    H.-P. Wang.
+    \emph{Moulin Codes}.
+    SIAM Conference on Applied Algebraic Geometry (AG21).
+    August 2021.
+    \url{https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=72368}
 \end{thebibliography}
 \egroup
 
