@@ -103,6 +103,46 @@ Borderline related to
 See also the
 [KTV version](https://github.com/Symbol1/EliTikZ/tree/main/KTV).
 
+A similar contraption is used to *increase text contrast*
+
+```TeX
+\def\KTV[#1][#2]#3{%
+    \special{pdf: literal direct q 1 j 1 J 1 Tr}%
+    \pgfsetlinewidth{2pt}\pgfsetcolor{#1}\rlap{#3}%
+    \special{pdf: literal direct Q}%
+    \pgfsetcolor{#2}#3%
+}
+```
+
+and *hide future text* in my
+[polar code tutorial slides](https://github.com/Symbol1/PolarTutorial).
+
+```TeX
+\def\focus<#1>#2{%
+    \strut%
+    \alt<#1>{%
+        #2%
+    }{%
+        \pgfscope%
+        \pgfsetroundcap%
+        \pgfsetroundjoin%
+        \pgfsetfillopacity{0.05}%
+        \pgfsetstrokeopacity{0.05}%
+        \special{pdf: literal direct 1 Tr}%
+        \pgfsetlinewidth{4pt}\rlap{#2}%
+        \pgfsetlinewidth{12pt}\rlap{#2}%
+        \pgfsetlinewidth{20pt}\rlap{#2}%
+        \endpgfscope%
+        \phantom{#2}%
+    }%
+}
+```
+
+Usages are
+`\KTV[red][blue]{your beautiful words}`
+and
+`\focus<2->{your beautiful words}`.
+
 ## Inversion
 
 ![Applying inversion transformation to Lenna the image](inversion/inversion.jpg)
