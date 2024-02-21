@@ -106,7 +106,7 @@ keeps the source codes, comments, and results.
 
 * Postdoctoral Scholar  
   Supervisors =
-  [Alexander Vardy](https://orcid.org/0000-0003-3303-9078)  and 
+  [Alexander Vardy](https://orcid.org/0000-0003-3303-9078) and
   [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
   Department of Electrical and Computer Engineering  
   University of California San Diego  
@@ -127,7 +127,7 @@ keeps the source codes, comments, and results.
 * [Teacher ranked as excellent by their students](https://go.illinois.edu/lotrae)  
   Fall 2019 & Spring 2019 & Spring 2018
 
-* Book--Scroll Award (for top 5% GPA)  
+* 書卷獎 (top 5% GPA)  
   Fall 2015 & Spring 2014 & Spring 2013 & Fall 2012 & Spring 2012 & Fall 2011
 
 * [蕭正堂紀念獎學金](http://140.112.51.185/scholarship/%E5%88%86%E9%A0%81/index%208.html)
@@ -138,9 +138,53 @@ keeps the source codes, comments, and results.
   (Prof. Ta-Kai Hu Memorial Scholarship)  
   2013
 
-* Tbyq zrqny  
+* [Tbyq zrqny](uggcf://jjj.vzb-bssvpvny.bet/cnegvpvcnag_e.nfck?vq=18696)  
   Vagreangvbany Zngurzngvpny Bylzcvnq  
   2011 & 2009
+
+## Journal Publications
+
+6. H.-P. Wang, R. Gabrys, A. Vardy.
+   [*Tropical Group Testing*](https://doi.org/10.1109/TIT.2023.3282847).
+   IEEE Transactions on Information Theory.
+   June 2023.
+   ([Preprint](https://arxiv.org/abs/2201.05440).)
+
+5. H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
+   [*Sub-4.7 Scaling Exponent of Polar Codes*](https://doi.org/10.1109/TIT.2023.3253074).
+   IEEE Transactions on Information Theory.
+   March 2023.
+   ([Preprint](https://arxiv.org/abs/2204.11683).)
+
+4. I. Duursma, H.-P. Wang.
+   [*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://doi.org/10.1007/s00200-021-00526-3).
+   Applicable Algebra in Engineering, Communication and Computing.
+   October 2021.
+   ([Author copy](https://rdcu.be/cyJs2) and
+    [Preprint](https://arxiv.org/abs/2006.16998).)
+
+3. I. Duursma, X. Li, H.-P. Wang.
+   [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742).
+   SIAM Journal on Applied Algebra and Geometry (SIAGA).
+   September 2021.
+   ([Preprint](https://arxiv.org/abs/2006.08911),
+    a 15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM), and
+    [slides @ SIAM AG21](https://github.com/Symbol1/MoulinDistorage).)
+
+2. H.-P. Wang, I. Duursma.
+   [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523).
+   IEEE Transactions on Information Theory.
+   March 2021.
+   ([Preprint](https://arxiv.org/abs/1905.13340) and
+    [Predecessor](https://arxiv.org/abs/1812.08106).)
+
+1. H.-P. Wang, I. Duursma.
+   [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570).
+   IEEE Transactions on Information Theory.
+   March 2021.
+   ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
+    [slides @ UIUC](https://github.com/Symbol1/Complex2Order) and
+    [slides @ Princeton](https://github.com/Symbol1/abc).)
 
 ## Peer-Reviewed Conference Publications
 
@@ -191,57 +235,12 @@ keeps the source codes, comments, and results.
    ([Full version](https://arxiv.org/abs/2201.05440) and
     [slides](https://github.com/Symbol1/PCR-TGT).)
 
-## Journal Publications
-
-6. H.-P. Wang, R. Gabrys, A. Vardy.
-   [*Tropical Group Testing*](https://doi.org/10.1109/TIT.2023.3282847).
-   IEEE Transactions on Information Theory.
-   June 2023.
-   ([Preprint](https://arxiv.org/abs/2201.05440).)
-
-5. H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
-   [*Sub-4.7 Scaling Exponent of Polar Codes*](https://doi.org/10.1109/TIT.2023.3253074).
-   IEEE Transactions on Information Theory.
-   March 2023.
-   ([Preprint](https://arxiv.org/abs/2204.11683).)
-
-4. I. Duursma, H.-P. Wang.
-   [*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://doi.org/10.1007/s00200-021-00526-3).
-   Applicable Algebra in Engineering, Communication and Computing.
-   October 2021.
-   ([Author copy](https://rdcu.be/cyJs2) and
-    [Preprint](https://arxiv.org/abs/2006.16998).)
-
-3. I. Duursma, X. Li, H.-P. Wang.
-   [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742).
-   SIAM Journal on Applied Algebra and Geometry (SIAGA).
-   September 2021.
-   ([Preprint](https://arxiv.org/abs/2006.08911),
-    a 15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM), and
-    [slides @ SIAM AG21](https://github.com/Symbol1/MoulinDistorage).)
-
-2. H.-P. Wang, I. Duursma.
-   [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523).
-   IEEE Transactions on Information Theory.
-   March 2021.
-   ([Preprint](https://arxiv.org/abs/1905.13340) and
-    [Predecessor](https://arxiv.org/abs/1812.08106).)
-
-1. H.-P. Wang, I. Duursma.
-   [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570).
-   IEEE Transactions on Information Theory.
-   March 2021.
-   ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
-    [slides @ UIUC](https://github.com/Symbol1/Complex2Order) and
-    [slides @ Princeton](https://github.com/Symbol1/abc).)
-
 ## Invited Talks (new to old)
 
 3. H.-P. Wang.
-  *Intra-Strand Inner Polar Codes for DNA Storage*.
+  [*GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage*](https://ita.ucsd.edu/workshop/schedule)
   Information Theory and Applications Workshop (ITA).
   February 2024.
-
 
 2. H.-P. Wang.
   [*Channel Manipulation as a Coding Technique*](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29146).

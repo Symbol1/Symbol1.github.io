@@ -1,4 +1,6 @@
 {
+    "vim.textwidth": 100,
+    "editor.rulers": [100],
     "cSpell.words": [
         "Amiibo",
         "antiprism",
@@ -16,6 +18,7 @@
         "foldback",
         "foldover",
         "Gabrys",
+        "Geno",
         "Guruswami",
         "Hawksley",
         "Hédronisme",
