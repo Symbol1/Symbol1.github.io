@@ -37,7 +37,7 @@ I have worked on
 **regenerating codes** (for cloud storage),
 **distributed matrix--matrix multiplication** (for cloud computation),
 **group testing**, and
-**DNA storage**.
+**DNA data storage**.
 I specialize in finding applications of
 **algebra**,
 **combinatorics**,
@@ -70,13 +70,16 @@ keeps the source codes, comments, and results.
    [single-spacing version](https://arxiv.org/abs/2107.06420) and
    [slides](https://github.com/Symbol1/PhD-Thesis))  
   Advisor =
-  [Iwan Duursma](https://faculty.math.illinois.edu/~duursma/)  
+  [Iwan Duursma](https://duursma.web.illinois.edu/)  
   University of Illinois Urbana-Champaign  
   2016--2021
 
 * Bachelor of Science in Mathematics  
   National Taiwan University (國立臺灣大學)  
   2011--2015
+
+* Gnvcrv Zhavpvcny Wvnathb Uvtu Fpubby  
+  2008--2011
 
 ## Employment
 

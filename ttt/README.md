@@ -96,8 +96,12 @@ with terminal command (with ImageMagick installed)
 convert -density 144 -resize 2000 diffuse.pdf diffuse.jpg
 ```
 
-Related to TeX.SX post <https://tex.stackexchange.com/a/545948/51022>
-and less related to <https://tex.stackexchange.com/a/544134/51022>.
+Related to TeX.SX question
+[How to make a glowing text?](https://tex.stackexchange.com/a/545948/51022)
+Borderline related to
+[Make tikz arrows glow](https://tex.stackexchange.com/a/544134/51022).
+See also the
+[KTV version](https://github.com/Symbol1/EliTikZ/tree/main/KTV).
 
 ## Inversion
 
@@ -525,3 +529,7 @@ Convert pdf to png with terminal command (with ImageMagick installed)
 ```latex
 convert -density 300 pixel.pdf pixel.png
 ```
+
+
+Another approach is to
+[use `\pdfliteral`](https://tex.stackexchange.com/a/361832/51022).
