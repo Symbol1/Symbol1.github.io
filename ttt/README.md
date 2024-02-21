@@ -5,7 +5,7 @@
 
 ![a spinning color wheel that seems to be drawing cycloid](cycloid/cycloid.gif)
 
-```latex
+```TeX
 % cycloid.tex
 \documentclass[tikz]{standalone}
 \begin{document}
@@ -34,13 +34,13 @@
 
 Convert pdf to gif with terminal command (with ImageMagick installed)
 
-```shell
+```Shell
 convert -delay 2 cycloid.pdf cycloid.gif
 ```
 
 or with this command that does anti-aliasing
 
-```shell
+```Shell
 convert -delay 2 -density 300 -resize 300x300 cycloid.pdf cycloid.gif
 ```
 
@@ -51,7 +51,7 @@ This is inspired by じゃがりきん's
 
 ![A former pangram with certain word glowing](diffuse/diffuse.jpg)
 
-```latex
+```TeX
 % diffuse.tex
 \documentclass[tikz]{standalone}
 \begin{document}
@@ -92,7 +92,7 @@ This is inspired by じゃがりきん's
 Convert pdf to jpg (or png in exchange for file size)
 with terminal command (with ImageMagick installed)
 
-```shell
+```Shell
 convert -density 144 -resize 2000 diffuse.pdf diffuse.jpg
 ```
 
@@ -107,7 +107,7 @@ See also the
 
 ![Applying inversion transformation to Lenna the image](inversion/inversion.jpg)
 
-```latex
+```TeX
 % inversion.tex
 \documentclass[border=9,tikz]{standalone}
 \begin{document}
@@ -172,7 +172,7 @@ Learn more about [Lenna's history](https://www.youtube.com/watch?v=yCdwm2vo09I).
 
 Convert pdf to jpg with terminal command (with ImageMagick installed)
 
-```shell
+```Shell
 convert -density 300 inversion.pdf inversion.jpg
 ```
 
@@ -190,7 +190,7 @@ See also
 
 ![Pixelated galaxy is rotating](galaxy/galaxy.gif)
 
-```latex
+```TeX
 % galaxy.tex
 \documentclass[tikz]{standalone}
 \begin{document}
@@ -238,11 +238,19 @@ I ended up using online conversion tools.
 
 This is inspired by <http://www.peda.com/grafeq/gallery.html>.
 
+`\pgfdeclarefunctionalshading` is very useful.
+* [Graphing a non-linear inequality?](https://tex.stackexchange.com/a/477161/51022)
+* [Problems with plotting planar functions with Tikz](https://tex.stackexchange.com/a/361291/51022)
+* [Blurred tikz picture (Hermite-Gaussian modes)](https://tex.stackexchange.com/a/333409/51022)
+* [Plotting Laguerre Gaussian beam intensity in transverse and line profile via center?](https://tex.stackexchange.com/a/476275/51022)
+* [Depicting a .dat file into a contour plot in Latex](https://tex.stackexchange.com/a/367280/51022)
+* [Animated Mandelbrot](https://tex.stackexchange.com/a/358139/51022)
+
 ## Egg
 
 ![Pixelated egg with light shading](egg/egg.png)
 
-```latex
+```TeX
 % egg.tex
 \documentclass[tikz]{standalone}
 \def\ditherdivide{ %%%  y  x  dither_score  power_of_2
@@ -308,7 +316,7 @@ Drawing an egg here is motivated by Kurzgesagt's video
 This is not Ti*k*Z.  But this piece of TeX code
 generates my old, deprecated email `hpwang2@illinois.edu`.
 
-```latex
+```TeX
 \def~#1#2{#1\catcode`#27
 ~}~^^((((7000077777!!!!.
 ''''rrrr44440444400)))),
@@ -319,7 +327,7 @@ generates my old, deprecated email `hpwang2@illinois.edu`.
 This piece of TeX code generates my old, deprecated email
 `hsw001@ucsd.edu`.
 
-```latex
+```TeX
 \def~#1#2{#1\catcode`#27
 ~}~^^((((733337)))pppppq
 qqq444400005####5553$$$$
@@ -329,7 +337,7 @@ mmmn\%%%%666647775)\endq
 Try it on Overleaf!  But either you need to change the compiler to TeX
 manually (which is not quite easy), or you can wrap the code above using:
 
-```latex
+```TeX
 \documentclass{article}
 \let\oldend=\end
 \def\end#1~{\let\end\oldend}
@@ -366,7 +374,7 @@ file [`xii.tex`](https://ctan.org/tex-archive/macros/plain/contrib/xii).
 
 ![A binary tree that is somewhat irregular](bonsai/bonsai.png)
 
-```latex
+```TeX
 \documentclass[tikz]{standalone}
 \begin{document}
     \usepgfmodule{parser}
@@ -421,7 +429,7 @@ file [`xii.tex`](https://ctan.org/tex-archive/macros/plain/contrib/xii).
 
 Convert pdf to png with terminal command (with ImageMagick installed)
 
-```latex
+```Shell
 convert -density 600 bonsai.pdf bonsai.png
 ```
 
@@ -429,7 +437,7 @@ convert -density 600 bonsai.pdf bonsai.png
 
 ![A pixelated Mona Lisa](pixel/pixel.png)
 
-```latex
+```TeX
 % pixel.tex
 \documentclass[tikz]{standalone}
 	\usepgfmodule{parser}
@@ -526,7 +534,7 @@ Would it be nice if Ti*k*Z is WYSIWYG?
 
 Convert pdf to png with terminal command (with ImageMagick installed)
 
-```latex
+```Shell
 convert -density 300 pixel.pdf pixel.png
 ```
 
