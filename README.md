@@ -4,7 +4,7 @@
 Apple Research Fellow  
 Simons Institute for the Theory of Computing
 
-* [PDF CV](/cv/cv%20Hsin-Po%20WANG.pdf)
+* [PDF CV](/cv/cv_Hsin-Po_WANG.pdf)
 
 * How to [pronounce my name?](/pronounce)
 
