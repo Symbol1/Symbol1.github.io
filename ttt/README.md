@@ -163,18 +163,24 @@ and less related to <https://tex.stackexchange.com/a/544134/51022>.
 \end{document}
 ```
 
-`lenna.png` is taken from wikipedia.
+`lenna.png` is taken from Wikipedia.
+Learn more about [Lenna's history](https://www.youtube.com/watch?v=yCdwm2vo09I).
+
 Convert pdf to jpg with terminal command (with ImageMagick installed)
 
 ```shell
 convert -density 300 inversion.pdf inversion.jpg
 ```
 
-This is the final form of a series of answers on TeX.SX, including
-<https://tex.stackexchange.com/a/332173/51022> and
-<https://tex.stackexchange.com/a/336821/51022> and
-<https://tex.stackexchange.com/a/376128/51022> and
-<https://tex.stackexchange.com/a/479188/51022>.
+This is the final form of a series of answers on TeX.SX:
+
+* [Draw Text in different shapes](https://tex.stackexchange.com/a/332173/51022)
+* [Seasonal Challenge (Contributions from TeXing Dead Welcome)](https://tex.stackexchange.com/a/336821/51022)
+* [Geometric inversion of an image (png, jpg, bmp)](https://tex.stackexchange.com/a/376128/51022)
+* [Text in TikZ with perspective (not just slant)](https://tex.stackexchange.com/a/479188/51022)
+
+See also
+[Jelani Nelson's slides](https://twitter.com/minilek/status/1501250335964221442).
 
 ## Galaxy
 
@@ -228,7 +234,7 @@ I ended up using online conversion tools.
 
 This is inspired by <http://www.peda.com/grafeq/gallery.html>.
 
-# Egg
+## Egg
 
 ![Pixelated egg with light shading](egg/egg.png)
 
@@ -288,11 +294,12 @@ be 128 pixel/inch.  Turns out there are some rounding issues no matter I
 use `floor` or `round` in the code.  The issues go away when the
 resolution is doubled.
 
-This is a derivation of <https://tex.stackexchange.com/a/267088/51022>,
-motivated by Kurzgesagt's video
+This is a derivation of my answer to
+[How can I add stippling to elements of my tikz diagrams?](https://tex.stackexchange.com/a/267088/51022)
+Drawing an egg here is motivated by Kurzgesagt's video
 [The Egg - A Short Story](https://www.youtube.com/watch?v=h6fcK_fRYaI).
 
-# Email
+## Email
 
 This is not Ti*k*Z.  But this piece of TeX code
 generates my old, deprecated email `hpwang2@illinois.edu`.
@@ -332,7 +339,7 @@ the letter `h` because the ASCII code for the letter `h` is `0x68`.  TeX
 also interprets `^^(` as the letter `h` because the ASCII code for the
 left parenthesis `(` and the ASCII code for the letter `h` differ by
 sixty-four.  With this trick, lowercase letters `abcd...` can be
-**expanded** into `^^61^^62^^63^^64...` or, less obviously
+**expanded** into `^^61^^62^^63^^64...` or, less obviously,
 `^^!^^"^#^^$...`.
 
 However, it would be less mysterious if one sees two superscript symbols
@@ -348,7 +355,7 @@ Now it becomes a matter of looking up every letter in your email address
 and choose either `^^68` or `^^(`, whichever maximizes the obscurity.
 
 These pieces of code are motivated by the (unnecessary) need to hide
-one's email address from *non-experts*.  This is inspired by the famous
+one's email address from spammers.  This is inspired by the famous
 file [`xii.tex`](https://ctan.org/tex-archive/macros/plain/contrib/xii).
 
 ## Bonsai
@@ -414,14 +421,12 @@ Convert pdf to png with terminal command (with ImageMagick installed)
 convert -density 600 bonsai.pdf bonsai.png
 ```
 
-# Pixel art
+## Pixel art
 
 ![A pixelated Mona Lisa](pixel/pixel.png)
 
-
 ```latex
 % pixel.tex
-
 \documentclass[tikz]{standalone}
 	\usepgfmodule{parser}
 
@@ -432,11 +437,11 @@ convert -density 600 bonsai.pdf bonsai.png
     \def\pixelarty{0}
     \catcode13=12
 }
-\def\pixelartnextrow{ % next row = new line = enter
+\def\pixelartnextrow{% next row = new line = enter
     \def\pixelartx{0}
     \pgfmathsetmacro\pixelarty{\pixelarty - 1}
 }
-\def\pixelartput#1{ % #1 is a color or tikz options
+\def\pixelartput#1{% #1 is a color or tikz options
     \pgfmathsetmacro\pixelartx{\pixelartx + 1}
     \fill [color={#1}] (\pixelartx, \pixelarty) rectangle +(1.05, 1.05);
     % 1.05 is overshoot; necessary to avoid white gaps
@@ -451,67 +456,69 @@ convert -density 600 bonsai.pdf bonsai.png
 \catcode13=12\relax%
 \pgfparserdef{pixel art}{initial}{the character ^^M}{\pixelartnextrow}%
 \catcode13=5\relax
-\pgfparserdef{pixel art}{initial}{the character '}{\pixelartput{gray,7:white,0;black,7}}
-\pgfparserdef{pixel art}{initial}{the character -}{\pixelartput{gray,7:white,1;black,6}}
-\pgfparserdef{pixel art}{initial}{the character ;}{\pixelartput{gray,7:white,2;black,5}}
-\pgfparserdef{pixel art}{initial}{the letter l}{\pixelartput{gray,7:white,3;black,4}}
-\pgfparserdef{pixel art}{initial}{the letter C}{\pixelartput{gray,7:white,4;black,3}}
-\pgfparserdef{pixel art}{initial}{the letter D}{\pixelartput{gray,7:white,5;black,2}}
-\pgfparserdef{pixel art}{initial}{the letter H}{\pixelartput{gray,7:white,6;black,1}}
-\pgfparserdef{pixel art}{initial}{the letter M}{\pixelartput{gray,7:white,7;black,0}}
+\pgfparserdef{pixel art}{initial}{the character '}{\pixelartput{gray,7: black,0; white,7}}
+\pgfparserdef{pixel art}{initial}{the character -}{\pixelartput{gray,7: black,1; white,6}}
+\pgfparserdef{pixel art}{initial}{the character ;}{\pixelartput{gray,7: black,2; white,5}}
+\pgfparserdef{pixel art}{initial}{the letter l}{\pixelartput{gray,7: black,3; white,4}}
+\pgfparserdef{pixel art}{initial}{the letter C}{\pixelartput{gray,7: black,4; white,3}}
+\pgfparserdef{pixel art}{initial}{the letter D}{\pixelartput{gray,7: black,5; white,2}}
+\pgfparserdef{pixel art}{initial}{the letter H}{\pixelartput{gray,7: black,6; white,1}}
+\pgfparserdef{pixel art}{initial}{the letter M}{\pixelartput{gray,7: black,7; white,0}}
 
 \begin{tikzpicture}[x=1mm, y=2mm]
 \pgfparserparse{pixel art}<
-lll;l;;;l;l;;llll;l;;l;;;ll;l;ll;l;ll;;ll;;;;;;;l;l;;;l;;;;;
-lCClCCClCClCClllCCClCCClCCCCClllClllllllllllllllllllllCllCCC
-;ClCllllCllllllCCllllllllClllllllCllDDDDDDDDDDDDDDDCDCDDllll
-;lDllDDDCCCDDCDDDCllllDllDDDDCDCCDDDCDCCDCDDDDDDDDCCDDCllDCl
-CDDCDCDDDCDCCCCCDDDDCDDDCDCC;lll;CllDCCCDDDDDCCCDDDDCCCllDCC
-lCDCDCCCCCCCDDCDDDCDDCDll---';-;;;--llCCCDCCCCDCCDDCDCCDDDDD
-CDDDDCCHCCCCCDDCCCCCHHlllCHDCDC;l--;-;;CCCCCDCCCCDDCDDCCCCDD
-;DCCCCHDHDHDHHHHHCCDHC-CHMHHMDCl;-----;-DCCCCCDCDDCCCCDCDDCC
-lDCCHDCHDHDHDHDHDHHDC;lHMMMMMDDCCll---;;lCCllDCDCCCDCCDDDCCD
--;ClClCCDDllCCHHHDDl--lDDDDHDDDDl;l---;--l;;CClCCDCCCDCDllll
-;-;;CllCCCl;;;lDCCD;;-CC;;DClDC;Cl;--;;--lll;l;;;lDDDCClllll
--;;;CClCC;l;;;;;llCl-;DDHHDDDDDDHD;----;;l;ll;ll;lDCDllClClC
--;ll;;;;;;l;llll;l;--;;HDHDCCDDCl;-;;;;;--ll;;;;;lCCCl;;;;;;
-;l--l;llll;;lll;;;;;-;;CDCC-;CDl;l-;-;;----------lllllll;-;l
-;---ll;l;llll;llll-;--;lCCDllllCll---;;;-;;ll;llll;l;l-;ll;l
-;---lllll-;-;lll;l;----;-CDCC;l;;--;-;;----lllllll;;--ll;;ll
-;;-;---;l;l;;l;;CCC;;-;;;-'--;---;----;;;;;--lll-;-----l-ll-
-;----;ll;ll;;CCCClll---;-;-lC;lll;;l--;-;;-;-llll;lllll;-ll;
---l;;ll;;;lll-l;--;;;--;;;llDDlCDDDll;;--;;-;;;----;;llll;--
-;l;llllllllll-;-;;;---;llDHDDDHDDHDD;--;;;;;;--;;C;;;ll;----
--l;ll-l;ll;l--;----;;;-DDMMMMDDMDDHDl---;';-;;;;-;;;l;;;l;--
-;-lll-ll;CC;;-l---;;lCDDMMMMMMMHDHHDl--l;;;;l-;''--l;l;;Clll
-;;;l;llll;;;;;------CHMHMMHMHHMMHMHCl;;;;;;--;-''-'';;--llC;
-;-;lll;;l;;;l-;;;-;-lCDDCHMHHHHHMDl;;--;;-'''-'-'''';-------
----l;;;l;l;--;-;;;-;--;;-l;Clllll-;;;;';---;''''-''''--;;-;-
---;-l;l;lll--;;;;-;--;--l--;-;;-;-;'-;-;;;;--;;;'''''';--;;-
-;---l;;ll;-;;;---;;;;;;---;;----;-''';;';;;;-;;-'''''';--;;-
---;;CClCC;;;;;;-;-;;-';;;;;;;;;;'''''';;-;---'-'-''';'';---;
-;-l;l;ll----;;;;;;-;;''--;;;-;;'''''''-;-;-'--'''''''''-;-;;
-;;;----;;-----;-;-;;-';'';;;;'''-'''''-;'''''-'-'''-'''''-;;
-;-;;--;--;;;-----;;-;';''--;'''';'''''''--''-'''-'-''''-';;;
-;-;;;;;;--;;;;;;;;-';;;;;;'-''-'--'-'''''--'''-'''''''''-;;-
-;-;;;;;-lll--l-;;-';''---'-'-'--'''-''''''''''-'''-'''''-'-;
-;;-;;;--lll;llll;DCCCl;l-;-M-'''''''-'''''''''''-''-''--'-''
-;;;;;;;;;---;-;llCCCCCCDDlCl-'--''--------''''-'-'-'''''''-'
-;;;;;;;--;;;--;;l;;CCCDDDDClCDl-;;--;;;;;;-;'''-'-''''''''''
-;;''''-';;'';;'---l;lClllllC;CC;l;ll-----;;;--''-''''-'--'''
-';'-;'-;';'''--;;lDl;l;;CCCCl;---l-;-----;;';;---'''--'-'';;
-''-'';;;-''''-ll;;lCl;-lllCCll;;-;;;-;;;;';;'''-''-''''-'';;
-''''''''''''';-ll;lC;--;--';--;--;-'''-'''-''''--'''''-'''''
-''-'';'''''''-''-;l';;;;;-;-;;''--'-'-''''--''-'-'-'-'''''''
-''''''-';-;;'''';;;;;;;;;;;'-'--'''-''''-'''''-'''''----'-''
-'-'''''-;''-'';;;''''-''''-'--'-''''-'-''----''-'---'''''''-
-'''''-''-'';;;'''''-'''''----'-'''-'-'-'-'----'-''-'-'-'-'''
-'''''''';;;;;;;''''''''''''-'''-'-''--''''''''---''''''-''''
+CCCDCDDDCDCDDCCCCDCDDCDDDCCDCDCCDCDCCDDCCDDDDDDDCDCDDDCDDDDD
+CllClllCllCllCCClllClllClllllCCClCCCCCCCCCCCCCCCCCCCCClCClll
+DlClCCCClCCCCCCllCCCCCCCClCCCCCCClCC;;;;;;;;;;;;;;;l;l;;CCCC
+DC;CC;;;lll;;l;;;lCCCC;CC;;;;l;ll;;;l;ll;l;;;;;;;;ll;;lCC;lC
+l;;l;l;;;l;lllll;;;;l;;;l;llDCCCDlCC;lll;;;;;lll;;;;lllCC;ll
+Cl;l;lllllll;;l;;;l;;l;CCHHHMDHDDDHHCClll;llll;ll;;l;ll;;;;;
+l;;;;ll-lllll;;lllll--CCCl-;l;lDCHHDHDDlllll;llll;;l;;llll;;
+D;llll-;-;-;-----ll;-lHl-'--';lCDHHHHHDH;lllll;l;;llll;l;;ll
+C;ll-;l-;-;-;-;-;--;lDC-''''';;llCCHHHDDCllCC;l;lll;ll;;;ll;
+HDlClCll;;CCll---;;CHHC;;;;-;;;;CDCHHHDHHCDDllCll;lll;l;CCCC
+DHDDlCClllCDDDC;ll;DDHllDD;lC;lDlCDHHDDHHCCCDCDDDC;;;llCCCCC
+HDDDllCllDCDDDDDCClCHD;;--;;;;;;-;DHHHHDDCDCCDCCDC;l;CClClCl
+HDCCDDDDDDCDCCCCDCDHHDD-;-;ll;;lCDHDDDDDHHCCDDDDDClllCDDDDDD
+DCHHCDCCCCDDCCCDDDDDHDDl;llHDl;CDCHDHDDHHHHHHHHHHCCCCCCCDHDC
+DHHHCCDCDCCCCDCCCCHDHHDCll;CCCClCCHHHDDDHDDCCDCCCCDCDCHDCCDC
+DHHHCCCCCHDHDCCCDCDHHHHDHl;llDCDDHHDHDDHHHHCCCCCCCDDHHCCDDCC
+DDHDHHHDCDCDDCDDlllDDHDDDHMHHDHHHDHHHHDDDDDHHCCCHDHHHHHCHCCH
+DHHHHDCCDCCDDllllCCCHHHDHDHClDCCCDDCHHDHDDHDHCCCCDCCCCCDHCCD
+HHCDDCCDDDCCCHCDHHDDDHHDDDCC;;Cl;;;CCDDHHDDHDDDHHHHDDCCCCDHH
+DCDCCCCCCCCCCHDHDDDHHHDCC;-;;;-;;-;;DHHDDDDDDHHDDlDDDCCDHHHH
+HCDCCHCDCCDCHHDHHHHDDDH;;'''';;';;-;CHHHDMDHDDDDHDDDCDDDCDHH
+DHCCCHCCDllDDHCHHHDDCl;;'''''''-;--;CHHCDDDDCHDMMHHCDCDDlCCC
+DDDCDCCCCDDDDDHHHHHHl-'-''-'--''-'-lCDDDDDDHHDHMMHMMDDHHCClD
+DHDCCCDDCDDDCHDDDHDHCl;;l-'-----';CDDHHDDHMMMHMHMMMMDHHHHHHH
+HHHCDDDCDCDHHDHDDDHDHHDDHCDlCCCCCHDDDDMDHHHDMMMMHMMMMHHDDHDH
+HHDHCDCDCCCHHDDDDHDHHDHHCHHDHDDHDHDMHDHDDDDHHDDDMMMMMMDHHDDH
+DHHHCDDCCDHDDDHHHDDDDDDHHHDDHHHHDHMMMDDMDDDDHDDHMMMMMMDHHDDH
+HHDDllCllDDDDDDHDHDDHMDDDDDDDDDDMMMMMMDDHDHHHMHMHMMMDMMDHHHD
+DHCDCDCCHHHHDDDDDDHDDMMHHDDDHDDMMMMMMMHDHDHMHHMMMMMMMMMHDHDD
+DDDHHHHDDHHHHHDHDHDDHMDMMDDDDMMMHMMMMMHDMMMMMHMHMMMHMMMMMHDD
+DHDDHHDHHDDDHHHHHDDHDMDMMHHDMMMMDMMMMMMMHHMMHMMMHMHMMMMHMDDD
+DHDDDDDDHHDDDDDDDDHMDDDDDDMHMMHMHHMHMMMMMHHMMMHMMMMMMMMMHDDH
+DHDDDDDHCCCHHCHDDHMDMMHHHMHMHMHHMMMHMMMMMMMMMMHMMMHMMMMMHMHD
+DDHDDDHHCCCDCCCCD;lllCDCHDH'HMMMMMMMHMMMMMMMMMMMHMMHMMHHMHMM
+DDDDDDDDDHHHDHDCCllllll;;ClCHMHHMMHHHHHHHHMMMMHMHMHMMMMMMMHM
+DDDDDDDHHDDDHHDDCDDlll;;;;lCl;CHDDHHDDDDDDHDMMMHMHMMMMMMMMMM
+DDMMMMHMDDMMDDMHHHCDClCCCCClDllDCDCCHHHHHDDDHHMMHMMMMHMHHMMM
+MDMHDMHDMDMMMHHDDC;CDCDDllllCDHHHCHDHHHHHDDMDDHHHMMMHHMHMMDD
+MMHMMDDDHMMMMHCCDDClCDHCCCllCCDDHDDDHDDDDMDDMMMHMMHMMMMHMMDD
+MMMMMMMMMMMMMDHCCDClDHHDHHMDHHDHHDHMMMHMMMHMMMMHHMMMMMHMMMMM
+MMHMMDMMMMMMMHMMHDCMDDDDDHDHDDMMHHMHMHMMMMHHMMHMHMHMHMMMMMMM
+MMMMMMHMDHDDMMMMDDDDDDDDDDDMHMHHMMMHMMMMHMMMMMHMMMMMHHHHMHMM
+MHMMMMMHDMMHMMDDDMMMMHMMMMHMHHMHMMMMHMHMMHHHHMMHMHHHMMMMMMMH
+MMMMMHMMHMMDDDMMMMMHMMMMMHHHHMHMMMHMHMHMHMHHHHMHMMHMHMHMHMMM
+MMMMMMMMDDDDDDDMMMMMMMMMMMMHMMMHMHMMHHMMMMMMMMHHHMMMMMMHMMMM
 >
 \end{tikzpicture}
 
 \end{document}
 ```
+
+Would it be nice if Ti*k*Z is WYSIWYG?
 
 Convert pdf to png with terminal command (with ImageMagick installed)
 

@@ -29,7 +29,6 @@ Simons Institute for the Theory of Computing
   [ORCiD](https://orcid.org/0000-0003-2574-1510) /
   [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
 
-
 I am interested in
 **information theory** and
 **coding theory**.
