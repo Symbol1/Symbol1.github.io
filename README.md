@@ -249,6 +249,7 @@ keeps the source codes, comments, and results.
   [*GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage*](https://ita.ucsd.edu/workshop/schedule)
   Information Theory and Applications Workshop (ITA).
   February 2024.
+  ([Slides](https://github.com/Symbol1/GenoWeave))
 
 2. H.-P. Wang.
   [*Channel Manipulation as a Coding Technique*](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29146).
