@@ -11,12 +11,13 @@ Simons Institute for the Theory of Computing
 * Email: <a.simple.people@gmail.com>
 
 * Social media:
-  [Facebook](https://www.facebook.com/xymbol.1/) /
   [Discord](https://discord.com/channels/@me/527393219441590273) /
-  [Twitter](https://twitter.com/Xymbol_1) /
-  [Instagram](https://www.instagram.com/xymbol.1/) /
+  [Twitter](https://twitter.com/symbol_codes) /
+  [Facebook](https://www.facebook.com/symbol.codes/) /
+  [Instagram](https://www.instagram.com/symbol.codes/) /
   [StackExchange](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile) /
   [GitHub](https://github.com/Symbol1)
+  [Youtube](https://www.youtube.com/@SymbolOne)
 
 ## Research
 
@@ -97,7 +98,7 @@ keeps the source codes, comments, and results.
   Duke University  
   Winter 2022  
   (Gave a small talk on distributed matrix multiplication.
-   [Slides](https://github.com/Symbol1/ChatPPT))
+   [Slides](https://github.com/Symbol1/ChatPPT).)
 
 * Postdoctoral Scholar  
   Supervisor =
