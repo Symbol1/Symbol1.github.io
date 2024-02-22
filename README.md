@@ -85,7 +85,11 @@ keeps the source codes, comments, and results.
 
 * Apple Research Fellow  
   Simons Institute for the Theory of Computing  
-  Spring 2024
+  Spring 2024  
+  (Polar code tutorial:
+   [video1](https://www.youtube.com/watch?v=K0ZIuwG8il8),
+   [video2](https://www.youtube.com/watch?v=PsG7P00Odz8), and
+   [slides](https://github.com/Symbol1/PolarTutorial))
 
 * Visitor  
   Duke University  
