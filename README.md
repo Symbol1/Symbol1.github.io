@@ -33,7 +33,7 @@ I am interested in
 **information theory** and
 **coding theory**.
 I have worked on
-**polar codes** (for wireless communication), 
+**polar codes** (for wireless communication),
 **regenerating codes** (for cloud storage),
 **distributed matrix--matrix multiplication** (for cloud computation),
 **group testing**, and
@@ -72,11 +72,11 @@ keeps the source codes, comments, and results.
   Advisor =
   [Iwan Duursma](https://duursma.web.illinois.edu/)  
   University of Illinois Urbana-Champaign  
-  2016--2021
+  September 2016-- August 2021
 
 * Bachelor of Science in Mathematics  
   National Taiwan University (國立臺灣大學)  
-  2011--2015
+  September 2011--June 2015
 
 * Gnvcrv Zhavpvcny Wvnathb Uvtu Fpubby  
   2008--2011
@@ -85,11 +85,13 @@ keeps the source codes, comments, and results.
 
 * Apple Research Fellow  
   Simons Institute for the Theory of Computing  
-  Spring 2024  
+  January--May 2024  
   (Polar code tutorial:
    [video1](https://www.youtube.com/watch?v=K0ZIuwG8il8),
    [video2](https://www.youtube.com/watch?v=PsG7P00Odz8), and
-   [slides](https://github.com/Symbol1/PolarTutorial))
+   [slides](https://github.com/Symbol1/PolarTutorial).)  
+  (Group testing talk
+   [slides](https://github.com/Symbol1/GachaManim).)
 
 * Visitor  
   Duke University  
@@ -272,10 +274,10 @@ keeps the source codes, comments, and results.
 * Team Leader  
   2015 International Mathematics Competition
 
-* Teaching
-  in a [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
-  as an alternative to the mandatory military service.  
-  2016
+* Teaching in a
+  [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
+  as a substitution to the mandatory military service.  
+  September 2015--August 2016
 
 * [TikZ TeX Talk](/ttt) collects some of my ideas for (La)TeX and TikZ.
 
