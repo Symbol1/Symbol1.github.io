@@ -106,7 +106,7 @@ See also the
 A similar contraption is used to *increase text contrast*
 
 ```TeX
-\def\KTV[#1][#2]#3{%
+\def\KTV[#1][#2]#3{ %
     \special{pdf: literal direct q 1 j 1 J 1 Tr}%
     \pgfsetlinewidth{2pt}\pgfsetcolor{#1}\rlap{#3}%
     \special{pdf: literal direct Q}%
@@ -118,11 +118,11 @@ and *hide future text* in my
 [polar code tutorial slides](https://github.com/Symbol1/PolarTutorial).
 
 ```TeX
-\def\focus<#1>#2{%
+\def\focus<#1>#2{ %
     \strut%
-    \alt<#1>{%
+    \alt<#1>{ %
         #2%
-    }{%
+    }{ %
         \pgfscope%
         \pgfsetroundcap%
         \pgfsetroundjoin%
@@ -489,11 +489,11 @@ convert -density 600 bonsai.pdf bonsai.png
     \def\pixelarty{0}
     \catcode13=12
 }
-\def\pixelartnextrow{% next row = new line = enter
+\def\pixelartnextrow{ % next row = new line = enter
     \def\pixelartx{0}
     \pgfmathsetmacro\pixelarty{\pixelarty - 1}
 }
-\def\pixelartput#1{% #1 is a color or tikz options
+\def\pixelartput#1{ % #1 is a color or tikz options
     \pgfmathsetmacro\pixelartx{\pixelartx + 1}
     \fill [color={#1}] (\pixelartx, \pixelarty) rectangle +(1.05, 1.05);
     % 1.05 is overshoot; necessary to avoid white gaps
