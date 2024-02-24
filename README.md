@@ -250,7 +250,7 @@ keeps the source codes, comments, and results.
   ([Slides](https://github.com/Symbol1/ChannelManipul).)
 
 1. H.-P. Wang.
-  [*Moulin Codes*](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=72368).
+  [*Moulin Codes*](https://meetings.siam.org/sess/dsp_talk.cfm?p=116047).
   SIAM Conference on Applied Algebraic Geometry (AG21).
   August 2021.
   ([Slides](https://github.com/Symbol1/MoulinDistorage).)
