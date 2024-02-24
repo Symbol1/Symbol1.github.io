@@ -11,13 +11,13 @@ Simons Institute for the Theory of Computing
 * Email: <a.simple.people@gmail.com>
 
 * Social media:
-  [Discord](https://discord.com/channels/@me/527393219441590273) /
-  [Twitter](https://twitter.com/symbol_codes) /
-  [Facebook](https://www.facebook.com/symbol.codes/) /
-  [Instagram](https://www.instagram.com/symbol.codes/) /
-  [StackExchange](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile) /
-  [GitHub](https://github.com/Symbol1)
-  [Youtube](https://www.youtube.com/@SymbolOne)
+  [Discord](https://discord.com/channels/@me/527393219441590273)
+  / [Twitter](https://twitter.com/symbol_codes)
+  / [Facebook](https://www.facebook.com/symbol.codes/)
+  / [Instagram](https://www.instagram.com/symbol.codes/)
+  / [StackExchange](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile)
+  / [GitHub](https://github.com/Symbol1)
+  / [Youtube](https://www.youtube.com/@symbol-codes)
 
 ## Research
 
@@ -26,9 +26,9 @@ Simons Institute for the Theory of Computing
 * [arXiv author page](https://arxiv.org/a/wang_h_8.html)
 
 * Other profiles:
-  [dblp](https://dblp.org/pid/75/329-1.html) /
-  [ORCiD](https://orcid.org/0000-0003-2574-1510) /
-  [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
+  [dblp](https://dblp.org/pid/75/329-1.html)
+  / [ORCiD](https://orcid.org/0000-0003-2574-1510)
+  / [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
 
 I am interested in
 **information theory** and
