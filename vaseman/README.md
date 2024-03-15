@@ -118,5 +118,18 @@
   part 5 of 5.  This series of images were used in the
   [slides for ISIT 2022].
 
+![Vaseman taking Man In Black (MIB) entrance exam](Jau-Pao%20Wang%202022-12-06.jpg)  
+↑ Jau-Pao Wang, December 2022, pen on paper.  
+↑ Used in [polar code slides](https://github.com/Symbol1/abc).
+
+![Vaseman ](Jau-Pao%20Wang%202024-02-21.jpg)  
+↑ Jau-Pao Wang, February 2024, pen on paper.  
+↑ Unused material for [group testing slides](https://github.com/Symbol1/GachaManim).
+
+![Vaseman sitting on top of Golden Gate Bridge](Jau-Pao%20Wang%202024-02-24.jpg)  
+↑ Jau-Pao Wang, February 2024, pen on paper.  
+↑ Having Been a postdoc at Berkeley,
+  I constantly think about the idea way to visit Golden Gate Bridge.
+
 [Complexity and Second Moment of the Mathematical Theory of Communication]: https://arxiv.org/abs/2107.06420
 [slides for ISIT 2022]: https://github.com/Symbol1/PCR-TGT

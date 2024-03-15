@@ -284,11 +284,12 @@ keeps the source codes, comments, and results.
 * [TikZ TeX Talk](/ttt) collects some of my ideas for (La)TeX and TikZ.
 
 * [Oriclip](/oriclip) is about binder clip sculptures.  
-(Data plan warning: a lot of photos!)
-
-* [Vaseman](/vaseman) is about drawing people that look like vases.  
-(Data plan warning: scans of drawings!)
+  (Data plan warning: a lot of photos!)
 
 * 薩爾達傳說·[曠野之息的中、外文資料](/BotW)
 
 * 薩爾達傳說·[王國之淚的中、外文資料](/TotK)
+
+## Vaseman
+* [Vaseman](/vaseman) is about drawing people that look like vases.  
+  (Data plan warning: scans of drawings!)
