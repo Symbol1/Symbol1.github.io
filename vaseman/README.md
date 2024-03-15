@@ -128,8 +128,8 @@
 
 ![Vaseman sitting on top of Golden Gate Bridge](Jau-Pao%20Wang%202024-02-24.jpg)  
 ↑ Jau-Pao Wang, February 2024, pen on paper.  
-↑ Having Been a postdoc at Berkeley,
-  I constantly think about the idea way to visit Golden Gate Bridge.
+↑ Having been a postdoc at Berkeley,
+  I constantly think about the ideal way to visit Golden Gate Bridge.
 
 [Complexity and Second Moment of the Mathematical Theory of Communication]: https://arxiv.org/abs/2107.06420
 [slides for ISIT 2022]: https://github.com/Symbol1/PCR-TGT
