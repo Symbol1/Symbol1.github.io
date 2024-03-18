@@ -882,7 +882,7 @@ Similar works have been published under the names
 * <http://blog.andreahawksley.com/tag/binderclips/> by Andrea Hawksley.
 
 * `https://binderclippolyhedra.com/` by unknown author.
-  (Domain expired.  Link is kept in case the owner buy it back.)
+  (Domain expired.  Link is kept in case the owner buys it back.)
 
 * <https://momath.org/mathmonday/math-monday-what-to-make-from-binder-clips/>
   a news article by George Hart.
