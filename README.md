@@ -18,6 +18,8 @@ Simons Institute for the Theory of Computing
   / [StackExchange](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile)
   / [GitHub](https://github.com/Symbol1)
   / [Youtube](https://www.youtube.com/@symbol-codes)
+  / [Reddit](https://www.reddit.com/user/Symbol_1/)
+  / [Linkedin](https://www.linkedin.com/in/symbol1/)
 
 ## Research
 
