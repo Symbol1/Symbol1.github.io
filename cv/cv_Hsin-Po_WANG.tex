@@ -2,7 +2,6 @@
 % !TEX program = lualatex
 % !TEX spellcheck = English
 
-
 \documentclass{article}
 
 \usepackage[margin=114pt]{geometry}
@@ -10,10 +9,7 @@
     \parskip10pt plus10pt
 
 \usepackage{fontspec, pgfmath, xcolor, xurl}
-    \setmainfont
-     [ItalicFont=NotoSerif-Italic,
-        BoldFont=NotoSerif-Bold]
-                {NotoSerif}
+    \setmainfont{NotoSerif}[ItalicFont=*-Italic, BoldFont=*-Bold]
     \setsansfont{NotoSerif}%{NotoSans}
     \setmonofont{NotoSerif}%{NotoSansMono}
     \newfontfamily\zhfamily{NotoSerifTC}
@@ -24,7 +20,6 @@
         \pgfmathsetmacro\B{\A*(4/3)}%
         \fontsize{\A pt}{\B pt}\selectfont%
     }
-    \def\newtoold{\mdseries (new to old)}
 
 \usepackage[colorlinks, allcolors=blue!40!black]{hyperref}
     \def\email#1{\href{mailto:#1}{#1}}
@@ -88,17 +83,17 @@ Teacher ranked as excellent by their students             \hfill Fall 2019, Spri
 
 \sec{Research Interests}
 
-\def\interest#1{\textcolor{red!20!black}{\bfseries#1}}
-\def\work#1{\textcolor{yellow!30!black}{\bfseries#1}}
-\def\apply#1{\textcolor{green!20!black}{\bfseries#1}}
+\def\interest#1{\textcolor{red!20!black}{#1}}
+\def\work#1{\textcolor{yellow!30!black}{#1}}
+\def\apply#1{\textcolor{green!20!black}{#1}}
 
 I am interested in
 \interest{information theory} and
 \interest{coding theory}.
 I have worked on
-\work{polar codes} (for wireless communication), 
-\work{regenerating codes} (for cloud storage),
-\work{distributed matrix--matrix multiplication} (for cloud computation),
+\work{polar codes} (wireless communication), 
+\work{regenerating codes} (cloud storage),
+\work{distributed matrix--matrix multiplication} (cloud computation),
 \work{group testing}, and
 \work{DNA data storage}.
 I specialize in finding applications of
@@ -109,7 +104,7 @@ I specialize in finding applications of
 and other mathematical tools to said topics.
 
 \bgroup
-\def\section#1#2{\sec{Journal Publications \newtoold}}
+\def\section#1#2{\sec{Journal Publications \mdseries (new to old)}}
 \begin{thebibliography}{J9}
     \bibitem[J6]{J6}
     H.-P. Wang and R. Gabrys and A. Vardy.
@@ -157,7 +152,7 @@ and other mathematical tools to said topics.
 \egroup
 
 \bgroup
-\def\section#1#2{\sec{Peer-Reviewed Conference Publications \newtoold}}
+\def\section#1#2{\sec{Peer-Reviewed Conference Publications \mdseries (new to old)}}
 \begin{thebibliography}{C9}
     \bibitem[C7]{C7}
     H.-P. Wang, R. Gabrys, V. Guruswami.
@@ -212,7 +207,7 @@ and other mathematical tools to said topics.
 \egroup
 
 \bgroup
-\def\section#1#2{\sec{Invited Talks \newtoold}}
+\def\section#1#2{\sec{Invited Talks \mdseries (new to old)}}
 \begin{thebibliography}{T9}
     \bibitem[T3]{T3}
     H.-P. Wang.
