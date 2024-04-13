@@ -6,9 +6,10 @@ Simons Institute for the Theory of Computing
 
 * [PDF CV](/cv/cv_Hsin-Po_WANG.pdf)
 
-* How to [pronounce my name?](/pronounce)
-
 * Email: <a.simple.people@gmail.com>
+
+* How to [pronounce my name?](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
+  (click the triangle button to play)
 
 * Social media:
   [Discord](https://discord.com/channels/@me/527393219441590273)
@@ -60,7 +61,7 @@ For meta-comments of my works categorized by topics, see:
 
 * [Polder ordering papers] (to be elaborated...)
 
-I have once computed, on a supercomputer,
+I computed, on a [supercomputer](https://en.wikipedia.org/wiki/Blue_Waters),
 the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
 [This GitHub repository](https://github.com/Symbol1/BlueWaters-RM64)
 keeps the source codes, comments, and results.
@@ -246,7 +247,7 @@ keeps the source codes, comments, and results.
    ([Full version](https://arxiv.org/abs/2201.05440) and
     [slides](https://github.com/Symbol1/PCR-TGT).)
 
-## Invited Talks (new to old)
+## Invited Talks
 
 3. H.-P. Wang.
   [*GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage*](https://ita.ucsd.edu/workshop/schedule)
@@ -269,14 +270,22 @@ keeps the source codes, comments, and results.
 ## Extracurricular
 
 * Jury  
-  [2023 International Mathematics Competition](http://bimc2023.com/)  
-  [2022 International Mathematics Competition](https://www.facebook.com/iimc2022/)  
-  [2022 International Young Mathematicians Convention](http://www.cmseducation.org/iymc/)  
-  2016 International Mathematics Competition  
-  2012 International Mathematics Competition  
+  2024 International Mathematics Competition (InIMC)
+  ([Chiu Chang's Archive](https://chiuchang.org/imc/en/category/inimc-2024/))  
+  2023 International Mathematics Competition (BIMC)
+  ([Chiu Chang's Archive](https://chiuchang.org/imc/en/category/bimc2023-en/))  
+  2022 International Mathematics Competition (IIMC)
+  [(Chiu Chang's Archive)](https://chiuchang.org/imc/en/category/iimc-2022/)  
+  2022 International Young Mathematicians Convention (IYMC)
+  ([Website](http://www.cmseducation.org/iymc/))  
+  2016 International Mathematics Competition (TIMC)
+  ([Chiu Chang's Archive](https://chiuchang.org/imc/en/category/timc-2016-en/))  
+  2012 International Mathematics Competition (TAIMC)
+  ([Chiu Chang's Archive](https://chiuchang.org/imc/en/category/taimc-2012-en/))
 
 * Team Leader  
-  2015 International Mathematics Competition
+  2015 International Mathematics Competition (CIMC)
+  ([Chiu Chang's Archive](https://chiuchang.org/imc/en/category/cimc-2015-en/))
 
 * Teaching in a
   [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
@@ -293,5 +302,6 @@ keeps the source codes, comments, and results.
 * 薩爾達傳說·[王國之淚的中、外文資料](/TotK)
 
 ## Vaseman
-* [Vaseman](/vaseman) is about drawing people that look like vases.  
-  (Data plan warning: scans of drawings!)
+
+[Vaseman](/vaseman) is about drawings of people that look like vases.  
+(Data plan warning: scans of drawings!)
