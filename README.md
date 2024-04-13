@@ -59,7 +59,7 @@ For meta-comments of my works categorized by topics, see:
 
 * [Group testing papers](/paper/grouptest)
 
-* [Polder ordering papers] (to be elaborated...)
+* [Polar ordering papers](/paper/polder)
 
 I computed, on a [supercomputer](https://en.wikipedia.org/wiki/Blue_Waters),
 the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
