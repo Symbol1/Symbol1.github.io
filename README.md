@@ -158,42 +158,42 @@ keeps the source codes, comments, and results.
 ## Journal Publications
 
 6. H.-P. Wang, R. Gabrys, A. Vardy.
-   [*Tropical Group Testing*](https://doi.org/10.1109/TIT.2023.3282847).
-   IEEE Transactions on Information Theory.
+   [Tropical Group Testing](https://doi.org/10.1109/TIT.2023.3282847).
+   *IEEE Transactions on Information Theory*.
    June 2023.
    ([Preprint](https://arxiv.org/abs/2201.05440).)
 
 5. H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
-   [*Sub-4.7 Scaling Exponent of Polar Codes*](https://doi.org/10.1109/TIT.2023.3253074).
-   IEEE Transactions on Information Theory.
+   [Sub-4.7 Scaling Exponent of Polar Codes](https://doi.org/10.1109/TIT.2023.3253074).
+   *IEEE Transactions on Information Theory*.
    March 2023.
    ([Preprint](https://arxiv.org/abs/2204.11683).)
 
 4. I. Duursma, H.-P. Wang.
-   [*Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction*](https://doi.org/10.1007/s00200-021-00526-3).
-   Applicable Algebra in Engineering, Communication and Computing.
+   [Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction](https://doi.org/10.1007/s00200-021-00526-3).
+   *Applicable Algebra in Engineering, Communication and Computing*.
    October 2021.
    ([Author copy](https://rdcu.be/cyJs2) and
     [Preprint](https://arxiv.org/abs/2006.16998).)
 
 3. I. Duursma, X. Li, H.-P. Wang.
-   [*Multilinear Algebra for Distributed Storage*](https://doi.org/10.1137/20M1346742).
-   SIAM Journal on Applied Algebra and Geometry (SIAGA).
+   [Multilinear Algebra for Distributed Storage](https://doi.org/10.1137/20M1346742).
+   *SIAM Journal on Applied Algebra and Geometry (SIAGA)*.
    September 2021.
    ([Preprint](https://arxiv.org/abs/2006.08911),
     a 15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM), and
     [slides @ SIAM AG21](https://github.com/Symbol1/MoulinDistorage).)
 
 2. H.-P. Wang, I. Duursma.
-   [*Log-logarithmic Time Pruned Polar Coding*](https://doi.org/10.1109/TIT.2020.3041523).
-   IEEE Transactions on Information Theory.
+   [Log-logarithmic Time Pruned Polar Coding](https://doi.org/10.1109/TIT.2020.3041523).
+   *IEEE Transactions on Information Theory*.
    March 2021.
    ([Preprint](https://arxiv.org/abs/1905.13340) and
     [Predecessor](https://arxiv.org/abs/1812.08106).)
 
 1. H.-P. Wang, I. Duursma.
-   [*Polar Codes' Simplicity, Random Codes' Durability*](https://doi.org/10.1109/TIT.2020.3041570).
-   IEEE Transactions on Information Theory.
+   [Polar Codes' Simplicity, Random Codes' Durability](https://doi.org/10.1109/TIT.2020.3041570).
+   *IEEE Transactions on Information Theory*.
    March 2021.
    ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
     [slides @ UIUC](https://github.com/Symbol1/Complex2Order) and
@@ -202,86 +202,83 @@ keeps the source codes, comments, and results.
 ## Peer-Reviewed Conference Publications
 
 10. H.-P. Wang, C.-W. Chin.
-   *On Counting Subsequences and Higher-Order Fibonacci Numbers*.
-   IEEE International Symposium on Information Theory (ISIT).
-   July 2024.
+    *On Counting Subsequences and Higher-Order Fibonacci Numbers*.
+    *IEEE International Symposium on Information Theory (ISIT)*.
+    July 2024.
 
-9. H.-P. Wang, V. Guruswami.
-   *Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically*.
-   IEEE International Symposium on Information Theory (ISIT).
-   July 2024.
+9.  H.-P. Wang, V. Guruswami.
+    *Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically*.
+    *IEEE International Symposium on Information Theory (ISIT)*.
+    July 2024.
 
-8. H.-P. Wang, V. Guruswami.
-   *Isolate and then Identify: Rethinking Adaptive Group Testing*.
-   IEEE International Symposium on Information Theory (ISIT).
-   July 2024.
+8.  H.-P. Wang, V. Guruswami.
+    *Isolate and then Identify: Rethinking Adaptive Group Testing*.
+    *IEEE International Symposium on Information Theory (ISIT)*.
+    July 2024.
 
-7. H.-P. Wang, R. Gabrys, V. Guruswami.
-   [*Quickly-Decodable Group Testing with Fewer Tests: Price-Scarlett's Nonadaptive Splitting with Explicit Scalars*](https://doi.org/10.1109/ISIT54713.2023.10206843).
-   IEEE International Symposium on Information Theory (ISIT).
-   June 2023.
-   ([Slides](https://drive.google.com/file/d/18Kku7Q1lpmylhz8ScPs-zwBRzIyP6sec/view?usp=sharing).)
+7.  H.-P. Wang, R. Gabrys, V. Guruswami.
+    [Quickly-Decodable Group Testing with Fewer Tests: Price-Scarlett's Nonadaptive Splitting with Explicit Scalars](https://doi.org/10.1109/ISIT54713.2023.10206843).
+    *IEEE International Symposium on Information Theory (ISIT)*.
+    June 2023.
+    ([Slides](https://drive.google.com/file/d/18Kku7Q1lpmylhz8ScPs-zwBRzIyP6sec/view?usp=sharing).)
 
-6. H.-P. Wang, C.-W. Chin.
-   [*Density Devolution for Ordering Synthetic Channels*](https://doi.org/10.1109/ISIT54713.2023.10206540).
-   IEEE International Symposium on Information Theory (ISIT).
-   June 2023.
-   ([Preprint](https://arxiv.org/abs/2304.07667) and
-    4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
+6.  H.-P. Wang, C.-W. Chin.
+    [Density Devolution for Ordering Synthetic Channels](https://doi.org/10.1109/ISIT54713.2023.10206540).
+    *IEEE International Symposium on Information Theory (ISIT)*.
+    June 2023.
+    ([Preprint](https://arxiv.org/abs/2304.07667) and
+     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
 
-5. T.-C. Lin, H.-P. Wang.
-   [*Optimal Self-Dual Inequalities to Order Polarized BECs*](https://doi.org/10.1109/ISIT54713.2023.10206451).
-   IEEE International Symposium on Information Theory (ISIT).
-   June 2023.
-   ([Preprint](https://arxiv.org/abs/2304.07664) and
-    4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
+5.  T.-C. Lin, H.-P. Wang.
+    [Optimal Self-Dual Inequalities to Order Polarized BECs](https://doi.org/10.1109/ISIT54713.2023.10206451).
+    *IEEE International Symposium on Information Theory (ISIT)*.
+    June 2023.
+    ([Preprint](https://arxiv.org/abs/2304.07664) and
+     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
 
-4. H.-P. Wang, V. Guruswami.
-   [*How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?*](https://doi.org/10.1109/ISIT54713.2023.10206989).
-   IEEE International Symposium on Information Theory (ISIT).
-   June 2023.
-   (4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
+4.  H.-P. Wang, V. Guruswami.
+    [How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?](https://doi.org/10.1109/ISIT54713.2023.10206989).
+    *IEEE International Symposium on Information Theory (ISIT)*.
+    June 2023.
+    (4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
 
-3. H.-P. Wang, V.-F. Dragoi.
-   [*Fast Methods for Ranking Synthetic BECs*](https://doi.org/10.1109/ISIT54713.2023.10206704).
-   IEEE International Symposium on Information Theory (ISIT).
-   June 2023.
-   ([Preprint](https://arxiv.org/abs/2304.11781) and
-    4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
+3.  H.-P. Wang, V.-F. Dragoi.
+    [Fast Methods for Ranking Synthetic BECs](https://doi.org/10.1109/ISIT54713.2023.10206704).
+    *IEEE International Symposium on Information Theory (ISIT)*.
+    June 2023.
+    ([Preprint](https://arxiv.org/abs/2304.11781) and
+     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
 
-2. I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
-   [*Accelerating Polarization via Alphabet Extension*](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
-   International Conference on Randomization and Computation (RANDOM).
-   September 2022.
-   ([Full version](https://arxiv.org/abs/2207.04522) and
-    7-minute [animation](https://www.youtube.com/watch?v=2mmbd58rSts).)
+2.  I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
+    [Accelerating Polarization via Alphabet Extension](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
+    *International Conference on Randomization and Computation (RANDOM)*.
+    September 2022.
+    ([Full version](https://arxiv.org/abs/2207.04522) and
+     7-minute [animation](https://www.youtube.com/watch?v=2mmbd58rSts).)
 
-1. H.-P. Wang, R. Gabrys, A. Vardy.
-   [*PCR, Tropical Arithmetic, and Group Testing*](https://doi.org/10.1109/ISIT50566.2022.9834718).
-   IEEE International Symposium on Information Theory (ISIT).
-   June 2022.
-   ([Full version](https://arxiv.org/abs/2201.05440) and
-    [slides](https://github.com/Symbol1/PCR-TGT).)
+1.  H.-P. Wang, R. Gabrys, A. Vardy.
+    [PCR, Tropical Arithmetic, and Group Testing](https://doi.org/10.1109/ISIT50566.2022.9834718).
+    *IEEE International Symposium on Information Theory (ISIT)*.
+    June 2022.
+    ([Full version](https://arxiv.org/abs/2201.05440) and
+     [slides](https://github.com/Symbol1/PCR-TGT).)
 
 ## Invited Talks
 
-3. H.-P. Wang.
-  [*GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage*](https://ita.ucsd.edu/workshop/schedule)
-  Information Theory and Applications Workshop (ITA).
-  February 2024.
-  ([Slides](https://github.com/Symbol1/GenoWeave))
+3. [GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage](https://ita.ucsd.edu/workshop/schedule)
+   *Information Theory and Applications Workshop (ITA)*.
+   February 2024.
+   ([Slides](https://github.com/Symbol1/GenoWeave))
 
-2. H.-P. Wang.
-  [*Channel Manipulation as a Coding Technique*](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29146).
-  Joint Mathematics Meetings (JMM).
-  January 2024.
-  ([Slides](https://github.com/Symbol1/ChannelManipul).)
+2. [Channel Manipulation as a Coding Technique](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29146).
+   *Joint Mathematics Meetings (JMM)*.
+   January 2024.
+   ([Slides](https://github.com/Symbol1/ChannelManipul).)
 
-1. H.-P. Wang.
-  [*Moulin Codes*](https://meetings.siam.org/sess/dsp_talk.cfm?p=116047).
-  SIAM Conference on Applied Algebraic Geometry (AG21).
-  August 2021.
-  ([Slides](https://github.com/Symbol1/MoulinDistorage).)
+1. [Moulin Codes](https://meetings.siam.org/sess/dsp_talk.cfm?p=116047).
+   *SIAM Conference on Applied Algebraic Geometry (AG21)*.
+   August 2021.
+   ([Slides](https://github.com/Symbol1/MoulinDistorage).)
 
 ## Extracurricular
 
