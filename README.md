@@ -8,19 +8,19 @@ Simons Institute for the Theory of Computing
 
 * Email: <a.simple.people@gmail.com>
 
-* How to [pronounce my name?](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
+* How to [pronounce my name](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
   (click the triangle button to play)
 
 * Social media:
-  [Discord](https://discord.com/channels/@me/527393219441590273)
-  / [Twitter](https://twitter.com/symbol_codes)
-  / [Facebook](https://www.facebook.com/symbol.codes/)
-  / [Instagram](https://www.instagram.com/symbol.codes/)
-  / [StackExchange](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile)
-  / [GitHub](https://github.com/Symbol1)
-  / [Youtube](https://www.youtube.com/@symbol-codes)
-  / [Reddit](https://www.reddit.com/user/Symbol_1/)
-  / [Linkedin](https://www.linkedin.com/in/symbol1/)
+  🎮 [Discord](https://discord.com/channels/@me/527393219441590273)
+  / 🐦 [Twitter](https://twitter.com/symbol_codes)
+  / ♾️ [Facebook](https://www.facebook.com/symbol.codes/)
+  / 📷 [Instagram](https://www.instagram.com/symbol.codes/)
+  / 📚 [StackExchange](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile)
+  / 🐙 [GitHub](https://github.com/Symbol1)
+  / 📺 [Youtube](https://www.youtube.com/@symbol-codes)
+  / 🤖 [Reddit](https://www.reddit.com/user/Symbol_1/)
+  / 💼 [Linkedin](https://www.linkedin.com/in/symbol1/)
 
 ## Research
 
@@ -29,9 +29,10 @@ Simons Institute for the Theory of Computing
 * [arXiv author page](https://arxiv.org/a/wang_h_8.html)
 
 * Other profiles:
-  [dblp](https://dblp.org/pid/75/329-1.html)
-  / [ORCiD](https://orcid.org/0000-0003-2574-1510)
+  [ORCiD](https://orcid.org/0000-0003-2574-1510)
+  / [dblp](https://dblp.org/pid/75/329-1.html)
   / [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
+  / [Web of Science](https://www.webofscience.com/wos/author/record/AAV-6801-2021)
 
 I am interested in
 **information theory** and
@@ -200,6 +201,21 @@ keeps the source codes, comments, and results.
 
 ## Peer-Reviewed Conference Publications
 
+10. H.-P. Wang, C.-W. Chin.
+   *On Counting Subsequences and Higher-Order Fibonacci Numbers*.
+   IEEE International Symposium on Information Theory (ISIT).
+   July 2024.
+
+9. H.-P. Wang, V. Guruswami.
+   *Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically*.
+   IEEE International Symposium on Information Theory (ISIT).
+   July 2024.
+
+8. H.-P. Wang, V. Guruswami.
+   *Isolate and then Identify: Rethinking Adaptive Group Testing*.
+   IEEE International Symposium on Information Theory (ISIT).
+   July 2024.
+
 7. H.-P. Wang, R. Gabrys, V. Guruswami.
    [*Quickly-Decodable Group Testing with Fewer Tests: Price-Scarlett's Nonadaptive Splitting with Explicit Scalars*](https://doi.org/10.1109/ISIT54713.2023.10206843).
    IEEE International Symposium on Information Theory (ISIT).
@@ -291,6 +307,8 @@ keeps the source codes, comments, and results.
   [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
   as a substitution to the mandatory military service.  
   September 2015--August 2016
+
+* I maintain a LaTeX package [snaptodo](https://www.ctan.org/pkg/snaptodo).
 
 * [TikZ TeX Talk](/ttt) collects some of my ideas for (La)TeX and TikZ.
 
