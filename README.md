@@ -202,17 +202,17 @@ keeps the source codes, comments, and results.
 ## Peer-Reviewed Conference Publications
 
 10. H.-P. Wang, C.-W. Chin.
-    *On Counting Subsequences and Higher-Order Fibonacci Numbers*.
+    On Counting Subsequences and Higher-Order Fibonacci Numbers.
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024.
 
 9.  H.-P. Wang, V. Guruswami.
-    *Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically*.
+    Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically.
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024.
 
 8.  H.-P. Wang, V. Guruswami.
-    *Isolate and then Identify: Rethinking Adaptive Group Testing*.
+    Isolate and then Identify: Rethinking Adaptive Group Testing.
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024.
 
