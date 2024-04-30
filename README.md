@@ -13,14 +13,14 @@ Simons Institute for the Theory of Computing
 
 * Social media:
   🎮 [Discord](https://discord.com/channels/@me/527393219441590273)
-  / 🐦 [Twitter](https://twitter.com/symbol_codes)
-  / ♾️ [Facebook](https://www.facebook.com/symbol.codes/)
-  / 📷 [Instagram](https://www.instagram.com/symbol.codes/)
+  / 🐦 [Twitter](https://twitter.com/SymbolOne1)
+  / ♾️ [Facebook](https://www.facebook.com/SymbolOne1/)
+  / 📷 [Instagram](https://www.instagram.com/SymbolOne1/)
   / 📚 [StackExchange](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile)
   / 🐙 [GitHub](https://github.com/Symbol1)
-  / 📺 [Youtube](https://www.youtube.com/@symbol-codes)
+  / 📺 [YouTube](https://www.youtube.com/@SymbolOne)
   / 🤖 [Reddit](https://www.reddit.com/user/Symbol_1/)
-  / 💼 [Linkedin](https://www.linkedin.com/in/symbol1/)
+  / 💼 [LinkedIn](https://www.linkedin.com/in/symbol1/)
 
 ## Research
 
@@ -70,7 +70,7 @@ keeps the source codes, comments, and results.
 
 ## Education
 
-* Ph.D in Mathematics  
+* Ph.D. in Mathematics  
   [Dissertation](https://www.ideals.illinois.edu/items/120952)
   (better-looking
    [single-spacing version](https://arxiv.org/abs/2107.06420) and
@@ -156,7 +156,7 @@ keeps the source codes, comments, and results.
   Vagreangvbany Zngurzngvpny Bylzcvnq  
   2011 & 2009
 
-## Journal Publications
+## Journal Publications & Slides
 
 6. H.-P. Wang, R. Gabrys, A. Vardy.
    [Tropical Group Testing](https://doi.org/10.1109/TIT.2023.3282847).
@@ -200,7 +200,7 @@ keeps the source codes, comments, and results.
     [slides @ UIUC](https://github.com/Symbol1/Complex2Order) and
     [slides @ Princeton](https://github.com/Symbol1/abc).)
 
-## Peer-Reviewed Conference Publications
+## Peer-Reviewed Conference Publications & Slides
 
 10. H.-P. Wang, C.-W. Chin.
     On Counting Subsequences and Higher-Order Fibonacci Numbers.
@@ -264,7 +264,7 @@ keeps the source codes, comments, and results.
     ([Full version](https://arxiv.org/abs/2201.05440) and
      [slides](https://github.com/Symbol1/PCR-TGT).)
 
-## Invited Talks
+## Invited Talks & Slides
 
 3. [GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage](https://ita.ucsd.edu/workshop/schedule)
    *Information Theory and Applications Workshop (ITA)*.
@@ -317,7 +317,7 @@ keeps the source codes, comments, and results.
 
 * 薩爾達傳說·[王國之淚的中、外文資料](/TotK)
 
-## Vaseman
+## Vaseman Gallery
 
 [Vaseman](/vaseman) is about drawings of people that look like vases.  
 (Data plan warning: scans of drawings!)
