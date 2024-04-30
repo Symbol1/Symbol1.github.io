@@ -29,7 +29,8 @@ Simons Institute for the Theory of Computing
 * [arXiv author page](https://arxiv.org/a/wang_h_8.html)
 
 * Other profiles:
-  [ORCiD](https://orcid.org/0000-0003-2574-1510)
+  [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1452302)
+  / [ORCiD](https://orcid.org/0000-0003-2574-1510)
   / [dblp](https://dblp.org/pid/75/329-1.html)
   / [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
   / [Web of Science](https://www.webofscience.com/wos/author/record/AAV-6801-2021)
