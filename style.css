@@ -1,7 +1,9 @@
-html { margin: 10%; }
+html {
+  max-width: 888px;
+  margin: 8%;
+}
 
 img {
-  width: 100%;
-  max-width: 800px;
+  width: 88%;
   display: block;
 }
