@@ -1,9 +1,11 @@
 html {
   max-width: 888px;
-  margin: 8%;
+  margin: 0 auto;
+  padding: 8%;
 }
 
 img {
-  width: 88%;
   display: block;
+  margin: 0 auto;
+  width: 88%;
 }
