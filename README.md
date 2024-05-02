@@ -51,7 +51,7 @@ I specialize in finding applications of
 **probability theory**,
 and other mathematical tools to said topics.
 
-For meta-comments of my works categorized by topics, see:
+For comments and figures by topics, see:
 
 * [Polar code papers](/paper/polar)
 
@@ -87,6 +87,10 @@ For meta-comments of my works categorized by topics, see:
 
 ## Employment
 
+* Visitor  
+  University of Maryland, College Park  
+  Summer 2024
+
 * Apple Research Fellow  
   Simons Institute for the Theory of Computing  
   January--May 2024  
@@ -100,7 +104,7 @@ For meta-comments of my works categorized by topics, see:
 * Visitor  
   Duke University  
   Winter 2022  
-  (Gave a small talk on distributed matrix multiplication.
+  (A talk on distributed matrix multiplication:
    [Slides](https://github.com/Symbol1/ChatPPT).)
 
 * Postdoctoral Scholar  
@@ -279,7 +283,7 @@ For meta-comments of my works categorized by topics, see:
    August 2021.
    ([Slides](https://github.com/Symbol1/MoulinDistorage).)
 
-## Community Services
+## Community Service
 
 * IEEE Transactions on Information Theory (7)
 * IEEE Transactions on Wireless Communications (3)
