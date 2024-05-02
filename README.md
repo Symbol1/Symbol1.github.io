@@ -42,7 +42,7 @@ I have worked on
 **polar codes** (for wireless communication),
 **regenerating codes** (for cloud storage),
 **distributed matrix--matrix multiplication** (for cloud computation),
-**group testing**, and
+**group testing** (with many downstream applications), and
 **DNA data storage**.
 I specialize in finding applications of
 **algebra**,
@@ -63,10 +63,8 @@ For meta-comments of my works categorized by topics, see:
 
 * [Polar ordering papers](/paper/polder)
 
-I computed, on a [supercomputer](https://en.wikipedia.org/wiki/Blue_Waters),
-the Tutte--Whitney polynomials of Reed--Muller codes of length 64.
-[This GitHub repository](https://github.com/Symbol1/BlueWaters-RM64)
-keeps the source codes, comments, and results.
+* A supercomputer ([Blue Waters](https://en.wikipedia.org/wiki/Blue_Waters))
+  [project](https://github.com/Symbol1/BlueWaters-RM64).
 
 ## Education
 
@@ -280,6 +278,15 @@ keeps the source codes, comments, and results.
    *SIAM Conference on Applied Algebraic Geometry (AG21)*.
    August 2021.
    ([Slides](https://github.com/Symbol1/MoulinDistorage).)
+
+## Community Services
+
+* IEEE Transactions on Information Theory (7)
+* IEEE Transactions on Wireless Communications (3)
+* IEEE Journal on Selected Areas in Information Theory (2)
+* SIAM Journal on Computing (2)
+* IEEE Access (1)
+* IEEE International Symposium on Information Theory (10)
 
 ## Extracurricular
 
