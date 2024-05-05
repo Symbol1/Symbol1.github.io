@@ -3,7 +3,7 @@
 
 \documentclass{article}
 
-\usepackage[margin=114pt]{geometry}
+\usepackage[margin=102pt]{geometry}
     \parindent0pt
     \parskip10pt plus10pt
 
@@ -11,7 +11,7 @@
     \setmainfont{NotoSerif}[ItalicFont=*-Italic, BoldFont=*-Bold]
     \setsansfont{NotoSerif}%{NotoSans}
     \setmonofont{NotoSerif}%{NotoSansMono}
-    \newfontfamily\zhfamily{NotoSerifTC}
+    \def\texttc#1{{\fontspec{NotoSerifTC}\raisebox{-0.07em}{#1}}}
     \def\sec#1{\vskip1em\textbf{\fs1#1}}
     \def\fs#1{%
         \pgfmathsetmacro\a{#1}%
@@ -31,7 +31,7 @@
 \fs2
                                           CURRICULUM VITAE
 
-                               Hsin-Po Wang \kern2em {\zhfamily 王新博}
+                                 Hsin-Po Wang \kern2em \texttc{王新博}
 
 \fs0
 
@@ -45,9 +45,9 @@
 
 \sec{Education}
 
-Ph.D in Math \hfill       University of Illinois Urbana-Champaign, Illinois       \hfill  2016--2021
+Ph.D. in Math \hfill       University of Illinois Urbana-Champaign, Illinois       \hfill 2016--2021
 
-BSc in Math  \hfill National Taiwan University ({\zhfamily 國立臺灣大學}), Taiwan \hfill  2011--2015
+B.Sc. in Math \hfill   National Taiwan University (\texttc{國立臺灣大學}), Taiwan  \hfill 2011--2015
 
 \sec{Employment}
 
@@ -74,11 +74,13 @@ Research Assistant Fellowship                                                   
 
 Teacher ranked as excellent by their students             \hfill Fall 2019, Spring 2019, Spring 2018
 
-{\zhfamily 書卷獎} (top 5\% GPA)   \hfill Fall 15, Spring 14, Spring 13, Fall 12, Spring 12, Fall 11
+\texttc{理學院院長獎} (Dean's List \#2 when graduation)                                  \hfill 2015
 
-{\zhfamily 蕭正堂紀念獎學金} (Prof. Cheng-Tang Hsiao Memorial Scholarship)               \hfill 2014
+\texttc{書卷獎} (top 5\% GPA)      \hfill Fall 15, Spring 14, Spring 13, Fall 12, Spring 12, Fall 11
 
-{\zhfamily 胡達開先生紀念獎學金} (Prof. Ta-Kai Hu Memorial Scholarship)                  \hfill 2013
+\texttc{蕭正堂紀念獎學金} (Prof. Cheng-Tang Hsiao Memorial Scholarship)                  \hfill 2014
+
+\texttc{胡達開先生紀念獎學金} (Prof. Ta-Kai Hu Memorial Scholarship)                     \hfill 2013
 
 \sec{Research Interests}
 
@@ -89,12 +91,12 @@ Teacher ranked as excellent by their students             \hfill Fall 2019, Spri
 I am interested in
 \interest{information theory} and
 \interest{coding theory}.
-I have worked on
+Being working on
 \work{polar codes} (wireless communication), 
 \work{regenerating codes} (cloud storage),
-\work{distributed matrix--matrix multiplication} (cloud computation),
+\work{distributed matrix multiplication} (cloud computation),
 \work{group testing} (with many downstream applications), and
-\work{DNA data storage}.
+\work{DNA data storage} (archival storage),
 I specialize in finding applications of
 \apply{algebra},
 \apply{combinatorics},

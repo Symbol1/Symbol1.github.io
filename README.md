@@ -39,11 +39,11 @@ I am interested in
 **information theory** and
 **coding theory**.
 I have worked on
-**polar codes** (for wireless communication),
-**regenerating codes** (for cloud storage),
-**distributed matrix--matrix multiplication** (for cloud computation),
+**polar codes** (wireless communication),
+**regenerating codes** (cloud storage),
+**distributed matrix multiplication** (cloud computation),
 **group testing** (with many downstream applications), and
-**DNA data storage**.
+**DNA data storage** (archival storage).
 I specialize in finding applications of
 **algebra**,
 **combinatorics**,
@@ -55,13 +55,13 @@ For comments and figures by topics, see:
 
 * [Polar code papers](/paper/polar)
 
+* [Polar channel ordering papers](/paper/polder)
+
 * [Distributed storage papers](/paper/storage)
 
 * [Distributed computation paper](/paper/compute)
 
 * [Group testing papers](/paper/grouptest)
-
-* [Polar ordering papers](/paper/polder)
 
 * A supercomputer ([Blue Waters](https://en.wikipedia.org/wiki/Blue_Waters))
   [project](https://github.com/Symbol1/BlueWaters-RM64).
@@ -78,7 +78,7 @@ For comments and figures by topics, see:
   University of Illinois Urbana-Champaign  
   September 2016-- August 2021
 
-* Bachelor of Science in Mathematics  
+* B.Sc. in Mathematics  
   National Taiwan University (國立臺灣大學)  
   September 2011--June 2015
 
@@ -98,8 +98,9 @@ For comments and figures by topics, see:
    [video1](https://www.youtube.com/watch?v=K0ZIuwG8il8),
    [video2](https://www.youtube.com/watch?v=PsG7P00Odz8), and
    [slides](https://github.com/Symbol1/PolarTutorial).)  
-  (Group testing talk
-   [slides](https://github.com/Symbol1/GachaManim).)
+  (Group testing:
+   [new result](https://github.com/Symbol1/GachaManim) and
+   [downstream](https://github.com/Symbol1/SparseProblem).)
 
 * Visitor  
   Duke University  
@@ -142,6 +143,9 @@ For comments and figures by topics, see:
 
 * [Teacher ranked as excellent by their students](https://go.illinois.edu/lotrae)  
   Fall 2019 & Spring 2019 & Spring 2018
+
+* 理學院院長獎 (Dean's List \#2 when graduation)  
+  2015
 
 * 書卷獎 (top 5% GPA)  
   Fall 2015 & Spring 2014 & Spring 2013 & Fall 2012 & Spring 2012 & Fall 2011
