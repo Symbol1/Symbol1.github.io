@@ -3,8 +3,7 @@
 
 ![Vaseman standing still, smiling professionally](Jau-Pao%20Wang%202019-02-10.jpg)  
 ↑ Jau-Pao Wang, February 2019, pen on paper.  
-↑ Hello, I am Hsin-Po Wang.  Checkout [this page](../pronounce) for the
-  pronunciation of my name.
+↑ Hello, I am Hsin-Po Wang.
 
 ![Vaseman finished pruning a tree](Jau-Pao%20Wang%202019-02-19.jpg)  
 ↑ Jau-Pao Wang, February 2019, pen on paper.  

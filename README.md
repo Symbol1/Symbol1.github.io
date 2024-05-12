@@ -64,7 +64,7 @@ For comments and figures by topics, see:
 * [Group testing papers](/paper/grouptest)
 
 * A supercomputer ([Blue Waters](https://en.wikipedia.org/wiki/Blue_Waters))
-  [project](https://github.com/Symbol1/BlueWaters-RM64).
+  [project](https://github.com/Symbol1/BlueWaters-RM64)
 
 ## Education
 
@@ -118,8 +118,8 @@ For comments and figures by topics, see:
 * Visitor  
   National Taiwan University  
   Summer 2022  
-  (Taught a small, short lecture on polar codes.
-   [Lecture notes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).)  
+  (A short lecture on
+   [polar codes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).)  
 
 * Postdoctoral Scholar  
   Supervisors =
@@ -332,7 +332,9 @@ For comments and figures by topics, see:
 
 * 薩爾達傳說·[王國之淚的中、外文資料](/TotK)
 
-## Vaseman Gallery
+## Vaseman Gallery (Jau-Pao Wang)
 
 [Vaseman](/vaseman) is about drawings of people that look like vases.  
 (Data plan warning: scans of drawings!)
+
+![Vaseman standing still, smiling professionally](vaseman/Jau-Pao%20Wang%202019-02-10.jpg)  
