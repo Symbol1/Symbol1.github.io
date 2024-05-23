@@ -1,8 +1,7 @@
 
 # Hsin-Po Wang （王新博）
 
-Apple Research Fellow  
-Simons Institute for the Theory of Computing
+⟨next_job_title⟩ 
 
 * [PDF CV](/cv/cv_Hsin-Po_WANG.pdf)
 
@@ -332,7 +331,7 @@ For comments and figures by topics, see:
 
 * 薩爾達傳說·[王國之淚的中、外文資料](/TotK)
 
-## Vaseman Gallery (Jau-Pao Wang)
+## Vaseman Gallery (artist = Jau-Pao Wang)
 
 [Vaseman](/vaseman) is about drawings of people that look like vases.  
 (Data plan warning: scans of drawings!)
