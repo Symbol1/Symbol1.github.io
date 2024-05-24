@@ -29,25 +29,31 @@
 
 * Other profiles:
   [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1452302)
+  / [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=316016)
   / [ORCiD](https://orcid.org/0000-0003-2574-1510)
   / [dblp](https://dblp.org/pid/75/329-1.html)
   / [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
   / [Web of Science](https://www.webofscience.com/wos/author/record/AAV-6801-2021)
 
 I am interested in
-**information theory** and
-**coding theory**.
+[information theory](https://en.wikipedia.org/wiki/Information_theory) and
+[coding theory](https://en.wikipedia.org/wiki/Coding_theory).
 I have worked on
-**polar codes** (wireless communication),
-**regenerating codes** (cloud storage),
-**distributed matrix multiplication** (cloud computation),
-**group testing** (with many downstream applications), and
-**DNA data storage** (archival storage).
+[**polar codes**](https://en.wikipedia.org/wiki/Polar_code_(coding_theory))
+(wireless communication),
+[**regenerating codes**](https://errorcorrectionzoo.org/c/regenerating)
+(cloud storage),
+[**distributed matrix multiplication**](https://errorcorrectionzoo.org/c/matrix_computation)
+(cloud computation),
+[**group testing**](https://en.wikipedia.org/wiki/Group_testing)
+(with many downstream applications), and
+[**DNA data storage**](https://en.wikipedia.org/wiki/DNA_digital_data_storage)
+(archival storage).
 I specialize in finding applications of
-**algebra**,
-**combinatorics**,
-**calculus**,
-**probability theory**,
+*algebra*,
+*combinatorics*,
+*calculus*,
+*probability theory*,
 and other mathematical tools to said topics.
 
 For comments and figures by topics, see:
@@ -62,8 +68,8 @@ For comments and figures by topics, see:
 
 * [Group testing papers](/paper/grouptest)
 
-* A supercomputer ([Blue Waters](https://en.wikipedia.org/wiki/Blue_Waters))
-  [project](https://github.com/Symbol1/BlueWaters-RM64)
+* A computational [project](https://github.com/Symbol1/BlueWaters-RM64)
+  ran on [Blue Waters](https://en.wikipedia.org/wiki/Blue_Waters)
 
 ## Education
 
@@ -99,7 +105,7 @@ For comments and figures by topics, see:
    [slides](https://github.com/Symbol1/PolarTutorial).)  
   (Group testing:
    [new result](https://github.com/Symbol1/GachaManim) and
-   [downstream](https://github.com/Symbol1/SparseProblem).)
+   [big picture](https://github.com/Symbol1/SparseProblems).)
 
 * Visitor  
   Duke University  
