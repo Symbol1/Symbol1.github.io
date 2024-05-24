@@ -68,8 +68,8 @@ For comments and figures by topics, see:
 
 * [Group testing papers](/paper/grouptest)
 
-* A computational [project](https://github.com/Symbol1/BlueWaters-RM64)
-  ran on [Blue Waters](https://en.wikipedia.org/wiki/Blue_Waters)
+* A [project](https://github.com/Symbol1/BlueWaters-RM64)
+  ran on a [super computer](https://en.wikipedia.org/wiki/Blue_Waters)
 
 ## Education
 
@@ -77,7 +77,7 @@ For comments and figures by topics, see:
   [Dissertation](https://www.ideals.illinois.edu/items/120952)
   (better-looking
    [single-spacing version](https://arxiv.org/abs/2107.06420) and
-   [slides](https://github.com/Symbol1/PhD-Thesis))  
+   [defense slides](https://github.com/Symbol1/PhD-Thesis))  
   Advisor =
   [Iwan Duursma](https://duursma.web.illinois.edu/)  
   University of Illinois Urbana-Champaign  
