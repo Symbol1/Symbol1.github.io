@@ -90,7 +90,7 @@ For comments and figures by topics, see:
 * Gnvcrv Zhavpvcny Wvnathb Uvtu Fpubby  
   2008--2011
 
-## Employment
+## Employment & Experience
 
 * Visitor  
   University of Maryland, College Park  
@@ -137,6 +137,11 @@ For comments and figures by topics, see:
 * Visitor  
   National Center for Theoretical Sciences (國家理論科學研究中心)  
   Winter 2020 & Summer 2023
+
+* Teaching at
+  [a remote school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
+  as a substitution to the mandatory military service.  
+  September 2015--August 2016
 
 ## Awards & Honors
 
@@ -320,11 +325,6 @@ For comments and figures by topics, see:
 * Team Leader  
   2015 International Mathematics Competition (CIMC)
   ([Chiu Chang's Archive](https://chiuchang.org/imc/en/category/cimc-2015-en/))
-
-* Teaching in a
-  [remote middle-school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
-  as a substitution to the mandatory military service.  
-  September 2015--August 2016
 
 * I maintain a LaTeX package [snaptodo](https://www.ctan.org/pkg/snaptodo).
 
