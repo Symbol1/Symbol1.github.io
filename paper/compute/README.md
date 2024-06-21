@@ -31,24 +31,27 @@ can actually save time by paying for more CPU times.
 
 The contribution of [[PlutoCharon20]] is three-fold.
 
-* One: We obverse that the routine computation of $A\times B$ can be
-  carried-out by fast matrix multiplication (FMM).  This construction is named **Pluto codes**
-  because the smallest working example uses nine workers and can afford breaking one, which reminds
-  us that Pluto used to be the ninth planet.
+* One: We obverse that the routine computation of $A\times B$ can be carried-out by fast matrix
+  multiplication (FMM).  This construction is named **Pluto codes** because the smallest working
+  example uses nine workers and can afford breaking one, which reminds us that Pluto used to be the
+  ninth planet.
 
-* Two: Applying Pluto codes recursively, we obtain codes that behave
-  like tensor product codes.  Tensor produce codes have fast iterative decoders that is
-  parallelism-friendly.  This fits the current context of distributed computation.
+* Two: Applying Pluto codes recursively, we obtain codes that behave like tensor product codes.
+  Tensor produce codes have fast iterative decoders that is parallelism-friendly.  This fits the
+  current context of distributed computation.
 
-* Three: We observe that the computation of $(gA) \times (Bh)$, when $g$
-  and $h$ are matrices, can be carried-out by FMM as well.  This is named **Charon construction**
-  after the moon of Pluto.  (Fun fact: Charon is the largest moon when it comes to the relative
-  size.)
+* Three: We observe that the computation of $(gA) \times (Bh)$, when $g$ and $h$ are matrices, can
+  be carried-out by FMM as well.  This is named **Charon construction** after the moon of Pluto.
+  (Fun fact: Charon is the largest moon when it comes to relative size.)
   
 The smallest working example of the Charon construction is when $g$, $A$, $B$, and $h$ are $2 \times
 4$, $4 \times 4$, $4 \times 4$, and $4 \times 2$, respectively.  The computation of $A \times B$
 costs 49 workers, the computation of $(gA) \times (Bh)$ costs 14 workers.  Together we need 63
-workers, one less than the naive algorithm uses (64).  So we are using less workers, yet we can
-recover from four erasures with high probability.
+workers, one fewer than the naive algorithm uses (64 workers).  So we are using less workers, yet we
+can recover from four erasures with high probability.
+
+Here is a figure I made to explain the tensor structure of Pluto.
+
+![A 3-dimensional arraay of cubes, each representing a CPU core](tensor.png)
 
 [PlutoCharon20]: https://arxiv.org/abs/2011.15082
