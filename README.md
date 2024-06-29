@@ -1,7 +1,7 @@
 
 # Hsin-Po Wang （王新博）
 
-⟨next_job_title⟩ 
+Asst. Prof. @ ee.ntu.edu.tw
 
 * [PDF CV](/cv/cv_Hsin-Po_WANG.pdf)
 
@@ -92,6 +92,11 @@ For comments and figures by topics, see:
 
 ## Employment & Experience
 
+* Assistant Professor  
+  Department of Electrical Engineering  
+  National Taiwan University (國立台灣大學)  
+  August 2024--
+
 * Visitor  
   University of Maryland, College Park  
   Summer 2024
@@ -177,13 +182,13 @@ For comments and figures by topics, see:
 6. H.-P. Wang, R. Gabrys, A. Vardy.
    [Tropical Group Testing](https://doi.org/10.1109/TIT.2023.3282847).
    *IEEE Transactions on Information Theory*.
-   June 2023.
+   September 2023.
    ([Preprint](https://arxiv.org/abs/2201.05440).)
 
 5. H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
    [Sub-4.7 Scaling Exponent of Polar Codes](https://doi.org/10.1109/TIT.2023.3253074).
    *IEEE Transactions on Information Theory*.
-   March 2023.
+   July 2023.
    ([Preprint](https://arxiv.org/abs/2204.11683).)
 
 4. I. Duursma, H.-P. Wang.
@@ -222,22 +227,26 @@ For comments and figures by topics, see:
     On Counting Subsequences and Higher-Order Fibonacci Numbers.
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024.
+    ([Preprint](https://arxiv.org/abs/2405.17499))
 
 9.  H.-P. Wang, V. Guruswami.
     Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically.
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024.
+    ([Preprint](https://arxiv.org/abs/2405.16373))
 
 8.  H.-P. Wang, V. Guruswami.
     Isolate and then Identify: Rethinking Adaptive Group Testing.
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024.
+    ([Preprint](https://arxiv.org/abs/2405.16374).)
 
 7.  H.-P. Wang, R. Gabrys, V. Guruswami.
     [Quickly-Decodable Group Testing with Fewer Tests: Price-Scarlett's Nonadaptive Splitting with Explicit Scalars](https://doi.org/10.1109/ISIT54713.2023.10206843).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023.
-    ([Slides](https://drive.google.com/file/d/18Kku7Q1lpmylhz8ScPs-zwBRzIyP6sec/view?usp=sharing).)
+    ([Preprint](https://arxiv.org/abs/2405.16370) and
+     [Slides](https://drive.google.com/file/d/18Kku7Q1lpmylhz8ScPs-zwBRzIyP6sec/view?usp=sharing).)
 
 6.  H.-P. Wang, C.-W. Chin.
     [Density Devolution for Ordering Synthetic Channels](https://doi.org/10.1109/ISIT54713.2023.10206540).
@@ -257,7 +266,8 @@ For comments and figures by topics, see:
     [How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?](https://doi.org/10.1109/ISIT54713.2023.10206989).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023.
-    (4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
+    ([Preprint](https://arxiv.org/abs/2405.16360) and
+     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
 
 3.  H.-P. Wang, V.-F. Dragoi.
     [Fast Methods for Ranking Synthetic BECs](https://doi.org/10.1109/ISIT54713.2023.10206704).
@@ -299,12 +309,13 @@ For comments and figures by topics, see:
 
 ## Community Service
 
-* IEEE Transactions on Information Theory (7)
-* IEEE Transactions on Wireless Communications (3)
-* IEEE Journal on Selected Areas in Information Theory (2)
-* SIAM Journal on Computing (2)
-* IEEE Access (1)
-* IEEE International Symposium on Information Theory (10)
+* IEEE Transactions on Information Theory x7
+* IEEE Transactions on Wireless Communications x3
+* IEEE Journal on Selected Areas in Information Theory x2
+* SIAM Journal on Computing x2
+* IEEE Access x1
+* IEEE International Symposium on Information Theory (ISIT) x10
+* International Conference on Randomization and Computation (RANDOM) x1
 
 ## Extracurricular
 
@@ -337,7 +348,7 @@ For comments and figures by topics, see:
 
 * 薩爾達傳說·[王國之淚的中、外文資料](/TotK)
 
-## Vaseman Gallery (artist = Jau-Pao Wang)
+## Vaseman Gallery (Artist = Jau-Pao Wang)
 
 [Vaseman](/vaseman) is about drawings of people that look like vases.  
 (Data plan warning: scans of drawings!)
