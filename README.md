@@ -126,7 +126,7 @@ For comments and figures by topics, see:
   October 2022--December 2023
 
 * Visitor  
-  National Taiwan University  
+  National Taiwan University (國立台灣大學)  
   Summer 2022  
   (A short lecture on
    [polar codes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).)  
@@ -309,13 +309,13 @@ For comments and figures by topics, see:
 
 ## Community Service
 
-* IEEE Transactions on Information Theory x7
-* IEEE Transactions on Wireless Communications x3
-* IEEE Journal on Selected Areas in Information Theory x2
-* SIAM Journal on Computing x2
-* IEEE Access x1
-* IEEE International Symposium on Information Theory (ISIT) x10
-* International Conference on Randomization and Computation (RANDOM) x1
+* IEEE Transactions on Information Theory (x7)
+* IEEE Transactions on Wireless Communications (x3)
+* IEEE Journal on Selected Areas in Information Theory (x2)
+* SIAM Journal on Computing (x2)
+* IEEE Access (x1)
+* IEEE International Symposium on Information Theory (ISIT) (x10)
+* International Conference on Randomization and Computation (RANDOM) (x1)
 
 ## Extracurricular
 
