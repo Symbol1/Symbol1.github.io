@@ -227,13 +227,15 @@ For comments and figures by topics, see:
     On Counting Subsequences and Higher-Order Fibonacci Numbers.
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024.
-    ([Preprint](https://arxiv.org/abs/2405.17499))
+    ([Preprint](https://arxiv.org/abs/2405.17499) and
+     [slides](https://drive.google.com/file/d/1ESqesAE-yNuHexI_JgWYQMcIQH4lz1KJ/view?usp=sharing))
 
 9.  H.-P. Wang, V. Guruswami.
     Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically.
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024.
-    ([Preprint](https://arxiv.org/abs/2405.16373))
+    ([Preprint](https://arxiv.org/abs/2405.16373) and
+     [slides](https://drive.google.com/file/d/1JBO1QyhORn_5ahKPbxFP2f6wSDee3zaw/view?usp=sharing))
 
 8.  H.-P. Wang, V. Guruswami.
     Isolate and then Identify: Rethinking Adaptive Group Testing.
@@ -292,10 +294,15 @@ For comments and figures by topics, see:
 
 ## Invited Talks & Slides
 
-3. [GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage](https://ita.ucsd.edu/workshop/schedule)
+4. [Geno-Weaving: Low-Complexity Capacity-Achieving Data Storage on DNA](https://www.ce.cit.tum.de/en/lnt/events/2024-coding-theory-and-algorithms-for-dna-based-data-storage/program/).
+   *Coding Theory and Algorithms for DNA-based Data Storage (ISIT2024 Satellite Workshop)*.
+   July 2024.
+   ([Time-lapse](https://www.youtube.com/watch?v=lZeyMdv9dRI).)
+
+3. [GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage](https://ita.ucsd.edu/workshop/schedule).
    *Information Theory and Applications Workshop (ITA)*.
    February 2024.
-   ([Slides](https://github.com/Symbol1/GenoWeave))
+   ([Slides](https://github.com/Symbol1/GenoWeave).)
 
 2. [Channel Manipulation as a Coding Technique](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29146).
    *Joint Mathematics Meetings (JMM)*.
