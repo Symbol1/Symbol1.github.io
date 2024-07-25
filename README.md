@@ -223,10 +223,10 @@ For comments and figures by topics, see:
 
 ## Peer-Reviewed Conference Publications & Slides
 
-11. V. Guruswami and H.-P. Wang.
+11. V. Guruswami, H.-P. Wang.
     Capacity-Achieving Gray Codes
     *International Conference on Randomization and Computation (RANDOM)*.
-    August 2024 London, UK.
+    August 2024, London, UK.
     ([Timelapse](https://www.youtube.com/watch?v=vMG5mLo5O8g).)
 
 10. H.-P. Wang, C.-W. Chin.
@@ -306,6 +306,7 @@ For comments and figures by topics, see:
 5. [ How to Speak Tensor](https://umi.dm.unibo.it/jm-umi-ams/special-sessions/special-sessions-on-25-26-july-2024/).
   *International AMS-UMI Joint Meeting*.
   July 2024, Palermo, Italy.
+  ([Slides](https://github.com/Symbol1/SpeakTensor).)
 
 4. [Geno-Weaving: Low-Complexity Capacity-Achieving Data Storage on DNA](https://www.ce.cit.tum.de/en/lnt/events/2024-coding-theory-and-algorithms-for-dna-based-data-storage/program/).
    *Coding Theory and Algorithms for DNA-based Data Storage (ISIT2024 Satellite Workshop)*.
