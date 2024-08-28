@@ -1,25 +1,34 @@
 
 # Hsin-Po Wang （王新博）
 
-Asst. Prof. @ ee.ntu.edu.tw
+Assistant Professor  
+Department of  Electrical Engineering  
+Graduate Institute of Communication Engineering  
+National Taiwan University
 
 * [PDF CV](/cv/cv_Hsin-Po_WANG.pdf)
 
-* Email: <a.simple.people@gmail.com>
+* Email: <hsinpo@ntu.edu.tw>
 
 * How to [pronounce my name](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
   (click the triangle button to play)
 
-* Social media:
-  🎮 [Discord](https://discord.com/channels/@me/527393219441590273)
-  / 🐦 [Twitter](https://twitter.com/SymbolOne1)
-  / ♾️ [Facebook](https://www.facebook.com/SymbolOne1/)
-  / 📷 [Instagram](https://www.instagram.com/SymbolOne1/)
-  / 📚 [StackExchange](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile)
-  / 🐙 [GitHub](https://github.com/Symbol1)
-  / 📺 [YouTube](https://www.youtube.com/@SymbolOne)
-  / 🤖 [Reddit](https://www.reddit.com/user/Symbol_1/)
-  / 💼 [LinkedIn](https://www.linkedin.com/in/symbol1/)
+* Social media
+  | 🎮 [Discord](https://discord.com/channels/@me/527393219441590273)
+  | 🐦 [Twitter](https://twitter.com/SymbolOne1)
+  | ♾️ [Facebook](https://www.facebook.com/SymbolOne1/)
+  | 📷 [Instagram](https://www.instagram.com/SymbolOne1/)
+  | 📚 [StackExchange](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile)
+  | 🐙 [GitHub](https://github.com/Symbol1)
+  | 📺 [YouTube](https://www.youtube.com/@SymbolOne)
+  | 🤖 [Reddit](https://www.reddit.com/user/Symbol_1/)
+  | 💼 [LinkedIn](https://www.linkedin.com/in/symbol1/)
+
+## Teaching
+
+* Fall 2024  Computer Programming (English class)
+
+## Advising
 
 ## Research
 
@@ -27,27 +36,27 @@ Asst. Prof. @ ee.ntu.edu.tw
 
 * [arXiv author page](https://arxiv.org/a/wang_h_8.html)
 
-* Other profiles:
-  [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1452302)
-  / [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=316016)
-  / [ORCiD](https://orcid.org/0000-0003-2574-1510)
-  / [dblp](https://dblp.org/pid/75/329-1.html)
-  / [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
-  / [Web of Science](https://www.webofscience.com/wos/author/record/AAV-6801-2021)
+* Other profiles
+  | [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1452302)
+  | [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=316016)
+  | [ORCiD](https://orcid.org/0000-0003-2574-1510)
+  | [dblp](https://dblp.org/pid/75/329-1.html)
+  | [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
+  | [Web of Science](https://www.webofscience.com/wos/author/record/AAV-6801-2021)
 
-I am interested in
+My interests are in
 [information theory](https://en.wikipedia.org/wiki/Information_theory) and
 [coding theory](https://en.wikipedia.org/wiki/Coding_theory).
-I have worked on
+Working on
 [**polar codes**](https://en.wikipedia.org/wiki/Polar_code_(coding_theory))
 (wireless communication),
+[**group testing**](https://en.wikipedia.org/wiki/Group_testing)
+(with many downstream applications including heavy hitter, compressed sensing, and multiple access channels),
 [**regenerating codes**](https://errorcorrectionzoo.org/c/regenerating)
 (cloud storage),
 [**distributed matrix multiplication**](https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm)
-(cloud computation),
-[**group testing**](https://en.wikipedia.org/wiki/Group_testing)
-(with many downstream applications including heavy hitter, compressed sensing, and multiple access channels), and
-[**DNA data storage**](https://en.wikipedia.org/wiki/DNA_digital_data_storage)
+(cloud computation), and
+[**DNA digital data storage**](https://en.wikipedia.org/wiki/DNA_digital_data_storage)
 (archival storage).
 I specialize in finding applications of
 *algebra*,
@@ -56,17 +65,21 @@ I specialize in finding applications of
 *probability theory*,
 and other mathematical tools to said topics.
 
-For comments and figures by topics, see:
+I tend to put too many Ti*k*Z figures in my papers.  Check out the following links for those figures
+and some comments.  See also [TikZ TeX Talk](/ttt) for techniques that are too fancy for papers
+and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 
-* [Polar code papers](/paper/polar)
+* [Polar codes](/paper/polar)  (x8)
 
-* [Polar channel ordering papers](/paper/polder)
+* [Polar channel ordering](/paper/polder) (x3)
 
-* [Distributed storage papers](/paper/storage)
+* [Group testing](/paper/grouptest) (x3)
 
-* [Distributed computation paper](/paper/compute)
+* [Distributed storage](/paper/storage) (x2)
 
-* [Group testing papers](/paper/grouptest)
+* [Distributed computation](/paper/compute) (x1)
+
+* [DNA digital data storage](/paper/dna) (x1)
 
 * A [project](https://github.com/Symbol1/BlueWaters-RM64)
   ran on a [super computer](https://en.wikipedia.org/wiki/Blue_Waters)
@@ -133,7 +146,7 @@ For comments and figures by topics, see:
 
 * Postdoctoral Scholar  
   Supervisors =
-  [Alexander Vardy](https://orcid.org/0000-0003-3303-9078) and
+  [Alexander Vardy](https://orcid.org/0000-0003-3303-9078) +
   [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
   Department of Electrical and Computer Engineering  
   University of California San Diego  
@@ -230,7 +243,7 @@ For comments and figures by topics, see:
     ([Timelapse](https://www.youtube.com/watch?v=vMG5mLo5O8g).)
 
 10. H.-P. Wang, C.-W. Chin.
-    On Counting Subsequences and Higher-Order Fibonacci Numbers.
+    [On Counting Subsequences and Higher-Order Fibonacci Numbers](https://doi.org/10.1109/ISIT57864.2024.10619178).
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024, Athens, Greece.
     ([Preprint](https://arxiv.org/abs/2405.17499) and
@@ -240,14 +253,14 @@ For comments and figures by topics, see:
      [Acropolis](https://en.wikipedia.org/wiki/Acropolis_of_Athens).)
 
 9.  H.-P. Wang, V. Guruswami.
-    Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically.
+    [Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically](https://doi.org/10.1109/ISIT57864.2024.10619251).
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024, Athens, Greece.
     ([Preprint](https://arxiv.org/abs/2405.16373) and
      [slides](https://drive.google.com/file/d/1JBO1QyhORn_5ahKPbxFP2f6wSDee3zaw/))
 
 8.  H.-P. Wang, V. Guruswami.
-    Isolate and then Identify: Rethinking Adaptive Group Testing.
+    [Isolate and then Identify: Rethinking Adaptive Group Testing](https://doi.org/10.1109/ISIT57864.2024.10619098).
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024, Athens, Greece.
     ([Preprint](https://arxiv.org/abs/2405.16374).)
@@ -303,7 +316,7 @@ For comments and figures by topics, see:
 
 ## Invited Talks & Slides
 
-5. [ How to Speak Tensor](https://umi.dm.unibo.it/jm-umi-ams/special-sessions/special-sessions-on-25-26-july-2024/).
+5. [How to Speak Tensor](https://umi.dm.unibo.it/jm-umi-ams/special-sessions/special-sessions-on-25-26-july-2024/).
   *International AMS-UMI Joint Meeting*.
   July 2024, Palermo, Italy.
   ([Slides](https://github.com/Symbol1/SpeakTensor).)
@@ -316,12 +329,12 @@ For comments and figures by topics, see:
 
 3. [GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage](https://ita.ucsd.edu/workshop/schedule).
    *Information Theory and Applications Workshop (ITA)*.
-   February 2024, San Diego, US.
+   February 2024, San Diego, California.
    ([Slides](https://github.com/Symbol1/GenoWeave).)
 
 2. [Channel Manipulation as a Coding Technique](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29146).
    *Joint Mathematics Meetings (JMM)*.
-   January 2024, San Francisco, US.
+   January 2024, San Francisco, California.
    ([Slides](https://github.com/Symbol1/ChannelManipul).)
 
 1. [Moulin Codes](https://meetings.siam.org/sess/dsp_talk.cfm?p=116047).
@@ -337,6 +350,7 @@ For comments and figures by topics, see:
 * SIAM Journal on Computing (x2)
 * IEEE Access (x1)
 * IEEE International Symposium on Information Theory (ISIT) (x10)
+* ACM-SIAM Symposium on Discrete Algorithms (SODA) (x1)
 * International Conference on Randomization and Computation (RANDOM) (x1)
 
 ## Extracurricular
