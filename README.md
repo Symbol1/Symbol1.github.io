@@ -240,7 +240,8 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
     Capacity-Achieving Gray Codes
     *International Conference on Randomization and Computation (RANDOM)*.
     August 2024, London, UK.
-    ([Timelapse](https://www.youtube.com/watch?v=vMG5mLo5O8g).)
+    ([Timelapse1](https://www.youtube.com/watch?v=vMG5mLo5O8g) and
+     [Timelapse2](https://www.youtube.com/watch?v=ct660g4xnTI).)
 
 10. H.-P. Wang, C.-W. Chin.
     [On Counting Subsequences and Higher-Order Fibonacci Numbers](https://doi.org/10.1109/ISIT57864.2024.10619178).
