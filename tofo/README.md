@@ -8,11 +8,14 @@ The game developers made it easy to share our factory designs with each other
 using [blueprint strings](https://wiki.factorio.com/Blueprint_string_format),
 which resembles how we copy and paste codes from StackOverflow.
 
-## 2x2 Nuclear Reactors in 46x46 tiles
+## 2x2 nuclear reactors in 46x46 tiles
+
+4 nuclear reactors, 48 heat exchangers, and 84 steam turbines.
+This is almost 44x46 tiles and there seems to be plenty of room to spare.
 
 ![Nuclear Reactor design](nuclear46x46.png)
 
-```
+```Factorio
 0eJzNXV1vGzcQ/C96loojebwPP/ZvFEUg2xdHgCy5shQkCPzfK8eJdJY5npnLQ/LUJlVHu8vd2SWXXH2bXa8Pw8NutdnPrr7NVjf
 bzePs6p9vs8fV3Wa5fv67/deHYXY1W+2H+9l8tlneP//pcT8s7xf7w+56tRlmT/PZanM7fJldhad/57Nhs1/tV8ML0Pc/fP2wOdx
 fD7vjB04QD6sj7nz2sH08fni7ef6qI8Ci/SvPZ1+P/xLjX/npaf4GIb5CWOy3i7vd9rC5LWA1r7Dms9vVbrh5+UBTQE5MtprJVjO
@@ -51,11 +54,20 @@ d2rnCCOpRJFZFd1F0FnnRhJV+MFf8vVzanT17LZSOem2mEJ2uYIQKln99jW5XE5Oul7erGELdrmIE/Ue
 6M566EB0ZT6Osb2UL4yAr+qDeOn13pMi/85ef8L4a/eL3fPZ52D2+fKALddvHto59/93h1svrYX389N+nTz89/Q9bwJFp
 ```
 
-## 2x2 Nuclear Reactors in 42x50 tiles
+The following is a possible 44x46 design that has fewer symmetries.
+
+![Nuclear Reactor design](nuclear44x46.png)
+
+## 2x2 nuclear reactors in 42x50 tiles
+
+4 nuclear reactors, 48 heat exchangers, and 96 steam turbines.
+This one is more minimalist as heat exchangers feed directly into steam turbines.
+There are barely any tubes.
+The underground ones you see are such that you can feed water from just one side.
 
 ![Nuclear Reactor design](nuclear42x50.png)
 
-```
+```Factorio
 0eJzNnNtu2zgURf9Fz1Yh0brmcX5jUBSOo6QCHDkjy0WLIv8+djO1FZmnXJt96DwVad0VkTwXanOb35P73bF7GfthSu6+J/12Pxy
 Su7+/J4f+adjszn83fXvpkrukn7rnZJUMm+fzT4ep2zyn03G874cueV0l/fDQfU3u8tePq6Qbpn7quzfQjx++fRqOz/fdePqAgVg
 lL/vD6X/th/PvPJFS5z6Uq+Tb6b+0H8rTb3jox2779gH3uroBOwzOawm8voA/d5sp7b5uP2+Gp9O/eMiFwa083ELg5sLzlngitHm
@@ -87,10 +99,10 @@ o9LPx1/pFWxitX7WF0fJlW5gsX7eFyfKFWzTQmLsBxNnS30BKPxy8/l1bjNa/bovRqqhuXXHrllc5BJf
 
 ## Useful links
 
-* Official wiki
-  * [Technologies](https://wiki.factorio.com/Technologies)
-  * [Materials and recipes](https://wiki.factorio.com/Materials_and_recipes)
+* Official wiki:
+  * [Technologies](https://wiki.factorio.com/Technologies),
+  * [Materials and recipes](https://wiki.factorio.com/Materials_and_recipes).
 
-* [lab](https://factoriolab.github.io/) by dcbroad3
+* [lab](https://factoriolab.github.io/) by dcbroad3.
 
 * [blueprint editor](https://fbe.teoxoy.com) by teoxoy.

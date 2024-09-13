@@ -381,6 +381,8 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 * [Oriclip](/oriclip) is about binder clip sculptures.  
   (Data plan warning: a lot of photos!)
 
+* [Theoretico Factorio](/tofo): a game about automation and logistic.
+
 * 薩爾達傳說·[曠野之息的中、外文資料](/BotW)
 
 * 薩爾達傳說·[王國之淚的中、外文資料](/TotK)
