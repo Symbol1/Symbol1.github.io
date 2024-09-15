@@ -292,16 +292,24 @@ qok7S5+f/AOlD2Wk=
 ## Blue-Printish Museum
 
 A museum that showcasing all recipes in this game.
-It only requires wood, coal, and ores in the logistic network.
-Raw fishes are not needed as the rocket silo produces them.
+It only requires wood, coal, stone, ores, and water barrel in the logistic network.
+Raw fish is not needed as the rocket silo produces them.
 Crude oil becomes unnecessary once coal liquification starts.
 
 The museum serves as a meta-blueprint, allowing you to easily copy-and-paste
-the 8-beacon design for any recipe you want to mass-produce.
+8-beacon designs for any recipe you want to mass-produce.
 It also functions as a small mall, slowly producing everything you need.
 If you are not taking anything, it is a 10 SPM mini factory.
 
-It even equips with solar panels to offset carbon emissions.
+More features
+
+* Solar panels help offset carbon emissions.
+* Coal liquification helps consume wood.
+* Solid fuel prioritizes light oil over heavy oil over petroleum gas.
+* It prioritizes advanced oil processing and coal liquification over cracking.
+* It prioritizes U-235 from uranium processing over Kovarex enrichment process.
+* Rocket silo is placed at the bottom center, the same place the official website does.
+
 
 ![All recipes](blueprintish.png)
 
@@ -661,4 +669,3 @@ N9SC+7UEKidhrxINorgcJbQ+iiwfRiAfRRsrYQITlQf3b2z1vuRbev26fT7vpC6T9+na7z3/3P8q//Ze
 * [Lab](https://factoriolab.github.io/) by dcbroad3
 
 * [Blueprint editor](https://fbe.teoxoy.com) by teoxoy
-
