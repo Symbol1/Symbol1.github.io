@@ -302,7 +302,7 @@ If you are not taking anything, it is a 10 SPM mini factory.
 
 ![All recipe museum](museum-narrow.png)
 
-[blueprint string too long to inline](museum-narrow.txt)
+[blueprint too long to inline](museum-narrow.txt)
 
 More features:
 
@@ -327,7 +327,7 @@ Here is a wide version such that the rocket silo is absolutely centered.
 
 ![All recipe museum](museum-wide.png)
 
-[blueprint string too long to inline](museum-narrow.txt)
+[blueprint too long to inline](museum-wide.txt)
 
 ## Useful links
 
