@@ -43,6 +43,7 @@
             "dblp",
             "Dragoi",
             "Duursma",
+            "Factorio",
             "Gabrys",
             "GenoWeave",
             "Guruswami",
@@ -55,6 +56,8 @@
             "Iwan",
             "IYMC",
             "Jau-Pao",
+            "Kovarex",
+            "liquification",
             "MathSciNet",
             "Moulin",
             "Nonadaptive",
@@ -66,14 +69,17 @@
             "SIAGA",
             "Simons",
             "snaptodo",
+            "StackOverflow",
             "TAIMC",
+            "Theoretico",
             "TikZ",
             "TIMC",
             "Tutte--Whitney",
             "UIUC",
             "Vardy",
             "Vaseman",
-            "Venkatesan"
+            "Venkatesan",
+            "Wube"
         ]
     }
 }
