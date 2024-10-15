@@ -8,6 +8,8 @@ National Taiwan University
 
 * [PDF CV](/cv/cv_Hsin-Po_WANG.pdf)
 
+* Tel: 33663700#62567
+
 * Email: <hsinpo@ntu.edu.tw>
 
 * How to [pronounce my name](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
@@ -146,7 +148,7 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 
 * Postdoctoral Scholar  
   Supervisors =
-  [Alexander Vardy](https://orcid.org/0000-0003-3303-9078) +
+  [Alexander Vardy](https://en.wikipedia.org/wiki/Alexander_Vardy) +
   [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
   Department of Electrical and Computer Engineering  
   University of California San Diego  
@@ -345,7 +347,7 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 
 ## Community Service
 
-* IEEE Transactions on Information Theory (x7)
+* IEEE Transactions on Information Theory (x8)
 * IEEE Transactions on Wireless Communications (x3)
 * IEEE Journal on Selected Areas in Information Theory (x2)
 * SIAM Journal on Computing (x2)
