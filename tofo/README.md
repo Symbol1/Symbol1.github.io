@@ -339,3 +339,5 @@ Here is a wide version such that the rocket silo is absolutely centered.
 * [Lab](https://factoriolab.github.io/) by dcbroad3
 
 * [Blueprint editor](https://fbe.teoxoy.com) by teoxoy
+
+* [Cheat sheet](https://factoriocheatsheet.com) by deniszholob

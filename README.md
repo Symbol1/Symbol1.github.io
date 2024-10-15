@@ -28,7 +28,7 @@ National Taiwan University
 
 ## Teaching
 
-* Fall 2024  Computer Programming (English class)
+* Fall 2024 Computer Programming (English taught)
 
 ## Advising
 
