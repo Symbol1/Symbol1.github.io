@@ -2,13 +2,13 @@
 # Hsin-Po Wang （王新博）
 
 Assistant Professor  
-Department of  Electrical Engineering  
-Graduate Institute of Communication Engineering  
+電機系 Dept of EE  
+電信所 Grad Inst of Comm  
 National Taiwan University
 
 * [PDF CV](/cv/cv_Hsin-Po_WANG.pdf)
 
-* Tel: 33663700#62567
+* Tel: [+886(02)3366-2567](tel:+886(02)3366-2567)
 
 * Email: <hsinpo@ntu.edu.tw>
 
@@ -99,7 +99,7 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
   September 2016-- August 2021
 
 * B.Sc. in Mathematics  
-  National Taiwan University (國立臺灣大學)  
+  國立臺灣大學 National Taiwan University  
   September 2011--June 2015
 
 * Gnvcrv Zhavpvcny Wvnathb Uvtu Fpubby  
@@ -108,8 +108,9 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 ## Employment & Experience
 
 * Assistant Professor  
-  Department of Electrical Engineering  
-  National Taiwan University (國立台灣大學)  
+  電機工程學系 Department of Electrical Engineering  
+  電信工程學研究所 Graduate Institute of Communication Engineering  
+  國立台灣大學 National Taiwan University  
   August 2024--
 
 * Visitor  
@@ -141,7 +142,7 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
   October 2022--December 2023
 
 * Visitor  
-  National Taiwan University (國立台灣大學)  
+  國立台灣大學 National Taiwan University  
   Summer 2022  
   (A short lecture on
    [polar codes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).)  
@@ -155,7 +156,7 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
   October 2021--September 2022
 
 * Visitor  
-  National Center for Theoretical Sciences (國家理論科學研究中心)  
+  國家理論科學研究中心 National Center for Theoretical Sciences  
   Winter 2020 & Summer 2023
 
 * Teaching at
@@ -174,18 +175,18 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 * [Teacher ranked as excellent by their students](https://go.illinois.edu/lotrae)  
   Fall 2019 & Spring 2019 & Spring 2018
 
-* 理學院院長獎 (Dean's List \#2 when graduation)  
+* 理學院院長獎 Dean's List \#2 when graduation  
   2015
 
-* 書卷獎 (top 5% GPA)  
+* 書卷獎 top 5% GPA  
   Fall 2015 & Spring 2014 & Spring 2013 & Fall 2012 & Spring 2012 & Fall 2011
 
 * [蕭正堂紀念獎學金](http://140.112.51.185/scholarship/%E5%88%86%E9%A0%81/index%208.html)
-  (Prof. Cheng-Tang Hsiao Memorial Scholarship)  
+  Prof. Cheng-Tang Hsiao Memorial Scholarship  
   2014
 
 * [胡達開先生紀念獎學金](http://140.112.51.185/scholarship/%E5%88%86%E9%A0%81/index%201.html)
-  (Prof. Ta-Kai Hu Memorial Scholarship)  
+  Prof. Ta-Kai Hu Memorial Scholarship  
   2013
 
 * [Tbyq zrqny](uggcf://jjj.vzb-bssvpvny.bet/cnegvpvcnag_e.nfck?vq=18696)  
