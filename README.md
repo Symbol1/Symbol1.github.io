@@ -2,9 +2,8 @@
 # Hsin-Po Wang （王新博）
 
 Assistant Professor  
-電機系 Dept of EE  
-電信所 Grad Inst of Comm  
-National Taiwan University
+電機系 Dept of EE 電信所 Grad Inst of Comm  
+台大 National Taiwan University  
 
 * [PDF CV](/cv/cv_Hsin-Po_WANG.pdf)
 
@@ -13,7 +12,11 @@ National Taiwan University
 * Email: <hsinpo@ntu.edu.tw>
 
 * How to [pronounce my name](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
-  (click the triangle button to play)
+  (Click the triangle button to play)
+
+* Office: 電機二館 237
+(2nd floor, 2 meters from
+[25°01'07.8"N 121°32'31.8"E](https://www.google.com/maps/place/25°01'07.8%22N+121°32'31.8%22E))
 
 * Social media
   | 🎮 [Discord](https://discord.com/channels/@me/527393219441590273)
