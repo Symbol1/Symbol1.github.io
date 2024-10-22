@@ -5,29 +5,29 @@ Assistant Professor
 電機系 Dept of EE 電信所 Grad Inst of Comm  
 台大 National Taiwan University  
 
-* [PDF CV](/cv/cv_Hsin-Po_WANG.pdf)
-
-* Tel: [+886(02)3366-2567](tel:+886(02)3366-2567)
+* [CV.pdf](/cv/cv_Hsin-Po_WANG.pdf)
 
 * Email: <hsinpo@ntu.edu.tw>
 
-* How to [pronounce my name](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
-  (Click the triangle button to play)
+* Tel: [+886 (02) 3366-2567](tel:+8860233662567)
 
-* Office: 電機二館 237
-(2nd floor, 2 meters from
-[25°01'07.8"N 121°32'31.8"E](https://www.google.com/maps/place/25°01'07.8%22N+121°32'31.8%22E))
+* Office: 電機二館 237  
+  (2nd floor, 2 meters from
+   [25°01'07.8"N 121°32'31.8"E](https://www.google.com/maps/place/25°01'07.8%22N+121°32'31.8%22E))
 
 * Social media
   | 🎮 [Discord](https://discord.com/channels/@me/527393219441590273)
   | 🐦 [Twitter](https://twitter.com/SymbolOne1)
+  | 🤖 [Reddit](https://www.reddit.com/user/Symbol_1/)
+  | 📺 [YouTube](https://www.youtube.com/@SymbolOne)
   | ♾️ [Facebook](https://www.facebook.com/SymbolOne1/)
   | 📷 [Instagram](https://www.instagram.com/SymbolOne1/)
   | 📚 [StackExchange](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile)
   | 🐙 [GitHub](https://github.com/Symbol1)
-  | 📺 [YouTube](https://www.youtube.com/@SymbolOne)
-  | 🤖 [Reddit](https://www.reddit.com/user/Symbol_1/)
   | 💼 [LinkedIn](https://www.linkedin.com/in/symbol1/)
+
+* How to [pronounce my name](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
+  (Click the triangle button to play)
 
 ## Teaching
 
@@ -42,12 +42,13 @@ Assistant Professor
 * [arXiv author page](https://arxiv.org/a/wang_h_8.html)
 
 * Other profiles
-  | [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1452302)
-  | [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=316016)
   | [ORCiD](https://orcid.org/0000-0003-2574-1510)
   | [dblp](https://dblp.org/pid/75/329-1.html)
   | [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
+  | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219496296)
   | [Web of Science](https://www.webofscience.com/wos/author/record/AAV-6801-2021)
+  | [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1452302)
+  | [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=316016)
 
 My interests are in
 [information theory](https://en.wikipedia.org/wiki/Information_theory) and
@@ -151,9 +152,8 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
    [polar codes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).)  
 
 * Postdoctoral Scholar  
-  Supervisors =
-  [Alexander Vardy](https://en.wikipedia.org/wiki/Alexander_Vardy) +
-  [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
+  Supervisors = [Alexander Vardy](https://en.wikipedia.org/wiki/Alexander_Vardy)  
+  Supervisors += [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
   Department of Electrical and Computer Engineering  
   University of California San Diego  
   October 2021--September 2022
