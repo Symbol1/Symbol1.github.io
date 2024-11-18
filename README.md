@@ -243,7 +243,7 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 ## Peer-Reviewed Conference Publications & Slides
 
 11. V. Guruswami, H.-P. Wang.
-    Capacity-Achieving Gray Codes
+    [Capacity-Achieving Gray Codes](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2024.65).
     *International Conference on Randomization and Computation (RANDOM)*.
     August 2024, London, UK.
     ([Timelapse1](https://www.youtube.com/watch?v=vMG5mLo5O8g) and
