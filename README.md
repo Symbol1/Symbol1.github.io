@@ -11,7 +11,7 @@ Assistant Professor
 
 * Tel: [+886 (02) 3366-2567](tel:+8860233662567)
 
-* Office: 電機二館 237  
+* Office: 電機二館 237
   (2nd floor, 2 meters from
    [25°01'07.8"N 121°32'31.8"E](https://www.google.com/maps/place/25°01'07.8%22N+121°32'31.8%22E))
 
