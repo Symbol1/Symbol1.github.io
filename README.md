@@ -16,7 +16,7 @@ Assistant Professor
    [25°01'07.8"N 121°32'31.8"E](https://www.google.com/maps/place/25°01'07.8%22N+121°32'31.8%22E))
 
 * Social media
-  | 🎮 [Discord](https://discord.com/channels/@me/527393219441590273)
+  | 🎮 [Discord](https://discord.gg/yWPjB2tRTt)
   | 🐦 [Twitter](https://twitter.com/SymbolOne1)
   | 🤖 [Reddit](https://www.reddit.com/user/Symbol_1/)
   | 📺 [YouTube](https://www.youtube.com/@SymbolOne)
