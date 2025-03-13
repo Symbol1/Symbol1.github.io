@@ -31,6 +31,7 @@ Assistant Professor
 
 ## Teaching
 
+* Spring 2025 Modern Coding Theory and Techniques (English taught)
 * Fall 2024 Computer Programming (English taught)
 
 ## Advising
