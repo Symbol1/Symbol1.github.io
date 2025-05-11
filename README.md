@@ -351,7 +351,7 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 
 ## Community Service
 
-* IEEE Transactions on Information Theory (x8)
+* IEEE Transactions on Information Theory (x10)
 * IEEE Transactions on Wireless Communications (x3)
 * IEEE Journal on Selected Areas in Information Theory (x2)
 * SIAM Journal on Computing (x2)
