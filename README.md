@@ -1,7 +1,7 @@
 
 # Hsin-Po Wang （王新博）
 
-Assistant Professor  
+助理教授 Assistant Professor  
 電機系 Dept of EE 電信所 Grad Inst of Comm  
 台大 National Taiwan University  
 
@@ -31,7 +31,10 @@ Assistant Professor
 
 ## Teaching
 
-* Fall 2024 Computer Programming (English taught)
+* Spring 2025 電資工程入門設計與實作 Cornerstone EECS Design and Implementation
+  (co-taught with 陳政維)
+* Spring 2025 先進編碼理論與技術 Modern Coding Theory and Techniques (English taught)
+* Fall 2024 計算機程式 Computer Programming (English taught)
 
 ## Advising
 
@@ -53,7 +56,7 @@ Assistant Professor
 My interests are in
 [information theory](https://en.wikipedia.org/wiki/Information_theory) and
 [coding theory](https://en.wikipedia.org/wiki/Coding_theory).
-Working on
+Works of mine span
 [**polar codes**](https://en.wikipedia.org/wiki/Polar_code_(coding_theory))
 (wireless communication),
 [**group testing**](https://en.wikipedia.org/wiki/Group_testing)
@@ -100,7 +103,7 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
   Advisor =
   [Iwan Duursma](https://duursma.web.illinois.edu/)  
   University of Illinois Urbana-Champaign  
-  September 2016-- August 2021
+  September 2016--August 2021
 
 * B.Sc. in Mathematics  
   國立臺灣大學 National Taiwan University  
@@ -241,6 +244,11 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
     [slides @ Princeton](https://github.com/Symbol1/abc).)
 
 ## Peer-Reviewed Conference Publications & Slides
+
+12. V. Guruswami, H.-P. Wang.
+    [Semirandom Planted Clique via $1$-norm Isometry Property](https://ipco25.cs.jhu.edu/accepted/)
+    *Conference on Integer Programming and Combinatorial Optimization (IPCO)*.
+    June 2025, Baltimore, Maryland.
 
 11. V. Guruswami, H.-P. Wang.
     [Capacity-Achieving Gray Codes](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2024.65).
