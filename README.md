@@ -31,6 +31,7 @@
 
 ## Teaching
 
+*
 * Spring 2025 電資工程入門設計與實作 Cornerstone EECS Design and Implementation
   (co-taught with 陳政維)
 * Spring 2025 先進編碼理論與技術 Modern Coding Theory and Techniques (English taught)
@@ -165,12 +166,20 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
   國家理論科學研究中心 National Center for Theoretical Sciences  
   Winter 2020 & Summer 2023
 
+* Teaching Assistant  
+  Department of Mathematics  
+  University of Illinois Urbana-Champaign, Illinois  
+  September 2016--May 2023
+
 * Teaching at
   [a remote school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
-  as a substitution to the mandatory military service.  
+  as a substitution for military service  
   September 2015--August 2016
 
 ## Awards & Honors
+
+* 臺大富邦拔萃學者 NTU--Fubon Distinguished Scholar  
+  2024---2027
 
 * [Irving Reiner Memorial Award in Algebra](https://math.illinois.edu/academics/graduate-program/funding/graduate-awards-and-fellowships/irving-reiner-memorial-award-and)  
   2021
