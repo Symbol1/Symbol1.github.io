@@ -190,7 +190,7 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 * [Teacher ranked as excellent by their students](https://go.illinois.edu/lotrae)  
   Fall 2019 & Spring 2019 & Spring 2018
 
-* 理學院院長獎 Dean's List \#2 when graduation  
+* 理學院院長獎 graduating with #2 GPA in the department
   2015
 
 * 書卷獎 top 5% GPA  
