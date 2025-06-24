@@ -257,7 +257,7 @@ and [a figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 ## Peer-Reviewed Conference Publications & Slides
 
 12. V. Guruswami, H.-P. Wang.
-    [Semirandom Planted Clique via $1$-norm Isometry Property](https://ipco25.cs.jhu.edu/accepted/)
+    [Semirandom Planted Clique via $1$-norm Isometry Property](https://doi.org/10.1007/978-3-031-93112-3_20)
     *Conference on Integer Programming and Combinatorial Optimization (IPCO)*.
     June 2025, Baltimore, Maryland.
     ([Preprint](https://arxiv.org/abs/2506.17916) and
