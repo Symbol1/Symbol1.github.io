@@ -31,13 +31,15 @@
 
 ## Teaching
 
-*
+* Fall 2025 ...
 * Spring 2025 電資工程入門設計與實作 Cornerstone EECS Design and Implementation
   (co-taught with 陳政維)
 * Spring 2025 先進編碼理論與技術 Modern Coding Theory and Techniques (English taught)
 * Fall 2024 計算機程式 Computer Programming (English taught)
 
 ## Advising
+
+Join the [discord server](https://discord.gg/yWPjB2tRTt) to talk to academic brothers and sisters.
 
 ## Research
 
@@ -77,7 +79,7 @@ and other mathematical tools to said topics.
 
 I tend to put too many Ti*k*Z figures in my papers.  Check out the following links for those figures
 and some comments.  See also [TikZ TeX Talk](/ttt) for techniques that are too fancy for papers
-and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
+and [a figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 
 * [Polar codes](/paper/polar)  (x8)
 
@@ -190,7 +192,7 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 * [Teacher ranked as excellent by their students](https://go.illinois.edu/lotrae)  
   Fall 2019 & Spring 2019 & Spring 2018
 
-* 理學院院長獎 graduating with #2 GPA in the department
+* 理學院院長獎 #2 cumulative GPA upon graduation
   2015
 
 * 書卷獎 top 5% GPA  
@@ -258,6 +260,8 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
     [Semirandom Planted Clique via $1$-norm Isometry Property](https://ipco25.cs.jhu.edu/accepted/)
     *Conference on Integer Programming and Combinatorial Optimization (IPCO)*.
     June 2025, Baltimore, Maryland.
+    ([Preprint](https://arxiv.org/abs/2506.17916) and
+     [slides](https://drive.google.com/file/d/1ohCSN-0HL9lbTERWQg7EmcXJ5h6i45dS/view?usp=sharing).)
 
 11. V. Guruswami, H.-P. Wang.
     [Capacity-Achieving Gray Codes](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2024.65).
