@@ -31,12 +31,15 @@
 
 ## Teaching
 
+* Fall 2025 ...
 * Spring 2025 電資工程入門設計與實作 Cornerstone EECS Design and Implementation
   (co-taught with 陳政維)
 * Spring 2025 先進編碼理論與技術 Modern Coding Theory and Techniques (English taught)
 * Fall 2024 計算機程式 Computer Programming (English taught)
 
 ## Advising
+
+Join the [discord server](https://discord.gg/yWPjB2tRTt) to talk to academic brothers and sisters.
 
 ## Research
 
@@ -76,7 +79,7 @@ and other mathematical tools to said topics.
 
 I tend to put too many Ti*k*Z figures in my papers.  Check out the following links for those figures
 and some comments.  See also [TikZ TeX Talk](/ttt) for techniques that are too fancy for papers
-and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
+and [a figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 
 * [Polar codes](/paper/polar)  (x8)
 
@@ -165,12 +168,20 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
   國家理論科學研究中心 National Center for Theoretical Sciences  
   Winter 2020 & Summer 2023
 
+* Teaching Assistant  
+  Department of Mathematics  
+  University of Illinois Urbana-Champaign, Illinois  
+  September 2016--May 2023
+
 * Teaching at
   [a remote school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
   as a substitution for military service  
   September 2015--August 2016
 
 ## Awards & Honors
+
+* 臺大富邦拔萃學者 NTU--Fubon Distinguished Scholar  
+  2024---2027
 
 * [Irving Reiner Memorial Award in Algebra](https://math.illinois.edu/academics/graduate-program/funding/graduate-awards-and-fellowships/irving-reiner-memorial-award-and)  
   2021
@@ -181,7 +192,7 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 * [Teacher ranked as excellent by their students](https://go.illinois.edu/lotrae)  
   Fall 2019 & Spring 2019 & Spring 2018
 
-* 理學院院長獎 Dean's List \#2 when graduation  
+* 理學院院長獎 #2 cumulative GPA upon graduation
   2015
 
 * 書卷獎 top 5% GPA  
@@ -246,9 +257,11 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 ## Peer-Reviewed Conference Publications & Slides
 
 12. V. Guruswami, H.-P. Wang.
-    [Semirandom Planted Clique via $1$-norm Isometry Property](https://ipco25.cs.jhu.edu/accepted/)
+    [Semirandom Planted Clique via $1$-norm Isometry Property](https://doi.org/10.1007/978-3-031-93112-3_20)
     *Conference on Integer Programming and Combinatorial Optimization (IPCO)*.
     June 2025, Baltimore, Maryland.
+    ([Preprint](https://arxiv.org/abs/2506.17916) and
+     [slides](https://drive.google.com/file/d/1ohCSN-0HL9lbTERWQg7EmcXJ5h6i45dS/view?usp=sharing).)
 
 11. V. Guruswami, H.-P. Wang.
     [Capacity-Achieving Gray Codes](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2024.65).
