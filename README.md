@@ -167,7 +167,7 @@ and [figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 
 * Teaching at
   [a remote school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
-  as a substitution to the mandatory military service.  
+  as a substitution for military service  
   September 2015--August 2016
 
 ## Awards & Honors
