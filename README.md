@@ -5,17 +5,17 @@
 電機系 Dept of EE 電信所 Grad Inst of Comm  
 台大 National Taiwan University  
 
-* [CV.pdf](/cv/cv_Hsin-Po_WANG.pdf)
+- [CV.pdf](/cv/cv_Hsin-Po_WANG.pdf)
 
-* Email: <hsinpo@ntu.edu.tw>
+- Email: <hsinpo@ntu.edu.tw>
 
-* Tel: [+886 (02) 3366-2567](tel:+8860233662567)
+- Tel: [+886 (02) 3366-2567](tel:+8860233662567)
 
-* Office: 電機二館 237
+- Office: 電機二館 237
   (2nd floor, 2 meters from
    [25°01'07.8"N 121°32'31.8"E](https://www.google.com/maps/place/25°01'07.8%22N+121°32'31.8%22E))
 
-* Social media
+- Social media
   | 🎮 [Discord](https://discord.gg/yWPjB2tRTt)
   | 🐦 [Twitter](https://twitter.com/SymbolOne1)
   | 🤖 [Reddit](https://www.reddit.com/user/Symbol_1/)
@@ -26,16 +26,21 @@
   | 🐙 [GitHub](https://github.com/Symbol1)
   | 💼 [LinkedIn](https://www.linkedin.com/in/symbol1/)
 
-* How to [pronounce my name](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
+
+
+
+- How to [pronounce my name](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
   (Click the triangle button to play)
 
 ## Teaching
 
-* Fall 2025 ...
-* Spring 2025 電資工程入門設計與實作 Cornerstone EECS Design and Implementation
+- Fall 2025 計算機程式 Computer Programming (English taught)
+- Fall 2025 工程數學-複變 Engineering Mathematics-complex Variables (English taught)
+- Fall 2025 錯誤更正碼 Error Correcting Codes 
+- Spring 2025 電資工程入門設計與實作 Cornerstone EECS Design and Implementation
   (co-taught with 陳政維)
-* Spring 2025 先進編碼理論與技術 Modern Coding Theory and Techniques (English taught)
-* Fall 2024 計算機程式 Computer Programming (English taught)
+- Spring 2025 先進編碼理論與技術 Modern Coding Theory and Techniques (English taught)
+- Fall 2024 計算機程式 Computer Programming (English taught)
 
 ## Advising
 
@@ -54,7 +59,7 @@ Join the [discord server](https://discord.gg/yWPjB2tRTt) to talk to academic bro
   | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219496296)
   | [Web of Science](https://www.webofscience.com/wos/author/record/AAV-6801-2021)
   | [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1452302)
-  | [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=316016)
+  | 🌲 [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=316016)
 
 My interests are in
 [information theory](https://en.wikipedia.org/wiki/Information_theory) and
@@ -81,19 +86,23 @@ I tend to put too many Ti*k*Z figures in my papers.  Check out the following lin
 and some comments.  See also [TikZ TeX Talk](/ttt) for techniques that are too fancy for papers
 and [a figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 
-* [Polar codes](/paper/polar)  (x8)
+- [Polar codes](/paper/polar)  (x8)
 
-* [Polar channel ordering](/paper/polder) (x3)
+- [Polar channel ordering](/paper/polder) (x3)
 
-* [Group testing](/paper/grouptest) (x3)
+- [Group testing](/paper/grouptest) (x3)
 
-* [Distributed storage](/paper/storage) (x2)
+- [Distributed storage](/paper/storage) (x2)
 
-* [Distributed computation](/paper/compute) (x1)
+- [Distributed computation](/paper/compute) (x1)
 
-* [DNA digital data storage](/paper/dna) (x1)
+- [DNA digital data storage](/paper/dna) (x1)
 
-* A [project](https://github.com/Symbol1/BlueWaters-RM64)
+- [Exact Sampling](/paper/sample) (x?)
+
+- [Pessimistic cardinality estimation](/paper/sample) (x?)
+
+- A [project](https://github.com/Symbol1/BlueWaters-RM64)
   ran on a [super computer](https://en.wikipedia.org/wiki/Blue_Waters)
 
 ## Education
@@ -211,6 +220,12 @@ and [a figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
   2011 & 2009
 
 ## Journal Publications & Slides
+
+7. H.-P. Wang, V. Guruswami.
+  [Geno-Weaving: A Framework for Low-Complexity Capacity-Achieving DNA Data Storage](https://doi.org/10.1109/JSAIT.2025.3610643)
+   *IEEE IEEE Journal on Selected Areas in Information Theory*.
+   September 2025.
+   ([Preprint](https://arxiv.org/abs/2409.00889))
 
 6. H.-P. Wang, R. Gabrys, A. Vardy.
    [Tropical Group Testing](https://doi.org/10.1109/TIT.2023.3282847).
@@ -344,6 +359,16 @@ and [a figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 
 ## Invited Talks & Slides
 
+7. [An Information Theory of Query Optimization](https://www.mfo.de/www/activity/2537).
+   *New Mathematical Directions in Coding Theory* (MFO workshop).
+    September 2025, Oberwolfach, Germany.
+    ([Slides](https://drive.google.com/drive/folders/1omCa4c3RKqvMUHgMDoCqD24YqduM7W3e))
+
+6. [Sculpting Rational Distributions Accurately and Efficiently](https://aicit2025.github.io/Program/).
+   *Guangzhou, Hong Kong and Taipei Joint Workshop on Artificial Intelligence, Communications and Information Theory (AICIT2025)*
+   July 2025, Guangzhou, China.
+   ([Slides](https://drive.google.com/drive/folders/1VgGEWxeDdqpggmPDxiXt_0me88ZF2dHM))
+
 5. [How to Speak Tensor](https://umi.dm.unibo.it/jm-umi-ams/special-sessions/special-sessions-on-25-26-july-2024/).
   *International AMS-UMI Joint Meeting*.
   July 2024, Palermo, Italy.
@@ -384,6 +409,8 @@ and [a figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 ## Extracurricular
 
 * Jury  
+  2025 International Mathematics Competition (VIMC)
+  ([九章's Archive](https://chiuchang.org/imc/en/category/vimc-2025/))  
   2024 International Mathematics Competition (InIMC)
   ([九章's Archive](https://chiuchang.org/imc/en/category/inimc-2024/))  
   2023 International Mathematics Competition (BIMC)
