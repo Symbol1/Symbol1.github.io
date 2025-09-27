@@ -26,9 +26,6 @@
   | 🐙 [GitHub](https://github.com/Symbol1)
   | 💼 [LinkedIn](https://www.linkedin.com/in/symbol1/)
 
-
-
-
 - How to [pronounce my name](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
   (Click the triangle button to play)
 
