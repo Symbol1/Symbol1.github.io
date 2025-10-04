@@ -7,9 +7,9 @@
 
 - [CV.pdf](/cv/cv_Hsin-Po_WANG.pdf)
 
-- Email: <hsinpo@ntu.edu.tw>
+- ✉️ Email: <hsinpo@ntu.edu.tw>
 
-- Tel: [+886 (02) 3366-2567](tel:+8860233662567)
+- ☎️ Tel: [+886 (02) 3366-2567](tel:+8860233662567)
 
 - Office: 電機二館 237
   (2nd floor, 2 meters from
@@ -33,7 +33,7 @@
 
 - Fall 2025 計算機程式 Computer Programming (English taught)
 - Fall 2025 工程數學-複變 Engineering Mathematics-complex Variables (English taught)
-- Fall 2025 錯誤更正碼 Error Correcting Codes 
+- Fall 2025 錯誤更正碼 Error Correcting Codes
 - Spring 2025 電資工程入門設計與實作 Cornerstone EECS Design and Implementation
   (co-taught with 陳政維)
 - Spring 2025 先進編碼理論與技術 Modern Coding Theory and Techniques (English taught)
@@ -45,18 +45,18 @@ Join the [discord server](https://discord.gg/yWPjB2tRTt) to talk to academic bro
 
 ## Research
 
-* [Google Scholar profile](https://scholar.google.com/citations?user=tJ8-ChgAAAAJ)
+* 🎓 [Google Scholar profile](https://scholar.google.com/citations?user=tJ8-ChgAAAAJ)
 
-* [arXiv author page](https://arxiv.org/a/wang_h_8.html)
+* 🙂️ [arXiv author page](https://arxiv.org/a/wang_h_8.html)
 
 * Other profiles
-  | [ORCiD](https://orcid.org/0000-0003-2574-1510)
-  | [dblp](https://dblp.org/pid/75/329-1.html)
-  | [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
-  | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219496296)
-  | [Web of Science](https://www.webofscience.com/wos/author/record/AAV-6801-2021)
-  | [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1452302)
-  | 🌲 [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=316016)
+  | 🟢 [ORCiD](https://orcid.org/0000-0003-2574-1510)
+  | 🦋 [dblp](https://dblp.org/pid/75/329-1.html)
+  | ✓ [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
+  | 🌳 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219496296)
+  | 🕸 [Web of Science](https://www.webofscience.com/wos/author/record/AAV-6801-2021)
+  | 🌾 [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1452302)
+  | 🌴 [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=316016)
 
 My interests are in
 [information theory](https://en.wikipedia.org/wiki/Information_theory) and
@@ -226,7 +226,10 @@ and [a figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
   [Geno-Weaving: A Framework for Low-Complexity Capacity-Achieving DNA Data Storage](https://doi.org/10.1109/JSAIT.2025.3610643)
    *IEEE IEEE Journal on Selected Areas in Information Theory*.
    September 2025.
-   ([Preprint](https://arxiv.org/abs/2409.00889))
+   ([Preprint](https://arxiv.org/abs/2409.00889),
+    [timelapse](https://www.youtube.com/watch?v=lZeyMdv9dRI),
+    [slides1](https://github.com/Symbol1/GenoWeave), and
+    [slides2](https://drive.google.com/file/d/1uL7oCs8RxfnLTRxBiu3TQW0_CdW_3iC9/).)
 
 6. H.-P. Wang, R. Gabrys, A. Vardy.
    [Tropical Group Testing](https://doi.org/10.1109/TIT.2023.3282847).
