@@ -10,7 +10,9 @@
         "dblp",
         "Dragoi",
         "Duursma",
+        "EECS",
         "Factorio",
+        "Fubon",
         "Gabrys",
         "Geno",
         "Guruswami",
@@ -27,6 +29,7 @@
         "Oriclip",
         "Reiner",
         "Scarlett",
+        "Scopus",
         "Semirandom",
         "Shenzhen",
         "SIAGA",
@@ -34,13 +37,16 @@
         "Simons",
         "snaptodo",
         "TAIMC",
+        "Theoretico",
         "TIMC",
+        "Timelapse",
         "TRNG",
         "Tutte",
         "UIUC",
         "Vardy",
         "Vaseman",
-        "Venkatesan"
+        "Venkatesan",
+        "VIMC"
     ],
     "ltex.dictionary": {
         "en-US": [
