@@ -45,11 +45,11 @@ Join the [discord server](https://discord.gg/yWPjB2tRTt) to talk to academic bro
 
 ## Research
 
-* 🎓 [Google Scholar profile](https://scholar.google.com/citations?user=tJ8-ChgAAAAJ)
+- 🎓 [Google Scholar profile](https://scholar.google.com/citations?user=tJ8-ChgAAAAJ)
 
-* 🙂️ [arXiv author page](https://arxiv.org/a/wang_h_8.html)
+- 🙂️ [arXiv author page](https://arxiv.org/a/wang_h_8.html)
 
-* Other profiles
+- Other profiles
   | 🟢 [ORCiD](https://orcid.org/0000-0003-2574-1510)
   | 🦋 [dblp](https://dblp.org/pid/75/329-1.html)
   | ✓ [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
@@ -71,7 +71,9 @@ Works of mine span
 [**distributed matrix multiplication**](https://en.wikipedia.org/wiki/Matrix_multiplication_algorithm)
 (cloud computation),
 [**DNA digital data storage**](https://en.wikipedia.org/wiki/DNA_digital_data_storage)
-(archival storage).
+(archival storage),
+[**differential privacy**](https://en.wikipedia.org/wiki/Differential_privacy)
+(data privacy),
 [**exact distribution shaping**](https://en.wikipedia.org/wiki/Non-uniform_random_variate_generation)
 (randomized algorithm), and
 [**pessimistic cardinality estimation**](https://en.wikipedia.org/wiki/Query_optimization)
@@ -191,7 +193,7 @@ and [a figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 ## Awards & Honors
 
 - 臺大富邦拔萃學者 NTU--Fubon Distinguished Scholar  
-  2024---2027
+  2024--2027
 
 - [Irving Reiner Memorial Award in Algebra](https://math.illinois.edu/academics/graduate-program/funding/graduate-awards-and-fellowships/irving-reiner-memorial-award-and)  
   2021
@@ -222,74 +224,74 @@ and [a figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 
 ## Journal Publications & Slides
 
-7. H.-P. Wang, V. Guruswami.
+1. H.-P. Wang, V. Guruswami.
   [Geno-Weaving: A Framework for Low-Complexity Capacity-Achieving DNA Data Storage](https://doi.org/10.1109/JSAIT.2025.3610643)
    *IEEE IEEE Journal on Selected Areas in Information Theory*.
    September 2025.
    ([Preprint](https://arxiv.org/abs/2409.00889),
     [timelapse](https://www.youtube.com/watch?v=lZeyMdv9dRI),
     [slides1](https://github.com/Symbol1/GenoWeave), and
-    [slides2](https://drive.google.com/file/d/1uL7oCs8RxfnLTRxBiu3TQW0_CdW_3iC9/).)
+    [slides2](https://drive.google.com/file/d/1uL7oCs8RxfnLTRxBiu3TQW0_CdW_3iC9/))
 
-6. H.-P. Wang, R. Gabrys, A. Vardy.
+2. H.-P. Wang, R. Gabrys, A. Vardy.
    [Tropical Group Testing](https://doi.org/10.1109/TIT.2023.3282847).
    *IEEE Transactions on Information Theory*.
    September 2023.
-   ([Preprint](https://arxiv.org/abs/2201.05440).)
+   ([Preprint](https://arxiv.org/abs/2201.05440))
 
-5. H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
+3. H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
    [Sub-4.7 Scaling Exponent of Polar Codes](https://doi.org/10.1109/TIT.2023.3253074).
    *IEEE Transactions on Information Theory*.
    July 2023.
-   ([Preprint](https://arxiv.org/abs/2204.11683).)
+   ([Preprint](https://arxiv.org/abs/2204.11683))
 
 4. I. Duursma, H.-P. Wang.
    [Multilinear Algebra for Minimum Storage Regenerating Codes: A Generalization of Product-Matrix Construction](https://doi.org/10.1007/s00200-021-00526-3).
    *Applicable Algebra in Engineering, Communication and Computing*.
    October 2021.
    ([Author copy](https://rdcu.be/cyJs2) and
-    [Preprint](https://arxiv.org/abs/2006.16998).)
+    [Preprint](https://arxiv.org/abs/2006.16998))
 
-3. I. Duursma, X. Li, H.-P. Wang.
+5. I. Duursma, X. Li, H.-P. Wang.
    [Multilinear Algebra for Distributed Storage](https://doi.org/10.1137/20M1346742).
    *SIAM Journal on Applied Algebra and Geometry (SIAGA)*.
    September 2021.
    ([Preprint](https://arxiv.org/abs/2006.08911),
     a 15-minute [video presentation](https://www.youtube.com/watch?v=BC8rGig-QoM), and
-    [slides @ SIAM AG21](https://github.com/Symbol1/MoulinDistorage).)
+    [slides @ SIAM AG21](https://github.com/Symbol1/MoulinDistorage))
 
-2. H.-P. Wang, I. Duursma.
+6. H.-P. Wang, I. Duursma.
    [Log-logarithmic Time Pruned Polar Coding](https://doi.org/10.1109/TIT.2020.3041523).
    *IEEE Transactions on Information Theory*.
    March 2021.
    ([Preprint](https://arxiv.org/abs/1905.13340) and
-    [Predecessor](https://arxiv.org/abs/1812.08106).)
+    [Predecessor](https://arxiv.org/abs/1812.08106))
 
-1. H.-P. Wang, I. Duursma.
+7. H.-P. Wang, I. Duursma.
    [Polar Codes' Simplicity, Random Codes' Durability](https://doi.org/10.1109/TIT.2020.3041570).
    *IEEE Transactions on Information Theory*.
    March 2021.
    ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits) and
     [slides @ UIUC](https://github.com/Symbol1/Complex2Order) and
-    [slides @ Princeton](https://github.com/Symbol1/abc).)
+    [slides @ Princeton](https://github.com/Symbol1/abc))
 
 ## Peer-Reviewed Conference Publications & Slides
 
-12. V. Guruswami, H.-P. Wang.
+1. V. Guruswami, H.-P. Wang.
     [Semirandom Planted Clique via $1$-norm Isometry Property](https://doi.org/10.1007/978-3-031-93112-3_20)
     *Conference on Integer Programming and Combinatorial Optimization (IPCO)*.
     June 2025, Baltimore, Maryland.
     ([Preprint](https://arxiv.org/abs/2506.17916) and
-     [slides](https://drive.google.com/file/d/1ohCSN-0HL9lbTERWQg7EmcXJ5h6i45dS/view?usp=sharing).)
+     [slides](https://drive.google.com/file/d/1ohCSN-0HL9lbTERWQg7EmcXJ5h6i45dS/view?usp=sharing))
 
-11. V. Guruswami, H.-P. Wang.
+2. V. Guruswami, H.-P. Wang.
     [Capacity-Achieving Gray Codes](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2024.65).
     *International Conference on Randomization and Computation (RANDOM)*.
     August 2024, London, UK.
     ([Timelapse1](https://www.youtube.com/watch?v=vMG5mLo5O8g) and
-     [Timelapse2](https://www.youtube.com/watch?v=ct660g4xnTI).)
+     [Timelapse2](https://www.youtube.com/watch?v=ct660g4xnTI))
 
-10. H.-P. Wang, C.-W. Chin.
+3. H.-P. Wang, C.-W. Chin.
     [On Counting Subsequences and Higher-Order Fibonacci Numbers](https://doi.org/10.1109/ISIT57864.2024.10619178).
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024, Athens, Greece.
@@ -297,122 +299,132 @@ and [a figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
      [slides](https://drive.google.com/file/d/1ESqesAE-yNuHexI_JgWYQMcIQH4lz1KJ/) and
      [framed slides](https://drive.google.com/file/d/1s4GGTO8mao734CJJw4fk4NAbgh9FMeUr/) in a
      [Minecraft map](https://www.youtube.com/watch?v=9grRobL0bi4) of
-     [Acropolis](https://en.wikipedia.org/wiki/Acropolis_of_Athens).)
+     [Acropolis](https://en.wikipedia.org/wiki/Acropolis_of_Athens))
 
-9.  H.-P. Wang, V. Guruswami.
+4. H.-P. Wang, V. Guruswami.
     [Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically](https://doi.org/10.1109/ISIT57864.2024.10619251).
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024, Athens, Greece.
     ([Preprint](https://arxiv.org/abs/2405.16373) and
      [slides](https://drive.google.com/file/d/1JBO1QyhORn_5ahKPbxFP2f6wSDee3zaw/))
 
-8.  H.-P. Wang, V. Guruswami.
+5. H.-P. Wang, V. Guruswami.
     [Isolate and then Identify: Rethinking Adaptive Group Testing](https://doi.org/10.1109/ISIT57864.2024.10619098).
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024, Athens, Greece.
-    ([Preprint](https://arxiv.org/abs/2405.16374).)
+    ([Preprint](https://arxiv.org/abs/2405.16374))
 
-7.  H.-P. Wang, R. Gabrys, V. Guruswami.
+6. H.-P. Wang, R. Gabrys, V. Guruswami.
     [Quickly-Decodable Group Testing with Fewer Tests: Price-Scarlett's Nonadaptive Splitting with Explicit Scalars](https://doi.org/10.1109/ISIT54713.2023.10206843).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2405.16370) and
-     [Slides](https://drive.google.com/file/d/18Kku7Q1lpmylhz8ScPs-zwBRzIyP6sec/).)
+     [Slides](https://drive.google.com/file/d/18Kku7Q1lpmylhz8ScPs-zwBRzIyP6sec/))
 
-6.  H.-P. Wang, C.-W. Chin.
+7. H.-P. Wang, C.-W. Chin.
     [Density Devolution for Ordering Synthetic Channels](https://doi.org/10.1109/ISIT54713.2023.10206540).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2304.07667) and
-     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
+     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
 
-5.  T.-C. Lin, H.-P. Wang.
+8. T.-C. Lin, H.-P. Wang.
     [Optimal Self-Dual Inequalities to Order Polarized BECs](https://doi.org/10.1109/ISIT54713.2023.10206451).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2304.07664) and
-     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
+     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
 
-4.  H.-P. Wang, V. Guruswami.
+9. H.-P. Wang, V. Guruswami.
     [How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?](https://doi.org/10.1109/ISIT54713.2023.10206989).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2405.16360) and
-     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
+     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
 
-3.  H.-P. Wang, V.-F. Dragoi.
+10. H.-P. Wang, V.-F. Dragoi.
     [Fast Methods for Ranking Synthetic BECs](https://doi.org/10.1109/ISIT54713.2023.10206704).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2304.11781) and
-     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view).)
+     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
 
-2.  I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
+11. I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
     [Accelerating Polarization via Alphabet Extension](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
     *International Conference on Randomization and Computation (RANDOM)*.
     September 2022, virtual.
     ([Full version](https://arxiv.org/abs/2207.04522) and
-     7-minute [animation](https://www.youtube.com/watch?v=2mmbd58rSts).)
+     7-minute [animation](https://www.youtube.com/watch?v=2mmbd58rSts))
 
-1.  H.-P. Wang, R. Gabrys, A. Vardy.
+12. H.-P. Wang, R. Gabrys, A. Vardy.
     [PCR, Tropical Arithmetic, and Group Testing](https://doi.org/10.1109/ISIT50566.2022.9834718).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2022, Helsinki, Finland.
     ([Full version](https://arxiv.org/abs/2201.05440) and
-     [slides](https://github.com/Symbol1/PCR-TGT).)
+     [slides](https://github.com/Symbol1/PCR-TGT))
 
 ## Invited Talks & Slides
 
-7. [An Information Theory of Query Optimization](https://www.mfo.de/www/activity/2537).
-   *New Mathematical Directions in Coding Theory- (MFO workshop).
+1. [Sidorenko-Inspired Pessimistic Cardinality Estimation for Join Queries](https://brinmrc.umd.edu/fall25-ibdgcct/)
+    *The Interplay Between Distance Geometry, Combinatorics, and Coding Theory (BrinMRC workshop)*.
+    November 2025, College Park, Maryland.
+    ([Slides](https://drive.google.com/drive/folders/1omCa4c3RKqvMUHgMDoCqD24YqduM7W3e))
+
+2. [If Rand()%10 is Bad, How to Use TRNG Efficiently?](https://www.apwdsit.org/Program).
+   *Asia Pacific Workshop on Data Science and Information Theory (APWDSIT)*.
+    September 2025, Shenzhen, China.
+    ([Slides](https://drive.google.com/drive/folders/1VgGEWxeDdqpggmPDxiXt_0me88ZF2dHM))
+
+3. [An Information Theory of Query Optimization](https://www.mfo.de/www/activity/2537).
+   *New Mathematical Directions in Coding Theory (MFO workshop)*.
     September 2025, Oberwolfach, Germany.
     ([Slides](https://drive.google.com/drive/folders/1omCa4c3RKqvMUHgMDoCqD24YqduM7W3e))
 
-6. [Sculpting Rational Distributions Accurately and Efficiently](https://aicit2025.github.io/Program/).
-   *Guangzhou, Hong Kong and Taipei Joint Workshop on Artificial Intelligence, Communications and Information Theory (AICIT2025)*
+4. [Sculpting Rational Distributions Accurately and Efficiently](https://aicit2025.github.io/Program/).
+   *Guangzhou, Hong Kong and Taipei Joint Workshop on Artificial Intelligence, Communications and Information Theory (AICIT)*.
    July 2025, Guangzhou, China.
    ([Slides](https://drive.google.com/drive/folders/1VgGEWxeDdqpggmPDxiXt_0me88ZF2dHM))
 
 5. [How to Speak Tensor](https://umi.dm.unibo.it/jm-umi-ams/special-sessions/special-sessions-on-25-26-july-2024/).
   *International AMS-UMI Joint Meeting*.
   July 2024, Palermo, Italy.
-  ([Slides](https://github.com/Symbol1/SpeakTensor).)
+  ([Slides](https://github.com/Symbol1/SpeakTensor))
 
-4. [Geno-Weaving: Low-Complexity Capacity-Achieving Data Storage on DNA](https://www.ce.cit.tum.de/en/lnt/events/2024-coding-theory-and-algorithms-for-dna-based-data-storage/program/).
-   *Coding Theory and Algorithms for DNA-based Data Storage (ISIT2024 Satellite Workshop)*.
+6. [Geno-Weaving: Low-Complexity Capacity-Achieving Data Storage on DNA](https://www.ce.cit.tum.de/en/lnt/events/2024-coding-theory-and-algorithms-for-dna-based-data-storage/program/).
+   *Coding Theory and Algorithms for DNA-based Data Storage (ISIT's satellite workshop)*.
    July 2024, Athens, Greece.
    ([Timelapse](https://www.youtube.com/watch?v=lZeyMdv9dRI) and
-    [slides](https://drive.google.com/file/d/1uL7oCs8RxfnLTRxBiu3TQW0_CdW_3iC9/).)
+    [slides](https://drive.google.com/file/d/1uL7oCs8RxfnLTRxBiu3TQW0_CdW_3iC9/))
 
-3. [GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage](https://ita.ucsd.edu/workshop/schedule).
+7. [GenoWeave: Interleaving Polar Codes Across Strands for DNA Data Storage](https://ita.ucsd.edu/workshop/schedule).
    *Information Theory and Applications Workshop (ITA)*.
    February 2024, San Diego, California.
-   ([Slides](https://github.com/Symbol1/GenoWeave).)
+   ([Slides](https://github.com/Symbol1/GenoWeave))
 
-2. [Channel Manipulation as a Coding Technique](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29146).
+8. [Channel Manipulation as a Coding Technique](https://meetings.ams.org/math/jmm2024/meetingapp.cgi/Paper/29146).
    *Joint Mathematics Meetings (JMM)*.
    January 2024, San Francisco, California.
-   ([Slides](https://github.com/Symbol1/ChannelManipul).)
+   ([Slides](https://github.com/Symbol1/ChannelManipul))
 
-1. [Moulin Codes](https://meetings.siam.org/sess/dsp_talk.cfm?p=116047).
+9. [Moulin Codes](https://meetings.siam.org/sess/dsp_talk.cfm?p=116047).
    *SIAM Conference on Applied Algebraic Geometry (AG21)*.
    August 2021, virtual.
-   ([Slides](https://github.com/Symbol1/MoulinDistorage).)
+   ([Slides](https://github.com/Symbol1/MoulinDistorage))
 
 ## Community Service
 
-* IEEE Transactions on Information Theory (x10)
-* IEEE Transactions on Wireless Communications (x3)
-* IEEE Journal on Selected Areas in Information Theory (x2)
-* SIAM Journal on Computing (x2)
-* IEEE Access (x1)
-* IEEE International Symposium on Information Theory (ISIT) (x10)
-* ACM-SIAM Symposium on Discrete Algorithms (SODA) (x1)
-* International Conference on Randomization and Computation (RANDOM) (x1)
+- IEEE Transactions on Information Theory (x10)
+- IEEE Transactions on Wireless Communications (x3)
+- IEEE Journal on Selected Areas in Information Theory (x2)
+- SIAM Journal on Computing (x2)
+- IEEE Access (x1)
+- IEEE International Symposium on Information Theory (ISIT) (x10)
+- ACM-SIAM Symposium on Discrete Algorithms (SODA) (x1)
+- International Conference on Randomization and Computation (RANDOM) (x1)
 
 ## Extracurricular
 
-* Jury  
+- Jury  
   2025 International Mathematics Competition (VIMC)
   ([九章's Archive](https://chiuchang.org/imc/en/category/vimc-2025/))  
   2024 International Mathematics Competition (InIMC)
@@ -428,22 +440,22 @@ and [a figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
   2012 International Mathematics Competition (TAIMC)
   ([九章's Archive](https://chiuchang.org/imc/en/category/taimc-2012-en/))
 
-* Team Leader  
+- Team Leader  
   2015 International Mathematics Competition (CIMC)
   ([九章's Archive](https://chiuchang.org/imc/en/category/cimc-2015-en/))
 
-* I maintain a LaTeX package [snaptodo](https://www.ctan.org/pkg/snaptodo).
+- I maintain a LaTeX package [snaptodo](https://www.ctan.org/pkg/snaptodo).
 
-* [TikZ TeX Talk](/ttt) collects some of my ideas for (La)TeX and TikZ.
+- [TikZ TeX Talk](/ttt) collects some of my ideas for (La)TeX and TikZ.
 
-* [Oriclip](/oriclip) is about binder clip sculptures.  
+- [Oriclip](/oriclip) is about binder clip sculptures.  
   (Data plan warning: a lot of photos!)
 
-* [Theoretico Factorio](/tofo): a game about automation and logistic.
+- [Theoretico Factorio](/tofo): a game about automation and logistic.
 
-* 薩爾達傳說·[曠野之息的中、外文資料](/BotW)
+- 薩爾達傳說·[曠野之息的中、外文資料](/BotW)
 
-* 薩爾達傳說·[王國之淚的中、外文資料](/TotK)
+- 薩爾達傳說·[王國之淚的中、外文資料](/TotK)
 
 ## Vaseman Gallery (Artist = Jau-Pao Wang)
 
