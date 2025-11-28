@@ -99,11 +99,11 @@ and [a figure in arXiv abstract](https://arxiv.org/abs/1812.08112).
 
 - [Distributed computation](/paper/compute) (x1)
 
-- [DNA digital data storage](/paper/dna) (x1)
+- [DNA digital data storage](/paper/dna) (x2)
 
-- [Exact distribution shaping](/paper/sample) (x?)
+- [Exact distribution shaping](/paper/sample) (x1)
 
-- [Pessimistic cardinality estimation](/paper/cardinality) (x?)
+- [Pessimistic cardinality estimation](/paper/cardinality) (x1)
 
 - A [project](https://github.com/Symbol1/BlueWaters-RM64)
   ran on a [super computer](https://en.wikipedia.org/wiki/Blue_Waters)
