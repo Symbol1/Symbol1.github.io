@@ -7,11 +7,11 @@
 
 - 📇 [CV.pdf](/cv/cv_Hsin-Po_WANG.pdf)
 
-- 📮 Email: <hsinpo@ntu.edu.tw>
+- 📪 Email: <hsinpo@ntu.edu.tw>
 
-- 💼 Office: 電機二館 237 (2nd floor of
+- 🔮 Office: 電機二館 237 (2nd floor of
   [this coordinate](https://www.google.com/maps/place/25°01'07.8%22N+121°32'31.8%22E))  
-  🧪 Lab: 博理館 508 (5th floor of
+  ⚗️ Lab: 博理館 508 (5th floor of
   [this coordinate](https://www.google.com/maps/place/25°01'09.6%22N+121°32'33.0%22E/))
 
 - 🔊 How to [pronounce my name](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
@@ -43,12 +43,14 @@ Social media
 
 到 [discord server](https://discord.gg/yWPjB2tRTt) 找我及其他學長姐聊。
 
-Also visit the [Research page](/research) for a list of my papers and summaries.
+到 [Research page](/research) 看我做了哪些研究。
 
 ## 找演講
 
 如果你是貴單位負責安排演講、專題、研討會的人，那麼無論有酬與否，我可以幫你少找一位講者。
-時間彈性，最快隔天開講，接受指定題目。下面的 bio 可直接用於海報與演講公告。
+時間彈性，最快隔天開講，接受指定題目（從 [Research page](/research) 裡面挑）。
+下面的 bio 可直接用於海報與演講公告。
+（更新日期：20260517）
 
 Hsin-Po Wang is an Assistant Professor at National Taiwan University (EE & GICE).
 He received his BSc in Math from NTU and his PhD in Math from UIUC,
@@ -245,6 +247,9 @@ dedicated to beautiful factory designs in the video game Factorio.
 - 薩爾達傳說·[曠野之息的中、外文資料](/game/BotW)
 - 薩爾達傳說·[災厄啟示錄的表格](https://docs.google.com/spreadsheets/d/1YUwOkL_HBp6YADsAm60UxfkO-qn713GPLNKzayjq46o/)
 - 薩爾達傳說·[王國之淚的中、外文資料](/game/TotK)
+  薩爾達傳說·[曠野之息的中、外文資料](/game/BotW)  
+  薩爾達傳說·[災厄啟示錄的表格](https://docs.google.com/spreadsheets/d/1YUwOkL_HBp6YADsAm60UxfkO-qn713GPLNKzayjq46o/)  
+  薩爾達傳說·[王國之淚的中、外文資料](/game/TotK)
 
 ## Vaseman Gallery (Artist = Jau-Pao Wang)
 
