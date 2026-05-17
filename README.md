@@ -5,50 +5,51 @@
 電機系 Dept of EE 電信所 Grad Inst of Comm  
 台大 National Taiwan University  
 
-- 📇 [CV.pdf](/cv/cv_Hsin-Po_WANG.pdf)
+- 📇 [CV.pdf](cv/cv_Hsin-Po_WANG.pdf)
 
 - 📪 Email: <hsinpo@ntu.edu.tw>
 
-- 🔮 Office: 電機二館 237 (2nd floor of
-  [this coordinate](https://www.google.com/maps/place/25°01'07.8%22N+121°32'31.8%22E))  
-  ⚗️ Lab: 博理館 508 (5th floor of
-  [this coordinate](https://www.google.com/maps/place/25°01'09.6%22N+121°32'33.0%22E/))
+- Office: 電機二館 237 (2nd floor at these
+  [🌏 coordinates](https://www.google.com/maps/place/25°01'07.8%22N+121°32'31.8%22E))  
+  Lab: 博理館 508 (5th floor at these
+  [🌏 coordinates](https://www.google.com/maps/place/25°01'09.6%22N+121°32'33.0%22E/))
 
-- 🔊 How to [pronounce my name](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
+- How to [pronounce my name](https://itaigi.tw/name/%E7%8E%8B/%E6%96%B0%E5%8D%9A)
   (Click the triangle button to play)
 
-Research profiles
-| 🎓 [Google Scholar](https://scholar.google.com/citations?user=tJ8-ChgAAAAJ)
-| 🙂️ [arXiv author page](https://arxiv.org/a/wang_h_8.html)
-| 🟢 [ORCiD](https://orcid.org/0000-0003-2574-1510)
-| 🦋 [dblp](https://dblp.org/pid/75/329-1.html)
-| ✓ [Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
-| 🌳 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219496296)
-| 🕸 [Web of Science](https://www.webofscience.com/wos/author/record/AAV-6801-2021)
-| 🌾 [MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1452302)
-| 🌴 [Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=316016)
+Research
+| [∑ My own summaries](research)
+| [🎓 Google Scholar](https://scholar.google.com/citations?user=tJ8-ChgAAAAJ)
+| [🙂 arXiv author page](https://arxiv.org/a/wang_h_8.html)
+| [🟢 ORCiD](https://orcid.org/0000-0003-2574-1510)
+| [🦋 dblp](https://dblp.org/pid/75/329-1.html)
+| [✓ Semantic Scholar](https://www.semanticscholar.org/author/Hsin-Po-Wang/3003115)
+| [🌳 Scopus](https://www.scopus.com/authid/detail.uri?authorId=57219496296)
+| [🕸 Web of Science](https://www.webofscience.com/wos/author/record/AAV-6801-2021)
+| [🌾 MathSciNet](https://mathscinet.ams.org/mathscinet/author?authorId=1452302)
+| [🌴 Math Genealogy](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=316016)
 
 Social media
-| 🎮 [Discord](https://discord.gg/yWPjB2tRTt)
-| 🐦 [Twitter](https://twitter.com/SymbolOne1)
-| 🤖 [Reddit](https://www.reddit.com/user/Symbol_1/)
-| 📺 [YouTube](https://www.youtube.com/@SymbolOne)
-| ♾️ [Facebook](https://www.facebook.com/SymbolOne1/)
-| 📷 [Instagram](https://www.instagram.com/SymbolOne1/)
-| 📚 [StackExchange](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile)
-| 🐙 [GitHub](https://github.com/Symbol1)
-| 🅿️ [Printables](https://www.printables.com/@Simple_4512528/models)
+| [🎮 Discord](https://discord.gg/yWPjB2tRTt)
+| [🐦 Twitter](https://twitter.com/SymbolOne1)
+| [🤖 Reddit](https://www.reddit.com/user/Symbol_1/)
+| [📺 YouTube](https://www.youtube.com/@SymbolOne)
+| [♾️ Facebook](https://www.facebook.com/SymbolOne1/)
+| [📷 Instagram](https://www.instagram.com/SymbolOne1/)
+| [📚 StackExchange](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile)
+| [🐙 GitHub](https://github.com/Symbol1)
+| [🅿️ Printables](https://www.printables.com/@Simple_4512528/models)
 
 ## 找指導
 
-到 [discord server](https://discord.gg/yWPjB2tRTt) 找我及其他學長姐聊。
+到 [🎮 Discord](https://discord.gg/yWPjB2tRTt) 找我 (@Simple.1)及其他學長姐聊。
 
-到 [Research page](/research) 看我做了哪些研究。
+到 [research page](research) 研究我做了哪些研究。
 
 ## 找演講
 
 如果你是貴單位負責安排演講、專題、研討會的人，那麼無論有酬與否，我可以幫你少找一位講者。
-時間彈性，最快隔天開講，接受指定題目（從 [Research page](/research) 裡面挑）。
+時間彈性，最快隔天開講，接受指定題目（從 [research page](research) 裡面挑）。
 下面的 bio 可直接用於海報與演講公告。
 （更新日期：20260517）
 
@@ -85,22 +86,59 @@ collecting techniques that are too fancy for papers
 and another page <https://nm.lk/f>
 dedicated to beautiful factory designs in the video game Factorio.
 
-## 找課程
+## Research
+
+Visit the [research page](research) for papers, slides, and topic summaries.
+
+## Teaching
 
 - Spring 2026 先進編碼理論與技術 Modern Coding Theory and Techniques (English taught)
 - Spring 2026 工程數學特論 Selected Topics in Engineering Mathematics（中文授課）
 - Spring 2026 電資工程入門設計與實作 Cornerstone EECS Design and Implementation
   （中文授課，與林坤佑合授）
-
 - Fall 2025 錯誤更正碼 Error Correcting Codes（中文授課）
 - Fall 2025 工程數學-複變 Engineering Mathematics-complex Variables (English taught)
 - Fall 2025 計算機程式 Computer Programming (English taught)
-
 - Spring 2025 先進編碼理論與技術 Modern Coding Theory and Techniques (English taught)
 - Spring 2025 電資工程入門設計與實作 Cornerstone EECS Design and Implementation
   （中文授課，與陳政維合授）
-
 - Fall 2024 計算機程式 Computer Programming (English taught)
+
+## Employment & Experience
+
+- Assistant Professor  
+  電機工程學系 Department of Electrical Engineering  
+  電信工程學研究所 Graduate Institute of Communication Engineering  
+  國立台灣大學 National Taiwan University  
+  August 2024--
+
+- Apple Research Fellow  
+  Simons Institute for the Theory of Computing  
+  January--May 2024  
+
+- Postdoctoral Scholar  
+  Supervisor =
+  [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)  
+  Department of Electrical Engineering and Computer Sciences  
+  University of California, Berkeley  
+  October 2022--December 2023
+
+- Postdoctoral Scholar  
+  Supervisors = [Alexander Vardy](https://en.wikipedia.org/wiki/Alexander_Vardy)  
+  Supervisors += [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
+  Department of Electrical and Computer Engineering  
+  University of California San Diego  
+  October 2021--September 2022
+
+- Teaching Assistant  
+  Department of Mathematics  
+  University of Illinois Urbana-Champaign, Illinois  
+  September 2016--May 2023
+
+- Teaching at
+  [a remote school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
+  as a substitution for military service  
+  September 2015--August 2016
 
 ## Education
 
@@ -120,65 +158,6 @@ dedicated to beautiful factory designs in the video game Factorio.
 
 - Gnvcrv Zhavpvcny Wvnathb Uvtu Fpubby  
   2008--2011
-
-## Employment & Experience
-
-- Assistant Professor  
-  電機工程學系 Department of Electrical Engineering  
-  電信工程學研究所 Graduate Institute of Communication Engineering  
-  國立台灣大學 National Taiwan University  
-  August 2024--
-
-- Apple Research Fellow  
-  Simons Institute for the Theory of Computing  
-  January--May 2024  
-  (Polar code tutorial:
-   [video1](https://www.youtube.com/watch?v=K0ZIuwG8il8),
-   [video2](https://www.youtube.com/watch?v=PsG7P00Odz8), and
-   [slides](https://github.com/Symbol1/PolarTutorial).)  
-  (Group testing:
-   [new result](https://github.com/Symbol1/GachaManim) and
-   [big picture](https://github.com/Symbol1/SparseProblems).)
-
-- Visitor  
-  Duke University  
-  Winter 2022  
-  (A talk on distributed matrix multiplication:
-   [Slides](https://github.com/Symbol1/ChatPPT).)
-
-- Postdoctoral Scholar  
-  Supervisor =
-  [Venkatesan Guruswami](https://people.eecs.berkeley.edu/~venkatg/)  
-  Department of Electrical Engineering and Computer Sciences  
-  University of California, Berkeley  
-  October 2022--December 2023
-
-- Visitor  
-  國立台灣大學 National Taiwan University  
-  Summer 2022  
-  (A short lecture on
-   [polar codes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).)  
-
-- Postdoctoral Scholar  
-  Supervisors = [Alexander Vardy](https://en.wikipedia.org/wiki/Alexander_Vardy)  
-  Supervisors += [Ryan Gabrys](https://sites.google.com/view/ryangabrys/home)  
-  Department of Electrical and Computer Engineering  
-  University of California San Diego  
-  October 2021--September 2022
-
-- Visitor  
-  國家理論科學研究中心 National Center for Theoretical Sciences  
-  Winter 2020 & Summer 2023
-
-- Teaching Assistant  
-  Department of Mathematics  
-  University of Illinois Urbana-Champaign, Illinois  
-  September 2016--May 2023
-
-- Teaching at
-  [a remote school](https://goo.gl/maps/1BeM2h7fhFbhWBsm8)  
-  as a substitution for military service  
-  September 2015--August 2016
 
 ## Awards & Honors
 
@@ -234,26 +213,22 @@ dedicated to beautiful factory designs in the video game Factorio.
   2015 International Mathematics Competition (CIMC)
   ([九章's Archive](https://chiuchang.org/imc/en/category/cimc-2015-en/))
 
-- I maintain a LaTeX package [snaptodo](https://www.ctan.org/pkg/snaptodo).
+- I maintain a LaTeX package [snaptodo](https://www.ctan.org/pkg/snaptodo).  
+  [TikZ TeX Talk](ttt) collects some of my ideas for (La)TeX and TikZ.
 
-- [TikZ TeX Talk](/ttt) collects some of my ideas for (La)TeX and TikZ.
-
-- [Oriclip](/oriclip) is about binder clip sculptures.  
+- [Oriclip](oriclip) is about binder clip sculptures.  
   (Data plan warning: a lot of photos!)
 
-- [Theoretico Factorio](/game/tofo): a game about automation and logistic.
+- [Theoretico Factorio](game/tofo): a game about automation and logistics.
 
-- 薩爾達傳說·[封印戰記的表格](https://docs.google.com/spreadsheets/d/1gETsarMsqRHYQYDLAyHzOmZl70hY1waqaQmd726pSdE/)
-- 薩爾達傳說·[曠野之息的中、外文資料](/game/BotW)
-- 薩爾達傳說·[災厄啟示錄的表格](https://docs.google.com/spreadsheets/d/1YUwOkL_HBp6YADsAm60UxfkO-qn713GPLNKzayjq46o/)
-- 薩爾達傳說·[王國之淚的中、外文資料](/game/TotK)
-  薩爾達傳說·[曠野之息的中、外文資料](/game/BotW)  
+- 薩爾達傳說·[封印戰記的表格](https://docs.google.com/spreadsheets/d/1gETsarMsqRHYQYDLAyHzOmZl70hY1waqaQmd726pSdE/)  
+  薩爾達傳說·[曠野之息的中、外文資料](game/BotW)  
   薩爾達傳說·[災厄啟示錄的表格](https://docs.google.com/spreadsheets/d/1YUwOkL_HBp6YADsAm60UxfkO-qn713GPLNKzayjq46o/)  
-  薩爾達傳說·[王國之淚的中、外文資料](/game/TotK)
+  薩爾達傳說·[王國之淚的中、外文資料](game/TotK)
 
 ## Vaseman Gallery (Artist = Jau-Pao Wang)
 
-[Vaseman](/vaseman) is about drawings of people that look like vases.  
+[Vaseman](vaseman) is about drawings of people that look like vases.  
 (Data plan warning: scans of drawings!)
 
 ![Vaseman standing still, smiling professionally](vaseman/Jau-Pao%20Wang%202019-02-10.jpg)  

@@ -290,7 +290,7 @@ qok7S5+f/AOlD2Wk=
 
 ## Blue-Printish Museum
 
-A museum that showcasing all recipes in this game.
+A museum showcasing all recipes in this game.
 It only requires wood, coal, stone, ores, and water barrel in the logistic network.
 Raw fish is not needed as the rocket silo produces them.
 Crude oil becomes unnecessary once coal liquification starts.
@@ -313,7 +313,7 @@ More features:
   note that for 3x3 machines, 8-beacon designs are more space-efficient than 12-beacon designs. 
 * The requester chests are set to request the correct ratio of materials so that
   the machines can continue working for the longest possible time if the logistic network is busy.
-* Now that there are 11 electric smelters, the bottleneck of 10 SPM is advanced circuit.
+* Now that there are 11 electric smelters, the bottleneck of 10 SPM is advanced circuits.
 * Solar panels help offset pollution.
 * Coal liquification helps consume wood.
 * Solid fuel prioritizes light oil over heavy oil over petroleum gas.

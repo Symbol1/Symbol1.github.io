@@ -209,3 +209,19 @@ Paper summaries by topics:
    *SIAM Conference on Applied Algebraic Geometry (AG21)*.
    August 2021, virtual.
    ([Slides](https://github.com/Symbol1/MoulinDistorage))
+
+## Local Talks
+
+- Polar code tutorial:
+  [video1](https://www.youtube.com/watch?v=K0ZIuwG8il8),
+  [video2](https://www.youtube.com/watch?v=PsG7P00Odz8), and
+  [slides](https://github.com/Symbol1/PolarTutorial).
+
+- Group testing:
+  [new result](https://github.com/Symbol1/GachaManim) and
+  [big picture](https://github.com/Symbol1/SparseProblems).
+
+- A short lecture on
+  [polar codes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).
+
+- A talk on distributed matrix multiplication - [Slides](https://github.com/Symbol1/ChatPPT).
