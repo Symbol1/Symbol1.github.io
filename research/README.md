@@ -4,19 +4,23 @@ Paper summaries by topics:
 
 - [Polar codes](polar)  (x8)
 
-- [Polar channel ordering](polder) (x3)
-
-- [Group testing](grouptest) (x3)
+- [Group testing](group) (x4)
 
 - [DNA digital data storage](dna) (x3)
 
-- [Distributed storage](storage) (x2)
+- [Polar channel ordering](polder) (x3)
 
 - [Pessimistic cardinality estimation](cardinality) (x2)
 
-- [Distributed computation](compute) (x1)
+- [Distributed storage](storage) (x2)
 
 - [Exact distribution shaping](sample) (x1)
+
+- [Planted problems](planted) (x1)
+
+- [Differential privacy](privacy) (x1)
+
+- [Distributed computation](compute) (x1)
 
 - A [project](https://github.com/Symbol1/BlueWaters-RM64)
   ran on a [super computer](https://en.wikipedia.org/wiki/Blue_Waters)

@@ -1,8 +1,14 @@
 # Pessimistic Cardinality Estimation
 
-- [[PlantedClique25]]
-  V Guruswami, H-P Wang.
-  Semirandom Planted Clique via $1$-norm Isometry Property.
-  *IPCO*.
+- [[Sidorenko26]]
+  Y-T Lin, H-P Wang.
+  Sidorenko-Inspired Pessimistic Estimation.
+  *ISIT*.
 
-[PlantedClique25]: https://doi.org/10.1007/978-3-031-93112-3_20
+- [[Ambidextrous25]]
+  Y-T Lin, H-P Wang.
+  Ambidextrous Degree Sequence Bounds for Pessimistic Cardinality Estimation.
+  *arXiv*.
+
+[Sidorenko26]: https://arxiv.org/abs/2604.14647
+[Ambidextrous25]: https://arxiv.org/abs/2510.04249

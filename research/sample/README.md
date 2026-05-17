@@ -1,8 +1,8 @@
 # Exact Distribution Shaping
 
-- [[GrayCode24]]
-  V Guruswami, H-P Wang.
-  Capacity-Achieving Gray Codes.
-  *RANDOM*.
+- [[MichelangeRoll25]]
+  J-H Shao, H-P Wang.
+  MichelangeRoll: Sculpting Rational Distributions Exactly and Efficiently.
+  *arXiv*.
 
-[GrayCode24]: https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2024.65
+[MichelangeRoll25]: https://arxiv.org/abs/2507.00915
