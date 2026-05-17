@@ -1,8 +1,8 @@
 # Theoretico Factorial
 
-[Factorio](https://en.wikipedia.org/wiki/Factorio)
-by Wube Software is a video game released in 2020.
-Factorio, a combination of factory and factorial, is about automation and logistics.
+[Factorio](https://en.wikipedia.org/wiki/Factorio),
+by Wube Software, is a video game released in 2020.
+As a wordplay combining *factory* and *factorial*, the game is about automation and logistics.
 
 The game developers made it easy to share our factory designs with each other
 using [blueprint strings](https://wiki.factorio.com/Blueprint_string_format),
@@ -309,7 +309,7 @@ More features:
 * The recipes are arranged according to their positions in the E-menu.
 * All recipes are buffed by the maximum amount of productivity modules if allowed,
   or speed modules otherwise.
-* Almost recipes are buffed by 8 beacons (exceptions are certain oil products);
+* Almost all recipes are buffed by 8 beacons (exceptions are certain oil products);
   note that for 3x3 machines, 8-beacon designs are more space-efficient than 12-beacon designs. 
 * The requester chests are set to request the correct ratio of materials so that
   the machines can continue working for the longest possible time if the logistic network is busy.
