@@ -3,10 +3,10 @@
 
 I have once worked on distributed computation of matrix-matrix multiplication.
 
-* [[PlutoCharon20]]
-  H.-P. Wang, I. Duursma.
-  *Parity-Checked Strassen Algorithm*.
-  arXiv.
+- [[PlutoCharon20]]
+  H-P Wang, I Duursma.
+  Parity-Checked Strassen Algorithm.
+  *arXiv*.
 
 [[PlutoCharon20]] deals distributed matrix multiplication (DMM), where the workers might straggle or
 crash, by combining ideas from fast matrix multiplication (FMM).  By MM we mean the computation of
@@ -31,16 +31,16 @@ can actually save time by paying for more CPU times.
 
 The contribution of [[PlutoCharon20]] is three-fold.
 
-* One: We obverse that the routine computation of $A\times B$ can be carried-out by fast matrix
+- One: We obverse that the routine computation of $A\times B$ can be carried-out by fast matrix
   multiplication (FMM).  This construction is named **Pluto codes** because the smallest working
   example uses nine workers and can afford breaking one, which reminds us that Pluto used to be the
   ninth planet.
 
-* Two: Applying Pluto codes recursively, we obtain codes that behave like tensor product codes.
+- Two: Applying Pluto codes recursively, we obtain codes that behave like tensor product codes.
   Tensor produce codes have fast iterative decoders that is parallelism-friendly.  This fits the
   current context of distributed computation.
 
-* Three: We observe that the computation of $(gA) \times (Bh)$, when $g$ and $h$ are matrices, can
+- Three: We observe that the computation of $(gA) \times (Bh)$, when $g$ and $h$ are matrices, can
   be carried-out by FMM as well.  This is named **Charon construction** after the moon of Pluto.
   (Fun fact: Charon is the largest moon when it comes to relative size.)
   
@@ -53,5 +53,9 @@ can recover from four erasures with high probability.
 Here is a figure I made to explain the tensor structure of Pluto.
 
 ![A 3-dimensional arraay of cubes, each representing a CPU core](tensor.png)
+
+It is the 3D version of the following picture.
+
+![A 1-dimensional arraay of symbols, each representing a CPU core](matrix.png)
 
 [PlutoCharon20]: https://arxiv.org/abs/2011.15082

@@ -42,7 +42,7 @@ Social media
 
 ## 找指導
 
-到 [🎮 Discord](https://discord.gg/yWPjB2tRTt) 找我 (@Simple.1)及其他學長姐聊。
+到 [Discord](https://discord.gg/yWPjB2tRTt) 找我 (@Simple.1)及其他學長姐聊。
 
 到 [research page](research) 研究我做了哪些研究。
 

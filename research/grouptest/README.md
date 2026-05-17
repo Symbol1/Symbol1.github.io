@@ -1,22 +1,27 @@
 
 # Group Testing Papers
 
-* [[PCR-TGT-22]]
-  H.-P. Wang, R. Gabrys, A. Vardy.
-  *PCR, Tropical Arithmetic, and Group Testing*.
-  ISIT.
-* [[BonsaiGT23]]
-  H.-P. Wang, R. Gabrys, V. Guruswami.
-  *Quickly-Decodable Group Testing with Fewer Tests: Price--Scarlett's Nonadaptive Splitting with Explicit Scalars.*
-  ISIT.
-* [[TropicalGT23]]
-  H.-P. Wang, R. Gabrys, A. Vardy.
-  *Tropical Group Testing*.
-  IEEE TIT.
+- [[PCR-TGT-22]]
+  H-P Wang, R Gabrys, A Vardy.
+  PCR, Tropical Arithmetic, and Group Testing.
+  *ISIT*.
+- [[BonsaiGT23]]
+  H-P Wang, R Gabrys, V Guruswami.
+  Quickly-Decodable Group Testing with Fewer Tests: Price--Scarlett's Nonadaptive Splitting with Explicit Scalars.
+  *ISIT*.
+- [[TropicalGT23]]
+  H-P Wang, R Gabrys, A Vardy.
+  Tropical Group Testing.
+  *IEEE TIT*.
   (journal version of [[PCR-TGT-22]].)
-* [[Measure1Cut1-24]] H.-P. Wang, V. Guruswami.
-  *Isolate and then Identify: Rethinking Adaptive Group Testing*.
-  ISIT.
+- [[GachaGT23]]
+  V Guruswami, H-P Wang
+  Nonadaptive Noise-Resilient Group Testing with Order-Optimal Tests and Fast-and-Reliable Decoding.
+  *arXiv*.
+- [[Measure1Cut1-24]] H-P Wang, V Guruswami.
+  Isolate and then Identify: Rethinking Adaptive Group Testing.
+  *ISIT*.
+
 
 Overwhelmed by the Covid-19 pandemic, we study the possibility of using group testing to help
 finding the carrier of SARS-CoV-2.  (Fun fact: Covid-19 is the name of the disease; SARS-CoV-2 is

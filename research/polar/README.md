@@ -3,41 +3,47 @@
 
 I have worked on polar coding since I was graduate student at UIUC Math.
 
-* [[ModerDevia18]]
+- [[ModerDevia18]]
   H.-P. Wang, I. Duursma.
-  *Polar Code Moderate Deviation: Recovering the Scaling Exponent*.
-  arXiv.
-* [[LargeDevia18]]
+  Polar Code Moderate Deviation: Recovering the Scaling Exponent.
+  *arXiv*.
+- [[LargeDevia18]]
   H.-P. Wang, I. Duursma.
-  *Polar-like Codes and Asymptotic Tradeoff among Block Length, Code Rate, and Error Probability*.
-  arXiv.
-* [[LoglogTime18]]
+  Polar-like Codes and Asymptotic Tradeoff among Block Length, Code Rate, and Error Probability.
+  *arXiv*.
+- [[LoglogTime18]]
   H.-P. Wang, I. Duursma.
-  *Log-logarithmic Time Pruned Polar Coding on Binary Erasure Channels*.
-  arXiv.
-* [[LoglogTime21]]
+  Log-logarithmic Time Pruned Polar Coding on Binary Erasure Channels.
+  *arXiv*.
+- [[LoglogTime21]]
   H.-P. Wang, I. Duursma.
-  *Log-logarithmic Time Pruned Polar Coding*.
-  IEEE TIT.
-* [[Hypotenuse21]]
+  Log-logarithmic Time Pruned Polar Coding.
+  *IEEE TIT*.
+- [[Hypotenuse21]]
   H.-P. Wang, I. Duursma.
-  *Polar Codes' Simplicity, Random Codes' Durability*.
-  IEEE TIT.
-* [[Dissertation21]]
+  Polar Codes' Simplicity, Random Codes' Durability.
+  *IEEE TIT*.
+- [[Dissertation21]]
   H.-P. Wang.
-  *Complexity and Second Moment of the Mathematical Theory of Communication*.
-* [[TetraErase22]]
+  Complexity and Second Moment of the Mathematical Theory of Communication.
+- [[TetraErase22]]
   I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
-  *Accelerating Polarization via Alphabet Extension*.
-  RANDOM.
-* [[Sub-4.7-mu23]]
+  Accelerating Polarization via Alphabet Extension.
+  *RANDOM*.
+- [[Sub-4.7-mu23]]
   H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
-  *Sub-4.7 Scaling Exponent of Polar Codes*.
-  IEEE TIT.
-* [[DegradeWide23]]
+  Sub-4.7 Scaling Exponent of Polar Codes.
+  *IEEE TIT*.
+- [[DegradeWide23]]
   H.-P. Wang, V. Guruswami.
-  *How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?*.
-  ISIT.
+  How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?
+  *ISIT*.
+- [[SCPDecoder24]]
+  H-P Wang, V Guruswami.
+  Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically.
+  *ISIT*.
+
+
 
 In the early days, my research focuses on the **moderate deviations principle (MDP) paradigm** of
 noisy-channel coding.  MDP addresses the asymptotic trade-offs among block length $N$, error

@@ -3,15 +3,15 @@
 
 The following are my works on distributed storage systems.  They study regenerating codes.
 
-* [[MoulinAlg21]]
-  I. Duursma, H.-P. Wang.
-  *Multilinear Algebra for Distributed Storage*.
-  SIAM Journal on Applied Algebra and Geometry (SIAGA).
-* [[Atrahasis21]]
-  I. Duursma, X. Li, H.-P. Wang.
-  *Multilinear Algebra for Minimum Storage Regenerating Codes:
-   A Generalization of Product-Matrix Construction*.
-  Applicable Algebra in Engineering, Communication and Computing (AAECC).
+- [[MoulinAlg21]]
+  I Duursma, H-P Wang.
+  Multilinear Algebra for Distributed Storage.
+  *SIAM Journal on Applied Algebra and Geometry (SIAGA)*.
+- [[Atrahasis21]]
+  I Duursma, X Li, H-P Wang.
+  Multilinear Algebra for Minimum Storage Regenerating Codes:
+  A Generalization of Product-Matrix Construction.
+  *Applicable Algebra in Engineering, Communication and Computing (AAECC)*.
 
 A **regenerating code** consists of
 
