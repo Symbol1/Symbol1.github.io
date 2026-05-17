@@ -43,7 +43,7 @@ Social media
 
 到 [discord server](https://discord.gg/yWPjB2tRTt) 找我及其他學長姐聊。
 
-Also visit the [Research page](/paper) for a list of my papers and summaries.
+Also visit the [Research page](/research) for a list of my papers and summaries.
 
 ## 找演講
 
