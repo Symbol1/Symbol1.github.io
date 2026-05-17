@@ -1,5 +1,5 @@
 
-# Hsin-Po Wang （王新博）
+# Hsin-Po Wang 王新博
 
 助理教授 Assistant Professor  
 電機系 Dept of EE 電信所 Grad Inst of Comm  
@@ -83,7 +83,7 @@ collecting techniques that are too fancy for papers
 and another page <https://nm.lk/f>
 dedicated to beautiful factory designs in the video game Factorio.
 
-## Teaching
+## 找課程
 
 - Spring 2026 先進編碼理論與技術 Modern Coding Theory and Techniques (English taught)
 - Spring 2026 工程數學特論 Selected Topics in Engineering Mathematics（中文授課）
@@ -126,10 +126,6 @@ dedicated to beautiful factory designs in the video game Factorio.
   電信工程學研究所 Graduate Institute of Communication Engineering  
   國立台灣大學 National Taiwan University  
   August 2024--
-
-- Visitor  
-  University of Maryland, College Park  
-  Summer 2024
 
 - Apple Research Fellow  
   Simons Institute for the Theory of Computing  
@@ -243,12 +239,12 @@ dedicated to beautiful factory designs in the video game Factorio.
 - [Oriclip](/oriclip) is about binder clip sculptures.  
   (Data plan warning: a lot of photos!)
 
-- [Theoretico Factorio](/tofo): a game about automation and logistic.
+- [Theoretico Factorio](/game/tofo): a game about automation and logistic.
 
 - 薩爾達傳說·[封印戰記的表格](https://docs.google.com/spreadsheets/d/1gETsarMsqRHYQYDLAyHzOmZl70hY1waqaQmd726pSdE/)
-- 薩爾達傳說·[曠野之息的中、外文資料](/BotW)
+- 薩爾達傳說·[曠野之息的中、外文資料](/game/BotW)
 - 薩爾達傳說·[災厄啟示錄的表格](https://docs.google.com/spreadsheets/d/1YUwOkL_HBp6YADsAm60UxfkO-qn713GPLNKzayjq46o/)
-- 薩爾達傳說·[王國之淚的中、外文資料](/TotK)
+- 薩爾達傳說·[王國之淚的中、外文資料](/game/TotK)
 
 ## Vaseman Gallery (Artist = Jau-Pao Wang)
 

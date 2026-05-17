@@ -2,21 +2,21 @@
 
 Paper summaries by topics:
 
-- [Polar codes](/paper/polar)  (x8)
+- [Polar codes](polar)  (x8)
 
-- [Polar channel ordering](/paper/polder) (x3)
+- [Polar channel ordering](polder) (x3)
 
-- [Group testing](/paper/grouptest) (x3)
+- [Group testing](grouptest) (x3)
 
-- [Distributed storage](/paper/storage) (x2)
+- [Distributed storage](storage) (x2)
 
-- [DNA digital data storage](/paper/dna) (x2)
+- [DNA digital data storage](dna) (x2)
 
-- [Pessimistic cardinality estimation](/paper/cardinality) (x2)
+- Pessimistic cardinality estimation (x2)
 
-- [Distributed computation](/paper/compute) (x1)
+- [Distributed computation](compute) (x1)
 
-- [Exact distribution shaping](/paper/sample) (x1)
+- Exact distribution shaping (x1)
 
 - A [project](https://github.com/Symbol1/BlueWaters-RM64)
   ran on a [super computer](https://en.wikipedia.org/wiki/Blue_Waters)
