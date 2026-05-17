@@ -253,11 +253,12 @@ Paper summaries by topics:
   [video2](https://www.youtube.com/watch?v=PsG7P00Odz8), and
   [slides](https://github.com/Symbol1/PolarTutorial).
 
+- Another short lecture on
+  [polar codes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).
+
 - Group testing:
   [new result](https://github.com/Symbol1/GachaManim) and
   [big picture](https://github.com/Symbol1/SparseProblems).
 
-- A short lecture on
-  [polar codes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).
-
-- A talk on distributed matrix multiplication - [Slides](https://github.com/Symbol1/ChatPPT).
+- A talk on distributed matrix multiplication:
+  [Slides](https://github.com/Symbol1/ChatPPT).
