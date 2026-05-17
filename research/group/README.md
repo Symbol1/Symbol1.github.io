@@ -94,6 +94,21 @@ Hence the name "bonsai".
 
 ![bonsai](bonsai.png)
 
+Afterward, we realize that the a bottle is the noise presented in the test result.
+In [[BonsaiGT23]], a negative test is an evidence that all specimens in the test are negative.
+But it might be a false negative in a real world test.
+We therefore look for the noisy counterpart, which leads to [[GachaGT23]].
+In this paper, we recognize five criteria for a good group testing scheme. They are  
+A. Adaptive testes are less welcome than non-adaptive tests.
+B. The number of tests should reach the information theoretical lower bound.
+C. There is a channel postprocessing the test results; now what?
+D. The decoding algorithm should be fast. And
+E. The block error probability should be small.
+We tried really hard and invented a special version of Reed--Solomon codes.
+We even discuss its recursive application to amplify the parameters.
+The result is that there is an $\sqrt{\log n}$ factor that you can move around
+vetween different parameters, but we cannot completely get rid of it.
+
 In [[Measure1Cut1-24]], we study adaptive group testing.  The original goal was to spend the first
 round of test to make some auxiliary measurements to isolate sick students; and then we spend the
 second round to identify the sick students.  It turns out that one round for isolation is not
@@ -113,4 +128,5 @@ be enough without changing the other parameters in the existing result.
 [PCR-TGT-22]: https://doi.org/10.1109/ISIT50566.2022.9834718
 [BonsaiGT23]: https://doi.org/10.1109/ISIT54713.2023.10206843
 [TropicalGT23]: https://doi.org/10.1109/TIT.2023.3282847
+[GachaGT23]: https://arxiv.org/abs/2311.08283
 [Measure1Cut1-24]: https://doi.org/10.1109/ISIT57864.2024.10619098
