@@ -92,7 +92,7 @@ Paper summaries by topics:
     *International Conference on Randomization and Computation (RANDOM)*.
     August 2024, London, UK.
     ([Timelapse1](https://www.youtube.com/watch?v=vMG5mLo5O8g) and
-     [Timelapse2](https://www.youtube.com/watch?v=ct660g4xnTI))
+     [timelapse2](https://www.youtube.com/watch?v=ct660g4xnTI))
 
 4. H-P Wang, C-W Chin.
     [On Counting Subsequences and Higher-Order Fibonacci Numbers](https://doi.org/10.1109/ISIT57864.2024.10619178).
@@ -172,11 +172,14 @@ Paper summaries by topics:
    [Nonadaptive Noise-Resilient Group Testing with Order-Optimal Tests and Fast-and-Reliable Decoding](https://arxiv.org/abs/2311.08283).
    *arXiv*.
    November 2023.
+   ([Slides](https://github.com/Symbol1/GachaManim) and
+    [big picture](https://github.com/Symbol1/SparseProblems).)
 
 2. H-P Wang, I Duursma.
    [Parity-Checked Strassen Algorithm](https://arxiv.org/abs/2011.15082).
    *arXiv*.
    November 2020.
+   ([Slides](https://github.com/Symbol1/ChatPPT))
 
 3. H-P Wang, I Duursma.
    [Log-logarithmic Time Pruned Polar Coding on Binary Erasure Channels](https://arxiv.org/abs/1812.08106).
@@ -193,7 +196,7 @@ Paper summaries by topics:
    *arXiv*.
    June 2018.
 
-## Invited Talks & Slides
+## Invited Talks
 
 1. [Not-So-Perfect Hashing: Downlink and Uplink](https://husihuang.github.io/workshop.html)
     *Qingdao Workshop on Coding Theory and Related Topics*.
@@ -246,7 +249,7 @@ Paper summaries by topics:
    August 2021, virtual.
    ([Slides](https://github.com/Symbol1/MoulinDistorage))
 
-## Local Talks
+## Tutorials
 
 - Polar code tutorial:
   [video1](https://www.youtube.com/watch?v=K0ZIuwG8il8),
@@ -256,9 +259,3 @@ Paper summaries by topics:
 - Another short lecture on
   [polar codes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).
 
-- Group testing:
-  [new result](https://github.com/Symbol1/GachaManim) and
-  [big picture](https://github.com/Symbol1/SparseProblems).
-
-- A talk on distributed matrix multiplication:
-  [Slides](https://github.com/Symbol1/ChatPPT).
