@@ -6,8 +6,11 @@
   *IEEE International Symposium on Information Theory (ISIT)*.
   July 2024, Athens, Greece.
   ([Preprint](https://arxiv.org/abs/2405.17499),
-   [slides](https://drive.google.com/file/d/1ESqesAE-yNuHexI_JgWYQMcIQH4lz1KJ/), and
-   [framed slides](https://drive.google.com/file/d/1s4GGTO8mao734CJJw4fk4NAbgh9FMeUr/))
+   [slides](https://drive.google.com/file/d/1ESqesAE-yNuHexI_JgWYQMcIQH4lz1KJ/),
+   [framed slides](https://drive.google.com/file/d/1s4GGTO8mao734CJJw4fk4NAbgh9FMeUr/),
+   [Minecraft map](https://www.youtube.com/watch?v=9grRobL0bi4), and
+   [Acropolis](https://en.wikipedia.org/wiki/Acropolis_of_Athens))
+
 - [[GenoWeaving25]]
   H-P Wang, V Guruswami.
   Geno-Weaving: A Framework for Low-Complexity Capacity-Achieving DNA Data Storage.
@@ -17,6 +20,7 @@
    [timelapse](https://www.youtube.com/watch?v=lZeyMdv9dRI),
    [slides1](https://github.com/Symbol1/GenoWeave), and
    [slides2](https://drive.google.com/file/d/1uL7oCs8RxfnLTRxBiu3TQW0_CdW_3iC9/))
+
 - [[NanoGain25]]
   Y-T Lin, H-P Wang, V Guruswami.
   Block Length Gain for Nanopore Channels.

@@ -39,13 +39,13 @@ Paper summaries by topics:
 2. H-P Wang, R Gabrys, A Vardy.
    [Tropical Group Testing](https://doi.org/10.1109/TIT.2023.3282847).
    *IEEE Transactions on Information Theory*.
-   September 2023.
+   June 2023.
    ([Preprint](https://arxiv.org/abs/2201.05440))
 
 3. H-P Wang, T-C Lin, A Vardy, R Gabrys.
    [Sub-4.7 Scaling Exponent of Polar Codes](https://doi.org/10.1109/TIT.2023.3253074).
    *IEEE Transactions on Information Theory*.
-   July 2023.
+   March 2023.
    ([Preprint](https://arxiv.org/abs/2204.11683))
 
 4. I Duursma, H-P Wang.
@@ -222,7 +222,6 @@ Paper summaries by topics:
 1. [Not-So-Perfect Hashing: Downlink and Uplink](https://husihuang.github.io/workshop.html)
     *Qingdao Workshop on Coding Theory and Related Topics*.
     June 2026, Qingdao, China.
-
 
 2. [Sidorenko-Inspired Pessimistic Cardinality Estimation for Join Queries](https://brinmrc.umd.edu/fall25-ibdgcct/)
     *The Interplay Between Distance Geometry, Combinatorics, and Coding Theory (BrinMRC workshop)*.

@@ -8,6 +8,7 @@
   June 2022, Helsinki, Finland.
   ([Full version](https://arxiv.org/abs/2201.05440) and
    [slides](https://github.com/Symbol1/PCR-TGT))
+
 - [[BonsaiGT23]]
   H-P Wang, R Gabrys, V Guruswami.
   Quickly-Decodable Group Testing with Fewer Tests: Price-Scarlett's Nonadaptive Splitting with Explicit Scalars.
@@ -15,27 +16,29 @@
   June 2023, Taipei, Taiwan.
   ([Preprint](https://arxiv.org/abs/2405.16370) and
    [slides](https://drive.google.com/file/d/18Kku7Q1lpmylhz8ScPs-zwBRzIyP6sec/))
+
 - [[TropicalGT23]]
   H-P Wang, R Gabrys, A Vardy.
   Tropical Group Testing.
   *IEEE Transactions on Information Theory*.
-  September 2023.
+  June 2023.
   ([Preprint](https://arxiv.org/abs/2201.05440))
   (journal version of [[PCR-TGT-22]].)
+
 - [[GachaGT23]]
-  V Guruswami, H-P Wang
+  V Guruswami, H-P Wang.
   Nonadaptive Noise-Resilient Group Testing with Order-Optimal Tests and Fast-and-Reliable Decoding.
   *arXiv*.
   November 2023.
   ([Slides](https://github.com/Symbol1/GachaManim) and
    [big picture](https://github.com/Symbol1/SparseProblems))
+
 - [[Measure1Cut1-24]]
   H-P Wang, V Guruswami.
   Isolate and then Identify: Rethinking Adaptive Group Testing.
   *IEEE International Symposium on Information Theory (ISIT)*.
   July 2024, Athens, Greece.
   ([Preprint](https://arxiv.org/abs/2405.16374))
-
 
 Overwhelmed by the Covid-19 pandemic, we study the possibility of using group testing to help
 finding the carrier of SARS-CoV-2.  (Fun fact: Covid-19 is the name of the disease; SARS-CoV-2 is
@@ -138,7 +141,6 @@ So the name "measure once, cut once" didn't come true.  That said, we are very c
 The work stated that $\log k$ rounds are enough.  But we conjecture that $\log(\log k)$ rounds might
 be enough without changing the other parameters in the existing result.
 
-[TropicalGT22]: https://arxiv.org/abs/2201.05440
 [PCR-TGT-22]: https://doi.org/10.1109/ISIT50566.2022.9834718
 [BonsaiGT23]: https://doi.org/10.1109/ISIT54713.2023.10206843
 [TropicalGT23]: https://doi.org/10.1109/TIT.2023.3282847

@@ -5,6 +5,7 @@
   Ambidextrous Degree Sequence Bounds for Pessimistic Cardinality Estimation.
   *arXiv*.
   October 2025.
+
 - [[SidorenQL26]]
   Y-T Lin, H-P Wang.
   Sidorenko-Inspired Pessimistic Estimation.

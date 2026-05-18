@@ -11,6 +11,7 @@ are generated during polar coding.  These papers address that.
   June 2023, Taipei, Taiwan.
   ([Preprint](https://arxiv.org/abs/2304.07664) and
    4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
+
 - [[Polder-Conjugate23]]
   H-P Wang, C-W Chin.
   Density Devolution for Ordering Synthetic Channels.
@@ -18,6 +19,7 @@ are generated during polar coding.  These papers address that.
   June 2023, Taipei, Taiwan.
   ([Preprint](https://arxiv.org/abs/2304.07667) and
    4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
+
 - [[Polder-Finer23]]
   H-P Wang, V-F Dragoi.
   Fast Methods for Ranking Synthetic BECs.

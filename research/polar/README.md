@@ -8,16 +8,19 @@ I have worked on polar coding since I was graduate student at UIUC Math.
   Polar Code Moderate Deviation: Recovering the Scaling Exponent.
   *arXiv*.
   June 2018.
+
 - [[LargeDevia18]]
   H.-P. Wang, I. Duursma.
   Polar-like Codes and Asymptotic Tradeoff among Block Length, Code Rate, and Error Probability.
   *arXiv*.
   December 2018.
+
 - [[LoglogTime18]]
   H.-P. Wang, I. Duursma.
   Log-logarithmic Time Pruned Polar Coding on Binary Erasure Channels.
   *arXiv*.
   December 2018.
+
 - [[LoglogTime21]]
   H.-P. Wang, I. Duursma.
   Log-logarithmic Time Pruned Polar Coding.
@@ -25,6 +28,7 @@ I have worked on polar coding since I was graduate student at UIUC Math.
   March 2021.
   ([Preprint](https://arxiv.org/abs/1905.13340) and
    [Predecessor](https://arxiv.org/abs/1812.08106))
+
 - [[Hypotenuse21]]
   H.-P. Wang, I. Duursma.
   Polar Codes' Simplicity, Random Codes' Durability.
@@ -33,9 +37,11 @@ I have worked on polar coding since I was graduate student at UIUC Math.
   ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits),
    [slides @ UIUC](https://github.com/Symbol1/Complex2Order), and
    [slides @ Princeton](https://github.com/Symbol1/abc))
+
 - [[Dissertation21]]
   H.-P. Wang.
   Complexity and Second Moment of the Mathematical Theory of Communication.
+
 - [[TetraErase22]]
   I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
   Accelerating Polarization via Alphabet Extension.
@@ -43,12 +49,14 @@ I have worked on polar coding since I was graduate student at UIUC Math.
   September 2022, virtual.
   ([Full version](https://arxiv.org/abs/2207.04522) and
    7-minute [animation](https://www.youtube.com/watch?v=2mmbd58rSts))
+
 - [[Sub-4.7-mu23]]
   H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
   Sub-4.7 Scaling Exponent of Polar Codes.
   *IEEE Transactions on Information Theory*.
-  July 2023.
+  March 2023.
   ([Preprint](https://arxiv.org/abs/2204.11683))
+
 - [[DegradeWide23]]
   H.-P. Wang, V. Guruswami.
   How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?
@@ -56,6 +64,7 @@ I have worked on polar coding since I was graduate student at UIUC Math.
   June 2023, Taipei, Taiwan.
   ([Preprint](https://arxiv.org/abs/2405.16360) and
    4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
+
 - [[SCPDecoder24]]
   H-P Wang, V Guruswami.
   Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically.
@@ -63,8 +72,6 @@ I have worked on polar coding since I was graduate student at UIUC Math.
   July 2024, Athens, Greece.
   ([Preprint](https://arxiv.org/abs/2405.16373) and
    [slides](https://drive.google.com/file/d/1JBO1QyhORn_5ahKPbxFP2f6wSDee3zaw/))
-
-
 
 In the early days, my research focuses on the **moderate deviations principle (MDP) paradigm** of
 noisy-channel coding.  MDP addresses the asymptotic trade-offs among block length $N$, error
@@ -235,14 +242,10 @@ I made a Euler diagram explaining various classes of channels.
 [ModerDevia18]: https://arxiv.org/abs/1806.02405
 [LoglogTime18]: https://arxiv.org/abs/1812.08106
 [LargeDevia18]: https://arxiv.org/abs/1812.08112
-[LoglogTime19]: https://arxiv.org/abs/1905.13340
-[Hypotenuse19]: https://arxiv.org/abs/1912.08995
 [LoglogTime21]: https://doi.org/10.1109/TIT.2020.3041523
 [Hypotenuse21]: https://doi.org/10.1109/TIT.2020.3041570
 [Dissertation21]: https://arxiv.org/abs/2107.06420
-[TetraErase22x]: https://arxiv.org/abs/2207.04522
 [TetraErase22]: https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17
-[Sub-4.7-mu22]: https://arxiv.org/abs/2204.11683
 [Sub-4.7-mu23]: https://doi.org/10.1109/TIT.2023.3253074
 [DegradeWide23]: https://doi.org/10.1109/ISIT54713.2023.10206989
-[DegradeWide24]: https://arxiv.org/abs/2405.16360
+[SCPDecoder24]: https://doi.org/10.1109/ISIT57864.2024.10619251
