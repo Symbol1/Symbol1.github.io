@@ -7,6 +7,8 @@ I have once worked on distributed computation of matrix-matrix multiplication.
   H-P Wang, I Duursma.
   Parity-Checked Strassen Algorithm.
   *arXiv*.
+  November 2020.
+  ([Slides](https://github.com/Symbol1/ChatPPT))
 
 [[PlutoCharon20]] deals distributed matrix multiplication (DMM), where the workers might straggle or
 crash, by combining ideas from fast matrix multiplication (FMM).  By MM we mean the computation of

@@ -4,23 +4,37 @@
 - [[PCR-TGT-22]]
   H-P Wang, R Gabrys, A Vardy.
   PCR, Tropical Arithmetic, and Group Testing.
-  *ISIT*.
+  *IEEE International Symposium on Information Theory (ISIT)*.
+  June 2022, Helsinki, Finland.
+  ([Full version](https://arxiv.org/abs/2201.05440) and
+   [slides](https://github.com/Symbol1/PCR-TGT))
 - [[BonsaiGT23]]
   H-P Wang, R Gabrys, V Guruswami.
-  Quickly-Decodable Group Testing with Fewer Tests: Price--Scarlett's Nonadaptive Splitting with Explicit Scalars.
-  *ISIT*.
+  Quickly-Decodable Group Testing with Fewer Tests: Price-Scarlett's Nonadaptive Splitting with Explicit Scalars.
+  *IEEE International Symposium on Information Theory (ISIT)*.
+  June 2023, Taipei, Taiwan.
+  ([Preprint](https://arxiv.org/abs/2405.16370) and
+   [slides](https://drive.google.com/file/d/18Kku7Q1lpmylhz8ScPs-zwBRzIyP6sec/))
 - [[TropicalGT23]]
   H-P Wang, R Gabrys, A Vardy.
   Tropical Group Testing.
-  *IEEE TIT*.
+  *IEEE Transactions on Information Theory*.
+  September 2023.
+  ([Preprint](https://arxiv.org/abs/2201.05440))
   (journal version of [[PCR-TGT-22]].)
 - [[GachaGT23]]
   V Guruswami, H-P Wang
   Nonadaptive Noise-Resilient Group Testing with Order-Optimal Tests and Fast-and-Reliable Decoding.
   *arXiv*.
-- [[Measure1Cut1-24]] H-P Wang, V Guruswami.
+  November 2023.
+  ([Slides](https://github.com/Symbol1/GachaManim) and
+   [big picture](https://github.com/Symbol1/SparseProblems))
+- [[Measure1Cut1-24]]
+  H-P Wang, V Guruswami.
   Isolate and then Identify: Rethinking Adaptive Group Testing.
-  *ISIT*.
+  *IEEE International Symposium on Information Theory (ISIT)*.
+  July 2024, Athens, Greece.
+  ([Preprint](https://arxiv.org/abs/2405.16374))
 
 
 Overwhelmed by the Covid-19 pandemic, we study the possibility of using group testing to help

@@ -1,13 +1,15 @@
 # Pessimistic Cardinality Estimation
 
-- [[Ambidextrous25]]
+- [[Ambidexter25]]
   Y-T Lin, H-P Wang.
   Ambidextrous Degree Sequence Bounds for Pessimistic Cardinality Estimation.
   *arXiv*.
+  October 2025.
 - [[SidorenQL26]]
   Y-T Lin, H-P Wang.
   Sidorenko-Inspired Pessimistic Estimation.
-  *ISIT*.
+  *IEEE International Symposium on Information Theory (ISIT)*.
+  June 2026, Guanzhou, China.
 
 A database system usually consists of several tables.
 For instance, the following is the table of transactions.
@@ -146,4 +148,4 @@ It is therefore crucial to find
 * a bound-matching algorithm to compute the output table.
 
 [SidorenQL26]: https://arxiv.org/abs/2604.14647
-[Ambidextrous25]: https://arxiv.org/abs/2510.04249
+[Ambidexter25]: https://arxiv.org/abs/2510.04249

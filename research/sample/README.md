@@ -4,5 +4,6 @@
   J-H Shao, H-P Wang.
   MichelangeRoll: Sculpting Rational Distributions Exactly and Efficiently.
   *arXiv*.
+  July 2025.
 
 [MichelangeRoll25]: https://arxiv.org/abs/2507.00915

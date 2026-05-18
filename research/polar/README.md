@@ -7,41 +7,62 @@ I have worked on polar coding since I was graduate student at UIUC Math.
   H.-P. Wang, I. Duursma.
   Polar Code Moderate Deviation: Recovering the Scaling Exponent.
   *arXiv*.
+  June 2018.
 - [[LargeDevia18]]
   H.-P. Wang, I. Duursma.
   Polar-like Codes and Asymptotic Tradeoff among Block Length, Code Rate, and Error Probability.
   *arXiv*.
+  December 2018.
 - [[LoglogTime18]]
   H.-P. Wang, I. Duursma.
   Log-logarithmic Time Pruned Polar Coding on Binary Erasure Channels.
   *arXiv*.
+  December 2018.
 - [[LoglogTime21]]
   H.-P. Wang, I. Duursma.
   Log-logarithmic Time Pruned Polar Coding.
-  *IEEE TIT*.
+  *IEEE Transactions on Information Theory*.
+  March 2021.
+  ([Preprint](https://arxiv.org/abs/1905.13340) and
+   [Predecessor](https://arxiv.org/abs/1812.08106))
 - [[Hypotenuse21]]
   H.-P. Wang, I. Duursma.
   Polar Codes' Simplicity, Random Codes' Durability.
-  *IEEE TIT*.
+  *IEEE Transactions on Information Theory*.
+  March 2021.
+  ([Slides @ NTU](https://github.com/Symbol1/Coding4Limits),
+   [slides @ UIUC](https://github.com/Symbol1/Complex2Order), and
+   [slides @ Princeton](https://github.com/Symbol1/abc))
 - [[Dissertation21]]
   H.-P. Wang.
   Complexity and Second Moment of the Mathematical Theory of Communication.
 - [[TetraErase22]]
   I. Duursma, R. Gabrys, V. Guruswami, T.-C. Lin, H.-P. Wang.
   Accelerating Polarization via Alphabet Extension.
-  *RANDOM*.
+  *International Conference on Randomization and Computation (RANDOM)*.
+  September 2022, virtual.
+  ([Full version](https://arxiv.org/abs/2207.04522) and
+   7-minute [animation](https://www.youtube.com/watch?v=2mmbd58rSts))
 - [[Sub-4.7-mu23]]
   H.-P. Wang, T.-C. Lin, A. Vardy, R. Gabrys.
   Sub-4.7 Scaling Exponent of Polar Codes.
-  *IEEE TIT*.
+  *IEEE Transactions on Information Theory*.
+  July 2023.
+  ([Preprint](https://arxiv.org/abs/2204.11683))
 - [[DegradeWide23]]
   H.-P. Wang, V. Guruswami.
   How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?
-  *ISIT*.
+  *IEEE International Symposium on Information Theory (ISIT)*.
+  June 2023, Taipei, Taiwan.
+  ([Preprint](https://arxiv.org/abs/2405.16360) and
+   4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
 - [[SCPDecoder24]]
   H-P Wang, V Guruswami.
   Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically.
-  *ISIT*.
+  *IEEE International Symposium on Information Theory (ISIT)*.
+  July 2024, Athens, Greece.
+  ([Preprint](https://arxiv.org/abs/2405.16373) and
+   [slides](https://drive.google.com/file/d/1JBO1QyhORn_5ahKPbxFP2f6wSDee3zaw/))
 
 
 

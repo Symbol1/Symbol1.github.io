@@ -80,6 +80,11 @@ Paper summaries by topics:
 
 ## Peer-Reviewed Conference Publications & Slides
 
+1. Y-T Lin, H-P Wang.
+   [Sidorenko-Inspired Pessimistic Estimation](https://arxiv.org/abs/2604.14647).
+   *IEEE International Symposium on Information Theory (ISIT)*.
+   June 2026, Guanzhou, China.
+
 2. V Guruswami, H-P Wang.
     [Semirandom Planted Clique via $1$-norm Isometry Property](https://doi.org/10.1007/978-3-031-93112-3_20)
     *Conference on Integer Programming and Combinatorial Optimization (IPCO)*.
@@ -91,7 +96,8 @@ Paper summaries by topics:
     [Capacity-Achieving Gray Codes](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2024.65).
     *International Conference on Randomization and Computation (RANDOM)*.
     August 2024, London, UK.
-    ([Timelapse1](https://www.youtube.com/watch?v=vMG5mLo5O8g) and
+    ([Full version](https://arxiv.org/abs/2406.17669),
+     [timelapse1](https://www.youtube.com/watch?v=vMG5mLo5O8g), and
      [timelapse2](https://www.youtube.com/watch?v=ct660g4xnTI))
 
 4. H-P Wang, C-W Chin.
@@ -168,30 +174,45 @@ Paper summaries by topics:
 
 ## arXiv Only
 
-1. V Guruswami, H-P Wang.
+1. Y-T Lin, H-P Wang, V Guruswami.
+   [Block Length Gain for Nanopore Channels](https://arxiv.org/abs/2511.18027).
+   *arXiv*.
+   November 2025.
+
+2. Y-T Lin, H-P Wang.
+   [Ambidextrous Degree Sequence Bounds for Pessimistic Cardinality Estimation](https://arxiv.org/abs/2510.04249).
+   *arXiv*.
+   October 2025.
+
+3. J-H Shao, H-P Wang.
+   [MichelangeRoll: Sculpting Rational Distributions Exactly and Efficiently](https://arxiv.org/abs/2507.00915).
+   *arXiv*.
+   July 2025.
+
+4. V Guruswami, H-P Wang.
    [Nonadaptive Noise-Resilient Group Testing with Order-Optimal Tests and Fast-and-Reliable Decoding](https://arxiv.org/abs/2311.08283).
    *arXiv*.
    November 2023.
    ([Slides](https://github.com/Symbol1/GachaManim) and
     [big picture](https://github.com/Symbol1/SparseProblems).)
 
-2. H-P Wang, I Duursma.
+5. H-P Wang, I Duursma.
    [Parity-Checked Strassen Algorithm](https://arxiv.org/abs/2011.15082).
    *arXiv*.
    November 2020.
    ([Slides](https://github.com/Symbol1/ChatPPT))
 
-3. H-P Wang, I Duursma.
+6. H-P Wang, I Duursma.
    [Log-logarithmic Time Pruned Polar Coding on Binary Erasure Channels](https://arxiv.org/abs/1812.08106).
    *arXiv*.
    December 2018.
 
-4. H-P Wang, I Duursma.
+7. H-P Wang, I Duursma.
    [Polar-like Codes and Asymptotic Tradeoff among Block Length, Code Rate, and Error Probability](https://arxiv.org/abs/1812.08112).
    *arXiv*.
    December 2018.
 
-5. H-P Wang, I Duursma.
+8. H-P Wang, I Duursma.
    [Polar Code Moderate Deviation: Recovering the Scaling Exponent](https://arxiv.org/abs/1806.02405).
    *arXiv*.
    June 2018.
@@ -258,4 +279,3 @@ Paper summaries by topics:
 
 - Another short lecture on
   [polar codes](https://drive.google.com/drive/u/5/folders/1dOaQAjmQxFTOXZdjdhJnkLLelNqQPsfi).
-
