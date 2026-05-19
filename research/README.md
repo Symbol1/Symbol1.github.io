@@ -83,10 +83,10 @@ Paper summaries by topics:
 1. Y-T Lin, H-P Wang.
    [Sidorenko-Inspired Pessimistic Estimation](https://arxiv.org/abs/2604.14647).
    *IEEE International Symposium on Information Theory (ISIT)*.
-   June 2026, Guanzhou, China.
+   June 2026, Guangzhou, China.
 
 2. V Guruswami, H-P Wang.
-    [Semirandom Planted Clique via $1$-norm Isometry Property](https://doi.org/10.1007/978-3-031-93112-3_20)
+    [Semirandom Planted Clique via $1$-norm Isometry Property](https://doi.org/10.1007/978-3-031-93112-3_20).
     *Conference on Integer Programming and Combinatorial Optimization (IPCO)*.
     June 2025, Baltimore, Maryland.
     ([Preprint](https://arxiv.org/abs/2506.17916) and
@@ -219,11 +219,11 @@ Paper summaries by topics:
 
 ## Invited Talks
 
-1. [Not-So-Perfect Hashing: Downlink and Uplink](https://husihuang.github.io/workshop.html)
+1. [Not-So-Perfect Hashing: Downlink and Uplink](https://husihuang.github.io/workshop.html).
     *Qingdao Workshop on Coding Theory and Related Topics*.
     June 2026, Qingdao, China.
 
-2. [Sidorenko-Inspired Pessimistic Cardinality Estimation for Join Queries](https://brinmrc.umd.edu/fall25-ibdgcct/)
+2. [Sidorenko-Inspired Pessimistic Cardinality Estimation for Join Queries](https://brinmrc.umd.edu/fall25-ibdgcct/).
     *The Interplay Between Distance Geometry, Combinatorics, and Coding Theory (BrinMRC workshop)*.
     November 2025, College Park, Maryland.
     ([Slides](https://drive.google.com/drive/folders/1omCa4c3RKqvMUHgMDoCqD24YqduM7W3e))
@@ -239,7 +239,7 @@ Paper summaries by topics:
     ([Slides](https://drive.google.com/drive/folders/1omCa4c3RKqvMUHgMDoCqD24YqduM7W3e))
 
 5. [Sculpting Rational Distributions Accurately and Efficiently](https://aicit2025.github.io/Program/).
-   *Guangzhou, Hong Kong and Taipei Joint Workshop on Artificial Intelligence, Communications and Information Theory (AICIT)*.
+   *Guangzhou, Hong Kong and Taipei Joint Workshop on Artificial Intelligence, Communications and Information Theory (AICIT 2025)*.
    July 2025, Guangzhou, China.
    ([Slides](https://drive.google.com/drive/folders/1VgGEWxeDdqpggmPDxiXt_0me88ZF2dHM))
 

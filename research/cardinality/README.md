@@ -10,7 +10,7 @@
   Y-T Lin, H-P Wang.
   Sidorenko-Inspired Pessimistic Estimation.
   *IEEE International Symposium on Information Theory (ISIT)*.
-  June 2026, Guanzhou, China.
+  June 2026, Guangzhou, China.
 
 A database system usually consists of several tables.
 For instance, the following is the table of transactions.
