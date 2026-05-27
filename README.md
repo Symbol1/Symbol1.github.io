@@ -42,9 +42,9 @@ Social media
 
 ## 找指導
 
-到 [Discord](https://discord.gg/yWPjB2tRTt) 找我 (@Simple.1)及其他學長姐聊。
+到 [Discord](https://discord.gg/yWPjB2tRTt) 找我 (@Simple.1) 及其他學長姐聊。
 
-到 [research page](research) 研究我做了哪些研究。
+到 [research summary](research) 研究我做了哪些研究。
 
 ## 找演講
 
@@ -93,7 +93,7 @@ Visit the [research page](research) for papers, slides, and topic summaries.
 ## Teaching
 
 - Spring 2026 先進編碼理論與技術 Modern Coding Theory and Techniques (English taught)
-- Spring 2026 工程數學特論 Selected Topics in Engineering Mathematics（中文授課）
+- Spring 2026 工程數學特論 Selected Topics in Engineering Mathematics（中文授課，與丁建軍合授）
 - Spring 2026 電資工程入門設計與實作 Cornerstone EECS Design and Implementation
   （中文授課，與林坤佑合授）
 - Fall 2025 錯誤更正碼 Error Correcting Codes（中文授課）
