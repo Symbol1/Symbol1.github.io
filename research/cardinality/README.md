@@ -148,5 +148,13 @@ It is therefore crucial to find
 * a good method to upper bound the table size, and
 * a bound-matching algorithm to compute the output table.
 
+[[Ambidexter25]] is our first work on the first bullet.
+We give a new upper bound on the size of $\Delta$
+using what we called the *bi-degree sequences*.
+[[SidorenQL26]] is a generalization of [Ambidexter25],
+which relies on counting catepillars.
+
+![Bounds as fractional covers of the entropy Venn diagram](venn.png)
+
 [SidorenQL26]: https://arxiv.org/abs/2604.14647
 [Ambidexter25]: https://arxiv.org/abs/2510.04249

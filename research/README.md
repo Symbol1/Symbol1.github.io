@@ -91,16 +91,18 @@ Paper summaries by topics:
    November 2026, Phoenix, Arizona.
 
 3. Y-T Lin, H-P Wang.
-   [Sidorenko-Inspired Pessimistic Estimation](https://arxiv.org/abs/2604.14647).
+   [Sidorenko-Inspired Pessimistic Estimation](simple.one).
    *IEEE International Symposium on Information Theory (ISIT)*.
    June 2026, Guangzhou, China.
+   ([preprint](https://arxiv.org/abs/2604.14647) and
+    [slides](https://drive.google.com/drive/folders/1omCa4c3RKqvMUHgMDoCqD24YqduM7W3e))
 
 4. V Guruswami, H-P Wang.
     [Semirandom Planted Clique via $1$-norm Isometry Property](https://doi.org/10.1007/978-3-031-93112-3_20).
     *Conference on Integer Programming and Combinatorial Optimization (IPCO)*.
     June 2025, Baltimore, Maryland.
     ([Preprint](https://arxiv.org/abs/2506.17916) and
-     [slides](https://drive.google.com/file/d/1ohCSN-0HL9lbTERWQg7EmcXJ5h6i45dS/view?usp=sharing))
+     [slides](https://drive.google.com/file/d/1ohCSN-0HL9lbTERWQg7EmcXJ5h6i45dS))
 
 5. V Guruswami, H-P Wang.
     [Capacity-Achieving Gray Codes](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2024.65).
@@ -145,28 +147,28 @@ Paper summaries by topics:
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2304.07667) and
-     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
+     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN))
 
 11. T-C Lin, H-P Wang.
     [Optimal Self-Dual Inequalities to Order Polarized BECs](https://doi.org/10.1109/ISIT54713.2023.10206451).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2304.07664) and
-     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
+     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN))
 
 12. H-P Wang, V Guruswami.
     [How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?](https://doi.org/10.1109/ISIT54713.2023.10206989).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2405.16360) and
-     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
+     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN))
 
 13. H-P Wang, V-F Dragoi.
     [Fast Methods for Ranking Synthetic BECs](https://doi.org/10.1109/ISIT54713.2023.10206704).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2304.11781) and
-     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
+     4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN))
 
 14. I Duursma, R Gabrys, V Guruswami, T-C Lin, H-P Wang.
     [Accelerating Polarization via Alphabet Extension](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
@@ -203,6 +205,7 @@ Paper summaries by topics:
    [MichelangeRoll: Sculpting Rational Distributions Exactly and Efficiently](https://arxiv.org/abs/2507.00915).
    *arXiv*.
    July 2025.
+   ([Slides](https://drive.google.com/drive/folders/1VgGEWxeDdqpggmPDxiXt_0me88ZF2dHM))
 
 5. V Guruswami, H-P Wang.
    [Nonadaptive Noise-Resilient Group Testing with Order-Optimal Tests and Fast-and-Reliable Decoding](https://arxiv.org/abs/2311.08283).
@@ -237,6 +240,7 @@ Paper summaries by topics:
 1. [Not-So-Perfect Hashing: Downlink and Uplink](https://husihuang.github.io/workshop.html).
     *Qingdao Workshop on Coding Theory and Related Topics*.
     June 2026, Qingdao, China.
+    ([Slides](https://drive.google.com/drive/folders/1jLipTonplv02rwm-gwVSmCqoKdpCyoHk))
 
 2. [Sidorenko-Inspired Pessimistic Cardinality Estimation for Join Queries](https://brinmrc.umd.edu/fall25-ibdgcct/).
     *The Interplay Between Distance Geometry, Combinatorics, and Coding Theory (BrinMRC workshop)*.
