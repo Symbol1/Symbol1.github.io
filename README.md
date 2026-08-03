@@ -44,12 +44,12 @@ Social media
 
 到 [Discord](https://discord.gg/yWPjB2tRTt) 找我 (@Simple.1) 及其他學長姐聊。
 
-到 [research summary](research) 研究我做了哪些研究。
+到 [research summaries](research) 研究我做了哪些研究。
 
 ## 找演講
 
 如果你是貴單位負責安排演講、專題、研討會的人，那麼無論有酬與否，我可以幫你少找一位講者。
-時間彈性，最快隔天開講，接受指定題目（從 [research page](research) 裡面挑）。
+時間彈性，最快隔天開講，接受指定題目（從 [publication list](research) 裡面挑）。
 下面的 bio 可直接用於海報與演講公告。
 （更新日期：20260517）
 
@@ -92,12 +92,15 @@ Visit the [research page](research) for papers, slides, and topic summaries.
 
 ## Teaching
 
+- Fall 2026 錯誤更正碼 Error Correcting Codes（中文授課）
+- Fall 2026 工程數學-微分方程(一) Engineering Mathematics-Differential Equation(I) (English taught)
+- Fall 2026 工程數學-複變 Engineering Mathematics-Complex Variables (English taught)
 - Spring 2026 先進編碼理論與技術 Modern Coding Theory and Techniques (English taught)
 - Spring 2026 工程數學特論 Selected Topics in Engineering Mathematics（中文授課，與丁建均合授）
 - Spring 2026 電資工程入門設計與實作 Cornerstone EECS Design and Implementation
   （中文授課，與林坤佑合授）
 - Fall 2025 錯誤更正碼 Error Correcting Codes（中文授課）
-- Fall 2025 工程數學-複變 Engineering Mathematics-complex Variables (English taught)
+- Fall 2025 工程數學-複變 Engineering Mathematics-Complex Variables (English taught)
 - Fall 2025 計算機程式 Computer Programming (English taught)
 - Spring 2025 先進編碼理論與技術 Modern Coding Theory and Techniques (English taught)
 - Spring 2025 電資工程入門設計與實作 Cornerstone EECS Design and Implementation

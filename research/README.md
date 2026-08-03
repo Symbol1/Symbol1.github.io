@@ -80,19 +80,29 @@ Paper summaries by topics:
 
 ## Peer-Reviewed Conference Publications & Slides
 
-1. Y-T Lin, H-P Wang.
+1. S-T Hsu, H-P Wang, I-H Wang.
+   [Not-So-Perfect Hashing for Massive Random Access](simple.one).
+   *IEEE Information Theory Workshop (ITW)*.
+   November 2026, Phoenix, Arizona.
+
+2. T-H Wu, J Swernofsky, H-P Wang.
+   [Salami Slicing Trellis for Synchronization Errors in DNA Coding](simple.one).
+   *IEEE Information Theory Workshop (ITW)*.
+   November 2026, Phoenix, Arizona.
+
+3. Y-T Lin, H-P Wang.
    [Sidorenko-Inspired Pessimistic Estimation](https://arxiv.org/abs/2604.14647).
    *IEEE International Symposium on Information Theory (ISIT)*.
    June 2026, Guangzhou, China.
 
-2. V Guruswami, H-P Wang.
+4. V Guruswami, H-P Wang.
     [Semirandom Planted Clique via $1$-norm Isometry Property](https://doi.org/10.1007/978-3-031-93112-3_20).
     *Conference on Integer Programming and Combinatorial Optimization (IPCO)*.
     June 2025, Baltimore, Maryland.
     ([Preprint](https://arxiv.org/abs/2506.17916) and
      [slides](https://drive.google.com/file/d/1ohCSN-0HL9lbTERWQg7EmcXJ5h6i45dS/view?usp=sharing))
 
-3. V Guruswami, H-P Wang.
+5. V Guruswami, H-P Wang.
     [Capacity-Achieving Gray Codes](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2024.65).
     *International Conference on Randomization and Computation (RANDOM)*.
     August 2024, London, UK.
@@ -100,7 +110,7 @@ Paper summaries by topics:
      [timelapse1](https://www.youtube.com/watch?v=vMG5mLo5O8g), and
      [timelapse2](https://www.youtube.com/watch?v=ct660g4xnTI))
 
-4. H-P Wang, C-W Chin.
+6. H-P Wang, C-W Chin.
     [On Counting Subsequences and Higher-Order Fibonacci Numbers](https://doi.org/10.1109/ISIT57864.2024.10619178).
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024, Athens, Greece.
@@ -110,62 +120,62 @@ Paper summaries by topics:
      [Minecraft map](https://www.youtube.com/watch?v=9grRobL0bi4) of
      [Acropolis](https://en.wikipedia.org/wiki/Acropolis_of_Athens))
 
-5. H-P Wang, V Guruswami.
+7. H-P Wang, V Guruswami.
     [Successive Cancellation Sampling Decoder: An Attempt to Analyze List Decoding Theoretically](https://doi.org/10.1109/ISIT57864.2024.10619251).
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024, Athens, Greece.
     ([Preprint](https://arxiv.org/abs/2405.16373) and
      [slides](https://drive.google.com/file/d/1JBO1QyhORn_5ahKPbxFP2f6wSDee3zaw/))
 
-6. H-P Wang, V Guruswami.
+8. H-P Wang, V Guruswami.
     [Isolate and then Identify: Rethinking Adaptive Group Testing](https://doi.org/10.1109/ISIT57864.2024.10619098).
     *IEEE International Symposium on Information Theory (ISIT)*.
     July 2024, Athens, Greece.
     ([Preprint](https://arxiv.org/abs/2405.16374))
 
-7. H-P Wang, R Gabrys, V Guruswami.
+9. H-P Wang, R Gabrys, V Guruswami.
     [Quickly-Decodable Group Testing with Fewer Tests: Price-Scarlett's Nonadaptive Splitting with Explicit Scalars](https://doi.org/10.1109/ISIT54713.2023.10206843).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2405.16370) and
      [Slides](https://drive.google.com/file/d/18Kku7Q1lpmylhz8ScPs-zwBRzIyP6sec/))
 
-8. H-P Wang, C-W Chin.
+10. H-P Wang, C-W Chin.
     [Density Devolution for Ordering Synthetic Channels](https://doi.org/10.1109/ISIT54713.2023.10206540).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2304.07667) and
      4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
 
-9. T-C Lin, H-P Wang.
+11. T-C Lin, H-P Wang.
     [Optimal Self-Dual Inequalities to Order Polarized BECs](https://doi.org/10.1109/ISIT54713.2023.10206451).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2304.07664) and
      4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
 
-10. H-P Wang, V Guruswami.
+12. H-P Wang, V Guruswami.
     [How Many Matrices Should I Prepare to Polarize Channels Optimally Fast?](https://doi.org/10.1109/ISIT54713.2023.10206989).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2405.16360) and
      4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
 
-11. H-P Wang, V-F Dragoi.
+13. H-P Wang, V-F Dragoi.
     [Fast Methods for Ranking Synthetic BECs](https://doi.org/10.1109/ISIT54713.2023.10206704).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2023, Taipei, Taiwan.
     ([Preprint](https://arxiv.org/abs/2304.11781) and
      4-in-1 [slides](https://drive.google.com/file/d/12sEvE4ErTR7rGy4opnaWTEW0oNqjuVwN/view))
 
-12. I Duursma, R Gabrys, V Guruswami, T-C Lin, H-P Wang.
+14. I Duursma, R Gabrys, V Guruswami, T-C Lin, H-P Wang.
     [Accelerating Polarization via Alphabet Extension](https://doi.org/10.4230/LIPIcs.APPROX/RANDOM.2022.17).
     *International Conference on Randomization and Computation (RANDOM)*.
     September 2022, virtual.
     ([Full version](https://arxiv.org/abs/2207.04522) and
      7-minute [animation](https://www.youtube.com/watch?v=2mmbd58rSts))
 
-13. H-P Wang, R Gabrys, A Vardy.
+15. H-P Wang, R Gabrys, A Vardy.
     [PCR, Tropical Arithmetic, and Group Testing](https://doi.org/10.1109/ISIT50566.2022.9834718).
     *IEEE International Symposium on Information Theory (ISIT)*.
     June 2022, Helsinki, Finland.
@@ -174,45 +184,50 @@ Paper summaries by topics:
 
 ## arXiv Only
 
-1. Y-T Lin, H-P Wang, V Guruswami.
+1. T-W Lin, B-J Lee, H-P Wang.
+   [Matrix Representations of Finite Fields](https://arxiv.org/abs/2606.28675).
+   *arXiv*.
+   June 2026.
+
+2. Y-T Lin, H-P Wang, V Guruswami.
    [Block Length Gain for Nanopore Channels](https://arxiv.org/abs/2511.18027).
    *arXiv*.
    November 2025.
 
-2. Y-T Lin, H-P Wang.
+3. Y-T Lin, H-P Wang.
    [Ambidextrous Degree Sequence Bounds for Pessimistic Cardinality Estimation](https://arxiv.org/abs/2510.04249).
    *arXiv*.
    October 2025.
 
-3. J-H Shao, H-P Wang.
+4. J-H Shao, H-P Wang.
    [MichelangeRoll: Sculpting Rational Distributions Exactly and Efficiently](https://arxiv.org/abs/2507.00915).
    *arXiv*.
    July 2025.
 
-4. V Guruswami, H-P Wang.
+5. V Guruswami, H-P Wang.
    [Nonadaptive Noise-Resilient Group Testing with Order-Optimal Tests and Fast-and-Reliable Decoding](https://arxiv.org/abs/2311.08283).
    *arXiv*.
    November 2023.
    ([Slides](https://github.com/Symbol1/GachaManim) and
     [big picture](https://github.com/Symbol1/SparseProblems).)
 
-5. H-P Wang, I Duursma.
+6. H-P Wang, I Duursma.
    [Parity-Checked Strassen Algorithm](https://arxiv.org/abs/2011.15082).
    *arXiv*.
    November 2020.
    ([Slides](https://github.com/Symbol1/ChatPPT))
 
-6. H-P Wang, I Duursma.
+7. H-P Wang, I Duursma.
    [Log-logarithmic Time Pruned Polar Coding on Binary Erasure Channels](https://arxiv.org/abs/1812.08106).
    *arXiv*.
    December 2018.
 
-7. H-P Wang, I Duursma.
+8. H-P Wang, I Duursma.
    [Polar-like Codes and Asymptotic Tradeoff among Block Length, Code Rate, and Error Probability](https://arxiv.org/abs/1812.08112).
    *arXiv*.
    December 2018.
 
-8. H-P Wang, I Duursma.
+9. H-P Wang, I Duursma.
    [Polar Code Moderate Deviation: Recovering the Scaling Exponent](https://arxiv.org/abs/1806.02405).
    *arXiv*.
    June 2018.
