@@ -224,10 +224,10 @@ Visit the [research page](research) for papers, slides, and topic summaries.
 
 - [Theoretico Factorio](game/tofo): a game about automation and logistics.
 
-- 薩爾達傳說·[封印戰記的表格](https://docs.google.com/spreadsheets/d/1gETsarMsqRHYQYDLAyHzOmZl70hY1waqaQmd726pSdE/)  
-  薩爾達傳說·[曠野之息的中、外文資料](game/BotW)  
+- 薩爾達傳說·[曠野之息的中、外文資料](game/BotW)  
   薩爾達傳說·[災厄啟示錄的表格](https://docs.google.com/spreadsheets/d/1YUwOkL_HBp6YADsAm60UxfkO-qn713GPLNKzayjq46o/)  
   薩爾達傳說·[王國之淚的中、外文資料](game/TotK)
+  薩爾達傳說·[封印戰記的表格](https://docs.google.com/spreadsheets/d/1gETsarMsqRHYQYDLAyHzOmZl70hY1waqaQmd726pSdE/)  
 
 ## Vaseman Gallery (Artist = Jau-Pao Wang)
 
