@@ -36,7 +36,7 @@ Social media
 | [📺 YouTube](https://www.youtube.com/@SymbolOne)
 | [♾️ Facebook](https://www.facebook.com/SymbolOne1/)
 | [📷 Instagram](https://www.instagram.com/SymbolOne1/)
-| [📚 StackExchange](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile)
+| [📚 TeX.SX](https://tex.stackexchange.com/users/51022/symbol-1?tab=profile)
 | [🐙 GitHub](https://github.com/Symbol1)
 | [🅿️ Printables](https://www.printables.com/@Simple_4512528/models)
 
@@ -49,7 +49,7 @@ Social media
 ## 找演講
 
 如果你是貴單位負責安排演講、專題、研討會的人，那麼無論有酬與否，我可以幫你少找一位講者。
-時間彈性，最快隔天開講，接受指定題目（從 [publication list](research) 裡面挑）。
+時間彈性，最快隔天開講，接受指定題目（從 [publications and talks](research) 裡面挑）。
 下面的 bio 可直接用於海報與演講公告。
 （更新日期：20260517）
 
@@ -88,7 +88,7 @@ dedicated to beautiful factory designs in the video game Factorio.
 
 ## Research
 
-Visit the [research page](research) for papers, slides, and topic summaries.
+Visit the [research overview](research) for papers, slides, and topic summaries.
 
 ## Teaching
 
